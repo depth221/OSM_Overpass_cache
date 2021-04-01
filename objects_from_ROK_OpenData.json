@@ -1,0 +1,15 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.9 76e5016d",
+  "osm3s": {
+    "timestamp_osm_base": "2021-04-01T10:01:13Z",
+    "timestamp_areas_base": "2021-04-01T09:48:58Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+
+
+  ],
+"remark": "runtime error: Query run out of memory using about 2048 MB of RAM."
+}
