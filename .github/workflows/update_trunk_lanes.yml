@@ -1,4 +1,4 @@
-name: Update trunk Lanes
+name: Update Trunk Lanes
 
 on:
   workflow_dispatch:

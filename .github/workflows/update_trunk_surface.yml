@@ -1,4 +1,4 @@
-name: Update trunk Surface
+name: Update Trunk Surface
 
 on:
   workflow_dispatch:
