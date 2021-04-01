@@ -3,4 +3,4 @@
 from https://github.com/mahdi1234/OSM_CZ_recycling
 
 
-how to made: https://hackmd.io/OkwpRqQ7QXC3p8C0jfTUGQ?view
+how to make: https://hackmd.io/OkwpRqQ7QXC3p8C0jfTUGQ?view
