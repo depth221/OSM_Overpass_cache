@@ -3,7 +3,7 @@ name: Update Motorway Surface
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '21 18 * * *'
+    - cron:  '23 18 * * *'
 
 jobs:
   scheduled:
@@ -13,8 +13,8 @@ jobs:
       uses: actions/checkout@v2
     - name: Get the data and analyze
       run: |
-        chmod +x ./umap_motorway_surface.sh
-        ./umap_motorway_surface.sh
+        chmod +x ./scripts/umap_motorway_surface.sh
+        ./scripts/umap_motorway_surface.sh
       shell: bash
     - name: Commit and push if it changed
       run: |-
