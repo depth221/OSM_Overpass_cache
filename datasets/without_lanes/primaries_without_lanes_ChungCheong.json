@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.9 76e5016d",
   "osm3s": {
-    "timestamp_osm_base": "2021-09-28T18:48:14Z",
-    "timestamp_areas_base": "2021-09-28T17:35:29Z",
+    "timestamp_osm_base": "2021-09-29T18:48:44Z",
+    "timestamp_areas_base": "2021-09-29T17:49:14Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -6433,13 +6433,7 @@
     436702335,
     436702336,
     436702337,
-    436702345,
-    436702346,
-    436702347,
-    436702359,
-    436702360,
-    436702361,
-    436702367
+    436702345
   ],
   "tags": {
     "highway": "primary",
@@ -72761,6 +72755,30 @@
     "highway": "primary",
     "oneway": "yes",
     "ref": "19"
+  }
+},
+{
+  "type": "way",
+  "id": 987958399,
+  "nodes": [
+    436702345,
+    436702346,
+    436702347,
+    436702359,
+    436702360,
+    436702361,
+    436702367
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "단양로",
+    "name:en": "Danyang-ro",
+    "name:ko": "단양로",
+    "oneway": "yes",
+    "ref": "5",
+    "review": "no",
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
