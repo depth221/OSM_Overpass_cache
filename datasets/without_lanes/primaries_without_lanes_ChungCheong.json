@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.9 76e5016d",
   "osm3s": {
-    "timestamp_osm_base": "2021-10-05T18:48:29Z",
-    "timestamp_areas_base": "2021-10-05T18:34:14Z",
+    "timestamp_osm_base": "2021-10-06T18:49:12Z",
+    "timestamp_areas_base": "2021-10-06T17:42:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -56435,6 +56435,7 @@
     "name": "윤봉길로",
     "name:en": "Yunbonggil-ro",
     "name:ko": "윤봉길로",
+    "name:zh": "云峰路",
     "ncat": "국도;지방도",
     "oneway": "no",
     "ref": "45;70",
