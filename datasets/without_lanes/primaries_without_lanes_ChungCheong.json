@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.9 76e5016d",
   "osm3s": {
-    "timestamp_osm_base": "2021-10-08T18:48:14Z",
-    "timestamp_areas_base": "2021-10-08T17:45:12Z",
+    "timestamp_osm_base": "2021-10-09T18:47:28Z",
+    "timestamp_areas_base": "2021-10-09T18:06:13Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -48311,6 +48311,7 @@
     "name": "예덕로",
     "name:en": "Yedeok-ro",
     "name:ko": "예덕로",
+    "name:zh": "夜德路",
     "ncat": "국도",
     "ref": "40",
     "review": "no",
