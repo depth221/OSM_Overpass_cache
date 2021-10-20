@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.9 76e5016d",
   "osm3s": {
-    "timestamp_osm_base": "2021-10-17T18:47:23Z",
-    "timestamp_areas_base": "2021-10-17T17:33:43Z",
+    "timestamp_osm_base": "2021-10-20T18:48:46Z",
+    "timestamp_areas_base": "2021-10-20T16:52:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -21505,6 +21505,7 @@
     "name": "충청대로",
     "name:en": "Chungcheong-daero",
     "name:ko": "충청대로",
+    "name:zh": "忠清大路",
     "ref": "34;36;592",
     "review": "no",
     "source": "NTIC"
@@ -21625,6 +21626,7 @@
     "name": "팔결신대로",
     "name:en": "Palgyeolsindae-ro",
     "name:ko": "팔결신대로",
+    "name:zh": "八杰新台路",
     "ref": "96;540",
     "review": "no",
     "source": "NTIC"
@@ -28555,6 +28557,7 @@
     "name": "중부로",
     "name:en": "Jungbu-ro",
     "name:ko": "중부로",
+    "name:zh": "中武路",
     "ncat": "지방도",
     "ref": "508",
     "review": "no",
@@ -30867,6 +30870,7 @@
     "name": "충청대로",
     "name:en": "Chungcheong-daero",
     "name:ko": "충청대로",
+    "name:zh": "忠清大路",
     "ref": "34;36",
     "review": "no",
     "source": "NTIC"
@@ -30952,6 +30956,7 @@
     "name": "충청대로",
     "name:en": "Chungcheong-daero",
     "name:ko": "충청대로",
+    "name:zh": "忠清大路",
     "oneway": "yes",
     "ref": "36;592",
     "review": "no",
@@ -30981,6 +30986,7 @@
     "name": "충청대로",
     "name:en": "Chungcheong-daero",
     "name:ko": "충청대로",
+    "name:zh": "忠清大路",
     "oneway": "yes",
     "ref": "36;592",
     "review": "no",
@@ -60187,6 +60193,7 @@
     "name": "충청대로",
     "name:en": "Chungcheong-daero",
     "name:ko": "충청대로",
+    "name:zh": "忠清大路",
     "ref": "34;36"
   }
 },
@@ -60227,6 +60234,7 @@
     "name": "충청대로",
     "name:en": "Chungcheong-daero",
     "name:ko": "충청대로",
+    "name:zh": "忠清大路",
     "ref": "34;36",
     "review": "no",
     "source": "NTIC"
@@ -69346,6 +69354,7 @@
     "name": "중부로",
     "name:en": "Jungbu-ro",
     "name:ko": "중부로",
+    "name:zh": "中武路",
     "ref": "34;508",
     "review": "no"
   }
