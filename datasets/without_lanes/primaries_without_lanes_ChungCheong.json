@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.57 93a4d346",
   "osm3s": {
-    "timestamp_osm_base": "2021-10-23T18:48:02Z",
-    "timestamp_areas_base": "2021-10-23T18:33:47Z",
+    "timestamp_osm_base": "2021-10-24T18:47:58Z",
+    "timestamp_areas_base": "2021-10-24T18:43:58Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -53548,11 +53548,13 @@
     6216029347,
     6216029352,
     413854023,
+    9197079396,
     413854025,
     413854026,
     413854027,
     413854029,
     413854031,
+    9197079312,
     413854032,
     6364058909,
     6364058910,
@@ -53565,7 +53567,8 @@
     "name": "덕은로",
     "name:en": "Deogeun-ro",
     "name:ko": "덕은로",
-    "ref": "68"
+    "ref": "68",
+    "surface": "asphalt"
   }
 },
 {
@@ -117559,6 +117562,12 @@
 },
 {
   "type": "node",
+  "id": 9197079396,
+  "lat": 36.1417538,
+  "lon": 127.1635228
+},
+{
+  "type": "node",
   "id": 306422043,
   "lat": 36.1454264,
   "lon": 127.1701575
@@ -117598,6 +117607,12 @@
   "id": 6364058910,
   "lat": 36.1446588,
   "lon": 127.1691701
+},
+{
+  "type": "node",
+  "id": 9197079312,
+  "lat": 36.1437544,
+  "lon": 127.1675395
 },
 {
   "type": "node",
