@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.57 93a4d346",
   "osm3s": {
-    "timestamp_osm_base": "2021-10-26T18:47:46Z",
-    "timestamp_areas_base": "2021-10-26T15:08:13Z",
+    "timestamp_osm_base": "2021-10-27T18:48:55Z",
+    "timestamp_areas_base": "2021-10-27T18:23:41Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -45921,16 +45921,7 @@
     1156275683,
     8140406397,
     8140406398,
-    8955760733,
-    6110313178,
-    8955760732,
-    6419930529,
-    5572603974,
-    5542252316,
-    436528420,
-    5572604248,
-    6419930527,
-    8044193600
+    8955760733
   ],
   "tags": {
     "highway": "primary",
@@ -72510,6 +72501,66 @@
     "review": "no",
     "source": "NTIC",
     "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 996878860,
+  "nodes": [
+    8955760732,
+    6419930529,
+    5572603974,
+    5542252316,
+    436528420,
+    5572604248,
+    6419930527,
+    8044193600
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "중앙로",
+    "name:en": "Jungang-ro",
+    "name:ko": "중앙로",
+    "ncat": "국도",
+    "ref": "29;70",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 996878862,
+  "nodes": [
+    8955760733,
+    6110313178
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "중앙로",
+    "name:en": "Jungang-ro",
+    "name:ko": "중앙로",
+    "ncat": "국도",
+    "ref": "29;70",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 996878863,
+  "nodes": [
+    6110313178,
+    8955760732
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "중앙로",
+    "name:en": "Jungang-ro",
+    "name:ko": "중앙로",
+    "ncat": "국도",
+    "ref": "29;70",
+    "review": "no",
+    "source": "NTIC"
   }
 },
 {
