@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.57 93a4d346",
   "osm3s": {
-    "timestamp_osm_base": "2022-01-25T18:47:28Z",
-    "timestamp_areas_base": "2022-01-25T09:08:53Z",
+    "timestamp_osm_base": "2022-01-26T18:48:55Z",
+    "timestamp_areas_base": "2022-01-26T10:22:14Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -45813,6 +45813,24 @@
     "name:ko": "신운곡교",
     "ncat": "지방도",
     "ref": "70;645",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 573730326,
+  "nodes": [
+    436646081,
+    436646082
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "속리산로",
+    "name:en": "Songnisan-ro",
+    "name:ko": "속리산로",
+    "ncat": "국도",
+    "ref": "37",
     "review": "no",
     "source": "NTIC"
   }
@@ -223017,6 +223035,12 @@
   "id": 436646079,
   "lat": 36.6054000,
   "lon": 127.8204400
+},
+{
+  "type": "node",
+  "id": 436646081,
+  "lat": 36.6071407,
+  "lon": 127.8189171
 },
 {
   "type": "node",
