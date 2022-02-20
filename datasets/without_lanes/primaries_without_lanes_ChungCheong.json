@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.57 93a4d346",
   "osm3s": {
-    "timestamp_osm_base": "2022-02-19T18:46:04Z",
-    "timestamp_areas_base": "2022-02-19T17:58:28Z",
+    "timestamp_osm_base": "2022-02-20T18:45:47Z",
+    "timestamp_areas_base": "2022-02-20T17:12:39Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -18345,7 +18345,6 @@
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
     "ncat": "국도",
-    "noname": "yes",
     "oneway": "yes",
     "ref": "29",
     "review": "no",
@@ -52755,6 +52754,7 @@
   "type": "way",
   "id": 661056694,
   "nodes": [
+    5336542200,
     5383022979,
     9378018477,
     9378018476,
@@ -62145,7 +62145,6 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "noname": "yes",
     "oneway": "yes",
     "ref": "29",
     "review": "no",
