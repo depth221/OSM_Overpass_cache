@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.57 93a4d346",
   "osm3s": {
-    "timestamp_osm_base": "2022-03-13T18:46:53Z",
-    "timestamp_areas_base": "2022-03-13T16:55:15Z",
+    "timestamp_osm_base": "2022-03-14T18:46:55Z",
+    "timestamp_areas_base": "2022-03-14T18:10:25Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -22992,7 +22992,6 @@
     "name": "충청수영로",
     "name:en": "Chungcheongsuyeong-ro",
     "name:ko": "충청수영로",
-    "ncat": "국도;지방도",
     "ref": "40",
     "review": "no",
     "source": "NTIC"
@@ -23168,8 +23167,7 @@
   "type": "way",
   "id": 278806897,
   "nodes": [
-    436670782,
-    2831123555,
+    9577372692,
     2831123556,
     2831123557,
     436670823,
@@ -23262,22 +23260,13 @@
     2877125802,
     6427593781,
     6427593783,
-    6427593986,
-    6427593985,
-    6427593784,
-    2877125803,
-    6427593987,
-    2877125804,
-    6427593988,
-    2877125805,
-    6427593989
+    6427593986
   ],
   "tags": {
     "highway": "primary",
     "name": "홍보로",
     "name:en": "Hongbo-ro",
     "name:ko": "홍보로",
-    "ncat": "국도",
     "ref": "40",
     "review": "no",
     "source": "NTIC"
@@ -36174,7 +36163,6 @@
     "layer": "1",
     "name": "청성교",
     "name:ko": "청성교",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
     "review": "no",
@@ -36198,7 +36186,6 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
     "review": "no",
@@ -53918,8 +53905,7 @@
     "name": "충청수영로",
     "name:en": "Chungcheongsuyeong-ro",
     "name:ko": "충청수영로",
-    "ncat": "국도;지방도",
-    "ref": "40;610",
+    "ref": "40",
     "review": "no",
     "source": "NTIC"
   }
@@ -54063,7 +54049,6 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
     "review": "no",
@@ -55571,7 +55556,6 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "noname": "yes",
     "oneway": "yes",
     "ref": "29",
@@ -67864,7 +67848,6 @@
     "name": "홍보로",
     "name:en": "Hongbo-ro",
     "name:ko": "홍보로",
-    "ncat": "국도",
     "ref": "40",
     "review": "no",
     "source": "NTIC"
@@ -69414,7 +69397,6 @@
     "name": "남당항로",
     "name:en": "Namdanghang-ro",
     "name:ko": "남당항로",
-    "ncat": "국도",
     "ref": "40",
     "review": "no",
     "source": "NTIC"
@@ -72076,7 +72058,6 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
     "review": "no",
@@ -72098,7 +72079,6 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
     "review": "no",
@@ -72120,7 +72100,6 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
     "review": "no",
@@ -72139,7 +72118,6 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
     "review": "no",
@@ -72164,7 +72142,6 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "noname": "yes",
     "oneway": "yes",
     "ref": "29",
@@ -73817,6 +73794,85 @@
     "review": "no",
     "source": "NTIC",
     "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1040164851,
+  "nodes": [
+    9577372633,
+    6427593985,
+    6427593784,
+    2877125803,
+    6427593987,
+    2877125804,
+    6427593988,
+    2877125805,
+    6427593989
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "홍보로",
+    "name:en": "Hongbo-ro",
+    "name:ko": "홍보로",
+    "ref": "40",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 1040164852,
+  "nodes": [
+    6427593986,
+    9577372633
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "layer": "1",
+    "name": "홍보로",
+    "name:en": "Hongbo-ro",
+    "name:ko": "홍보로",
+    "ref": "40",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 1040164868,
+  "nodes": [
+    2831123555,
+    9577372692
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "layer": "1",
+    "name": "홍보로",
+    "name:en": "Hongbo-ro",
+    "name:ko": "홍보로",
+    "ref": "40",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 1040164869,
+  "nodes": [
+    436670782,
+    2831123555
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "홍보로",
+    "name:en": "Hongbo-ro",
+    "name:ko": "홍보로",
+    "ref": "40",
+    "review": "no",
+    "source": "NTIC"
   }
 },
 {
@@ -83430,6 +83486,12 @@
   "id": 2831123557,
   "lat": 36.4477056,
   "lon": 126.5248406
+},
+{
+  "type": "node",
+  "id": 9577372692,
+  "lat": 36.4469554,
+  "lon": 126.5255306
 },
 {
   "type": "node",
@@ -158332,14 +158394,20 @@
 {
   "type": "node",
   "id": 6427593986,
-  "lat": 36.5172093,
-  "lon": 126.4830986
+  "lat": 36.5169003,
+  "lon": 126.4830817
 },
 {
   "type": "node",
   "id": 6427593987,
   "lat": 36.5196537,
   "lon": 126.4834365
+},
+{
+  "type": "node",
+  "id": 9577372633,
+  "lat": 36.5175016,
+  "lon": 126.4830908
 },
 {
   "type": "node",
