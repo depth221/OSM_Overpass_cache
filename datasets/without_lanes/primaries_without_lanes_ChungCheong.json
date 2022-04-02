@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.57 93a4d346",
   "osm3s": {
-    "timestamp_osm_base": "2022-03-30T18:49:40Z",
-    "timestamp_areas_base": "2022-03-30T17:51:59Z",
+    "timestamp_osm_base": "2022-04-02T18:47:58Z",
+    "timestamp_areas_base": "2022-04-02T18:30:37Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -4096,7 +4096,6 @@
     "highway": "primary",
     "layer": "1",
     "name": "벽천2교",
-    "ncat": "국도",
     "ref": "29",
     "review": "no",
     "source": "NTIC"
@@ -4115,7 +4114,6 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "ref": "29",
     "review": "no",
     "source": "Bing (adjusted)"
@@ -18611,7 +18609,6 @@
     "name": "중도교",
     "name:en": "Jungdogyo Bridge",
     "name:ko": "중도교",
-    "ncat:bridge": "교차로및지명",
     "ref": "68",
     "source:bridge": "mp2osm"
   }
@@ -20930,7 +20927,6 @@
     "name": "중부로",
     "name:en": "Jungbu-ro",
     "name:ko": "중부로",
-    "ncat": "국도",
     "oneway": "yes",
     "review": "no",
     "source": "NTIC"
@@ -20971,7 +20967,6 @@
     "name": "중부로",
     "name:en": "Jungbu-ro",
     "name:ko": "중부로",
-    "ncat": "국도",
     "oneway": "yes",
     "review": "no",
     "source": "gps"
@@ -26608,7 +26603,6 @@
     "name": "선암계곡로",
     "name:en": "Seonamgyegok-ro",
     "name:ko": "선암계곡로",
-    "ncat": "국도",
     "ref": "59",
     "review": "no",
     "source": "NTIC"
@@ -26702,7 +26696,6 @@
     "name": "읍내로",
     "name:en": "Eumnae-ro",
     "name:ko": "읍내로",
-    "ncat": "국도",
     "ref": "19;37;49",
     "review": "no",
     "source": "NTIC"
@@ -27037,7 +27030,6 @@
     "name:en": "Jungbu-ro",
     "name:ko": "중부로",
     "name:zh": "中武路",
-    "ncat": "지방도",
     "ref": "508",
     "review": "no",
     "source": "NTIC"
@@ -34393,7 +34385,6 @@
     "name": "괴강로",
     "name:en": "Goegang-ro",
     "name:ko": "괴강로",
-    "ncat": "국도",
     "ref": "19;37;49",
     "review": "no",
     "source": "NTIC"
@@ -42002,7 +41993,6 @@
     "name": "충절1로",
     "name:en": "Chungjeol 1-ro",
     "name:ko": "충절1로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29"
   }
@@ -42037,7 +42027,6 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
     "review": "no",
@@ -42059,7 +42048,6 @@
     "layer": "1",
     "name": "송방1육교",
     "name:ko": "송방1육교",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29"
   }
@@ -42077,7 +42065,6 @@
     "name": "충절1로",
     "name:en": "Chungjeol 1-ro",
     "name:ko": "충절1로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29"
   }
@@ -42096,7 +42083,6 @@
     "layer": "1",
     "name": "송방육교",
     "name:ko": "송방육교",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29"
   }
@@ -42116,7 +42102,6 @@
     "name": "충절1로",
     "name:en": "Chungjeol 1-ro",
     "name:ko": "충절1로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29"
   }
@@ -48400,7 +48385,6 @@
     "layer": "1",
     "name": "하선암교",
     "name:ko": "하선암교",
-    "ncat": "국도",
     "ref": "59",
     "review": "no",
     "source": "NTIC"
@@ -48421,7 +48405,6 @@
     "name": "선암계곡로",
     "name:en": "Seonamgyegok-ro",
     "name:ko": "선암계곡로",
-    "ncat": "국도",
     "ref": "59",
     "review": "no",
     "source": "NTIC"
@@ -48580,7 +48563,6 @@
     "name": "선암계곡로",
     "name:en": "Seonamgyegok-ro",
     "name:ko": "선암계곡로",
-    "ncat": "국도",
     "ref": "59",
     "review": "no",
     "source": "NTIC"
@@ -48600,7 +48582,6 @@
     "layer": "1",
     "name": "홍암로",
     "name:ko": "홍암로",
-    "ncat": "국도",
     "ref": "59",
     "review": "no",
     "source": "NTIC"
@@ -54065,7 +54046,6 @@
     "layer": "1",
     "name": "학당교",
     "name:ko": "학당교",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
     "review": "no",
@@ -54090,7 +54070,6 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
     "review": "no",
@@ -62464,7 +62443,6 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "ref": "29",
     "review": "no",
     "source": "Bing (adjusted)"
@@ -67631,7 +67609,6 @@
     "name": "괴강로",
     "name:en": "Goegang-ro",
     "name:ko": "괴강로",
-    "ncat": "국도",
     "ref": "19;37;49",
     "review": "no",
     "source": "NTIC"
@@ -67651,7 +67628,6 @@
     "name": "괴강로",
     "name:en": "Goegang-ro",
     "name:ko": "괴강로",
-    "ncat": "국도",
     "ref": "19;37;49",
     "review": "no",
     "source": "NTIC"
@@ -72460,7 +72436,6 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
     "review": "no",
@@ -72483,7 +72458,6 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
     "review": "no",
@@ -72504,7 +72478,6 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
     "review": "no",
@@ -72534,7 +72507,6 @@
     "name": "충절1로",
     "name:en": "Chungjeol 1-ro",
     "name:ko": "충절1로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
     "review": "no",
@@ -72555,7 +72527,6 @@
     "name": "충절1로",
     "name:en": "Chungjeol 1-ro",
     "name:ko": "충절1로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
     "review": "no",
@@ -72576,7 +72547,6 @@
     "name": "충절1로",
     "name:en": "Chungjeol 1-ro",
     "name:ko": "충절1로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
     "review": "no",
@@ -72600,7 +72570,6 @@
     "name": "충절1로",
     "name:en": "Chungjeol 1-ro",
     "name:ko": "충절1로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
     "review": "no",
@@ -72621,7 +72590,6 @@
     "name": "충절1로",
     "name:en": "Chungjeol 1-ro",
     "name:ko": "충절1로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
     "review": "no",
