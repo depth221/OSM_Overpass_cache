@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.57 93a4d346",
   "osm3s": {
-    "timestamp_osm_base": "2022-04-26T18:53:46Z",
-    "timestamp_areas_base": "2022-04-26T18:46:39Z",
+    "timestamp_osm_base": "2022-04-27T18:51:10Z",
+    "timestamp_areas_base": "2022-04-27T16:57:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -19141,6 +19141,7 @@
     1781315448,
     245477360,
     1781315451,
+    9696569078,
     436662448,
     436662449,
     436662450,
@@ -57255,7 +57256,8 @@
     "name:en": "Yuseong-daero",
     "name:ko": "유성대로",
     "oneway": "yes",
-    "ref": "32"
+    "ref": "32",
+    "surface": "asphalt"
   }
 },
 {
@@ -57272,7 +57274,8 @@
     "name:en": "Yuseong-daero",
     "name:ko": "유성대로",
     "oneway": "yes",
-    "ref": "32"
+    "ref": "32",
+    "surface": "asphalt"
   }
 },
 {
@@ -110032,6 +110035,12 @@
   "id": 1781315451,
   "lat": 36.3619731,
   "lon": 126.9244790
+},
+{
+  "type": "node",
+  "id": 9696569078,
+  "lat": 36.3620802,
+  "lon": 126.9244962
 },
 {
   "type": "node",
