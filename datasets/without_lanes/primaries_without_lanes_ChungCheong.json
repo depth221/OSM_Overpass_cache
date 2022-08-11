@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.58.5 b0c4acbb",
   "osm3s": {
-    "timestamp_osm_base": "2022-08-10T18:51:09Z",
-    "timestamp_areas_base": "2022-07-20T11:06:24Z",
+    "timestamp_osm_base": "2022-08-11T18:53:10Z",
+    "timestamp_areas_base": "2022-07-20T10:48:09Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -64747,7 +64747,6 @@
   ],
   "tags": {
     "access": "yes",
-    "construction": "primary_link",
     "highway": "primary",
     "name": "가로수로",
     "name:en": "Garosu-ro",
@@ -64982,8 +64981,7 @@
     8336642493,
     8336642498,
     8336642500,
-    8336642499,
-    5369942978
+    8336642499
   ],
   "tags": {
     "access": "yes",
@@ -65003,7 +65001,6 @@
   ],
   "tags": {
     "access": "yes",
-    "construction": "primary_link",
     "highway": "primary",
     "name": "가로수로",
     "name:en": "Garosu-ro",
@@ -73779,6 +73776,22 @@
     "ref": "96",
     "review": "no",
     "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 1085484201,
+  "nodes": [
+    8336642499,
+    5369942978
+  ],
+  "tags": {
+    "access": "yes",
+    "highway": "primary",
+    "name": "가로수로",
+    "name:en": "Garosu-ro",
+    "name:ko": "가로수로",
+    "oneway": "yes"
   }
 },
 {
@@ -154952,8 +154965,8 @@
 {
   "type": "node",
   "id": 4264522591,
-  "lat": 36.6135779,
-  "lon": 126.4195552
+  "lat": 36.6135746,
+  "lon": 126.4195572
 },
 {
   "type": "node",
@@ -197600,8 +197613,8 @@
 {
   "type": "node",
   "id": 5369942879,
-  "lat": 36.6193402,
-  "lon": 127.3416973
+  "lat": 36.6193280,
+  "lon": 127.3416841
 },
 {
   "type": "node",
