@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.58.5 b0c4acbb",
   "osm3s": {
-    "timestamp_osm_base": "2022-09-22T18:56:09Z",
-    "timestamp_areas_base": "2022-07-20T10:48:09Z",
+    "timestamp_osm_base": "2022-09-23T18:58:10Z",
+    "timestamp_areas_base": "2022-07-20T11:06:24Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -7645,7 +7645,7 @@
   "type": "way",
   "id": 64147147,
   "nodes": [
-    414672854,
+    10046453007,
     437004971,
     437004973,
     437004975,
@@ -17499,6 +17499,7 @@
     436926581,
     436926582,
     436926583,
+    10046537497,
     436926584,
     436926585,
     436926586,
@@ -44854,6 +44855,7 @@
     436646107,
     436646108,
     436646109,
+    10046537313,
     436646110,
     436646111,
     436646112,
@@ -73902,6 +73904,44 @@
     "name:ko": "충절로",
     "oneway": "no",
     "ref": "21",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 1097169658,
+  "nodes": [
+    414672854,
+    10046453008
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "송문로",
+    "name:en": "Songmun-ro",
+    "name:ko": "송문로",
+    "ncat": "지방도",
+    "ref": "49",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 1097169659,
+  "nodes": [
+    10046453008,
+    10046453007
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "layer": "1",
+    "name": "송문로",
+    "name:en": "Songmun-ro",
+    "name:ko": "송문로",
+    "ncat": "지방도",
+    "ref": "49",
     "review": "no",
     "source": "NTIC"
   }
@@ -221364,6 +221404,12 @@
 },
 {
   "type": "node",
+  "id": 10046537313,
+  "lat": 36.6261404,
+  "lon": 127.8083177
+},
+{
+  "type": "node",
   "id": 436927928,
   "lat": 36.6644600,
   "lon": 127.7226500
@@ -223977,6 +224023,12 @@
   "id": 436926585,
   "lat": 36.6672900,
   "lon": 127.8474300
+},
+{
+  "type": "node",
+  "id": 10046537497,
+  "lat": 36.6668458,
+  "lon": 127.8466131
 },
 {
   "type": "node",
@@ -231417,6 +231469,18 @@
   "id": 9045335624,
   "lat": 36.7298484,
   "lon": 127.8107267
+},
+{
+  "type": "node",
+  "id": 10046453007,
+  "lat": 36.7331943,
+  "lon": 127.8124919
+},
+{
+  "type": "node",
+  "id": 10046453008,
+  "lat": 36.7328360,
+  "lon": 127.8123065
 },
 {
   "type": "node",
