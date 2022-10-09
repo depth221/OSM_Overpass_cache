@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.58.5 b0c4acbb",
   "osm3s": {
-    "timestamp_osm_base": "2022-10-08T18:56:10Z",
-    "timestamp_areas_base": "2022-10-08T18:22:31Z",
+    "timestamp_osm_base": "2022-10-09T18:56:11Z",
+    "timestamp_areas_base": "2022-10-09T17:31:54Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -20992,16 +20992,13 @@
   "id": 206802009,
   "nodes": [
     436605763,
-    7925616216,
     2168487432
   ],
   "tags": {
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "name": "조치원로",
-    "name:en": "Jochiwon-ro",
-    "name:ko": "조치원로",
+    "name": "조천교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -29482,9 +29479,7 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "name": "조치원로",
-    "name:en": "Jochiwon-ro",
-    "name:ko": "조치원로",
+    "name": "조천교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -29528,6 +29523,7 @@
     3759911807,
     5369942864,
     5369942863,
+    10085940483,
     5369942862,
     5369972148
   ],
@@ -196383,8 +196379,8 @@
 {
   "type": "node",
   "id": 436605763,
-  "lat": 36.6037784,
-  "lon": 127.3063033
+  "lat": 36.6037425,
+  "lon": 127.3062987
 },
 {
   "type": "node",
@@ -196419,14 +196415,14 @@
 {
   "type": "node",
   "id": 4403654229,
-  "lat": 36.6031391,
-  "lon": 127.3050561
+  "lat": 36.6031253,
+  "lon": 127.3050641
 },
 {
   "type": "node",
   "id": 4403654230,
-  "lat": 36.6036446,
-  "lon": 127.3063923
+  "lat": 36.6036114,
+  "lon": 127.3063785
 },
 {
   "type": "node",
@@ -196601,12 +196597,6 @@
   "id": 7875582739,
   "lat": 36.6027562,
   "lon": 127.3051048
-},
-{
-  "type": "node",
-  "id": 7925616216,
-  "lat": 36.6036290,
-  "lon": 127.3059219
 },
 {
   "type": "node",
@@ -197066,15 +197056,21 @@
 },
 {
   "type": "node",
+  "id": 10085940483,
+  "lat": 36.6149811,
+  "lon": 127.3341708
+},
+{
+  "type": "node",
   "id": 3759911806,
-  "lat": 36.6168243,
-  "lon": 127.3373838
+  "lat": 36.6167651,
+  "lon": 127.3373264
 },
 {
   "type": "node",
   "id": 3759911807,
-  "lat": 36.6169005,
-  "lon": 127.3373070
+  "lat": 36.6168840,
+  "lon": 127.3372209
 },
 {
   "type": "node",
