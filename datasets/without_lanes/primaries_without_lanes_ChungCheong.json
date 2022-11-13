@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2022-11-10T18:52:31Z",
-    "timestamp_areas_base": "2022-11-10T18:47:25Z",
+    "timestamp_osm_base": "2022-11-13T18:50:38Z",
+    "timestamp_areas_base": "2022-11-13T17:28:28Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -18415,7 +18415,9 @@
     1811446423,
     1811445122,
     1811446121,
+    10175277485,
     5681883558,
+    10174605092,
     1844294799,
     1844294745
   ],
@@ -37349,8 +37351,8 @@
     "review": "no",
     "source": "NTIC",
     "tunnel": "yes",
-    "tunnelname": "덕산터널",
-    "tunnelname:ko": "덕산터널"
+    "tunnel:name": "덕산터널",
+    "tunnel:name:ko": "덕산터널"
   }
 },
 {
@@ -37515,8 +37517,8 @@
     "oneway": "yes",
     "ref": "45;70",
     "tunnel": "yes",
-    "tunnelname": "덕산터널",
-    "tunnelname:ko": "덕산터널"
+    "tunnel:name": "덕산터널",
+    "tunnel:name:ko": "덕산터널"
   }
 },
 {
@@ -73277,10 +73279,8 @@
     "tunnel": "yes",
     "tunnel:name": "해미터널 (Haemi Tunnel)",
     "tunnel:name:en": "Haemi Tunnel",
-    "tunnel:name:ko-Latn": "Haemiteoneol",
-    "tunnelname": "해미터널",
-    "tunnelname:en": "Haemi Tunnel",
-    "tunnelname:ko": "해미터널"
+    "tunnel:name:ko": "해미터널",
+    "tunnel:name:ko-Latn": "Haemiteoneol"
   }
 },
 {
@@ -73302,9 +73302,9 @@
     "oneway": "yes",
     "ref": "45;70",
     "tunnel": "yes",
-    "tunnelname": "해미터널",
-    "tunnelname:en": "Haemi Tunnel",
-    "tunnelname:ko": "해미터널"
+    "tunnel:name": "해미터널",
+    "tunnel:name:en": "Haemi Tunnel",
+    "tunnel:name:ko": "해미터널"
   }
 },
 {
@@ -73333,10 +73333,8 @@
     "tunnel": "yes",
     "tunnel:name": "해미터널 (Haemi Tunnel)",
     "tunnel:name:en": "Haemi Tunnel",
-    "tunnel:name:ko-Latn": "Haemiteoneol",
-    "tunnelname": "해미터널",
-    "tunnelname:en": "Haemi Tunnel",
-    "tunnelname:ko": "해미터널"
+    "tunnel:name:ko": "해미터널",
+    "tunnel:name:ko-Latn": "Haemiteoneol"
   }
 },
 {
@@ -73359,9 +73357,9 @@
     "oneway": "yes",
     "ref": "45;70",
     "tunnel": "yes",
-    "tunnelname": "해미터널",
-    "tunnelname:en": "Haemi Tunnel",
-    "tunnelname:ko": "해미터널"
+    "tunnel:name": "해미터널",
+    "tunnel:name:en": "Haemi Tunnel",
+    "tunnel:name:ko": "해미터널"
   }
 },
 {
@@ -210627,6 +210625,18 @@
   "id": 5681883558,
   "lat": 36.9205489,
   "lon": 127.2343001
+},
+{
+  "type": "node",
+  "id": 10174605092,
+  "lat": 36.9209844,
+  "lon": 127.2345925
+},
+{
+  "type": "node",
+  "id": 10175277485,
+  "lat": 36.9203002,
+  "lon": 127.2341488
 },
 {
   "type": "node",
