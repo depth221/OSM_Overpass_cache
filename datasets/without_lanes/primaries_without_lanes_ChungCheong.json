@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2022-11-19T18:47:39Z",
-    "timestamp_areas_base": "2022-11-19T17:47:48Z",
+    "timestamp_osm_base": "2022-11-20T18:49:09Z",
+    "timestamp_areas_base": "2022-11-20T18:32:55Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -63236,26 +63236,6 @@
     "ref": "40",
     "review": "no",
     "source": "NTIC"
-  }
-},
-{
-  "type": "way",
-  "id": 1101047559,
-  "nodes": [
-    10076764822,
-    10076764821
-  ],
-  "tags": {
-    "bridge": "yes",
-    "highway": "primary",
-    "layer": "1",
-    "name": "중부로",
-    "name:en": "Jungbu-ro",
-    "name:ko": "중부로",
-    "oneway": "yes",
-    "ref": "508",
-    "review": "no",
-    "source": "Bing (adjusted)"
   }
 },
 {
@@ -199664,18 +199644,6 @@
   "id": 8336649262,
   "lat": 36.6196508,
   "lon": 127.3922021
-},
-{
-  "type": "node",
-  "id": 10076764821,
-  "lat": 36.6855785,
-  "lon": 127.4088929
-},
-{
-  "type": "node",
-  "id": 10076764822,
-  "lat": 36.6853723,
-  "lon": 127.4086922
 },
 {
   "type": "node",
