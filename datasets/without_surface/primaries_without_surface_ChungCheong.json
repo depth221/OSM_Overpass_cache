@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2022-12-06T18:44:39Z",
-    "timestamp_areas_base": "2022-12-06T18:14:07Z",
+    "timestamp_osm_base": "2022-12-07T18:45:24Z",
+    "timestamp_areas_base": "2022-12-07T17:55:53Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -71817,17 +71817,16 @@
   "type": "way",
   "id": 902160457,
   "nodes": [
-    3655236505,
-    8232911015,
+    10244989446,
     437061844,
+    10244989434,
     437061845,
     437061846,
-    3655823142,
-    3656151925,
-    437061847,
-    3655788148
+    3655823140
   ],
   "tags": {
+    "destination:lang:backward": "t순성;면천IC;시청;시의회",
+    "destination:lang:en:backward": "Sunseong;Myeoncheon IC;City Hall·City Council",
     "highway": "primary",
     "maxspeed": "30",
     "name": "대호만로",
@@ -83313,6 +83312,72 @@
     "name:en": "Dabok-ro",
     "name:ko": "다복로",
     "ref": "17"
+  }
+},
+{
+  "type": "way",
+  "id": 1120148179,
+  "nodes": [
+    3655236505,
+    8232911015,
+    10244989446
+  ],
+  "tags": {
+    "destination:lang:backward": "t순성;면천IC;시청;시의회",
+    "destination:lang:en:backward": "Sunseong;Myeoncheon IC;City Hall·City Council",
+    "highway": "primary",
+    "maxspeed": "30",
+    "name": "대호만로",
+    "name:en": "Daehoman-ro",
+    "name:ko": "대호만로",
+    "ncat": "지방도",
+    "oneway": "no",
+    "ref": "615",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 1120148183,
+  "nodes": [
+    3655823140,
+    10244989461
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "30",
+    "name": "대호만로",
+    "name:en": "Daehoman-ro",
+    "name:ko": "대호만로",
+    "ncat": "지방도",
+    "oneway": "no",
+    "ref": "615",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 1120148184,
+  "nodes": [
+    10244989461,
+    3655823142,
+    3656151925,
+    437061847,
+    3655788148
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "30",
+    "name": "대호만로",
+    "name:en": "Daehoman-ro",
+    "name:ko": "대호만로",
+    "ncat": "지방도",
+    "oneway": "no",
+    "ref": "615",
+    "review": "no",
+    "source": "NTIC"
   }
 },
 {
@@ -206203,6 +206268,12 @@
 },
 {
   "type": "node",
+  "id": 3655823140,
+  "lat": 36.8977264,
+  "lon": 126.6217592
+},
+{
+  "type": "node",
   "id": 3655823142,
   "lat": 36.8978911,
   "lon": 126.6216536
@@ -206212,6 +206283,12 @@
   "id": 3656151925,
   "lat": 36.8979811,
   "lon": 126.6215840
+},
+{
+  "type": "node",
+  "id": 10244989461,
+  "lat": 36.8978126,
+  "lon": 126.6217039
 },
 {
   "type": "node",
@@ -206264,14 +206341,14 @@
 {
   "type": "node",
   "id": 3655236516,
-  "lat": 36.8968969,
-  "lon": 126.6247702
+  "lat": 36.8969128,
+  "lon": 126.6247609
 },
 {
   "type": "node",
   "id": 3655236519,
-  "lat": 36.8976472,
-  "lon": 126.6264807
+  "lat": 36.8976708,
+  "lon": 126.6265263
 },
 {
   "type": "node",
@@ -206312,14 +206389,26 @@
 {
   "type": "node",
   "id": 7769184964,
-  "lat": 36.8968716,
-  "lon": 126.6247165
+  "lat": 36.8968866,
+  "lon": 126.6247031
 },
 {
   "type": "node",
   "id": 8232911015,
   "lat": 36.8961053,
   "lon": 126.6229044
+},
+{
+  "type": "node",
+  "id": 10244989434,
+  "lat": 36.8964728,
+  "lon": 126.6226536
+},
+{
+  "type": "node",
+  "id": 10244989446,
+  "lat": 36.8964136,
+  "lon": 126.6226958
 },
 {
   "type": "node",
