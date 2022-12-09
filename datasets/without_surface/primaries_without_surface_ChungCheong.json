@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2022-12-07T18:45:24Z",
-    "timestamp_areas_base": "2022-12-07T17:55:53Z",
+    "timestamp_osm_base": "2022-12-09T18:45:15Z",
+    "timestamp_areas_base": "2022-12-09T17:54:24Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2882,6 +2882,7 @@
   "tags": {
     "bicycle": "yes",
     "destination": "당진;서산IC",
+    "destination:lang:en": "Dangjin;Seosan IC",
     "foot": "yes",
     "highway": "primary",
     "lanes": "2",
@@ -2914,6 +2915,7 @@
   "tags": {
     "bicycle": "yes",
     "destination": "당진;서산IC",
+    "destination:lang:en": "Dangjin;Seosan IC",
     "foot": "yes",
     "highway": "primary",
     "lanes": "2",
@@ -3726,6 +3728,7 @@
   "tags": {
     "bicycle": "yes",
     "destination": "대산;태안;법원·검찰청",
+    "destination:lang:en": "Daesan;Taean;Court & Prosecutors' Office",
     "foot": "yes",
     "highway": "primary",
     "lanes": "2",
@@ -33657,32 +33660,6 @@
 },
 {
   "type": "way",
-  "id": 394502529,
-  "nodes": [
-    3975036075,
-    436443260,
-    436443261,
-    436443262,
-    436443263,
-    436443264,
-    436443265,
-    436443266,
-    437016416
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "남부로",
-    "name:en": "Nambu-ro",
-    "name:ko": "남부로",
-    "ncat": "국도",
-    "oneway": "no",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC;Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
   "id": 394502530,
   "nodes": [
     3975036077,
@@ -38812,7 +38789,8 @@
   ],
   "tags": {
     "bicycle": "yes",
-    "destination": "서울;당진;홍성;해미IC;서산IC",
+    "destination": "홍성;당진;서해안고속도로",
+    "destination:lang:en": "Hongseong;Dangjin;Seohaean Expressway",
     "foot": "yes",
     "highway": "primary",
     "lanes": "2",
@@ -45160,18 +45138,20 @@
     5325780210,
     436582200,
     7996872636,
-    6419713480,
-    7996872635,
-    436582199,
-    436582198,
-    6419713481,
-    9075578524,
-    9075578525,
+    10246084153,
+    10246084154,
+    10246084155,
+    10246084156,
+    10246084152,
+    10246084157,
+    10246084158,
+    10246084159,
     8377212616
   ],
   "tags": {
     "bicycle": "yes",
     "destination": "태안;대산;대산지방해양수산청",
+    "destination:lang:kr": "Daesan;Taean;Daesan Regional Office of Oceans and Fisheries",
     "foot": "yes",
     "highway": "primary",
     "lanes": "2",
@@ -45216,7 +45196,8 @@
   ],
   "tags": {
     "bicycle": "yes",
-    "destination": "홍성;당진;서산IC;해미IC",
+    "destination": "홍성;당진;서해안고속도로",
+    "destination:lang:en": "Hongseong;Dangjin;Seohaean Expressway",
     "foot": "yes",
     "highway": "primary",
     "lanes": "2",
@@ -45323,34 +45304,7 @@
   "type": "way",
   "id": 552393584,
   "nodes": [
-    437016416,
-    436443268,
-    436443269,
-    436443270,
-    436443271,
-    3983757223,
-    3983757224,
-    436443274,
-    3983757226,
-    3983757225,
-    436443277,
-    3983757221,
-    3983757222,
-    3983757220,
-    436443283,
-    436443285,
-    3983757219,
-    436443286,
-    436443288,
-    436443289,
-    436443290,
-    436443292,
-    436443293,
-    436443295,
-    436443296,
-    6563267694,
-    436443299,
-    436443301,
+    10246253886,
     436443302,
     436443303,
     436443304,
@@ -45361,6 +45315,7 @@
     436443309,
     436443310,
     436443311,
+    10246262301,
     436443312,
     436443313,
     436443314,
@@ -45382,7 +45337,13 @@
     436443337
   ],
   "tags": {
+    "destination:lang:backward": "영동;영동IC;용산",
+    "destination:lang:en:backward": "Yeongdong;Yeongdong IC;Yongsan",
+    "destination:lang:en:forward": "Cheongju·Miwon;Boeun;Cheongsan",
+    "destination:lang:forward": "청주·미원;보은;청산",
     "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "60",
     "name": "남부로",
     "name:en": "Nambu-ro",
     "name:ko": "남부로",
@@ -48906,7 +48867,8 @@
     8955760733
   ],
   "tags": {
-    "destination": "예산;홍성;해미IC;해미",
+    "destination": "예산;홍성;해미IC",
+    "destination:lang:en": "Yesan;Hongseong;Haemi IC",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "60",
@@ -50547,14 +50509,20 @@
     5572603949,
     9075578515,
     9075578506,
-    9075578516,
-    9075578507,
-    9075578517,
+    10246084719,
+    10246084720,
+    10246084721,
+    10246084722,
+    10246084723,
+    10246084724,
+    10246084725,
+    10246084726,
     9075578521
   ],
   "tags": {
     "bicycle": "yes",
     "destination": "당진;서산IC",
+    "destination:lang:en": "Dangjin;Seosan IC",
     "foot": "yes",
     "highway": "primary",
     "lanes": "2",
@@ -51152,6 +51120,8 @@
   ],
   "tags": {
     "bicycle": "yes",
+    "destination": "대산;태안;부석",
+    "destination:lang:en": "Daesan;Taean;Buseok",
     "foot": "yes",
     "highway": "primary",
     "lanes": "2",
@@ -59612,10 +59582,13 @@
     9075578465,
     9075578464,
     437078583,
+    10246110997,
     10118956381
   ],
   "tags": {
     "bicycle": "yes",
+    "destination": "대산;태안;부석",
+    "destination:lang:en": "Daesan;Taean;Buseok",
     "foot": "yes",
     "highway": "primary",
     "lanes": "2",
@@ -68611,6 +68584,7 @@
   "tags": {
     "bicycle": "yes",
     "destination": "태안;대산;서산시청",
+    "destination:lang:en": "Taean;Daesan;Seosan City Hall",
     "foot": "yes",
     "highway": "primary",
     "lanes": "2",
@@ -68669,6 +68643,7 @@
   "tags": {
     "bicycle": "yes",
     "destination": "태안;대산;석림사거리",
+    "destination:lang:en": "Taean;Daesan;Seongnim Junction",
     "foot": "yes",
     "highway": "primary",
     "lanes": "2",
@@ -68790,6 +68765,7 @@
   "nodes": [
     9075578459,
     8017779090,
+    10246111005,
     10219694453,
     1156275789,
     437078606,
@@ -68799,7 +68775,8 @@
   ],
   "tags": {
     "bicycle": "yes",
-    "destination": "대산;태안",
+    "destination": "대산;태안;법원·검찰청",
+    "destination:lang:en": "Daesan;Taean;Court & Prosecutors' Office",
     "foot": "yes",
     "highway": "primary",
     "lanes": "2",
@@ -68822,11 +68799,13 @@
     437078612,
     5542252003,
     8017779096,
+    10246111010,
     10118956380
   ],
   "tags": {
     "bicycle": "yes",
-    "destination": "서울;당진;홍성;해미IC;서산IC",
+    "destination": "홍성;당진;서해안고속도로",
+    "destination:lang:en": "Hongseong;Dangjin;Seohaean Expressway",
     "foot": "yes",
     "highway": "primary",
     "lanes": "2",
@@ -68846,12 +68825,14 @@
   "id": 870256627,
   "nodes": [
     10118956380,
+    10246111019,
     8017779080,
     8094045975,
     437078600,
     8017746169,
     8017746170,
     9075578463,
+    10246084767,
     437078593,
     10219694436,
     10219694437,
@@ -68872,11 +68853,13 @@
     10219694451,
     10219694452,
     9075578475,
+    10246110996,
     9075578476
   ],
   "tags": {
     "bicycle": "yes",
-    "destination": "홍성;당진;서산IC;해미IC",
+    "destination": "홍성;당진;서해안고속도로",
+    "destination:lang:en": "Hongseong;Dangjin;Seohaean Expressway",
     "foot": "yes",
     "highway": "primary",
     "lanes": "2",
@@ -69476,18 +69459,27 @@
   "nodes": [
     9075578521,
     9075578519,
-    9075578520,
-    9075578526,
-    7996343377,
-    9075578527,
-    9075578528,
-    9075578529,
+    10246084160,
+    10246084161,
+    10246084162,
+    10246084163,
+    10246084151,
+    10246084164,
+    10246084165,
+    10246084166,
+    10246084167,
+    10246084168,
+    10246084169,
+    10246084170,
+    10246084171,
     9075578530,
-    9075578523
+    9075578523,
+    9786984341
   ],
   "tags": {
     "bicycle": "yes",
     "destination": "당진;서산IC",
+    "destination:lang:en": "Dangjin;Seosan IC",
     "foot": "yes",
     "highway": "primary",
     "lanes": "2",
@@ -71989,11 +71981,6 @@
   "type": "way",
   "id": 907934076,
   "nodes": [
-    8430568693,
-    8430568687,
-    8430568688,
-    8430568689,
-    8430568690,
     321569174,
     321569175,
     8430556696,
@@ -72005,6 +71992,10 @@
     681158381
   ],
   "tags": {
+    "destination:lang:backward": "운산;서산IC",
+    "destination:lang:en:backward": "Usnan;Seosan IC",
+    "destination:lang:en:forward": "Seosan;Eumam;Tapgok-ri",
+    "destination:lang:forward": "서산;음암;탑곡리",
     "highway": "primary",
     "name": "운암로",
     "name:en": "Unam-ro",
@@ -72024,6 +72015,7 @@
     8430568693
   ],
   "tags": {
+    "destination:lang:forward": "음암",
     "highway": "primary",
     "maxspeed": "60",
     "name": "운암로",
@@ -72038,18 +72030,21 @@
   "id": 908621969,
   "nodes": [
     8377226634,
-    436582195,
-    8096895015,
-    3508606212,
-    436582194,
-    8096927925,
+    10246084735,
+    10246084736,
+    10246084734,
+    10246084733,
+    10246084732,
+    10246084731,
+    10246084751,
     3508606211,
-    3508606208,
     5542251283,
     3508606209
   ],
   "tags": {
     "bicycle": "yes",
+    "destination": "태안;대산;서산시청",
+    "destination:lang:en": "Taean;Daesan;Seosan City Hall",
     "foot": "yes",
     "highway": "primary",
     "lanes": "2",
@@ -74891,11 +74886,13 @@
     8094046355,
     437078576,
     5849257363,
+    10246084766,
     437078575
   ],
   "tags": {
     "bicycle": "yes",
-    "destination": "서울;당진;홍성;서산IC;해미IC",
+    "destination": "당진;홍성;서해안고속도로",
+    "destination:lang:en": "Dangjin;Hongseong;Seohaean Expressway",
     "foot": "yes",
     "highway": "primary",
     "lanes": "2",
@@ -74932,6 +74929,7 @@
   "tags": {
     "bicycle": "yes",
     "destination": "태안;대산;석림사거리",
+    "destination:lang:en": "Taean;Daesan;Seongnim Junction",
     "foot": "yes",
     "highway": "primary",
     "lanes": "2",
@@ -77803,15 +77801,20 @@
   "id": 996878860,
   "nodes": [
     8955760732,
+    10246017049,
     6419930529,
     5572603974,
     5542252316,
     436528420,
     5572604248,
-    6419930527
+    6419930527,
+    10246017051,
+    10246017050,
+    8094005851
   ],
   "tags": {
-    "destination": "예산;홍성;해미IC;해미",
+    "destination": "예산;홍성;해미IC",
+    "destination:lang:en": "Yesan;Hongseong;Haemi IC",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "60",
@@ -77833,7 +77836,8 @@
     6110313178
   ],
   "tags": {
-    "destination": "예산;홍성;해미IC;해미",
+    "destination": "예산;홍성;해미IC",
+    "destination:lang:en": "Yesan;Hongseong;Haemi IC",
     "highway": "primary",
     "lanes": "2",
     "name": "중앙로",
@@ -77855,7 +77859,8 @@
     8955760732
   ],
   "tags": {
-    "destination": "예산;홍성;해미IC;해미",
+    "destination": "예산;홍성;해미IC",
+    "destination:lang:en": "Yesan;Hongseong;Haemi IC",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "60",
@@ -80422,7 +80427,8 @@
     10057784905
   ],
   "tags": {
-    "destination": "시청·시의회;1호광장;동문동",
+    "destination": "동문동;시청·시의회;1호광장",
+    "destination:lang:en": "Dongmun-dong;City Hall",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "60",
@@ -81275,6 +81281,8 @@
     10057784902
   ],
   "tags": {
+    "destination": "시청·시의회;1호광장;동문동",
+    "destination:lang:en": "City Hall·City Council;1-ro Rottery;Dongmun-dong",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "60",
@@ -81297,6 +81305,8 @@
   ],
   "tags": {
     "bicycle": "yes",
+    "destination": "대산;태안;부석",
+    "destination:lang:en": "Daesan;Taean;Buseok",
     "foot": "yes",
     "highway": "primary",
     "lanes": "2",
@@ -81316,13 +81326,15 @@
   "id": 1098459943,
   "nodes": [
     10057784899,
+    10246017047,
     10057784907,
     10057784900,
     10057784903,
     10057784904
   ],
   "tags": {
-    "destination": "시청·시의회;1호광장;동문동",
+    "destination": "동문동;시청·시의회;1호광장",
+    "destination:lang:en": "Dongmun-dong;City Hall",
     "highway": "primary",
     "lanes": "2",
     "name": "중앙로",
@@ -81342,10 +81354,12 @@
     10057784905,
     10057803637,
     10105928835,
+    10246017046,
     10057784899
   ],
   "tags": {
-    "destination": "시청·시의회;1호광장;동문동",
+    "destination": "동문동;시청·시의회;1호광장",
+    "destination:lang:en": "Dongmun-dong;City Hall",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "60",
@@ -81367,6 +81381,8 @@
     414669948
   ],
   "tags": {
+    "destination": "예산;홍성;해미IC",
+    "destination:lang:en": "Yesan;Hongseong;Haemi IC",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "60",
@@ -81375,27 +81391,6 @@
     "name:ko": "중앙로",
     "ncat": "국도",
     "oneway": "yes",
-    "review": "no",
-    "source": "NTIC"
-  }
-},
-{
-  "type": "way",
-  "id": 1098459948,
-  "nodes": [
-    6419930527,
-    10057803627,
-    10057784895
-  ],
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "name": "중앙로",
-    "name:en": "Jungang-ro",
-    "name:ko": "중앙로",
-    "ncat": "국도",
-    "oneway": "yes",
-    "ref": "29;70",
     "review": "no",
     "source": "NTIC"
   }
@@ -81413,6 +81408,7 @@
   ],
   "tags": {
     "destination": "시청·시의회;서산의료원;석림동",
+    "destination:lang:en": "City Hall;Seosan Medical Center;Seongnim-dong",
     "highway": "primary",
     "lanes": "2",
     "name": "중앙로",
@@ -81863,22 +81859,6 @@
 },
 {
   "type": "way",
-  "id": 1110667476,
-  "nodes": [
-    9075577073,
-    9129430050
-  ],
-  "tags": {
-    "destination": "당진;홍성;해미IC;서산IC",
-    "highway": "primary",
-    "name": "양열로",
-    "name:en": "Yangyeol-ro",
-    "name:ko": "양열로",
-    "oneway": "yes"
-  }
-},
-{
-  "type": "way",
   "id": 1113025651,
   "nodes": [
     10183145086,
@@ -81976,6 +81956,7 @@
   ],
   "tags": {
     "destination": "시청·시의회;1호광장;동문동",
+    "destination:lang:en": "City Hall·City Council;1-ro Rottery;Dongmun-dong",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "60",
@@ -82264,44 +82245,6 @@
 },
 {
   "type": "way",
-  "id": 1116156174,
-  "nodes": [
-    8958560565,
-    9129430049
-  ],
-  "tags": {
-    "highway": "primary",
-    "lanes": "3",
-    "name": "양열로",
-    "name:en": "Yangyeol-ro",
-    "name:ko": "양열로",
-    "oneway": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 1117397426,
-  "nodes": [
-    9075578523,
-    9786984341
-  ],
-  "tags": {
-    "bicycle": "yes",
-    "destination": "당진;서산IC",
-    "foot": "yes",
-    "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "60",
-    "name": "서해로",
-    "name:en": "Seohae-ro",
-    "name:ko": "서해로",
-    "oneway": "yes",
-    "review": "no",
-    "source": "NTIC"
-  }
-},
-{
-  "type": "way",
   "id": 1117613938,
   "nodes": [
     5370429886,
@@ -82530,27 +82473,6 @@
     "name:ko": "서해로",
     "ncat": "국도",
     "ref": "32",
-    "review": "no",
-    "source": "NTIC"
-  }
-},
-{
-  "type": "way",
-  "id": 1117971621,
-  "nodes": [
-    10057784895,
-    8094005851
-  ],
-  "tags": {
-    "destination": "예산;홍성;해미;해미IC",
-    "highway": "primary",
-    "lanes": "2",
-    "name": "중앙로",
-    "name:en": "Jungang-ro",
-    "name:ko": "중앙로",
-    "ncat": "국도",
-    "oneway": "yes",
-    "ref": "29;70",
     "review": "no",
     "source": "NTIC"
   }
@@ -83378,6 +83300,495 @@
     "ref": "615",
     "review": "no",
     "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 1120271143,
+  "nodes": [
+    8430568693,
+    8430568687,
+    8430568688,
+    8430568689,
+    8430568690,
+    321569174
+  ],
+  "tags": {
+    "destination:lang:backward": "당진;운산",
+    "destination:lang:en:backward": "Dnagjin;Usnan",
+    "destination:lang:en:forward": "Seosan;Eumam;Tapgok-ri",
+    "destination:lang:forward": "서산;음암;탑곡리",
+    "highway": "primary",
+    "name": "운암로",
+    "name:en": "Unam-ro",
+    "name:ko": "운암로",
+    "ncat": "지방도",
+    "ref": "70"
+  }
+},
+{
+  "type": "way",
+  "id": 1120280198,
+  "nodes": [
+    3975036075,
+    436443260,
+    436443261,
+    10246262359,
+    10246262360,
+    10246262361,
+    10246262373,
+    10246262362,
+    10246262363,
+    10246262364,
+    10246262365,
+    414672762,
+    10246262366,
+    10246262367,
+    10246262368,
+    10246262375,
+    10246262369,
+    436443269,
+    10246262370,
+    436443270,
+    436443271,
+    3983757223,
+    3983757224,
+    436443274,
+    3983757226,
+    3983757225,
+    436443277,
+    3983757221,
+    3983757222,
+    3983757220,
+    436443283,
+    436443285,
+    3983757219,
+    436443286,
+    436443288,
+    436443290,
+    436443292,
+    436443293,
+    436443295
+  ],
+  "tags": {
+    "destination:lang:backward": "영동;영동IC;용산",
+    "destination:lang:en:backward": "Yeongdong;Yeongdong IC;Yongsan",
+    "destination:lang:en:forward": "Cheongju·Miwon;Boeun;Cheongsan",
+    "destination:lang:forward": "청주·미원;보은;청산",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "60",
+    "name": "남부로",
+    "name:en": "Nambu-ro",
+    "name:ko": "남부로",
+    "ncat": "국도",
+    "oneway": "no",
+    "ref": "19",
+    "review": "no",
+    "source": "NTIC;Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1120280199,
+  "nodes": [
+    436443295,
+    436443296,
+    10246253895,
+    10246253887,
+    6563267694,
+    10246253896,
+    436443299,
+    436443301,
+    10246253886
+  ],
+  "tags": {
+    "destination:lang:backward": "영동;영동IC;용산",
+    "destination:lang:en:backward": "Yeongdong;Yeongdong IC;Yongsan",
+    "destination:lang:en:forward": "Cheongju·Miwon;Boeun;Cheongsan",
+    "destination:lang:forward": "청주·미원;보은;청산",
+    "highway": "primary",
+    "lanes": "4",
+    "maxspeed": "60",
+    "name": "남부로",
+    "name:en": "Nambu-ro",
+    "name:ko": "남부로",
+    "ncat": "국도",
+    "oneway": "no",
+    "ref": "19",
+    "review": "no",
+    "source": "NTIC;Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1120486791,
+  "nodes": [
+    10248184437,
+    10248184402,
+    10248184473,
+    10248184403,
+    10248184404,
+    10248184405,
+    10248184406,
+    10248184420,
+    10248184421,
+    10248184422,
+    10248184520,
+    10248184423,
+    10248196981,
+    10248184516
+  ],
+  "tags": {
+    "destination": "아산;당진;석문",
+    "destination:lang:en": "Asan;Dangjin;Seongmun",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "70",
+    "name": "대호만로",
+    "name:en": "Daehoman-ro",
+    "name:ko": "대호만로",
+    "ncat": "지방도",
+    "oneway": "yes",
+    "ref": "615"
+  }
+},
+{
+  "type": "way",
+  "id": 1120486792,
+  "nodes": [
+    3680012129,
+    10248184438,
+    10248184411,
+    10248184444,
+    10248184410,
+    10248184409,
+    10248184408,
+    10248184363,
+    10248184407,
+    10248184366,
+    10248184367,
+    10248184385,
+    437062131
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "60",
+    "name": "대호만로",
+    "name:en": "Daehoman-ro",
+    "name:ko": "대호만로",
+    "ncat": "지방도",
+    "oneway": "yes",
+    "ref": "615"
+  }
+},
+{
+  "type": "way",
+  "id": 1120486799,
+  "nodes": [
+    437062131,
+    10248184364,
+    10248184394,
+    10248184396,
+    10248184365,
+    10248184397,
+    10248184398,
+    10248184399,
+    10248184400,
+    10248184459,
+    10248184401,
+    10248184437
+  ],
+  "tags": {
+    "destination": "아산;당진;석문",
+    "destination:lang:en": "Asan;Dangjin;Seongmun",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "60",
+    "name": "대호만로",
+    "name:en": "Daehoman-ro",
+    "name:ko": "대호만로",
+    "ncat": "지방도",
+    "oneway": "yes",
+    "ref": "615"
+  }
+},
+{
+  "type": "way",
+  "id": 1120486800,
+  "nodes": [
+    10248184515,
+    10248196980,
+    10248184521,
+    10248184418,
+    10248184522,
+    10248184485,
+    10248184484,
+    10248184483,
+    10248184417,
+    10248184482,
+    10248184481,
+    10248184416,
+    10248184415,
+    10248184414,
+    10248184413,
+    10248184474,
+    10248184412,
+    3680012129
+  ],
+  "tags": {
+    "destination": "장고항",
+    "destination:lang:en": "Janggo Harbor",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "70",
+    "name": "대호만로",
+    "name:en": "Daehoman-ro",
+    "name:ko": "대호만로",
+    "ncat": "지방도",
+    "oneway": "yes",
+    "ref": "615"
+  }
+},
+{
+  "type": "way",
+  "id": 1120486806,
+  "nodes": [
+    10248184505,
+    10248196993,
+    10248184425,
+    10248184427,
+    10248184428,
+    10248184429,
+    10248184430,
+    10248184431,
+    10248184432,
+    10248184433,
+    10248184434,
+    10248184435,
+    10248331118,
+    10248184436,
+    10248316293,
+    10248234141,
+    10248316300,
+    10248233741,
+    10248233742,
+    10248233743,
+    10248233744,
+    10248316276,
+    10248233745,
+    10248234140,
+    10248316285,
+    10248233746,
+    10248233747,
+    10248233748,
+    10248233749,
+    10248233750,
+    10248233751,
+    10248233752,
+    10248316240,
+    10248233753
+  ],
+  "tags": {
+    "destination": "당진;고대;석문",
+    "destination:lang:en": "Dangjin;Godae;Seongmun",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "70",
+    "name": "대호만로",
+    "name:en": "Daehoman-ro",
+    "name:ko": "대호만로",
+    "ncat": "지방도",
+    "oneway": "yes",
+    "ref": "615"
+  }
+},
+{
+  "type": "way",
+  "id": 1120486807,
+  "nodes": [
+    10248233739,
+    10248316275,
+    10248233728,
+    10248233765,
+    10248233764,
+    10248233763,
+    10248233762,
+    10248233761,
+    10248233760,
+    10248234139,
+    10248233759,
+    10248233758,
+    10248233757,
+    10248233726,
+    10248233756,
+    10248233755,
+    10248316301,
+    10248233767,
+    10248316294,
+    10248184496,
+    10248331117,
+    10248184495,
+    10248184494,
+    10248184493,
+    10248184492,
+    10248184491,
+    10248184490,
+    10248184489,
+    10248184488,
+    10248196994,
+    10248184487,
+    10248184506
+  ],
+  "tags": {
+    "destination": "서산;대산;장고항",
+    "destination:lang:en": "Seosan;Daesan;Janggo Harbor",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "70",
+    "name": "대호만로",
+    "name:en": "Daehoman-ro",
+    "name:ko": "대호만로",
+    "ncat": "지방도",
+    "oneway": "yes",
+    "ref": "615"
+  }
+},
+{
+  "type": "way",
+  "id": 1120486808,
+  "nodes": [
+    10248184424,
+    10248184497
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridgename": "석문육교",
+    "bridgename:en": "Seongmun Overpass",
+    "bridgename:ko": "석문육교",
+    "destination": "아산;당진;석문",
+    "destination:lang:en": "Asan;Dangjin;Seongmun",
+    "highway": "primary",
+    "lanes": "2",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "대호만로",
+    "name:en": "Daehoman-ro",
+    "name:ko": "대호만로",
+    "ncat": "지방도",
+    "oneway": "yes",
+    "ref": "615"
+  }
+},
+{
+  "type": "way",
+  "id": 1120486809,
+  "nodes": [
+    10248184498,
+    10248184486
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridgename": "석문육교",
+    "bridgename:en": "Seongmun Overpass",
+    "bridgename:ko": "석문육교",
+    "destination": "장고항",
+    "destination:lang:en": "Janggo Harbor",
+    "highway": "primary",
+    "lanes": "2",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "대호만로",
+    "name:en": "Daehoman-ro",
+    "name:ko": "대호만로",
+    "ncat": "지방도",
+    "oneway": "yes",
+    "ref": "615"
+  }
+},
+{
+  "type": "way",
+  "id": 1120486816,
+  "nodes": [
+    10248184497,
+    10248184505
+  ],
+  "tags": {
+    "destination": "아산;당진;석문",
+    "destination:lang:en": "Asan;Dangjin;Seongmun",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "70",
+    "name": "대호만로",
+    "name:en": "Daehoman-ro",
+    "name:ko": "대호만로",
+    "ncat": "지방도",
+    "oneway": "yes",
+    "ref": "615"
+  }
+},
+{
+  "type": "way",
+  "id": 1120486817,
+  "nodes": [
+    10248184506,
+    10248184498
+  ],
+  "tags": {
+    "destination": "장고항",
+    "destination:lang:en": "Janggo Harbor",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "70",
+    "name": "대호만로",
+    "name:en": "Daehoman-ro",
+    "name:ko": "대호만로",
+    "ncat": "지방도",
+    "oneway": "yes",
+    "ref": "615"
+  }
+},
+{
+  "type": "way",
+  "id": 1120486818,
+  "nodes": [
+    10248184516,
+    10248184424
+  ],
+  "tags": {
+    "destination": "아산;당진;석문",
+    "destination:lang:en": "Asan;Dangjin;Seongmun",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "70",
+    "name": "대호만로",
+    "name:en": "Daehoman-ro",
+    "name:ko": "대호만로",
+    "ncat": "지방도",
+    "oneway": "yes",
+    "ref": "615"
+  }
+},
+{
+  "type": "way",
+  "id": 1120486819,
+  "nodes": [
+    10248184486,
+    10248184515
+  ],
+  "tags": {
+    "destination": "장고항",
+    "destination:lang:en": "Janggo Harbor",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "70",
+    "name": "대호만로",
+    "name:en": "Daehoman-ro",
+    "name:ko": "대호만로",
+    "ncat": "지방도",
+    "oneway": "yes",
+    "ref": "615"
   }
 },
 {
@@ -176580,63 +176991,111 @@
 },
 {
   "type": "node",
+  "id": 414672762,
+  "lat": 36.2755150,
+  "lon": 127.8204754
+},
+{
+  "type": "node",
   "id": 436443261,
   "lat": 36.2745655,
   "lon": 127.8212043
 },
 {
   "type": "node",
-  "id": 436443262,
-  "lat": 36.2747737,
-  "lon": 127.8209617
+  "id": 10246262359,
+  "lat": 36.2747161,
+  "lon": 127.8209975
 },
 {
   "type": "node",
-  "id": 436443263,
-  "lat": 36.2749210,
-  "lon": 127.8208287
+  "id": 10246262360,
+  "lat": 36.2748317,
+  "lon": 127.8208630
 },
 {
   "type": "node",
-  "id": 436443264,
-  "lat": 36.2750408,
-  "lon": 127.8207295
+  "id": 10246262361,
+  "lat": 36.2749258,
+  "lon": 127.8207586
 },
 {
   "type": "node",
-  "id": 436443265,
-  "lat": 36.2751754,
-  "lon": 127.8206539
+  "id": 10246262362,
+  "lat": 36.2750371,
+  "lon": 127.8206630
 },
 {
   "type": "node",
-  "id": 436443266,
-  "lat": 36.2753185,
-  "lon": 127.8205991
+  "id": 10246262363,
+  "lat": 36.2751812,
+  "lon": 127.8205816
 },
 {
   "type": "node",
-  "id": 436443268,
-  "lat": 36.2757460,
-  "lon": 127.8205499
+  "id": 10246262364,
+  "lat": 36.2753239,
+  "lon": 127.8205285
 },
 {
   "type": "node",
-  "id": 437016416,
-  "lat": 36.2755225,
-  "lon": 127.8205626
+  "id": 10246262365,
+  "lat": 36.2754494,
+  "lon": 127.8204878
+},
+{
+  "type": "node",
+  "id": 10246262366,
+  "lat": 36.2755921,
+  "lon": 127.8204701
+},
+{
+  "type": "node",
+  "id": 10246262367,
+  "lat": 36.2757019,
+  "lon": 127.8204737
+},
+{
+  "type": "node",
+  "id": 10246262368,
+  "lat": 36.2758315,
+  "lon": 127.8204840
+},
+{
+  "type": "node",
+  "id": 10246262369,
+  "lat": 36.2759970,
+  "lon": 127.8205176
+},
+{
+  "type": "node",
+  "id": 10246262373,
+  "lat": 36.2749604,
+  "lon": 127.8207289
+},
+{
+  "type": "node",
+  "id": 10246262375,
+  "lat": 36.2759104,
+  "lon": 127.8205000
 },
 {
   "type": "node",
   "id": 436443269,
   "lat": 36.2777000,
-  "lon": 127.8210000
+  "lon": 127.8209770
 },
 {
   "type": "node",
   "id": 436443270,
-  "lat": 36.2787249,
-  "lon": 127.8213520
+  "lat": 36.2787357,
+  "lon": 127.8212984
+},
+{
+  "type": "node",
+  "id": 10246262370,
+  "lat": 36.2782630,
+  "lon": 127.8211484
 },
 {
   "type": "node",
@@ -177493,38 +177952,38 @@
 {
   "type": "node",
   "id": 436443271,
-  "lat": 36.2792178,
-  "lon": 127.8214869
+  "lat": 36.2792156,
+  "lon": 127.8214306
 },
 {
   "type": "node",
   "id": 436443274,
-  "lat": 36.2801889,
-  "lon": 127.8216127
+  "lat": 36.2801954,
+  "lon": 127.8215591
 },
 {
   "type": "node",
   "id": 436443277,
-  "lat": 36.2818233,
-  "lon": 127.8217630
+  "lat": 36.2817844,
+  "lon": 127.8216906
 },
 {
   "type": "node",
   "id": 436443283,
-  "lat": 36.2823582,
-  "lon": 127.8218868
+  "lat": 36.2823979,
+  "lon": 127.8218313
 },
 {
   "type": "node",
   "id": 436443285,
-  "lat": 36.2825570,
-  "lon": 127.8219621
+  "lat": 36.2826514,
+  "lon": 127.8219220
 },
 {
   "type": "node",
   "id": 436443286,
-  "lat": 36.2830894,
-  "lon": 127.8222463
+  "lat": 36.2831043,
+  "lon": 127.8222155
 },
 {
   "type": "node",
@@ -177534,57 +177993,51 @@
 },
 {
   "type": "node",
-  "id": 436443289,
-  "lat": 36.2839900,
-  "lon": 127.8228400
-},
-{
-  "type": "node",
   "id": 3983757219,
-  "lat": 36.2828602,
-  "lon": 127.8221000
+  "lat": 36.2829049,
+  "lon": 127.8220846
 },
 {
   "type": "node",
   "id": 3983757220,
-  "lat": 36.2821830,
-  "lon": 127.8218367
+  "lat": 36.2822426,
+  "lon": 127.8217782
 },
 {
   "type": "node",
   "id": 3983757221,
-  "lat": 36.2819244,
-  "lon": 127.8217755
+  "lat": 36.2819443,
+  "lon": 127.8217139
 },
 {
   "type": "node",
   "id": 3983757222,
-  "lat": 36.2820403,
-  "lon": 127.8217991
+  "lat": 36.2821024,
+  "lon": 127.8217436
 },
 {
   "type": "node",
   "id": 3983757223,
-  "lat": 36.2793676,
-  "lon": 127.8215228
+  "lat": 36.2794173,
+  "lon": 127.8214665
 },
 {
   "type": "node",
   "id": 3983757224,
-  "lat": 36.2797372,
-  "lon": 127.8215738
+  "lat": 36.2797480,
+  "lon": 127.8215094
 },
 {
   "type": "node",
   "id": 3983757225,
-  "lat": 36.2808364,
-  "lon": 127.8216547
+  "lat": 36.2809142,
+  "lon": 127.8216011
 },
 {
   "type": "node",
   "id": 3983757226,
-  "lat": 36.2804898,
-  "lon": 127.8216373
+  "lat": 36.2804876,
+  "lon": 127.8215756
 },
 {
   "type": "node",
@@ -177607,14 +178060,14 @@
 {
   "type": "node",
   "id": 436443295,
-  "lat": 36.2878800,
-  "lon": 127.8231500
+  "lat": 36.2879456,
+  "lon": 127.8230686
 },
 {
   "type": "node",
   "id": 436443296,
   "lat": 36.2890800,
-  "lon": 127.8230800
+  "lon": 127.8230146
 },
 {
   "type": "node",
@@ -177625,8 +178078,26 @@
 {
   "type": "node",
   "id": 6563267694,
-  "lat": 36.2897231,
+  "lat": 36.2897457,
   "lon": 127.8229492
+},
+{
+  "type": "node",
+  "id": 10246253887,
+  "lat": 36.2895630,
+  "lon": 127.8229672
+},
+{
+  "type": "node",
+  "id": 10246253895,
+  "lat": 36.2892896,
+  "lon": 127.8229940
+},
+{
+  "type": "node",
+  "id": 10246253896,
+  "lat": 36.2901650,
+  "lon": 127.8228602
 },
 {
   "type": "node",
@@ -177669,6 +178140,12 @@
   "id": 436443307,
   "lat": 36.2948200,
   "lon": 127.8215400
+},
+{
+  "type": "node",
+  "id": 10246253886,
+  "lat": 36.2911998,
+  "lon": 127.8225817
 },
 {
   "type": "node",
@@ -185160,6 +185637,12 @@
 },
 {
   "type": "node",
+  "id": 10246262301,
+  "lat": 36.2973760,
+  "lon": 127.8204439
+},
+{
+  "type": "node",
   "id": 436443330,
   "lat": 36.3039356,
   "lon": 127.8181582
@@ -185185,8 +185668,8 @@
 {
   "type": "node",
   "id": 436443337,
-  "lat": 36.3097361,
-  "lon": 127.8167188
+  "lat": 36.3097262,
+  "lon": 127.8166880
 },
 {
   "type": "node",
@@ -203196,30 +203679,6 @@
 },
 {
   "type": "node",
-  "id": 8958560565,
-  "lat": 36.7686493,
-  "lon": 126.4294374
-},
-{
-  "type": "node",
-  "id": 9075577073,
-  "lat": 36.7686935,
-  "lon": 126.4293047
-},
-{
-  "type": "node",
-  "id": 9129430049,
-  "lat": 36.7687108,
-  "lon": 126.4294134
-},
-{
-  "type": "node",
-  "id": 9129430050,
-  "lat": 36.7686318,
-  "lon": 126.4293321
-},
-{
-  "type": "node",
   "id": 437078593,
   "lat": 36.7689172,
   "lon": 126.4558549
@@ -203325,6 +203784,12 @@
   "id": 10219694445,
   "lat": 36.7689610,
   "lon": 126.4571956
+},
+{
+  "type": "node",
+  "id": 10246084767,
+  "lat": 36.7689362,
+  "lon": 126.4557773
 },
 {
   "type": "node",
@@ -203706,6 +204171,24 @@
 },
 {
   "type": "node",
+  "id": 10246111005,
+  "lat": 36.7700837,
+  "lon": 126.4518139
+},
+{
+  "type": "node",
+  "id": 10246111010,
+  "lat": 36.7699659,
+  "lon": 126.4519522
+},
+{
+  "type": "node",
+  "id": 10246111019,
+  "lat": 36.7697499,
+  "lon": 126.4527101
+},
+{
+  "type": "node",
   "id": 414669948,
   "lat": 36.7752824,
   "lon": 126.4642178
@@ -203898,6 +204381,24 @@
 },
 {
   "type": "node",
+  "id": 10246084766,
+  "lat": 36.7749409,
+  "lon": 126.4638577
+},
+{
+  "type": "node",
+  "id": 10246110996,
+  "lat": 36.7698831,
+  "lon": 126.4585867
+},
+{
+  "type": "node",
+  "id": 10246110997,
+  "lat": 36.7701498,
+  "lon": 126.4587202
+},
+{
+  "type": "node",
   "id": 436528420,
   "lat": 36.7711103,
   "lon": 126.4704959
@@ -204033,6 +204534,30 @@
   "id": 10105928835,
   "lat": 36.7733091,
   "lon": 126.4672884
+},
+{
+  "type": "node",
+  "id": 10246017046,
+  "lat": 36.7733450,
+  "lon": 126.4672358
+},
+{
+  "type": "node",
+  "id": 10246017047,
+  "lat": 36.7734368,
+  "lon": 126.4671009
+},
+{
+  "type": "node",
+  "id": 10246017049,
+  "lat": 36.7729125,
+  "lon": 126.4677637
+},
+{
+  "type": "node",
+  "id": 10246017051,
+  "lat": 36.7706780,
+  "lon": 126.4711015
 },
 {
   "type": "node",
@@ -204186,12 +204711,6 @@
 },
 {
   "type": "node",
-  "id": 10057784895,
-  "lat": 36.7701703,
-  "lon": 126.4718245
-},
-{
-  "type": "node",
   "id": 10057784896,
   "lat": 36.7705277,
   "lon": 126.4714856
@@ -204204,9 +204723,9 @@
 },
 {
   "type": "node",
-  "id": 10057803627,
-  "lat": 36.7703397,
-  "lon": 126.4715834
+  "id": 10246017050,
+  "lat": 36.7703298,
+  "lon": 126.4715841
 },
 {
   "type": "node",
@@ -204219,12 +204738,6 @@
   "id": 9075578505,
   "lat": 36.7820107,
   "lon": 126.4713920
-},
-{
-  "type": "node",
-  "id": 3508606208,
-  "lat": 36.7866971,
-  "lon": 126.4773497
 },
 {
   "type": "node",
@@ -204312,33 +204825,9 @@
 },
 {
   "type": "node",
-  "id": 436582194,
-  "lat": 36.7876401,
-  "lon": 126.4789272
-},
-{
-  "type": "node",
-  "id": 436582195,
-  "lat": 36.7878885,
-  "lon": 126.4795577
-},
-{
-  "type": "node",
   "id": 436582196,
   "lat": 36.7880557,
   "lon": 126.4806754
-},
-{
-  "type": "node",
-  "id": 436582198,
-  "lat": 36.7878820,
-  "lon": 126.4820183
-},
-{
-  "type": "node",
-  "id": 436582199,
-  "lat": 36.7877592,
-  "lon": 126.4823608
 },
 {
   "type": "node",
@@ -204360,51 +204849,9 @@
 },
 {
   "type": "node",
-  "id": 3508606212,
-  "lat": 36.7877431,
-  "lon": 126.4791459
-},
-{
-  "type": "node",
-  "id": 6419713480,
-  "lat": 36.7875712,
-  "lon": 126.4827868
-},
-{
-  "type": "node",
-  "id": 6419713481,
-  "lat": 36.7879957,
-  "lon": 126.4816357
-},
-{
-  "type": "node",
-  "id": 7996343377,
-  "lat": 36.7879338,
-  "lon": 126.4814108
-},
-{
-  "type": "node",
-  "id": 7996872635,
-  "lat": 36.7876441,
-  "lon": 126.4826553
-},
-{
-  "type": "node",
   "id": 7996872636,
   "lat": 36.7874817,
   "lon": 126.4829872
-},
-{
-  "type": "node",
-  "id": 8096895015,
-  "lat": 36.7878087,
-  "lon": 126.4793099
-},
-{
-  "type": "node",
-  "id": 8096927925,
-  "lat": 36.7875001,
-  "lon": 126.4786861
 },
 {
   "type": "node",
@@ -204420,87 +204867,243 @@
 },
 {
   "type": "node",
-  "id": 9075578507,
-  "lat": 36.7877343,
-  "lon": 126.4793518
-},
-{
-  "type": "node",
   "id": 9075578513,
-  "lat": 36.7880156,
-  "lon": 126.4801257
-},
-{
-  "type": "node",
-  "id": 9075578516,
-  "lat": 36.7874627,
-  "lon": 126.4788152
-},
-{
-  "type": "node",
-  "id": 9075578517,
-  "lat": 36.7879011,
-  "lon": 126.4799275
+  "lat": 36.7880070,
+  "lon": 126.4801311
 },
 {
   "type": "node",
   "id": 9075578519,
-  "lat": 36.7879651,
-  "lon": 126.4806936
-},
-{
-  "type": "node",
-  "id": 9075578520,
-  "lat": 36.7879731,
-  "lon": 126.4809679
+  "lat": 36.7879779,
+  "lon": 126.4806794
 },
 {
   "type": "node",
   "id": 9075578521,
-  "lat": 36.7879499,
-  "lon": 126.4803707
-},
-{
-  "type": "node",
-  "id": 9075578524,
-  "lat": 36.7880433,
-  "lon": 126.4813737
-},
-{
-  "type": "node",
-  "id": 9075578525,
-  "lat": 36.7880627,
-  "lon": 126.4811484
-},
-{
-  "type": "node",
-  "id": 9075578526,
-  "lat": 36.7879618,
-  "lon": 126.4812087
-},
-{
-  "type": "node",
-  "id": 9075578527,
-  "lat": 36.7878485,
-  "lon": 126.4818139
-},
-{
-  "type": "node",
-  "id": 9075578528,
-  "lat": 36.7876841,
-  "lon": 126.4823342
-},
-{
-  "type": "node",
-  "id": 9075578529,
-  "lat": 36.7873723,
-  "lon": 126.4830208
+  "lat": 36.7879584,
+  "lon": 126.4803672
 },
 {
   "type": "node",
   "id": 9075578530,
   "lat": 36.7869175,
   "lon": 126.4839156
+},
+{
+  "type": "node",
+  "id": 10246084151,
+  "lat": 36.7879646,
+  "lon": 126.4814309
+},
+{
+  "type": "node",
+  "id": 10246084152,
+  "lat": 36.7879996,
+  "lon": 126.4816095
+},
+{
+  "type": "node",
+  "id": 10246084153,
+  "lat": 36.7877265,
+  "lon": 126.4824819
+},
+{
+  "type": "node",
+  "id": 10246084154,
+  "lat": 36.7878274,
+  "lon": 126.4822227
+},
+{
+  "type": "node",
+  "id": 10246084155,
+  "lat": 36.7879041,
+  "lon": 126.4820009
+},
+{
+  "type": "node",
+  "id": 10246084156,
+  "lat": 36.7879621,
+  "lon": 126.4817814
+},
+{
+  "type": "node",
+  "id": 10246084157,
+  "lat": 36.7880126,
+  "lon": 126.4815502
+},
+{
+  "type": "node",
+  "id": 10246084158,
+  "lat": 36.7880410,
+  "lon": 126.4813584
+},
+{
+  "type": "node",
+  "id": 10246084159,
+  "lat": 36.7880552,
+  "lon": 126.4812009
+},
+{
+  "type": "node",
+  "id": 10246084160,
+  "lat": 36.7879939,
+  "lon": 126.4808860
+},
+{
+  "type": "node",
+  "id": 10246084161,
+  "lat": 36.7880010,
+  "lon": 126.4810648
+},
+{
+  "type": "node",
+  "id": 10246084162,
+  "lat": 36.7879939,
+  "lon": 126.4812205
+},
+{
+  "type": "node",
+  "id": 10246084163,
+  "lat": 36.7879726,
+  "lon": 126.4813815
+},
+{
+  "type": "node",
+  "id": 10246084164,
+  "lat": 36.7879471,
+  "lon": 126.4815390
+},
+{
+  "type": "node",
+  "id": 10246084165,
+  "lat": 36.7879088,
+  "lon": 126.4817213
+},
+{
+  "type": "node",
+  "id": 10246084166,
+  "lat": 36.7878649,
+  "lon": 126.4819018
+},
+{
+  "type": "node",
+  "id": 10246084167,
+  "lat": 36.7878082,
+  "lon": 126.4820911
+},
+{
+  "type": "node",
+  "id": 10246084168,
+  "lat": 36.7877402,
+  "lon": 126.4822699
+},
+{
+  "type": "node",
+  "id": 10246084169,
+  "lat": 36.7876637,
+  "lon": 126.4824734
+},
+{
+  "type": "node",
+  "id": 10246084170,
+  "lat": 36.7875772,
+  "lon": 126.4826610
+},
+{
+  "type": "node",
+  "id": 10246084171,
+  "lat": 36.7874709,
+  "lon": 126.4828928
+},
+{
+  "type": "node",
+  "id": 10246084719,
+  "lat": 36.7872770,
+  "lon": 126.4784801
+},
+{
+  "type": "node",
+  "id": 10246084720,
+  "lat": 36.7874630,
+  "lon": 126.4787830
+},
+{
+  "type": "node",
+  "id": 10246084721,
+  "lat": 36.7875991,
+  "lon": 126.4790343
+},
+{
+  "type": "node",
+  "id": 10246084722,
+  "lat": 36.7876983,
+  "lon": 126.4792625
+},
+{
+  "type": "node",
+  "id": 10246084723,
+  "lat": 36.7877875,
+  "lon": 126.4795103
+},
+{
+  "type": "node",
+  "id": 10246084724,
+  "lat": 36.7878513,
+  "lon": 126.4797315
+},
+{
+  "type": "node",
+  "id": 10246084725,
+  "lat": 36.7879023,
+  "lon": 126.4799598
+},
+{
+  "type": "node",
+  "id": 10246084726,
+  "lat": 36.7879349,
+  "lon": 126.4801757
+},
+{
+  "type": "node",
+  "id": 10246084731,
+  "lat": 36.7875472,
+  "lon": 126.4787396
+},
+{
+  "type": "node",
+  "id": 10246084732,
+  "lat": 36.7876661,
+  "lon": 126.4789492
+},
+{
+  "type": "node",
+  "id": 10246084733,
+  "lat": 36.7877638,
+  "lon": 126.4791557
+},
+{
+  "type": "node",
+  "id": 10246084734,
+  "lat": 36.7878325,
+  "lon": 126.4793341
+},
+{
+  "type": "node",
+  "id": 10246084735,
+  "lat": 36.7879099,
+  "lon": 126.4796050
+},
+{
+  "type": "node",
+  "id": 10246084736,
+  "lat": 36.7878423,
+  "lon": 126.4793682
+},
+{
+  "type": "node",
+  "id": 10246084751,
+  "lat": 36.7875271,
+  "lon": 126.4787073
 },
 {
   "type": "node",
@@ -207918,6 +208521,30 @@
 },
 {
   "type": "node",
+  "id": 437062131,
+  "lat": 37.0024770,
+  "lon": 126.5622825
+},
+{
+  "type": "node",
+  "id": 10248184364,
+  "lat": 37.0020374,
+  "lon": 126.5630302
+},
+{
+  "type": "node",
+  "id": 10248184367,
+  "lat": 37.0020909,
+  "lon": 126.5631213
+},
+{
+  "type": "node",
+  "id": 10248184385,
+  "lat": 37.0022739,
+  "lon": 126.5627237
+},
+{
+  "type": "node",
   "id": 4323045060,
   "lat": 36.9636412,
   "lon": 126.5938402
@@ -208017,6 +208644,726 @@
   "id": 6410385246,
   "lat": 36.9698072,
   "lon": 126.5953688
+},
+{
+  "type": "node",
+  "id": 10248184431,
+  "lat": 36.9915025,
+  "lon": 126.5735390
+},
+{
+  "type": "node",
+  "id": 10248184432,
+  "lat": 36.9912464,
+  "lon": 126.5739279
+},
+{
+  "type": "node",
+  "id": 10248184433,
+  "lat": 36.9910253,
+  "lon": 126.5742886
+},
+{
+  "type": "node",
+  "id": 10248184434,
+  "lat": 36.9908639,
+  "lon": 126.5746337
+},
+{
+  "type": "node",
+  "id": 10248184435,
+  "lat": 36.9907149,
+  "lon": 126.5750130
+},
+{
+  "type": "node",
+  "id": 10248184436,
+  "lat": 36.9904839,
+  "lon": 126.5756069
+},
+{
+  "type": "node",
+  "id": 10248184493,
+  "lat": 36.9914021,
+  "lon": 126.5738401
+},
+{
+  "type": "node",
+  "id": 10248184494,
+  "lat": 36.9911278,
+  "lon": 126.5742981
+},
+{
+  "type": "node",
+  "id": 10248184495,
+  "lat": 36.9909770,
+  "lon": 126.5745983
+},
+{
+  "type": "node",
+  "id": 10248184496,
+  "lat": 36.9905642,
+  "lon": 126.5756257
+},
+{
+  "type": "node",
+  "id": 10248233767,
+  "lat": 36.9905180,
+  "lon": 126.5757530
+},
+{
+  "type": "node",
+  "id": 10248234141,
+  "lat": 36.9904500,
+  "lon": 126.5756984
+},
+{
+  "type": "node",
+  "id": 10248316293,
+  "lat": 36.9904664,
+  "lon": 126.5756541
+},
+{
+  "type": "node",
+  "id": 10248316294,
+  "lat": 36.9905339,
+  "lon": 126.5757093
+},
+{
+  "type": "node",
+  "id": 10248316300,
+  "lat": 36.9903238,
+  "lon": 126.5760386
+},
+{
+  "type": "node",
+  "id": 10248316301,
+  "lat": 36.9904047,
+  "lon": 126.5760654
+},
+{
+  "type": "node",
+  "id": 10248331117,
+  "lat": 36.9907078,
+  "lon": 126.5752682
+},
+{
+  "type": "node",
+  "id": 10248331118,
+  "lat": 36.9905984,
+  "lon": 126.5753126
+},
+{
+  "type": "node",
+  "id": 10248233726,
+  "lat": 36.9888645,
+  "lon": 126.5803735
+},
+{
+  "type": "node",
+  "id": 10248233741,
+  "lat": 36.9892436,
+  "lon": 126.5789510
+},
+{
+  "type": "node",
+  "id": 10248233742,
+  "lat": 36.9888460,
+  "lon": 126.5800623
+},
+{
+  "type": "node",
+  "id": 10248233743,
+  "lat": 36.9887475,
+  "lon": 126.5803707
+},
+{
+  "type": "node",
+  "id": 10248233744,
+  "lat": 36.9886704,
+  "lon": 126.5806792
+},
+{
+  "type": "node",
+  "id": 10248233745,
+  "lat": 36.9885997,
+  "lon": 126.5811808
+},
+{
+  "type": "node",
+  "id": 10248233746,
+  "lat": 36.9884861,
+  "lon": 126.5824199
+},
+{
+  "type": "node",
+  "id": 10248233755,
+  "lat": 36.9893748,
+  "lon": 126.5789060
+},
+{
+  "type": "node",
+  "id": 10248233756,
+  "lat": 36.9889104,
+  "lon": 126.5802029
+},
+{
+  "type": "node",
+  "id": 10248233757,
+  "lat": 36.9888098,
+  "lon": 126.5805769
+},
+{
+  "type": "node",
+  "id": 10248233758,
+  "lat": 36.9887448,
+  "lon": 126.5809591
+},
+{
+  "type": "node",
+  "id": 10248233759,
+  "lat": 36.9886929,
+  "lon": 126.5813372
+},
+{
+  "type": "node",
+  "id": 10248233760,
+  "lat": 36.9885906,
+  "lon": 126.5823211
+},
+{
+  "type": "node",
+  "id": 10248234139,
+  "lat": 36.9886765,
+  "lon": 126.5814948
+},
+{
+  "type": "node",
+  "id": 10248234140,
+  "lat": 36.9885702,
+  "lon": 126.5815018
+},
+{
+  "type": "node",
+  "id": 10248316276,
+  "lat": 36.9886153,
+  "lon": 126.5810702
+},
+{
+  "type": "node",
+  "id": 10248316285,
+  "lat": 36.9885408,
+  "lon": 126.5818231
+},
+{
+  "type": "node",
+  "id": 10248233728,
+  "lat": 36.9878547,
+  "lon": 126.5847188
+},
+{
+  "type": "node",
+  "id": 10248233739,
+  "lat": 36.9874583,
+  "lon": 126.5855679
+},
+{
+  "type": "node",
+  "id": 10248233747,
+  "lat": 36.9884411,
+  "lon": 126.5828357
+},
+{
+  "type": "node",
+  "id": 10248233748,
+  "lat": 36.9884026,
+  "lon": 126.5830959
+},
+{
+  "type": "node",
+  "id": 10248233749,
+  "lat": 36.9883468,
+  "lon": 126.5833507
+},
+{
+  "type": "node",
+  "id": 10248233750,
+  "lat": 36.9882654,
+  "lon": 126.5836082
+},
+{
+  "type": "node",
+  "id": 10248233751,
+  "lat": 36.9881583,
+  "lon": 126.5839059
+},
+{
+  "type": "node",
+  "id": 10248233752,
+  "lat": 36.9879162,
+  "lon": 126.5844450
+},
+{
+  "type": "node",
+  "id": 10248233753,
+  "lat": 36.9873752,
+  "lon": 126.5855347
+},
+{
+  "type": "node",
+  "id": 10248233761,
+  "lat": 36.9885193,
+  "lon": 126.5828357
+},
+{
+  "type": "node",
+  "id": 10248233762,
+  "lat": 36.9884676,
+  "lon": 126.5831376
+},
+{
+  "type": "node",
+  "id": 10248233763,
+  "lat": 36.9883936,
+  "lon": 126.5834402
+},
+{
+  "type": "node",
+  "id": 10248233764,
+  "lat": 36.9883097,
+  "lon": 126.5837157
+},
+{
+  "type": "node",
+  "id": 10248233765,
+  "lat": 36.9882053,
+  "lon": 126.5839679
+},
+{
+  "type": "node",
+  "id": 10248316240,
+  "lat": 36.9875907,
+  "lon": 126.5851007
+},
+{
+  "type": "node",
+  "id": 10248316275,
+  "lat": 36.9876927,
+  "lon": 126.5850658
+},
+{
+  "type": "node",
+  "id": 10248184405,
+  "lat": 36.9980880,
+  "lon": 126.5689835
+},
+{
+  "type": "node",
+  "id": 10248184406,
+  "lat": 36.9977428,
+  "lon": 126.5692121
+},
+{
+  "type": "node",
+  "id": 10248184416,
+  "lat": 36.9982345,
+  "lon": 126.5690370
+},
+{
+  "type": "node",
+  "id": 10248184420,
+  "lat": 36.9972174,
+  "lon": 126.5695115
+},
+{
+  "type": "node",
+  "id": 10248184481,
+  "lat": 36.9978827,
+  "lon": 126.5692531
+},
+{
+  "type": "node",
+  "id": 10248184482,
+  "lat": 36.9974228,
+  "lon": 126.5694941
+},
+{
+  "type": "node",
+  "id": 10248184417,
+  "lat": 36.9964810,
+  "lon": 126.5700351
+},
+{
+  "type": "node",
+  "id": 10248184418,
+  "lat": 36.9947644,
+  "lon": 126.5709236
+},
+{
+  "type": "node",
+  "id": 10248184421,
+  "lat": 36.9963228,
+  "lon": 126.5700039
+},
+{
+  "type": "node",
+  "id": 10248184422,
+  "lat": 36.9957037,
+  "lon": 126.5702899
+},
+{
+  "type": "node",
+  "id": 10248184423,
+  "lat": 36.9948639,
+  "lon": 126.5707263
+},
+{
+  "type": "node",
+  "id": 10248184424,
+  "lat": 36.9942315,
+  "lon": 126.5711120
+},
+{
+  "type": "node",
+  "id": 10248184425,
+  "lat": 36.9932605,
+  "lon": 126.5716841
+},
+{
+  "type": "node",
+  "id": 10248184427,
+  "lat": 36.9929066,
+  "lon": 126.5719508
+},
+{
+  "type": "node",
+  "id": 10248184428,
+  "lat": 36.9925791,
+  "lon": 126.5722241
+},
+{
+  "type": "node",
+  "id": 10248184429,
+  "lat": 36.9922441,
+  "lon": 126.5725729
+},
+{
+  "type": "node",
+  "id": 10248184430,
+  "lat": 36.9918300,
+  "lon": 126.5730913
+},
+{
+  "type": "node",
+  "id": 10248184483,
+  "lat": 36.9963564,
+  "lon": 126.5701066
+},
+{
+  "type": "node",
+  "id": 10248184484,
+  "lat": 36.9960243,
+  "lon": 126.5702905
+},
+{
+  "type": "node",
+  "id": 10248184485,
+  "lat": 36.9954691,
+  "lon": 126.5705472
+},
+{
+  "type": "node",
+  "id": 10248184486,
+  "lat": 36.9942224,
+  "lon": 126.5712529
+},
+{
+  "type": "node",
+  "id": 10248184487,
+  "lat": 36.9935526,
+  "lon": 126.5716429
+},
+{
+  "type": "node",
+  "id": 10248184488,
+  "lat": 36.9932214,
+  "lon": 126.5718626
+},
+{
+  "type": "node",
+  "id": 10248184489,
+  "lat": 36.9929124,
+  "lon": 126.5720885
+},
+{
+  "type": "node",
+  "id": 10248184490,
+  "lat": 36.9925194,
+  "lon": 126.5724196
+},
+{
+  "type": "node",
+  "id": 10248184491,
+  "lat": 36.9922129,
+  "lon": 126.5727291
+},
+{
+  "type": "node",
+  "id": 10248184492,
+  "lat": 36.9919361,
+  "lon": 126.5730881
+},
+{
+  "type": "node",
+  "id": 10248184497,
+  "lat": 36.9937981,
+  "lon": 126.5713674
+},
+{
+  "type": "node",
+  "id": 10248184498,
+  "lat": 36.9937981,
+  "lon": 126.5715000
+},
+{
+  "type": "node",
+  "id": 10248184505,
+  "lat": 36.9936525,
+  "lon": 126.5714532
+},
+{
+  "type": "node",
+  "id": 10248184506,
+  "lat": 36.9936459,
+  "lon": 126.5715885
+},
+{
+  "type": "node",
+  "id": 10248184515,
+  "lat": 36.9943900,
+  "lon": 126.5711640
+},
+{
+  "type": "node",
+  "id": 10248184516,
+  "lat": 36.9944080,
+  "lon": 126.5710148
+},
+{
+  "type": "node",
+  "id": 10248184520,
+  "lat": 36.9951732,
+  "lon": 126.5705429
+},
+{
+  "type": "node",
+  "id": 10248184521,
+  "lat": 36.9947338,
+  "lon": 126.5709411
+},
+{
+  "type": "node",
+  "id": 10248184522,
+  "lat": 36.9951327,
+  "lon": 126.5707132
+},
+{
+  "type": "node",
+  "id": 10248196980,
+  "lat": 36.9945655,
+  "lon": 126.5710502
+},
+{
+  "type": "node",
+  "id": 10248196981,
+  "lat": 36.9946737,
+  "lon": 126.5708466
+},
+{
+  "type": "node",
+  "id": 10248196993,
+  "lat": 36.9934526,
+  "lon": 126.5715709
+},
+{
+  "type": "node",
+  "id": 10248196994,
+  "lat": 36.9934230,
+  "lon": 126.5717289
+},
+{
+  "type": "node",
+  "id": 3680012129,
+  "lat": 36.9994294,
+  "lon": 126.5679710
+},
+{
+  "type": "node",
+  "id": 10248184363,
+  "lat": 37.0002536,
+  "lon": 126.5666774
+},
+{
+  "type": "node",
+  "id": 10248184365,
+  "lat": 37.0008080,
+  "lon": 126.5654304
+},
+{
+  "type": "node",
+  "id": 10248184366,
+  "lat": 37.0008879,
+  "lon": 126.5654411
+},
+{
+  "type": "node",
+  "id": 10248184394,
+  "lat": 37.0017222,
+  "lon": 126.5636456
+},
+{
+  "type": "node",
+  "id": 10248184396,
+  "lat": 37.0008400,
+  "lon": 126.5653679
+},
+{
+  "type": "node",
+  "id": 10248184397,
+  "lat": 37.0004134,
+  "lon": 126.5662064
+},
+{
+  "type": "node",
+  "id": 10248184398,
+  "lat": 37.0001330,
+  "lon": 126.5666942
+},
+{
+  "type": "node",
+  "id": 10248184399,
+  "lat": 36.9997382,
+  "lon": 126.5673852
+},
+{
+  "type": "node",
+  "id": 10248184400,
+  "lat": 36.9996284,
+  "lon": 126.5675673
+},
+{
+  "type": "node",
+  "id": 10248184401,
+  "lat": 36.9994886,
+  "lon": 126.5677584
+},
+{
+  "type": "node",
+  "id": 10248184402,
+  "lat": 36.9993146,
+  "lon": 126.5679495
+},
+{
+  "type": "node",
+  "id": 10248184403,
+  "lat": 36.9989038,
+  "lon": 126.5683174
+},
+{
+  "type": "node",
+  "id": 10248184404,
+  "lat": 36.9984060,
+  "lon": 126.5687389
+},
+{
+  "type": "node",
+  "id": 10248184407,
+  "lat": 37.0003091,
+  "lon": 126.5665753
+},
+{
+  "type": "node",
+  "id": 10248184408,
+  "lat": 37.0000331,
+  "lon": 126.5670830
+},
+{
+  "type": "node",
+  "id": 10248184409,
+  "lat": 36.9998619,
+  "lon": 126.5673705
+},
+{
+  "type": "node",
+  "id": 10248184410,
+  "lat": 36.9997188,
+  "lon": 126.5675991
+},
+{
+  "type": "node",
+  "id": 10248184411,
+  "lat": 36.9995871,
+  "lon": 126.5677829
+},
+{
+  "type": "node",
+  "id": 10248184412,
+  "lat": 36.9992879,
+  "lon": 126.5681104
+},
+{
+  "type": "node",
+  "id": 10248184413,
+  "lat": 36.9989566,
+  "lon": 126.5684168
+},
+{
+  "type": "node",
+  "id": 10248184414,
+  "lat": 36.9986875,
+  "lon": 126.5686689
+},
+{
+  "type": "node",
+  "id": 10248184415,
+  "lat": 36.9984598,
+  "lon": 126.5688551
+},
+{
+  "type": "node",
+  "id": 10248184437,
+  "lat": 36.9993677,
+  "lon": 126.5678912
+},
+{
+  "type": "node",
+  "id": 10248184438,
+  "lat": 36.9995132,
+  "lon": 126.5678811
+},
+{
+  "type": "node",
+  "id": 10248184444,
+  "lat": 36.9996025,
+  "lon": 126.5677614
+},
+{
+  "type": "node",
+  "id": 10248184459,
+  "lat": 36.9995460,
+  "lon": 126.5676799
+},
+{
+  "type": "node",
+  "id": 10248184473,
+  "lat": 36.9991547,
+  "lon": 126.5680927
+},
+{
+  "type": "node",
+  "id": 10248184474,
+  "lat": 36.9992003,
+  "lon": 126.5681914
 },
 {
   "type": "node",
