@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2022-12-22T18:45:32Z",
-    "timestamp_areas_base": "2022-12-22T17:48:44Z",
+    "timestamp_osm_base": "2022-12-23T18:45:07Z",
+    "timestamp_areas_base": "2022-12-23T17:58:09Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -23098,10 +23098,13 @@
   "nodes": [
     4718336160,
     4726116394,
+    10281638616,
     1929005134,
     1929005199
   ],
   "tags": {
+    "destination": "천안역;버스터미널",
+    "destination:lang:en": "Cheonan Station;Bus Terminal",
     "highway": "primary",
     "name": "만남로",
     "name:en": "Mannam-ro",
@@ -31136,10 +31139,8 @@
     414666401,
     5421511898,
     414666403,
-    414666404,
-    5421511895,
-    3557407679,
-    5421511894
+    10282451836,
+    414666404
   ],
   "tags": {
     "highway": "primary",
@@ -55824,6 +55825,26 @@
     "name:ko": "대해로",
     "oneway": "yes",
     "ref": "36;77"
+  }
+},
+{
+  "type": "way",
+  "id": 1124440926,
+  "nodes": [
+    414666404,
+    5421511895,
+    3557407679,
+    5421511894
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "논산대로",
+    "name:en": "Nonsan-daero",
+    "name:ko": "논산대로",
+    "ref": "1",
+    "review": "no",
+    "source": "Bing (adjusted)"
   }
 },
 {
@@ -98425,6 +98446,12 @@
   "id": 5421511898,
   "lat": 36.1917632,
   "lon": 127.0950128
+},
+{
+  "type": "node",
+  "id": 10282451836,
+  "lat": 36.1921783,
+  "lon": 127.0957434
 },
 {
   "type": "node",
@@ -160603,6 +160630,12 @@
   "id": 4726116394,
   "lat": 36.8222507,
   "lon": 127.1628029
+},
+{
+  "type": "node",
+  "id": 10281638616,
+  "lat": 36.8222083,
+  "lon": 127.1627842
 },
 {
   "type": "node",
