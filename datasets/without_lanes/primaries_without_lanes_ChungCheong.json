@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2022-12-24T18:45:24Z",
-    "timestamp_areas_base": "2022-12-24T18:05:53Z",
+    "timestamp_osm_base": "2022-12-25T18:45:39Z",
+    "timestamp_areas_base": "2022-12-25T18:07:09Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -7890,25 +7890,6 @@
     "name": "차정교",
     "name:ko": "차정교",
     "ref": "25"
-  }
-},
-{
-  "type": "way",
-  "id": 119332254,
-  "nodes": [
-    1341180421,
-    1341180436,
-    1341180437
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "차령로",
-    "name:en": "Charyeong-ro",
-    "name:ko": "차령로",
-    "oneway": "yes",
-    "ref": "23",
-    "review": "no",
-    "source": "Bing (adjusted)"
   }
 },
 {
@@ -28036,20 +28017,6 @@
     "ref": "19",
     "review": "no",
     "source": "NTIC"
-  }
-},
-{
-  "type": "way",
-  "id": 552603387,
-  "nodes": [
-    1341180438,
-    5335028241,
-    5335028242,
-    1341180420
-  ],
-  "tags": {
-    "highway": "primary",
-    "oneway": "yes"
   }
 },
 {
@@ -157708,48 +157675,6 @@
   "id": 1339275854,
   "lat": 36.5142474,
   "lon": 127.1233594
-},
-{
-  "type": "node",
-  "id": 1341180420,
-  "lat": 36.5912376,
-  "lon": 127.1170490
-},
-{
-  "type": "node",
-  "id": 1341180421,
-  "lat": 36.5912051,
-  "lon": 127.1171365
-},
-{
-  "type": "node",
-  "id": 1341180436,
-  "lat": 36.5920758,
-  "lon": 127.1169049
-},
-{
-  "type": "node",
-  "id": 1341180437,
-  "lat": 36.5933319,
-  "lon": 127.1167153
-},
-{
-  "type": "node",
-  "id": 1341180438,
-  "lat": 36.5933228,
-  "lon": 127.1166171
-},
-{
-  "type": "node",
-  "id": 5335028241,
-  "lat": 36.5930454,
-  "lon": 127.1166498
-},
-{
-  "type": "node",
-  "id": 5335028242,
-  "lat": 36.5920857,
-  "lon": 127.1168043
 },
 {
   "type": "node",
