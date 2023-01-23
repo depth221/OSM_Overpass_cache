@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2023-01-22T18:44:54Z",
-    "timestamp_areas_base": "2023-01-22T17:48:05Z",
+    "timestamp_osm_base": "2023-01-23T18:45:35Z",
+    "timestamp_areas_base": "2023-01-23T16:35:42Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -983,7 +983,9 @@
   ],
   "tags": {
     "destination:backward": "서산;대산;대로리",
-    "destination:forward": "독곶리",
+    "destination:forward": "독곶리;대산석유화학단지;기은리",
+    "destination:lang:en:backward": "Seosan;Daesan;Daero-ri",
+    "destination:lang:en:forward": "Dokgot-ri;Daesan Petrochemical Complex;Gieun-ri",
     "highway": "primary",
     "maxspeed": "60",
     "name": "명지1로",
@@ -55352,7 +55354,9 @@
   ],
   "tags": {
     "destination:backward": "서산;대산;대로리",
-    "destination:forward": "독곶리",
+    "destination:forward": "독곶리;대산석유화학단지;기은리",
+    "destination:lang:en:backward": "Seosan;Daesan;Daero-ri",
+    "destination:lang:en:forward": "Dokgot-ri;Daesan Petrochemical Complex;Gieun-ri",
     "highway": "primary",
     "maxspeed": "30",
     "name": "명지1로",
@@ -55378,7 +55382,9 @@
   ],
   "tags": {
     "destination:backward": "서산;대산;대로리",
-    "destination:forward": "독곶리",
+    "destination:forward": "독곶리;기은리;대산석유화학단지",
+    "destination:lang:en:backward": "Seosan;Daesan;Daero-ri",
+    "destination:lang:en:forward": "Dokgot-ri;Gieun-ri;Daesan Petrochemical Complex",
     "highway": "primary",
     "maxspeed": "40",
     "name": "명지1로",
@@ -55434,7 +55440,9 @@
   ],
   "tags": {
     "destination:backward": "서산;대산;대로리",
-    "destination:forward": "독곶리",
+    "destination:forward": "독곶리;대산석유화학단지",
+    "destination:lang:en:backward": "Seosan;Daesan;Daero-ri",
+    "destination:lang:en:forward": "Dokgot-ri;Daesan Petrochemical Complex",
     "highway": "primary",
     "maxspeed": "60",
     "name": "명지1로",
@@ -55458,7 +55466,9 @@
   ],
   "tags": {
     "destination:backward": "서산;대산;대로리",
-    "destination:forward": "독곶리",
+    "destination:forward": "독곶리;대산석유화학단지",
+    "destination:lang:en:backward": "Seosan;Daesan;Daero-ri",
+    "destination:lang:en:forward": "Dokgot-ri;Daesan Petrochemical Complex",
     "highway": "primary",
     "maxspeed": "30",
     "name": "명지1로",
