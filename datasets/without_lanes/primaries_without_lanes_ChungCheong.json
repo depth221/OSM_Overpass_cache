@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2023-02-01T18:45:06Z",
-    "timestamp_areas_base": "2023-02-01T18:24:54Z",
+    "timestamp_osm_base": "2023-02-02T18:44:59Z",
+    "timestamp_areas_base": "2023-02-02T18:36:54Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -46983,6 +46983,7 @@
     6533461970,
     436749965,
     436749966,
+    10599760370,
     436749967,
     436749968,
     436749969,
@@ -54611,9 +54612,7 @@
   "id": 1098125085,
   "nodes": [
     437183461,
-    437183462,
-    437183463,
-    437016841
+    10601006321
   ],
   "tags": {
     "highway": "primary",
@@ -55769,6 +55768,26 @@
     "name:ko": "명지1로",
     "ncat": "국도",
     "ref": "38",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 1137216843,
+  "nodes": [
+    10601006321,
+    437183462,
+    437183463,
+    437016841
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "대금로",
+    "name:en": "Daegeum-ro",
+    "name:ko": "대금로",
+    "ncat": "지방도",
+    "ref": "82",
     "review": "no",
     "source": "NTIC"
   }
@@ -130392,8 +130411,8 @@
 {
   "type": "node",
   "id": 436749965,
-  "lat": 36.5069235,
-  "lon": 126.3499866
+  "lat": 36.5069135,
+  "lon": 126.3499972
 },
 {
   "type": "node",
@@ -130496,6 +130515,12 @@
   "id": 8073426673,
   "lat": 36.5110498,
   "lon": 126.3487179
+},
+{
+  "type": "node",
+  "id": 10599760370,
+  "lat": 36.5070704,
+  "lon": 126.3498577
 },
 {
   "type": "node",
@@ -163514,6 +163539,12 @@
   "id": 10054890902,
   "lat": 36.9692051,
   "lon": 127.4896244
+},
+{
+  "type": "node",
+  "id": 10601006321,
+  "lat": 36.9695008,
+  "lon": 127.4890284
 },
 {
   "type": "node",
