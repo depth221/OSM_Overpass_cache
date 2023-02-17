@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2023-02-16T18:44:00Z",
-    "timestamp_areas_base": "2023-02-16T04:58:03Z",
+    "timestamp_osm_base": "2023-02-17T18:45:09Z",
+    "timestamp_areas_base": "2023-02-17T08:12:59Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3729,6 +3729,8 @@
     4637174517
   ],
   "tags": {
+    "destination": "대전;세종시청;정부세종청사",
+    "destination:lang:en": "Daejeon;Sejong City Hall;Government Complex Sejong",
     "highway": "primary",
     "name": "허만석로",
     "name:en": "Heomanseok-ro",
@@ -16174,22 +16176,6 @@
 },
 {
   "type": "way",
-  "id": 206802009,
-  "nodes": [
-    436605763,
-    2168487432
-  ],
-  "tags": {
-    "bridge": "yes",
-    "highway": "primary",
-    "layer": "1",
-    "name": "조천교",
-    "oneway": "yes",
-    "ref": "36"
-  }
-},
-{
-  "type": "way",
   "id": 217824412,
   "nodes": [
     8336649257,
@@ -21283,28 +21269,14 @@
 },
 {
   "type": "way",
-  "id": 442693796,
-  "nodes": [
-    4403654229,
-    4403654230
-  ],
-  "tags": {
-    "bridge": "yes",
-    "highway": "primary",
-    "layer": "1",
-    "name": "조천교",
-    "oneway": "yes",
-    "ref": "36"
-  }
-},
-{
-  "type": "way",
   "id": 442693797,
   "nodes": [
     6525105133,
     4403654229
   ],
   "tags": {
+    "destination": "청주국제공항;청주IC;오송역",
+    "destination:lang:en": "Cheongju Intl Airport;Cheongju IC;Osong Station",
     "highway": "primary",
     "name": "조치원로",
     "name:en": "Jochiwon-ro",
@@ -28370,6 +28342,8 @@
     5369972149
   ],
   "tags": {
+    "destination": "평택;천안;조치원",
+    "destination:lang:en": "Pyeongtaek;Cheonan;Jochiwon",
     "highway": "primary",
     "name": "가로수로",
     "name:en": "Garosu-ro",
@@ -39707,6 +39681,8 @@
     6525105133
   ],
   "tags": {
+    "destination": "청주국제공항;청주IC;오송역",
+    "destination:lang:en": "Cheongju Intl Airport;Cheongju IC;Osong Station",
     "highway": "primary",
     "name": "조치원로",
     "name:en": "Jochiwon-ro",
@@ -43166,6 +43142,8 @@
     8606248403
   ],
   "tags": {
+    "destination": "서산;당진;삽교호",
+    "destination:lang:en": "Seosan;Dangjin;Sapgyoho",
     "highway": "primary",
     "name": "서해로",
     "name:en": "Seohae-ro",
@@ -47744,6 +47722,8 @@
     8336642471
   ],
   "tags": {
+    "destination": "청주;청주IC",
+    "destination:lang:en": "Cheongju;Cheongju IC",
     "highway": "primary",
     "name": "가로수로",
     "name:en": "Garosu-ro",
@@ -48466,6 +48446,8 @@
     10284550141
   ],
   "tags": {
+    "destination": "평택;아산;둔포",
+    "destination:lang:en": "Pyeongtaek;Asan;Dunpo",
     "highway": "primary",
     "name": "서해로",
     "name:en": "Seohae-ro",
@@ -157811,8 +157793,8 @@
 {
   "type": "node",
   "id": 414673697,
-  "lat": 36.6030830,
-  "lon": 127.3047692
+  "lat": 36.6030733,
+  "lon": 127.3047719
 },
 {
   "type": "node",
@@ -157858,12 +157840,6 @@
 },
 {
   "type": "node",
-  "id": 436605763,
-  "lat": 36.6037425,
-  "lon": 127.3062987
-},
-{
-  "type": "node",
   "id": 1931647169,
   "lat": 36.5986680,
   "lon": 127.3048537
@@ -157897,12 +157873,6 @@
   "id": 4403654229,
   "lat": 36.6031253,
   "lon": 127.3050641
-},
-{
-  "type": "node",
-  "id": 4403654230,
-  "lat": 36.6036114,
-  "lon": 127.3063785
 },
 {
   "type": "node",
