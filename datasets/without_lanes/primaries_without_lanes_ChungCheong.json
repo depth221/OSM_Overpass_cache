@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.59 e21c39fe",
+  "generator": "Overpass API 0.7.59.2 0994154d",
   "osm3s": {
-    "timestamp_osm_base": "2023-02-17T18:45:09Z",
-    "timestamp_areas_base": "2023-02-17T08:12:59Z",
+    "timestamp_osm_base": "2023-02-18T18:44:29Z",
+    "timestamp_areas_base": "2023-02-18T17:42:54Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -17930,9 +17930,12 @@
     8336649218,
     3316035078,
     3316035080,
+    10675618762,
     3316035081
   ],
   "tags": {
+    "destination": "청주국제공항;청주;청주IC",
+    "destination:lang:en": "Cheongju Intl Airport;Cheongju;Cheongju IC",
     "highway": "primary",
     "name": "가로수로",
     "name:en": "Garosu-ro",
@@ -28323,6 +28326,8 @@
     3759911806
   ],
   "tags": {
+    "destination": "청주국제공항;청주시청;청주IC",
+    "destination:lang:en": "Cheongju Intl Airport;Cheongju City Hall;Cheongju IC",
     "highway": "primary",
     "name": "가로수로",
     "name:en": "Garosu-ro",
@@ -41347,6 +41352,7 @@
     8336642472
   ],
   "tags": {
+    "destination": "평택;천안;세종",
     "highway": "primary",
     "name": "가로수로",
     "name:en": "Garosu-ro",
@@ -48021,6 +48027,7 @@
     437011669
   ],
   "tags": {
+    "destination": "평택;천안;세종",
     "highway": "primary",
     "name": "가로수로",
     "name:en": "Garosu-ro",
@@ -48034,12 +48041,15 @@
   "id": 896871853,
   "nodes": [
     3316035081,
+    10675618764,
     4692527438,
     8336649219,
     5369956514,
     5369956515
   ],
   "tags": {
+    "destination": "청주국제공항;청주;청주IC",
+    "destination:lang:en": "Cheongju Intl Airport;Cheongju;Cheongju IC",
     "highway": "primary",
     "name": "가로수로",
     "name:en": "Garosu-ro",
@@ -158603,8 +158613,8 @@
 {
   "type": "node",
   "id": 437011669,
-  "lat": 36.6237579,
-  "lon": 127.3586816
+  "lat": 36.6237508,
+  "lon": 127.3585902
 },
 {
   "type": "node",
@@ -158639,8 +158649,8 @@
 {
   "type": "node",
   "id": 3316035081,
-  "lat": 36.6236571,
-  "lon": 127.3586741
+  "lat": 36.6236378,
+  "lon": 127.3585845
 },
 {
   "type": "node",
@@ -158767,6 +158777,18 @@
   "id": 8336649219,
   "lat": 36.6237891,
   "lon": 127.3602593
+},
+{
+  "type": "node",
+  "id": 10675618762,
+  "lat": 36.6236088,
+  "lon": 127.3582728
+},
+{
+  "type": "node",
+  "id": 10675618764,
+  "lat": 36.6236588,
+  "lon": 127.3588341
 },
 {
   "type": "node",
