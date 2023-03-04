@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.59 e21c39fe",
+  "generator": "Overpass API 0.7.59.2 0994154d",
   "osm3s": {
-    "timestamp_osm_base": "2023-03-03T18:43:54Z",
-    "timestamp_areas_base": "2023-03-03T04:37:49Z",
+    "timestamp_osm_base": "2023-03-04T18:44:54Z",
+    "timestamp_areas_base": "2023-03-04T14:36:23Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -7411,6 +7411,7 @@
     10567708573,
     1243128138,
     1243128301,
+    10709445286,
     1243128558,
     1243128552,
     1243128359,
@@ -29882,6 +29883,10 @@
     8096927931
   ],
   "tags": {
+    "destination:backward": "Daesan;Taean;Seosan",
+    "destination:forward": "대산;태안;서산",
+    "destination:lang:en:backward": "Seosan IC;Unsan",
+    "destination:lang:en:forward": "서산IC;운산",
     "highway": "primary",
     "name": "운암로",
     "name:en": "Unam-ro",
@@ -55281,10 +55286,13 @@
     8096927931,
     3508586085,
     8356981171,
-    8542919097,
     436585617
   ],
   "tags": {
+    "destination:backward": "Daesan;Taean;Seosan",
+    "destination:forward": "대산;태안;서산",
+    "destination:lang:en:backward": "Seosan IC;Unsan",
+    "destination:lang:en:forward": "서산IC;운산",
     "highway": "primary",
     "name": "운암로",
     "name:en": "Unam-ro",
@@ -102777,6 +102785,12 @@
 },
 {
   "type": "node",
+  "id": 10709445286,
+  "lat": 36.4605983,
+  "lon": 127.2361536
+},
+{
+  "type": "node",
   "id": 1243128138,
   "lat": 36.4613970,
   "lon": 127.2378317
@@ -138370,8 +138384,8 @@
 {
   "type": "node",
   "id": 3508586085,
-  "lat": 36.8126276,
-  "lon": 126.5638394
+  "lat": 36.8126411,
+  "lon": 126.5638594
 },
 {
   "type": "node",
@@ -138382,14 +138396,8 @@
 {
   "type": "node",
   "id": 8356981171,
-  "lat": 36.8126751,
-  "lon": 126.5637935
-},
-{
-  "type": "node",
-  "id": 8542919097,
-  "lat": 36.8127565,
-  "lon": 126.5637146
+  "lat": 36.8126870,
+  "lon": 126.5638112
 },
 {
   "type": "node",
