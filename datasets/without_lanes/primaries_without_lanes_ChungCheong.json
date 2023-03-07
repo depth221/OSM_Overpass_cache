@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.59.3 7cc7a2b6",
+  "generator": "Overpass API 0.7.59.2 0994154d",
   "osm3s": {
-    "timestamp_osm_base": "2023-03-06T18:46:53Z",
-    "timestamp_areas_base": "2023-03-06T16:00:39Z",
+    "timestamp_osm_base": "2023-03-07T18:45:53Z",
+    "timestamp_areas_base": "2023-03-07T18:12:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -9931,23 +9931,6 @@
 },
 {
   "type": "way",
-  "id": 121328162,
-  "nodes": [
-    1358914257,
-    1358914276,
-    1358914293,
-    1358914300,
-    1358914307
-  ],
-  "tags": {
-    "highway": "primary",
-    "oneway": "yes",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
   "id": 121328163,
   "nodes": [
     1358912400,
@@ -9961,24 +9944,6 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "oneway": "yes",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 121328167,
-  "nodes": [
-    1358914329,
-    1358914304,
-    1358914295,
-    1358914279,
-    1358914266,
-    1358914257
-  ],
-  "tags": {
-    "highway": "primary",
     "oneway": "yes",
     "review": "no",
     "source": "Bing (adjusted)"
@@ -55701,54 +55666,6 @@
     "name:en": "Janggi-ro",
     "name:ko": "장기로",
     "oneway": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 1105519648,
-  "nodes": [
-    10116512388,
-    10116512232,
-    10116512391,
-    10116512233,
-    10116512387
-  ],
-  "tags": {
-    "bridge": "yes",
-    "highway": "primary",
-    "layer": "1",
-    "name": "한티로",
-    "name:en": "Hanti-ro",
-    "name:ko": "한티로",
-    "oneway": "yes",
-    "ref": "45;70",
-    "review": "no",
-    "source": "NTIC",
-    "wikidata": "Q16099545",
-    "wikipedia": "ko:국도 제45호선"
-  }
-},
-{
-  "type": "way",
-  "id": 1105519650,
-  "nodes": [
-    10116512389,
-    10116512299,
-    10116512390
-  ],
-  "tags": {
-    "bridge": "yes",
-    "highway": "primary",
-    "layer": "1",
-    "name": "한티로",
-    "name:en": "Hanti-ro",
-    "name:ko": "한티로",
-    "oneway": "yes",
-    "ref": "45;70",
-    "review": "no",
-    "source": "NTIC",
-    "wikidata": "Q16099545",
-    "wikipedia": "ko:국도 제45호선"
   }
 },
 {
@@ -139514,54 +139431,6 @@
 },
 {
   "type": "node",
-  "id": 10116512232,
-  "lat": 36.6712024,
-  "lon": 126.5796439
-},
-{
-  "type": "node",
-  "id": 10116512233,
-  "lat": 36.6714177,
-  "lon": 126.5795094
-},
-{
-  "type": "node",
-  "id": 10116512299,
-  "lat": 36.6712997,
-  "lon": 126.5794716
-},
-{
-  "type": "node",
-  "id": 10116512387,
-  "lat": 36.6714652,
-  "lon": 126.5794836
-},
-{
-  "type": "node",
-  "id": 10116512388,
-  "lat": 36.6711240,
-  "lon": 126.5797011
-},
-{
-  "type": "node",
-  "id": 10116512389,
-  "lat": 36.6714539,
-  "lon": 126.5793858
-},
-{
-  "type": "node",
-  "id": 10116512390,
-  "lat": 36.6710936,
-  "lon": 126.5796159
-},
-{
-  "type": "node",
-  "id": 10116512391,
-  "lat": 36.6712267,
-  "lon": 126.5796288
-},
-{
-  "type": "node",
   "id": 436669853,
   "lat": 36.6645557,
   "lon": 126.6344611
@@ -150068,66 +149937,6 @@
 },
 {
   "type": "node",
-  "id": 1358914257,
-  "lat": 36.6959204,
-  "lon": 126.7966132
-},
-{
-  "type": "node",
-  "id": 1358914266,
-  "lat": 36.6959999,
-  "lon": 126.7966259
-},
-{
-  "type": "node",
-  "id": 1358914276,
-  "lat": 36.6960226,
-  "lon": 126.7967605
-},
-{
-  "type": "node",
-  "id": 1358914279,
-  "lat": 36.6960601,
-  "lon": 126.7966174
-},
-{
-  "type": "node",
-  "id": 1358914293,
-  "lat": 36.6960976,
-  "lon": 126.7968596
-},
-{
-  "type": "node",
-  "id": 1358914295,
-  "lat": 36.6961021,
-  "lon": 126.7965834
-},
-{
-  "type": "node",
-  "id": 1358914300,
-  "lat": 36.6961305,
-  "lon": 126.7969220
-},
-{
-  "type": "node",
-  "id": 1358914304,
-  "lat": 36.6961419,
-  "lon": 126.7965381
-},
-{
-  "type": "node",
-  "id": 1358914307,
-  "lat": 36.6961493,
-  "lon": 126.7969659
-},
-{
-  "type": "node",
-  "id": 1358914329,
-  "lat": 36.6961886,
-  "lon": 126.7964404
-},
-{
-  "type": "node",
   "id": 436473758,
   "lat": 36.6831510,
   "lon": 126.8255983
@@ -150333,7 +150142,7 @@
 {
   "type": "node",
   "id": 4658715844,
-  "lat": 36.7102150,
+  "lat": 36.7102997,
   "lon": 126.8313654
 },
 {
