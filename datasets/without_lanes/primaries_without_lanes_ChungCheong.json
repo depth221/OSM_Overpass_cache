@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.59.4 36d058c8",
+  "generator": "Overpass API 0.7.59.2 0994154d",
   "osm3s": {
-    "timestamp_osm_base": "2023-03-10T18:44:52Z",
-    "timestamp_areas_base": "2023-03-10T14:46:54Z",
+    "timestamp_osm_base": "2023-03-11T18:45:24Z",
+    "timestamp_areas_base": "2023-03-11T18:04:54Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -721,23 +721,6 @@
     "ncat": "국도",
     "review": "no",
     "source": "NTIC"
-  }
-},
-{
-  "type": "way",
-  "id": 37390030,
-  "nodes": [
-    2260053053,
-    2260053049
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "가로수로",
-    "name:en": "Garosu-ro",
-    "name:ko": "가로수로",
-    "oneway": "yes",
-    "review": "no",
-    "source": "Bing (adjusted)"
   }
 },
 {
@@ -16169,6 +16152,8 @@
     2248152989
   ],
   "tags": {
+    "destination": "세종;오송역;청주IC",
+    "destination:lang:en": "Sejong;Osong Station;Cheongju IC",
     "highway": "primary",
     "name": "가로수로",
     "name:en": "Garosu-ro",
@@ -16186,6 +16171,8 @@
     2261340187
   ],
   "tags": {
+    "destination": "세종;오송역;청주IC",
+    "destination:lang:en": "Sejong;Osong Station;Cheongju IC",
     "highway": "primary",
     "oneway": "yes",
     "review": "no",
@@ -16201,6 +16188,8 @@
     2260053033
   ],
   "tags": {
+    "destination": "세종;오송역;청주IC",
+    "destination:lang:en": "Sejong;Osong Station;Cheongju IC",
     "highway": "primary",
     "name": "가로수로",
     "name:en": "Garosu-ro",
@@ -16214,16 +16203,16 @@
   "type": "way",
   "id": 216735159,
   "nodes": [
-    1621248704,
     2261340209,
     2261340207,
+    10727177577,
     2261340205,
     2268029053,
-    2260053115,
-    2261340194,
-    8979373308
+    2260053115
   ],
   "tags": {
+    "destination": "세종;청주IC;버스터미널",
+    "destination:lang:en": "Sejong;Cheongju IC;Bus Terminal",
     "highway": "primary",
     "name": "가로수로",
     "name:en": "Garosu-ro",
@@ -16255,9 +16244,13 @@
     10715138548,
     2271287025,
     2271287030,
+    10727177550,
+    10727177551,
     2260052929
   ],
   "tags": {
+    "destination": "도청;시청;버스터미널",
+    "destination:lang:en": "Provincal Office;City Hall;Bus Terminal",
     "highway": "primary",
     "oneway": "yes",
     "review": "no",
@@ -16273,9 +16266,12 @@
     10713702320,
     10202153966,
     2248152983,
+    10727177554,
     5370171664
   ],
   "tags": {
+    "destination": "세종;오송역;청주IC",
+    "destination:lang:en": "Sejong;Osong Station;Cheongju IC",
     "highway": "primary",
     "name": "가로수로",
     "name:en": "Garosu-ro",
@@ -16325,6 +16321,8 @@
     2260053124
   ],
   "tags": {
+    "destination": "세종;청주IC;버스터미널",
+    "destination:lang:en": "Sejong;Cheongju IC;Bus Terminal",
     "highway": "primary",
     "name": "가로수로",
     "name:en": "Garosu-ro",
@@ -29207,13 +29205,17 @@
   "type": "way",
   "id": 556724928,
   "nodes": [
-    2260052936,
+    2260052929,
     2260052956,
     2260052977,
     2260053010,
-    2260053038
+    2260053038,
+    10713702321,
+    2260053042
   ],
   "tags": {
+    "destination": "도청;시청;충북대학교",
+    "destination:lang:en": "Provincal Office;City Hall;Chungbuk Natl Univ",
     "highway": "primary",
     "name": "가로수로",
     "name:en": "Garosu-ro",
@@ -29227,15 +29229,12 @@
   "type": "way",
   "id": 556724931,
   "nodes": [
-    309944972,
+    5370171664,
     2271287034,
-    2271287026,
     2271378261,
-    436605806,
     2271287010,
     2271287005,
     436605807,
-    2271287001,
     2271286995,
     2271286988,
     2271286960,
@@ -29244,6 +29243,8 @@
     10680221404
   ],
   "tags": {
+    "destination": "세종;오송역;청주IC",
+    "destination:lang:en": "Sejong;Osong Station;Cheongju IC",
     "highway": "primary",
     "name": "가로수로",
     "name:en": "Garosu-ro",
@@ -29286,6 +29287,8 @@
     2248152989
   ],
   "tags": {
+    "destination": "세종;오송역;청주IC",
+    "destination:lang:en": "Sejong;Osong Station;Cheongju IC",
     "highway": "primary",
     "name": "가로수로",
     "name:en": "Garosu-ro",
@@ -29303,23 +29306,8 @@
     2261340189
   ],
   "tags": {
-    "highway": "primary",
-    "name": "가로수로",
-    "name:en": "Garosu-ro",
-    "name:ko": "가로수로",
-    "oneway": "yes",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 556733552,
-  "nodes": [
-    5370171664,
-    309944972
-  ],
-  "tags": {
+    "destination": "세종;오송역;청주IC",
+    "destination:lang:en": "Sejong;Osong Station;Cheongju IC",
     "highway": "primary",
     "name": "가로수로",
     "name:en": "Garosu-ro",
@@ -31661,25 +31649,6 @@
     "ref": "96;603",
     "review": "no",
     "source": "NTIC"
-  }
-},
-{
-  "type": "way",
-  "id": 565092611,
-  "nodes": [
-    5443218485,
-    2260052929,
-    2260052932,
-    2260052936
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "가로수로",
-    "name:en": "Garosu-ro",
-    "name:ko": "가로수로",
-    "oneway": "yes",
-    "review": "no",
-    "source": "Bing (adjusted)"
   }
 },
 {
@@ -49835,41 +49804,6 @@
 },
 {
   "type": "way",
-  "id": 926565025,
-  "nodes": [
-    2260053042,
-    2260053050
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "가로수로",
-    "name:en": "Garosu-ro",
-    "name:ko": "가로수로",
-    "oneway": "yes",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 926565026,
-  "nodes": [
-    2260053038,
-    10713702321,
-    2260053042
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "가로수로",
-    "name:en": "Garosu-ro",
-    "name:ko": "가로수로",
-    "oneway": "yes",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
   "id": 931715437,
   "nodes": [
     7859572037,
@@ -50539,6 +50473,8 @@
     8979404947
   ],
   "tags": {
+    "destination": "도청;시청;충북대학교",
+    "destination:lang:en": "Provincal Office;City Hall;Chungbuk Natl Univ",
     "highway": "primary",
     "oneway": "yes"
   }
@@ -56905,6 +56841,8 @@
     10680298224
   ],
   "tags": {
+    "destination": "세종;오송역;청주IC",
+    "destination:lang:en": "Sejong;Osong Station;Cheongju IC",
     "highway": "primary",
     "name": "가로수로",
     "name:en": "Garosu-ro",
@@ -56924,20 +56862,19 @@
     2271286944,
     2271286962,
     2271286973,
-    2271286987,
     2271286991,
     2271286994,
     2271286998,
     2271287004,
-    2271287009,
     2271378255,
-    2271287020,
     2271287027,
     2271287035,
     5370153138,
     5443218485
   ],
   "tags": {
+    "destination": "도청;시청;버스터미널",
+    "destination:lang:en": "Provincal Office;City Hall;Bus Terminal",
     "highway": "primary",
     "name": "가로수로",
     "name:en": "Garosu-ro",
@@ -57003,6 +56940,8 @@
     2261340209
   ],
   "tags": {
+    "destination": "세종;청주IC;버스터미널",
+    "destination:lang:en": "Sejong;Cheongju IC;Bus Terminal",
     "highway": "primary",
     "oneway": "yes"
   }
@@ -57214,6 +57153,68 @@
     "name": "단재로",
     "name:en": "Danjae-ro",
     "name:ko": "단재로"
+  }
+},
+{
+  "type": "way",
+  "id": 1153405455,
+  "nodes": [
+    5443218485,
+    10727177555,
+    10727177549,
+    10727177552,
+    10727177553,
+    2260052929
+  ],
+  "tags": {
+    "destination": "도청;시청;버스터미널",
+    "destination:lang:en": "Provincal Office;City Hall;Bus Terminal",
+    "highway": "primary",
+    "name": "가로수로",
+    "name:en": "Garosu-ro",
+    "name:ko": "가로수로",
+    "oneway": "yes",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1153405457,
+  "nodes": [
+    2260053115,
+    2261340194,
+    8979373308
+  ],
+  "tags": {
+    "destination": "세종;오송역;청주IC",
+    "destination:lang:en": "Sejong;Osong Station;Cheongju IC",
+    "highway": "primary",
+    "name": "가로수로",
+    "name:en": "Garosu-ro",
+    "name:ko": "가로수로",
+    "oneway": "yes",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1153405460,
+  "nodes": [
+    1621248704,
+    2261340209
+  ],
+  "tags": {
+    "destination": "세종;청주IC;버스터미널",
+    "destination:lang:en": "Sejong;Cheongju IC;Bus Terminal",
+    "highway": "primary",
+    "name": "가로수로",
+    "name:en": "Garosu-ro",
+    "name:ko": "가로수로",
+    "oneway": "yes",
+    "review": "no",
+    "source": "Bing (adjusted)"
   }
 },
 {
@@ -161090,12 +161091,6 @@
 },
 {
   "type": "node",
-  "id": 2271286987,
-  "lat": 36.6264158,
-  "lon": 127.4213146
-},
-{
-  "type": "node",
   "id": 2271286988,
   "lat": 36.6264187,
   "lon": 127.4202150
@@ -161127,14 +161122,14 @@
 {
   "type": "node",
   "id": 10680221404,
-  "lat": 36.6261944,
-  "lon": 127.4171993
+  "lat": 36.6261939,
+  "lon": 127.4171937
 },
 {
   "type": "node",
   "id": 10680298205,
-  "lat": 36.6260794,
-  "lon": 127.4172191
+  "lat": 36.6260719,
+  "lon": 127.4172098
 },
 {
   "type": "node",
@@ -161165,18 +161160,6 @@
   "id": 10680298229,
   "lat": 36.6260790,
   "lon": 127.4166313
-},
-{
-  "type": "node",
-  "id": 309944972,
-  "lat": 36.6271678,
-  "lon": 127.4259205
-},
-{
-  "type": "node",
-  "id": 436605806,
-  "lat": 36.6267857,
-  "lon": 127.4236611
 },
 {
   "type": "node",
@@ -161217,18 +161200,6 @@
 {
   "type": "node",
   "id": 2260052929,
-  "lat": 36.6270430,
-  "lon": 127.4263402
-},
-{
-  "type": "node",
-  "id": 2260052932,
-  "lat": 36.6271498,
-  "lon": 127.4266339
-},
-{
-  "type": "node",
-  "id": 2260052936,
   "lat": 36.6273579,
   "lon": 127.4270393
 },
@@ -161306,12 +161277,6 @@
 },
 {
   "type": "node",
-  "id": 2271287001,
-  "lat": 36.6265681,
-  "lon": 127.4219234
-},
-{
-  "type": "node",
   "id": 2271287003,
   "lat": 36.6265922,
   "lon": 127.4236441
@@ -161327,12 +161292,6 @@
   "id": 2271287005,
   "lat": 36.6266359,
   "lon": 127.4227184
-},
-{
-  "type": "node",
-  "id": 2271287009,
-  "lat": 36.6266989,
-  "lon": 127.4236900
 },
 {
   "type": "node",
@@ -161354,21 +161313,9 @@
 },
 {
   "type": "node",
-  "id": 2271287020,
-  "lat": 36.6268443,
-  "lon": 127.4245720
-},
-{
-  "type": "node",
   "id": 2271287025,
-  "lat": 36.6269219,
-  "lon": 127.4259638
-},
-{
-  "type": "node",
-  "id": 2271287026,
-  "lat": 36.6269346,
-  "lon": 127.4245549
+  "lat": 36.6269447,
+  "lon": 127.4260004
 },
 {
   "type": "node",
@@ -161391,8 +161338,8 @@
 {
   "type": "node",
   "id": 2271287035,
-  "lat": 36.6270538,
-  "lon": 127.4259783
+  "lat": 36.6270116,
+  "lon": 127.4258137
 },
 {
   "type": "node",
@@ -161409,8 +161356,8 @@
 {
   "type": "node",
   "id": 2271378255,
-  "lat": 36.6267117,
-  "lon": 127.4237675
+  "lat": 36.6266977,
+  "lon": 127.4237709
 },
 {
   "type": "node",
@@ -161421,14 +161368,14 @@
 {
   "type": "node",
   "id": 2271378261,
-  "lat": 36.6268005,
-  "lon": 127.4237500
+  "lat": 36.6267962,
+  "lon": 127.4237511
 },
 {
   "type": "node",
   "id": 5370153138,
-  "lat": 36.6270619,
-  "lon": 127.4260657
+  "lat": 36.6270422,
+  "lon": 127.4260097
 },
 {
   "type": "node",
@@ -161463,8 +161410,50 @@
 {
   "type": "node",
   "id": 10715138548,
-  "lat": 36.6269212,
-  "lon": 127.4259587
+  "lat": 36.6269000,
+  "lon": 127.4257940
+},
+{
+  "type": "node",
+  "id": 10727177549,
+  "lat": 36.6271516,
+  "lon": 127.4264148
+},
+{
+  "type": "node",
+  "id": 10727177550,
+  "lat": 36.6270729,
+  "lon": 127.4264277
+},
+{
+  "type": "node",
+  "id": 10727177551,
+  "lat": 36.6271719,
+  "lon": 127.4266640
+},
+{
+  "type": "node",
+  "id": 10727177552,
+  "lat": 36.6272224,
+  "lon": 127.4266479
+},
+{
+  "type": "node",
+  "id": 10727177553,
+  "lat": 36.6272674,
+  "lon": 127.4267763
+},
+{
+  "type": "node",
+  "id": 10727177554,
+  "lat": 36.6272481,
+  "lon": 127.4262552
+},
+{
+  "type": "node",
+  "id": 10727177555,
+  "lat": 36.6271217,
+  "lon": 127.4263094
 },
 {
   "type": "node",
@@ -161483,18 +161472,6 @@
   "id": 2260053049,
   "lat": 36.6285830,
   "lon": 127.4282903
-},
-{
-  "type": "node",
-  "id": 2260053050,
-  "lat": 36.6285876,
-  "lon": 127.4284793
-},
-{
-  "type": "node",
-  "id": 2260053053,
-  "lat": 36.6286930,
-  "lon": 127.4283925
 },
 {
   "type": "node",
@@ -161747,6 +161724,12 @@
   "id": 10713702325,
   "lat": 36.6321670,
   "lon": 127.4315408
+},
+{
+  "type": "node",
+  "id": 10727177577,
+  "lat": 36.6314438,
+  "lon": 127.4308091
 },
 {
   "type": "node",
