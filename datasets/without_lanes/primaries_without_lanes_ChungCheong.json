@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.59.2 0994154d",
+  "generator": "Overpass API 0.7.59.4 36d058c8",
   "osm3s": {
-    "timestamp_osm_base": "2023-03-17T18:45:09Z",
-    "timestamp_areas_base": "2023-03-17T17:23:09Z",
+    "timestamp_osm_base": "2023-03-18T18:45:21Z",
+    "timestamp_areas_base": "2023-03-18T17:14:09Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -7140,6 +7140,7 @@
     1243070582,
     1243070701,
     1243070132,
+    10743010177,
     1243070296,
     1243070596,
     1243070381,
@@ -27517,29 +27518,6 @@
     "ref": "37",
     "review": "no",
     "source": "NTIC"
-  }
-},
-{
-  "type": "way",
-  "id": 546611681,
-  "nodes": [
-    5282218170,
-    1097717741,
-    1097717493,
-    1097717649,
-    1097717973,
-    1097718153,
-    1097718195,
-    5282218169
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "현충원로",
-    "name:en": "Hyeonchungwon-ro",
-    "name:ja": "顕忠院路",
-    "name:ko": "현충원로",
-    "oneway": "yes",
-    "ref": "32"
   }
 },
 {
@@ -104245,6 +104223,12 @@
 },
 {
   "type": "node",
+  "id": 10743010177,
+  "lat": 36.4446536,
+  "lon": 127.2247244
+},
+{
+  "type": "node",
   "id": 1243070604,
   "lat": 36.4476467,
   "lon": 127.2250408
@@ -105847,57 +105831,9 @@
 },
 {
   "type": "node",
-  "id": 1097717493,
-  "lat": 36.3595161,
-  "lon": 127.3211053
-},
-{
-  "type": "node",
-  "id": 1097717649,
-  "lat": 36.3595138,
-  "lon": 127.3206867
-},
-{
-  "type": "node",
-  "id": 1097717741,
-  "lat": 36.3595186,
-  "lon": 127.3215565
-},
-{
-  "type": "node",
   "id": 1097717873,
   "lat": 36.3594145,
   "lon": 127.3227673
-},
-{
-  "type": "node",
-  "id": 1097717973,
-  "lat": 36.3595113,
-  "lon": 127.3202515
-},
-{
-  "type": "node",
-  "id": 1097718153,
-  "lat": 36.3595090,
-  "lon": 127.3198368
-},
-{
-  "type": "node",
-  "id": 1097718195,
-  "lat": 36.3595066,
-  "lon": 127.3194141
-},
-{
-  "type": "node",
-  "id": 5282218169,
-  "lat": 36.3595067,
-  "lon": 127.3180632
-},
-{
-  "type": "node",
-  "id": 5282218170,
-  "lat": 36.3595394,
-  "lon": 127.3227414
 },
 {
   "type": "node",
