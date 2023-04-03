@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59.4 36d058c8",
   "osm3s": {
-    "timestamp_osm_base": "2023-04-02T18:45:38Z",
-    "timestamp_areas_base": "2023-04-02T17:26:37Z",
+    "timestamp_osm_base": "2023-04-03T18:45:38Z",
+    "timestamp_areas_base": "2023-04-03T16:17:46Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -34408,31 +34408,6 @@
 },
 {
   "type": "way",
-  "id": 605568852,
-  "nodes": [
-    414926720,
-    414926719
-  ],
-  "tags": {
-    "bridge": "yes",
-    "bridge:name": "용암교",
-    "bridge:name:en": "Yongam Bridge",
-    "bridge:name:ko-Latn": "Yongamgyo",
-    "bridge:structure": "beam",
-    "highway": "primary",
-    "layer": "1",
-    "name": "내포로",
-    "name:en": "Naepo-ro",
-    "name:ko": "내포로",
-    "ncat": "국도",
-    "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
-  }
-},
-{
-  "type": "way",
   "id": 607260117,
   "nodes": [
     414896729,
@@ -52631,30 +52606,6 @@
     "name:en": "Geumgang-ro",
     "name:ko": "금강로",
     "ref": "21"
-  }
-},
-{
-  "type": "way",
-  "id": 1016759415,
-  "nodes": [
-    9378018340,
-    9378010908
-  ],
-  "tags": {
-    "bridge": "yes",
-    "bridge:name": "용암교",
-    "bridge:name:en": "Yongam Bridge",
-    "bridge:name:ko-Latn": "Yongamgyo",
-    "highway": "primary",
-    "layer": "1",
-    "name": "내포로",
-    "name:en": "Naepo-ro",
-    "name:ko": "내포로",
-    "ncat": "국도",
-    "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
   }
 },
 {
@@ -75896,8 +75847,8 @@
 {
   "type": "node",
   "id": 436670076,
-  "lat": 36.2902267,
-  "lon": 126.7672603
+  "lat": 36.2902452,
+  "lon": 126.7672182
 },
 {
   "type": "node",
@@ -138064,30 +138015,6 @@
   "id": 10224998339,
   "lat": 36.6054862,
   "lon": 126.6549169
-},
-{
-  "type": "node",
-  "id": 414926719,
-  "lat": 36.6872502,
-  "lon": 126.5384909
-},
-{
-  "type": "node",
-  "id": 414926720,
-  "lat": 36.6870630,
-  "lon": 126.5383600
-},
-{
-  "type": "node",
-  "id": 9378010908,
-  "lat": 36.6871046,
-  "lon": 126.5382598
-},
-{
-  "type": "node",
-  "id": 9378018340,
-  "lat": 36.6872894,
-  "lon": 126.5383914
 },
 {
   "type": "node",
