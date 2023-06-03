@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+  "generator": "Overpass API 0.7.60.6 e2dc3e5b",
   "osm3s": {
-    "timestamp_osm_base": "2023-06-02T18:45:25Z",
-    "timestamp_areas_base": "2023-06-02T15:29:11Z",
+    "timestamp_osm_base": "2023-06-03T18:46:07Z",
+    "timestamp_areas_base": "2023-06-03T14:02:54Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -382,14 +382,13 @@
   "id": 33198376,
   "nodes": [
     376355611,
+    2106711840,
     376355626,
     376354680
   ],
   "tags": {
-    "bridge": "yes",
     "bridge:structure": "beam",
     "highway": "primary",
-    "layer": "1",
     "name": "계백로",
     "name:en": "Gyebaek-ro",
     "name:ko": "계백로",
@@ -31083,13 +31082,13 @@
   "id": 562353431,
   "nodes": [
     376354011,
+    10948701531,
+    10948701532,
     376355607
   ],
   "tags": {
-    "bridge": "yes",
     "bridge:structure": "beam",
     "highway": "primary",
-    "layer": "1",
     "name": "계백로",
     "name:en": "Gyebaek-ro",
     "name:ko": "계백로",
@@ -100713,14 +100712,14 @@
 {
   "type": "node",
   "id": 376354011,
-  "lat": 36.2132881,
-  "lon": 127.1605768
+  "lat": 36.2133149,
+  "lon": 127.1606632
 },
 {
   "type": "node",
   "id": 376354680,
-  "lat": 36.2133764,
-  "lon": 127.1605309
+  "lat": 36.2134032,
+  "lon": 127.1606173
 },
 {
   "type": "node",
@@ -100739,6 +100738,24 @@
   "id": 376355626,
   "lat": 36.2134536,
   "lon": 127.1607600
+},
+{
+  "type": "node",
+  "id": 2106711840,
+  "lat": 36.2136694,
+  "lon": 127.1614492
+},
+{
+  "type": "node",
+  "id": 10948701531,
+  "lat": 36.2133676,
+  "lon": 127.1608284
+},
+{
+  "type": "node",
+  "id": 10948701532,
+  "lat": 36.2135784,
+  "lon": 127.1614954
 },
 {
   "type": "node",
