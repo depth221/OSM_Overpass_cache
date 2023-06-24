@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.60.6 e2dc3e5b",
   "osm3s": {
-    "timestamp_osm_base": "2023-06-23T18:45:51Z",
+    "timestamp_osm_base": "2023-06-24T18:45:12Z",
     "timestamp_areas_base": "2023-06-13T15:42:54Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -45321,7 +45321,7 @@
     9378576977
   ],
   "tags": {
-    "destination": "destination=합덕;고덕IC;덕산",
+    "destination": "합덕;고덕IC;덕산",
     "highway": "primary",
     "name": "도청대로",
     "name:en": "Docheong-daero",
