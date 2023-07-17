@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.60.6 e2dc3e5b",
   "osm3s": {
-    "timestamp_osm_base": "2023-07-16T18:29:45Z",
-    "timestamp_areas_base": "2023-07-16T17:01:59Z",
+    "timestamp_osm_base": "2023-07-17T18:31:26Z",
+    "timestamp_areas_base": "2023-07-17T16:09:24Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -5766,7 +5766,7 @@
   "type": "way",
   "id": 47061331,
   "nodes": [
-    600227936,
+    11051154380,
     600227937
   ],
   "tags": {
@@ -37352,7 +37352,7 @@
   "id": 184954288,
   "nodes": [
     600227942,
-    600227943
+    11051154378
   ],
   "tags": {
     "highway": "motorway",
@@ -104057,6 +104057,94 @@
   }
 },
 {
+  "type": "way",
+  "id": 1190190976,
+  "nodes": [
+    11051154379,
+    600227943
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "순천완주고속도로",
+    "name:en": "Suncheonwanju Expressway",
+    "name:ko": "순천완주고속도로",
+    "name:ko-Latn": "Suncheonwanju Gosokdoro",
+    "oneway": "yes",
+    "ref": "27",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1190190977,
+  "nodes": [
+    11051154378,
+    11051154379
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "순천완주고속도로",
+    "name:en": "Suncheonwanju Expressway",
+    "name:ko": "순천완주고속도로",
+    "name:ko-Latn": "Suncheonwanju Gosokdoro",
+    "oneway": "yes",
+    "ref": "27",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1190190978,
+  "nodes": [
+    600227936,
+    11051154381
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "순천완주고속도로",
+    "name:en": "Suncheonwanju Expressway",
+    "name:ko": "순천완주고속도로",
+    "name:ko-Latn": "Suncheonwanju Gosokdoro",
+    "oneway": "yes",
+    "ref": "27",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1190190979,
+  "nodes": [
+    11051154381,
+    11051154380
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "순천완주고속도로",
+    "name:en": "Suncheonwanju Expressway",
+    "name:ko": "순천완주고속도로",
+    "name:ko-Latn": "Suncheonwanju Gosokdoro",
+    "oneway": "yes",
+    "ref": "27",
+    "toll": "yes"
+  }
+},
+{
   "type": "node",
   "id": 602056770,
   "lat": 34.7327395,
@@ -126789,6 +126877,30 @@
   "id": 673361996,
   "lat": 34.9732533,
   "lon": 127.5518821
+},
+{
+  "type": "node",
+  "id": 11051154380,
+  "lat": 34.9696741,
+  "lon": 127.5525126
+},
+{
+  "type": "node",
+  "id": 11051154381,
+  "lat": 34.9699343,
+  "lon": 127.5524673
+},
+{
+  "type": "node",
+  "id": 11051154378,
+  "lat": 34.9696951,
+  "lon": 127.5528031
+},
+{
+  "type": "node",
+  "id": 11051154379,
+  "lat": 34.9699585,
+  "lon": 127.5527704
 },
 {
   "type": "node",
