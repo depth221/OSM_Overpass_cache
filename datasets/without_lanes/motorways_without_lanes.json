@@ -2,44 +2,12 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.4 df4c946a",
   "osm3s": {
-    "timestamp_osm_base": "2023-08-01T18:27:58Z",
-    "timestamp_areas_base": "2023-08-01T14:43:15Z",
+    "timestamp_osm_base": "2023-08-02T18:28:01Z",
+    "timestamp_areas_base": "2023-08-02T14:34:51Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
 
-{
-  "type": "way",
-  "id": 306193367,
-  "nodes": [
-    3049978419,
-    3049978415,
-    3049978418,
-    3049978420
-  ],
-  "tags": {
-    "highway": "motorway",
-    "layer": "-1",
-    "maxspeed": "100",
-    "maxspeed:hgv": "80",
-    "minspeed": "50",
-    "name": "중앙고속도로지선",
-    "name:en": "Jungang Expressway Branch",
-    "name:ko": "중앙고속도로지선",
-    "name:ko-Hani": "中央高速道路支線",
-    "name:ko-Latn": "Junganggosokdorojiseon",
-    "name:zh": "中央高速公路支線",
-    "name:zh-Hans": "中央高速公路支线",
-    "name:zh-Hant": "中央高速公路支線",
-    "ncat": "고속도로",
-    "oneway": "yes",
-    "ref": "551",
-    "toll": "yes",
-    "tunnel": "yes",
-    "tunnel:name": "대동2터널",
-    "tunnel:name:ko": "대동2터널"
-  }
-},
 {
   "type": "way",
   "id": 475185893,
@@ -200,50 +168,6 @@
     "oneway": "yes",
     "ref": "45",
     "toll": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 1035582944,
-  "nodes": [
-    436226605,
-    9540290969
-  ],
-  "tags": {
-    "highway": "motorway",
-    "motorroad": "yes",
-    "name": "남해고속도로",
-    "name:en": "Namhae Expressway",
-    "name:ko": "남해고속도로",
-    "name:ko-Hani": "南海高速道路",
-    "name:ko-Latn": "Namhaegosokdoro",
-    "name:zh": "南海高速公路",
-    "name:zh-Hant": "南海高速公路",
-    "oneway": "yes",
-    "review": "no",
-    "source": "NTIC"
-  }
-},
-{
-  "type": "way",
-  "id": 1035582945,
-  "nodes": [
-    9540290970,
-    5317230286
-  ],
-  "tags": {
-    "highway": "motorway",
-    "motorroad": "yes",
-    "name": "남해고속도로",
-    "name:en": "Namhae Expressway",
-    "name:ko": "남해고속도로",
-    "name:ko-Hani": "南海高速道路",
-    "name:ko-Latn": "Namhaegosokdoro",
-    "name:zh": "南海高速公路",
-    "name:zh-Hant": "南海高速公路",
-    "oneway": "yes",
-    "review": "no",
-    "source": "NTIC"
   }
 },
 {
@@ -468,36 +392,6 @@
 },
 {
   "type": "node",
-  "id": 3049978415,
-  "lat": 35.2475913,
-  "lon": 128.9510467
-},
-{
-  "type": "node",
-  "id": 436226605,
-  "lat": 35.2152258,
-  "lon": 129.0048834
-},
-{
-  "type": "node",
-  "id": 5317230286,
-  "lat": 35.2153290,
-  "lon": 129.0049085
-},
-{
-  "type": "node",
-  "id": 9540290969,
-  "lat": 35.2151217,
-  "lon": 129.0055370
-},
-{
-  "type": "node",
-  "id": 9540290970,
-  "lat": 35.2152205,
-  "lon": 129.0055735
-},
-{
-  "type": "node",
   "id": 9420492451,
   "lat": 35.4467570,
   "lon": 128.5043180
@@ -687,18 +581,6 @@
   "id": 436315481,
   "lat": 35.4714463,
   "lon": 128.5079168
-},
-{
-  "type": "node",
-  "id": 3049978418,
-  "lat": 35.2487636,
-  "lon": 128.9525257
-},
-{
-  "type": "node",
-  "id": 3049978420,
-  "lat": 35.2514267,
-  "lon": 128.9554669
 },
 {
   "type": "node",
