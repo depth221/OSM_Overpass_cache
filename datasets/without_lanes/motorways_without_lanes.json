@@ -2,93 +2,12 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.4 df4c946a",
   "osm3s": {
-    "timestamp_osm_base": "2023-08-03T18:28:20Z",
-    "timestamp_areas_base": "2023-08-03T16:33:01Z",
+    "timestamp_osm_base": "2023-08-04T18:28:06Z",
+    "timestamp_areas_base": "2023-08-04T16:10:41Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
 
-{
-  "type": "way",
-  "id": 475185893,
-  "nodes": [
-    3049978412,
-    11076791804,
-    11076803411,
-    4689753284
-  ],
-  "tags": {
-    "highway": "motorway",
-    "maxspeed": "100",
-    "maxspeed:hgv": "80",
-    "minspeed": "50",
-    "name": "중앙고속도로지선",
-    "name:en": "Jungang Expressway Branch",
-    "name:ko": "중앙고속도로지선",
-    "name:ko-Hani": "中央高速道路支線",
-    "name:ko-Latn": "Junganggosokdorojiseon",
-    "name:zh": "中央高速公路支線",
-    "name:zh-Hans": "中央高速公路支线",
-    "name:zh-Hant": "中央高速公路支線",
-    "oneway": "yes",
-    "ref": "551",
-    "toll": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 475185894,
-  "nodes": [
-    4689753285,
-    3049978419
-  ],
-  "tags": {
-    "highway": "motorway",
-    "maxspeed": "100",
-    "maxspeed:hgv": "80",
-    "minspeed": "50",
-    "name": "중앙고속도로지선",
-    "name:en": "Jungang Expressway Branch",
-    "name:ko": "중앙고속도로지선",
-    "name:ko-Hani": "中央高速道路支線",
-    "name:ko-Latn": "Junganggosokdorojiseon",
-    "name:zh": "中央高速公路支線",
-    "name:zh-Hans": "中央高速公路支线",
-    "name:zh-Hant": "中央高速公路支線",
-    "oneway": "yes",
-    "ref": "551",
-    "toll": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 475185895,
-  "nodes": [
-    4689753284,
-    4689753285
-  ],
-  "tags": {
-    "bridge": "yes",
-    "bridge:name": "주동교",
-    "bridge:name:ko": "주동교",
-    "bridge:structure": "beam",
-    "highway": "motorway",
-    "layer": "1",
-    "maxspeed": "100",
-    "maxspeed:hgv": "80",
-    "minspeed": "50",
-    "name": "중앙고속도로지선",
-    "name:en": "Jungang Expressway Branch",
-    "name:ko": "중앙고속도로지선",
-    "name:ko-Hani": "中央高速道路支線",
-    "name:zh": "中央高速公路支線",
-    "name:zh-Hans": "中央高速公路支线",
-    "name:zh-Hant": "中央高速公路支線",
-    "oneway": "yes",
-    "ref": "551",
-    "toll": "yes"
-  }
-},
 {
   "type": "way",
   "id": 536513725,
@@ -353,42 +272,6 @@
     "ref": "45",
     "toll": "yes"
   }
-},
-{
-  "type": "node",
-  "id": 3049978412,
-  "lat": 35.2399225,
-  "lon": 128.9413983
-},
-{
-  "type": "node",
-  "id": 11076791804,
-  "lat": 35.2416068,
-  "lon": 128.9433946
-},
-{
-  "type": "node",
-  "id": 3049978419,
-  "lat": 35.2441470,
-  "lon": 128.9466286
-},
-{
-  "type": "node",
-  "id": 4689753284,
-  "lat": 35.2427182,
-  "lon": 128.9447270
-},
-{
-  "type": "node",
-  "id": 4689753285,
-  "lat": 35.2437245,
-  "lon": 128.9460733
-},
-{
-  "type": "node",
-  "id": 11076803411,
-  "lat": 35.2420283,
-  "lon": 128.9438942
 },
 {
   "type": "node",
