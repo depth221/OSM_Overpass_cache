@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.4 df4c946a",
   "osm3s": {
-    "timestamp_osm_base": "2023-08-04T18:45:15Z",
-    "timestamp_areas_base": "2023-08-04T16:10:41Z",
+    "timestamp_osm_base": "2023-08-05T18:45:56Z",
+    "timestamp_areas_base": "2023-08-05T15:54:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -17678,6 +17678,27 @@
 },
 {
   "type": "way",
+  "id": 324938587,
+  "nodes": [
+    436393057,
+    436393058,
+    436393059,
+    436393060,
+    436393061
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "득안대로",
+    "name:en": "Deugan-daero",
+    "name:ko": "득안대로",
+    "oneway": "yes",
+    "ref": "1",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
   "id": 324942369,
   "nodes": [
     436400512,
@@ -29628,6 +29649,99 @@
 },
 {
   "type": "way",
+  "id": 562153559,
+  "nodes": [
+    436393069,
+    5419698198
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:structure": "beam",
+    "highway": "primary",
+    "layer": "1",
+    "name": "득안대로",
+    "name:ko": "득안대로",
+    "oneway": "yes",
+    "ref": "1",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 562153560,
+  "nodes": [
+    5351051755,
+    436393064,
+    436393065,
+    5351051758,
+    436393066,
+    436393067,
+    436393068,
+    5351051762,
+    436393069
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "득안대로",
+    "name:en": "Deugan-daero",
+    "name:ko": "득안대로",
+    "oneway": "yes",
+    "ref": "1",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 562153561,
+  "nodes": [
+    5419698849,
+    5419698850,
+    5419698202,
+    5419698851,
+    5419698852,
+    5419698204,
+    5419698853,
+    5419698854,
+    5419698855,
+    5419698205,
+    5419698206,
+    5419698856
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "득안대로",
+    "name:en": "Deugan-daero",
+    "name:ko": "득안대로",
+    "oneway": "yes",
+    "ref": "1",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 562153562,
+  "nodes": [
+    5419698197,
+    5419698849
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:structure": "beam",
+    "highway": "primary",
+    "layer": "1",
+    "name": "득안대로",
+    "name:ko": "득안대로",
+    "oneway": "yes",
+    "ref": "1",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
   "id": 562153563,
   "nodes": [
     5419698184,
@@ -29676,6 +29790,107 @@
     "highway": "primary",
     "name": "득안대로",
     "name:en": "Deugan-daero",
+    "name:ko": "득안대로",
+    "oneway": "yes",
+    "ref": "1",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 562153564,
+  "nodes": [
+    5419698856,
+    5419698857,
+    5419698858
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "득안대로",
+    "name:en": "Deugan-daero",
+    "name:ko": "득안대로",
+    "oneway": "yes",
+    "ref": "1",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 562153565,
+  "nodes": [
+    5419698858,
+    5419698860
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:structure": "beam",
+    "highway": "primary",
+    "layer": "1",
+    "name": "득안대로",
+    "name:ko": "득안대로",
+    "oneway": "yes",
+    "ref": "1",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 562153566,
+  "nodes": [
+    5419698860,
+    5419698861,
+    5419698862,
+    5419698863,
+    5419698859,
+    5419698864
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "득안대로",
+    "name:en": "Deugan-daero",
+    "name:ko": "득안대로",
+    "oneway": "yes",
+    "ref": "1",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 562153567,
+  "nodes": [
+    436393062,
+    11091167821,
+    436393063,
+    5351051755
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "득안대로",
+    "name:en": "Deugan-daero",
+    "name:ko": "득안대로",
+    "oneway": "yes",
+    "ref": "1",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 562153568,
+  "nodes": [
+    436393061,
+    436393062
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:structure": "beam",
+    "highway": "primary",
+    "layer": "1",
+    "name": "득안대로",
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
@@ -71344,6 +71559,198 @@
 },
 {
   "type": "node",
+  "id": 436393057,
+  "lat": 36.0722164,
+  "lon": 127.0904203
+},
+{
+  "type": "node",
+  "id": 436393058,
+  "lat": 36.0731218,
+  "lon": 127.0909489
+},
+{
+  "type": "node",
+  "id": 436393059,
+  "lat": 36.0740575,
+  "lon": 127.0914275
+},
+{
+  "type": "node",
+  "id": 5419698859,
+  "lat": 36.0728279,
+  "lon": 127.0906647
+},
+{
+  "type": "node",
+  "id": 5419698862,
+  "lat": 36.0741787,
+  "lon": 127.0913910
+},
+{
+  "type": "node",
+  "id": 5419698863,
+  "lat": 36.0733018,
+  "lon": 127.0909530
+},
+{
+  "type": "node",
+  "id": 5419698864,
+  "lat": 36.0722481,
+  "lon": 127.0902839
+},
+{
+  "type": "node",
+  "id": 436393060,
+  "lat": 36.0750096,
+  "lon": 127.0917771
+},
+{
+  "type": "node",
+  "id": 436393061,
+  "lat": 36.0758399,
+  "lon": 127.0919747
+},
+{
+  "type": "node",
+  "id": 436393062,
+  "lat": 36.0761743,
+  "lon": 127.0920322
+},
+{
+  "type": "node",
+  "id": 436393063,
+  "lat": 36.0777400,
+  "lon": 127.0923000
+},
+{
+  "type": "node",
+  "id": 5351051755,
+  "lat": 36.0792652,
+  "lon": 127.0925857
+},
+{
+  "type": "node",
+  "id": 5419698206,
+  "lat": 36.0805430,
+  "lon": 127.0927214
+},
+{
+  "type": "node",
+  "id": 5419698856,
+  "lat": 36.0792814,
+  "lon": 127.0925041
+},
+{
+  "type": "node",
+  "id": 5419698857,
+  "lat": 36.0779083,
+  "lon": 127.0922459
+},
+{
+  "type": "node",
+  "id": 5419698858,
+  "lat": 36.0761844,
+  "lon": 127.0919422
+},
+{
+  "type": "node",
+  "id": 5419698860,
+  "lat": 36.0758600,
+  "lon": 127.0918718
+},
+{
+  "type": "node",
+  "id": 5419698861,
+  "lat": 36.0751523,
+  "lon": 127.0917046
+},
+{
+  "type": "node",
+  "id": 11091167821,
+  "lat": 36.0763240,
+  "lon": 127.0920578
+},
+{
+  "type": "node",
+  "id": 436393064,
+  "lat": 36.0816900,
+  "lon": 127.0930400
+},
+{
+  "type": "node",
+  "id": 436393065,
+  "lat": 36.0826948,
+  "lon": 127.0933341
+},
+{
+  "type": "node",
+  "id": 436393066,
+  "lat": 36.0837363,
+  "lon": 127.0938274
+},
+{
+  "type": "node",
+  "id": 5351051758,
+  "lat": 36.0834548,
+  "lon": 127.0936923
+},
+{
+  "type": "node",
+  "id": 5419698204,
+  "lat": 36.0837829,
+  "lon": 127.0936986
+},
+{
+  "type": "node",
+  "id": 5419698205,
+  "lat": 36.0811699,
+  "lon": 127.0928428
+},
+{
+  "type": "node",
+  "id": 5419698853,
+  "lat": 36.0835434,
+  "lon": 127.0935680
+},
+{
+  "type": "node",
+  "id": 5419698854,
+  "lat": 36.0827623,
+  "lon": 127.0932523
+},
+{
+  "type": "node",
+  "id": 5419698855,
+  "lat": 36.0817908,
+  "lon": 127.0929879
+},
+{
+  "type": "node",
+  "id": 436393067,
+  "lat": 36.0841625,
+  "lon": 127.0940883
+},
+{
+  "type": "node",
+  "id": 436393068,
+  "lat": 36.0850393,
+  "lon": 127.0946853
+},
+{
+  "type": "node",
+  "id": 436393069,
+  "lat": 36.0870259,
+  "lon": 127.0962142
+},
+{
+  "type": "node",
+  "id": 5351051762,
+  "lat": 36.0860868,
+  "lon": 127.0954611
+},
+{
+  "type": "node",
   "id": 5419698197,
   "lat": 36.0873658,
   "lon": 127.0963359
@@ -71353,6 +71760,36 @@
   "id": 5419698198,
   "lat": 36.0873241,
   "lon": 127.0964307
+},
+{
+  "type": "node",
+  "id": 5419698202,
+  "lat": 36.0856349,
+  "lon": 127.0949841
+},
+{
+  "type": "node",
+  "id": 5419698849,
+  "lat": 36.0871093,
+  "lon": 127.0961446
+},
+{
+  "type": "node",
+  "id": 5419698850,
+  "lat": 36.0861639,
+  "lon": 127.0953920
+},
+{
+  "type": "node",
+  "id": 5419698851,
+  "lat": 36.0851079,
+  "lon": 127.0945896
+},
+{
+  "type": "node",
+  "id": 5419698852,
+  "lat": 36.0842467,
+  "lon": 127.0940154
 },
 {
   "type": "node",
