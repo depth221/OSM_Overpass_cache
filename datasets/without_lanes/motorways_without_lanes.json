@@ -2,12 +2,58 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.4 df4c946a",
   "osm3s": {
-    "timestamp_osm_base": "2023-08-04T18:28:06Z",
-    "timestamp_areas_base": "2023-08-04T16:10:41Z",
+    "timestamp_osm_base": "2023-08-05T18:25:30Z",
+    "timestamp_areas_base": "2023-08-05T14:07:49Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
 
+{
+  "type": "way",
+  "id": 67288818,
+  "nodes": [
+    667304925,
+    6872536388,
+    667304926,
+    436202465,
+    6872536475,
+    9981551064,
+    436202464,
+    812701623,
+    812701599,
+    5635729403,
+    4740072722,
+    5639682911,
+    2620520619,
+    2620519529
+  ],
+  "tags": {
+    "highway": "motorway",
+    "name": "담양로",
+    "name:en": "Damyang-ro",
+    "name:ko": "담양로",
+    "oneway": "no",
+    "review": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 346381099,
+  "nodes": [
+    436202546,
+    5863507023
+  ],
+  "tags": {
+    "highway": "motorway",
+    "name": "담양로",
+    "name:en": "Damyang-ro",
+    "name:ko": "담양로",
+    "ncat": "고속도로",
+    "oneway": "no",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
 {
   "type": "way",
   "id": 536513725,
@@ -48,6 +94,59 @@
     "oneway": "yes",
     "ref": "700",
     "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 620630539,
+  "nodes": [
+    5863507023,
+    5863507024
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "name": "담양로",
+    "ncat": "고속도로",
+    "oneway": "no",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 620630540,
+  "nodes": [
+    5863507024,
+    5863507025
+  ],
+  "tags": {
+    "highway": "motorway",
+    "name": "담양로",
+    "name:en": "Damyang-ro",
+    "name:ko": "담양로",
+    "oneway": "no",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 620630541,
+  "nodes": [
+    5863507025,
+    667304925
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "name": "담양로",
+    "ncat": "고속도로",
+    "oneway": "no",
+    "review": "no",
+    "source": "NTIC"
   }
 },
 {
@@ -272,6 +371,114 @@
     "ref": "45",
     "toll": "yes"
   }
+},
+{
+  "type": "node",
+  "id": 436202546,
+  "lat": 35.2864419,
+  "lon": 126.9781038
+},
+{
+  "type": "node",
+  "id": 436202464,
+  "lat": 35.2924802,
+  "lon": 126.9783255
+},
+{
+  "type": "node",
+  "id": 436202465,
+  "lat": 35.2917392,
+  "lon": 126.9782439
+},
+{
+  "type": "node",
+  "id": 667304925,
+  "lat": 35.2903197,
+  "lon": 126.9781819
+},
+{
+  "type": "node",
+  "id": 667304926,
+  "lat": 35.2914171,
+  "lon": 126.9782254
+},
+{
+  "type": "node",
+  "id": 812701599,
+  "lat": 35.2933629,
+  "lon": 126.9784521
+},
+{
+  "type": "node",
+  "id": 812701623,
+  "lat": 35.2929757,
+  "lon": 126.9783960
+},
+{
+  "type": "node",
+  "id": 4740072722,
+  "lat": 35.2940146,
+  "lon": 126.9785787
+},
+{
+  "type": "node",
+  "id": 5635729403,
+  "lat": 35.2937377,
+  "lon": 126.9785148
+},
+{
+  "type": "node",
+  "id": 5863507023,
+  "lat": 35.2881661,
+  "lon": 126.9781349
+},
+{
+  "type": "node",
+  "id": 5863507024,
+  "lat": 35.2882828,
+  "lon": 126.9781346
+},
+{
+  "type": "node",
+  "id": 5863507025,
+  "lat": 35.2892254,
+  "lon": 126.9781584
+},
+{
+  "type": "node",
+  "id": 6872536388,
+  "lat": 35.2906239,
+  "lon": 126.9781940
+},
+{
+  "type": "node",
+  "id": 6872536475,
+  "lat": 35.2921402,
+  "lon": 126.9782790
+},
+{
+  "type": "node",
+  "id": 9981551064,
+  "lat": 35.2923157,
+  "lon": 126.9783030
+},
+{
+  "type": "node",
+  "id": 2620519529,
+  "lat": 35.2959664,
+  "lon": 126.9791348
+},
+{
+  "type": "node",
+  "id": 2620520619,
+  "lat": 35.2948508,
+  "lon": 126.9787884
+},
+{
+  "type": "node",
+  "id": 5639682911,
+  "lat": 35.2945073,
+  "lon": 126.9786998
 },
 {
   "type": "node",
