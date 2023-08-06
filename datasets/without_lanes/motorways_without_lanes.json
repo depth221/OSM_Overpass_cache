@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.4 df4c946a",
   "osm3s": {
-    "timestamp_osm_base": "2023-08-05T18:25:30Z",
-    "timestamp_areas_base": "2023-08-05T14:07:49Z",
+    "timestamp_osm_base": "2023-08-06T18:25:27Z",
+    "timestamp_areas_base": "2023-08-06T15:34:59Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -52,6 +52,20 @@
     "oneway": "no",
     "review": "no",
     "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 480524793,
+  "nodes": [
+    4735165738,
+    4735165737,
+    4735165736
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "oneway": "yes"
   }
 },
 {
@@ -147,6 +161,22 @@
     "oneway": "no",
     "review": "no",
     "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 668010749,
+  "nodes": [
+    4735165714,
+    4735165716,
+    5743055879,
+    4735165717
+  ],
+  "tags": {
+    "destination": "담양",
+    "destination:ref": "13",
+    "highway": "motorway",
+    "oneway": "yes"
   }
 },
 {
@@ -371,6 +401,48 @@
     "ref": "45",
     "toll": "yes"
   }
+},
+{
+  "type": "node",
+  "id": 4735165714,
+  "lat": 35.2330412,
+  "lon": 126.8210146
+},
+{
+  "type": "node",
+  "id": 4735165716,
+  "lat": 35.2306979,
+  "lon": 126.8216284
+},
+{
+  "type": "node",
+  "id": 4735165717,
+  "lat": 35.2292586,
+  "lon": 126.8220656
+},
+{
+  "type": "node",
+  "id": 4735165736,
+  "lat": 35.2322190,
+  "lon": 126.8213380
+},
+{
+  "type": "node",
+  "id": 4735165737,
+  "lat": 35.2307141,
+  "lon": 126.8217142
+},
+{
+  "type": "node",
+  "id": 4735165738,
+  "lat": 35.2292645,
+  "lon": 126.8221313
+},
+{
+  "type": "node",
+  "id": 5743055879,
+  "lat": 35.2302706,
+  "lon": 126.8217759
 },
 {
   "type": "node",
