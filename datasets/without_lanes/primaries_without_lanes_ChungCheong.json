@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.61.4 df4c946a",
+  "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-08-08T18:46:15Z",
-    "timestamp_areas_base": "2023-08-08T15:19:56Z",
+    "timestamp_osm_base": "2023-08-09T18:45:30Z",
+    "timestamp_areas_base": "2023-08-09T13:43:06Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -26252,7 +26252,6 @@
     5285886936
   ],
   "tags": {
-    "bicycle": "no",
     "highway": "primary",
     "oneway": "yes",
     "ref": "19"
@@ -26833,7 +26832,6 @@
     5285886969
   ],
   "tags": {
-    "bicycle": "no",
     "highway": "primary",
     "oneway": "yes",
     "ref": "19"
