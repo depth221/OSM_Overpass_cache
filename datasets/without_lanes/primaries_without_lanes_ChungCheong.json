@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-08-11T18:45:59Z",
-    "timestamp_areas_base": "2023-08-11T14:23:59Z",
+    "timestamp_osm_base": "2023-08-12T18:45:05Z",
+    "timestamp_areas_base": "2023-08-12T14:06:05Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -19100,29 +19100,6 @@
     "ref": "19;37;49",
     "review": "no",
     "source": "NTIC"
-  }
-},
-{
-  "type": "way",
-  "id": 403112012,
-  "nodes": [
-    4054912921,
-    1336800645
-  ],
-  "tags": {
-    "bicycle": "no",
-    "bridge": "yes",
-    "bridge:structure": "beam",
-    "foot": "no",
-    "highway": "primary",
-    "horse": "no",
-    "layer": "1",
-    "maxspeed": "80",
-    "name": "탕정교",
-    "name:en": "Tangjeonggyo (Bridge)",
-    "name:ko": "탕정교",
-    "oneway": "yes",
-    "ref": "39"
   }
 },
 {
@@ -156634,18 +156611,6 @@
   "id": 7525859188,
   "lat": 36.7755764,
   "lon": 127.0484193
-},
-{
-  "type": "node",
-  "id": 4054912921,
-  "lat": 36.7925015,
-  "lon": 127.0370271
-},
-{
-  "type": "node",
-  "id": 1336800645,
-  "lat": 36.7954246,
-  "lon": 127.0368433
 },
 {
   "type": "node",
