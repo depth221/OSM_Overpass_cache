@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-08-12T18:45:05Z",
-    "timestamp_areas_base": "2023-08-12T14:06:05Z",
+    "timestamp_osm_base": "2023-08-13T18:45:45Z",
+    "timestamp_areas_base": "2023-08-13T13:50:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -22472,6 +22472,31 @@
     "name:ko": "온천대로",
     "name:zh": "温泉大路",
     "oneway": "yes",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 474021571,
+  "nodes": [
+    4680454451,
+    4680454447,
+    4681105575,
+    4681105574,
+    4681105573,
+    4681105572,
+    4681105571,
+    4680454584
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "온천대로",
+    "name:en": "Oncheon-daero",
+    "name:ko": "온천대로",
+    "name:zh": "温泉大路",
+    "oneway": "yes",
+    "ref": "21",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -155252,6 +155277,12 @@
 },
 {
   "type": "node",
+  "id": 4680454447,
+  "lat": 36.7799693,
+  "lon": 126.9386812
+},
+{
+  "type": "node",
   "id": 4680454448,
   "lat": 36.7794813,
   "lon": 126.9377736
@@ -155297,6 +155328,36 @@
   "id": 4680454601,
   "lat": 36.7807206,
   "lon": 126.9420252
+},
+{
+  "type": "node",
+  "id": 4681105571,
+  "lat": 36.7791359,
+  "lon": 126.9371704
+},
+{
+  "type": "node",
+  "id": 4681105572,
+  "lat": 36.7794209,
+  "lon": 126.9375221
+},
+{
+  "type": "node",
+  "id": 4681105573,
+  "lat": 36.7795707,
+  "lon": 126.9377355
+},
+{
+  "type": "node",
+  "id": 4681105574,
+  "lat": 36.7797383,
+  "lon": 126.9380668
+},
+{
+  "type": "node",
+  "id": 4681105575,
+  "lat": 36.7798735,
+  "lon": 126.9383819
 },
 {
   "type": "node",
