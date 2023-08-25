@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-08-24T18:45:14Z",
-    "timestamp_areas_base": "2023-08-24T14:50:37Z",
+    "timestamp_osm_base": "2023-08-25T18:45:01Z",
+    "timestamp_areas_base": "2023-08-25T14:34:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -13120,6 +13120,7 @@
     "name": "청신로",
     "name:en": "Cheongsin-ro",
     "name:ko": "청신로",
+    "oneway": "yes",
     "ref": "70;645",
     "review": "no",
     "source": "Bing (adjusted)"
