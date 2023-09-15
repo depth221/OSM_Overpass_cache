@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-09-14T18:46:06Z",
-    "timestamp_areas_base": "2023-09-14T15:19:30Z",
+    "timestamp_osm_base": "2023-09-15T18:45:52Z",
+    "timestamp_areas_base": "2023-09-15T14:37:20Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -5279,6 +5279,7 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "60",
     "name": "유주막다리",
     "ncat": "지방도",
     "oneway": "yes",
@@ -5325,8 +5326,10 @@
   "tags": {
     "bicycle": "yes",
     "bridge": "yes",
+    "destination": "충주;시청",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "60",
     "name": "중원대로",
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
@@ -18745,6 +18748,7 @@
   "tags": {
     "bicycle": "no",
     "highway": "primary",
+    "maxspeed": "60",
     "name": "중원대로",
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
@@ -26241,6 +26245,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
     "oneway": "yes",
     "ref": "19"
   }
@@ -26822,6 +26827,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
     "oneway": "yes",
     "ref": "19"
   }
@@ -33734,6 +33740,7 @@
   "tags": {
     "bicycle": "yes",
     "highway": "primary",
+    "maxspeed": "60",
     "name": "중원대로",
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
@@ -43084,6 +43091,37 @@
 },
 {
   "type": "way",
+  "id": 787837486,
+  "nodes": [
+    436549001,
+    436549003,
+    436549005,
+    436549006,
+    436549009,
+    436549011,
+    3622971785,
+    436549013,
+    436549015,
+    436549017,
+    436549019,
+    9102653543
+  ],
+  "tags": {
+    "bicycle": "no",
+    "highway": "primary",
+    "maxspeed": "60",
+    "name": "중원대로",
+    "name:en": "Jungwon-daero",
+    "name:ko": "중원대로",
+    "oneway": "yes",
+    "ref": "82",
+    "review": "no",
+    "source": "NTIC",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
   "id": 787906753,
   "nodes": [
     426666769,
@@ -50431,7 +50469,9 @@
   ],
   "tags": {
     "bicycle": "no",
+    "destination": "충주;시청",
     "highway": "primary",
+    "maxspeed": "60",
     "name": "중원대로",
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
@@ -187815,14 +187855,14 @@
 {
   "type": "node",
   "id": 5285886968,
-  "lat": 36.8603853,
-  "lon": 127.9261263
+  "lat": 36.8602007,
+  "lon": 127.9259493
 },
 {
   "type": "node",
   "id": 5285886969,
-  "lat": 36.8604443,
-  "lon": 127.9260613
+  "lat": 36.8603563,
+  "lon": 127.9260318
 },
 {
   "type": "node",
@@ -187881,8 +187921,8 @@
 {
   "type": "node",
   "id": 5285886961,
-  "lat": 36.8614645,
-  "lon": 127.9277415
+  "lat": 36.8613465,
+  "lon": 127.9275886
 },
 {
   "type": "node",
@@ -194948,6 +194988,24 @@
 },
 {
   "type": "node",
+  "id": 436549015,
+  "lat": 36.9356378,
+  "lon": 127.9262506
+},
+{
+  "type": "node",
+  "id": 436549017,
+  "lat": 36.9358596,
+  "lon": 127.9257292
+},
+{
+  "type": "node",
+  "id": 436549019,
+  "lat": 36.9359301,
+  "lon": 127.9255206
+},
+{
+  "type": "node",
   "id": 436549023,
   "lat": 36.9361992,
   "lon": 127.9247072
@@ -196883,6 +196941,54 @@
   "id": 10750194935,
   "lat": 37.0335767,
   "lon": 127.8346874
+},
+{
+  "type": "node",
+  "id": 436549001,
+  "lat": 36.9341657,
+  "lon": 127.9280884
+},
+{
+  "type": "node",
+  "id": 436549003,
+  "lat": 36.9344582,
+  "lon": 127.9278464
+},
+{
+  "type": "node",
+  "id": 436549005,
+  "lat": 36.9346912,
+  "lon": 127.9276444
+},
+{
+  "type": "node",
+  "id": 436549006,
+  "lat": 36.9349158,
+  "lon": 127.9274126
+},
+{
+  "type": "node",
+  "id": 436549009,
+  "lat": 36.9350893,
+  "lon": 127.9271885
+},
+{
+  "type": "node",
+  "id": 436549011,
+  "lat": 36.9351936,
+  "lon": 127.9270478
+},
+{
+  "type": "node",
+  "id": 436549013,
+  "lat": 36.9354839,
+  "lon": 127.9265644
+},
+{
+  "type": "node",
+  "id": 3622971785,
+  "lat": 36.9353467,
+  "lon": 127.9268097
 },
 {
   "type": "node",
