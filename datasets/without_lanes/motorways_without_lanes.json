@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-09-20T18:29:06Z",
-    "timestamp_areas_base": "2023-09-20T14:54:45Z",
+    "timestamp_osm_base": "2023-09-21T18:29:00Z",
+    "timestamp_areas_base": "2023-09-21T17:37:16Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -75,13 +75,13 @@
     9623340954,
     9207200529,
     9623340956,
-    5305331505
+    11206799207
   ],
   "tags": {
     "bicycle": "no",
     "foot": "no",
     "highway": "motorway",
-    "maxspeed": "60",
+    "maxspeed": "30",
     "motorcycle": "no",
     "oneway": "yes",
     "ref": "700",
@@ -456,6 +456,7 @@
   "tags": {
     "destination": "아산;서천안",
     "destination:lang:en": "Asan;West Cheonan",
+    "destination:ref": "32",
     "highway": "motorway",
     "maxspeed": "60",
     "name": "당진청주고속도로",
@@ -4262,6 +4263,24 @@
   }
 },
 {
+  "type": "way",
+  "id": 1209630605,
+  "nodes": [
+    11206799207,
+    5305331505
+  ],
+  "tags": {
+    "bicycle": "no",
+    "foot": "no",
+    "highway": "motorway",
+    "maxspeed": "60",
+    "motorcycle": "no",
+    "oneway": "yes",
+    "ref": "700",
+    "surface": "asphalt"
+  }
+},
+{
   "type": "node",
   "id": 9420492451,
   "lat": 35.4467570,
@@ -4512,6 +4531,12 @@
   "id": 9623340956,
   "lat": 35.8873956,
   "lon": 128.7023079
+},
+{
+  "type": "node",
+  "id": 11206799207,
+  "lat": 35.8873323,
+  "lon": 128.7023151
 },
 {
   "type": "node",
