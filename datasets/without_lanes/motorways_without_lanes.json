@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-09-21T18:29:00Z",
-    "timestamp_areas_base": "2023-09-21T17:37:16Z",
+    "timestamp_osm_base": "2023-09-22T18:29:04Z",
+    "timestamp_areas_base": "2023-09-22T15:07:10Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -164,6 +164,36 @@
     "name:zh-Hant": "中部內陸高速公路",
     "oneway": "yes",
     "ref": "45",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1088766519,
+  "nodes": [
+    7007099173,
+    11209118650,
+    11209118653,
+    9974569826
+  ],
+  "tags": {
+    "access": "no",
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "수도권제2순환고속도로",
+    "name:en": "Sudogwon Je2sunhwan Expressway",
+    "name:ko": "수도권제2순환고속도로",
+    "name:ko-Hani": "首都圈第二循環高速道路",
+    "name:ko-Latn": "sudogwonje2sunhwangosokdoro",
+    "name:zh": "首都圈二環高速公路",
+    "name:zh-Hans": "首都圈二环高速公路",
+    "name:zh-Hant": "首都圈二環高速公路",
+    "oneway": "yes",
+    "ref": "400",
+    "start_date": "2023-09-25",
     "toll": "yes"
   }
 },
@@ -6853,6 +6883,30 @@
   "id": 11195884111,
   "lat": 36.7692656,
   "lon": 127.1020672
+},
+{
+  "type": "node",
+  "id": 7007099173,
+  "lat": 37.3104836,
+  "lon": 126.7184438
+},
+{
+  "type": "node",
+  "id": 9974569826,
+  "lat": 37.3103829,
+  "lon": 126.7187598
+},
+{
+  "type": "node",
+  "id": 11209118650,
+  "lat": 37.3104333,
+  "lon": 126.7186018
+},
+{
+  "type": "node",
+  "id": 11209118653,
+  "lat": 37.3104131,
+  "lon": 126.7186650
 }
 
   ]
