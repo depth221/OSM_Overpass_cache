@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-09-26T18:29:02Z",
-    "timestamp_areas_base": "2023-09-26T16:17:42Z",
+    "timestamp_osm_base": "2023-09-27T18:29:19Z",
+    "timestamp_areas_base": "2023-09-27T16:01:16Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -49,10 +49,9 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
-    "maxspeed": "80",
-    "maxspeed:advisory": "60",
-    "maxspeed:hgv": "80",
-    "minspeed": "50",
+    "maxspeed": "60",
+    "maxspeed:hgv": "60",
+    "minspeed": "40",
     "name": "당진청주고속도로",
     "name:en": "Dangjin-Cheongju Expressway",
     "name:ko": "당진청주고속도로",
@@ -165,6 +164,27 @@
     "oneway": "yes",
     "ref": "45",
     "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1051177707,
+  "nodes": [
+    9662014214,
+    9662014215,
+    9662014216,
+    7878055525
+  ],
+  "tags": {
+    "destination": "대전;목천;독립기념관",
+    "destination:ref": "1",
+    "highway": "motorway",
+    "maxspeed": "80",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "oneway": "yes",
+    "ref": "32"
   }
 },
 {
@@ -402,7 +422,7 @@
     "destination:lang:en": "Asan;West Cheonan",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "60",
+    "maxspeed": "100",
     "name": "당진청주고속도로",
     "name:en": "Dangjin-Cheongju Expressway",
     "name:ko": "당진청주고속도로",
@@ -428,7 +448,7 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
-    "maxspeed": "60",
+    "maxspeed": "100",
     "name": "당진청주고속도로",
     "name:en": "Dangjin-Cheongju Expressway",
     "name:ko": "당진청주고속도로",
@@ -459,7 +479,7 @@
     "destination:ref": "1",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "60",
+    "maxspeed": "100",
     "name": "당진청주고속도로",
     "name:en": "Dangjin-Cheongju Expressway",
     "name:ko": "당진청주고속도로",
@@ -487,7 +507,7 @@
     "destination:lang:en": "Asan;West Cheonan",
     "destination:ref": "32",
     "highway": "motorway",
-    "maxspeed": "60",
+    "maxspeed": "100",
     "name": "당진청주고속도로",
     "name:en": "Dangjin-Cheongju Expressway",
     "name:ko": "당진청주고속도로",
@@ -503,6 +523,35 @@
 },
 {
   "type": "way",
+  "id": 1205417637,
+  "nodes": [
+    436219542,
+    10048788945,
+    9662030419,
+    9662030420,
+    9659747401,
+    9659747402
+  ],
+  "tags": {
+    "destination": "광주;논산;남천안;전주;세종",
+    "destination:lang:en": "Gwangju, Nonsan, Sejong, South Cheonan",
+    "destination:ref": "25;32",
+    "highway": "motorway",
+    "maxspeed": "80",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "ncat": "교차로및지명",
+    "oneway": "yes",
+    "ref": "32",
+    "review": "no"
+  }
+},
+{
+  "type": "way",
   "id": 1208273739,
   "nodes": [
     8110207337,
@@ -512,7 +561,7 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
-    "maxspeed": "60",
+    "maxspeed": "100",
     "name": "당진청주고속도로",
     "name:en": "Dangjin-Cheongju Expressway",
     "name:ko": "당진청주고속도로",
@@ -537,7 +586,7 @@
     "bridge": "yes",
     "embankment": "yes",
     "highway": "motorway",
-    "maxspeed": "60",
+    "maxspeed": "100",
     "name": "당진청주고속도로",
     "name:en": "Dangjin-Cheongju Expressway",
     "name:ko": "당진청주고속도로",
@@ -571,6 +620,7 @@
     4845789677,
     4845789676,
     11171298795,
+    11222121827,
     11195801774,
     11171298796,
     11171298782
@@ -600,6 +650,7 @@
   "nodes": [
     4845789714,
     8110207374,
+    11222121826,
     8110207380,
     11171298798,
     10048788958,
@@ -3912,9 +3963,9 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:hgv": "80",
-    "minspeed": "50",
+    "minspeed": "40",
     "name": "당진청주고속도로",
     "name:en": "Dangjin-Cheongju Expressway",
     "name:ko": "당진청주고속도로",
@@ -4024,9 +4075,9 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:hgv": "80",
-    "minspeed": "50",
+    "minspeed": "40",
     "name": "당진청주고속도로",
     "name:en": "Dangjin-Cheongju Expressway",
     "name:ko": "당진청주고속도로",
@@ -4053,9 +4104,9 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:hgv": "80",
-    "minspeed": "50",
+    "minspeed": "40",
     "name": "당진청주고속도로",
     "name:en": "Dangjin-Cheongju Expressway",
     "name:ko": "당진청주고속도로",
@@ -4107,9 +4158,9 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:hgv": "80",
-    "minspeed": "50",
+    "minspeed": "40",
     "name": "당진청주고속도로",
     "name:en": "Dangjin-Cheongju Expressway",
     "name:ko": "당진청주고속도로",
@@ -4136,9 +4187,9 @@
   "tags": {
     "highway": "motorway",
     "layer": "-1",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:hgv": "80",
-    "minspeed": "50",
+    "minspeed": "40",
     "name": "당진청주고속도로",
     "name:en": "Dangjin-Cheongju Expressway",
     "name:ko": "당진청주고속도로",
@@ -4199,7 +4250,9 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "80",
+    "maxspeed": "60",
+    "maxspeed:hgv": "60",
+    "minspeed": "40",
     "name": "당진청주고속도로",
     "name:en": "Dangjin-Cheongju Expressway",
     "name:ko": "당진청주고속도로",
@@ -4210,7 +4263,8 @@
     "oneway": "yes",
     "ref": "32",
     "start_date": "2023-09-21",
-    "surface": "concrete"
+    "surface": "concrete",
+    "toll": "yes"
   }
 },
 {
@@ -4248,7 +4302,9 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
-    "maxspeed": "80",
+    "maxspeed": "60",
+    "maxspeed:hgv": "60",
+    "minspeed": "40",
     "name": "당진청주고속도로",
     "name:en": "Dangjin-Cheongju Expressway",
     "name:ko": "당진청주고속도로",
@@ -4259,7 +4315,8 @@
     "oneway": "yes",
     "ref": "32",
     "start_date": "2023-09-21",
-    "surface": "asphalt"
+    "surface": "asphalt",
+    "toll": "yes"
   }
 },
 {
@@ -6567,6 +6624,18 @@
 },
 {
   "type": "node",
+  "id": 11222121826,
+  "lat": 36.7684392,
+  "lon": 127.1779978
+},
+{
+  "type": "node",
+  "id": 11222121827,
+  "lat": 36.7687286,
+  "lon": 127.1748084
+},
+{
+  "type": "node",
   "id": 4845789674,
   "lat": 36.7679086,
   "lon": 127.1807101
@@ -6633,6 +6702,12 @@
 },
 {
   "type": "node",
+  "id": 7878055525,
+  "lat": 36.7668673,
+  "lon": 127.1918539
+},
+{
+  "type": "node",
   "id": 8110207341,
   "lat": 36.7677304,
   "lon": 127.1871526
@@ -6651,6 +6726,12 @@
 },
 {
   "type": "node",
+  "id": 9659747401,
+  "lat": 36.7672529,
+  "lon": 127.1907299
+},
+{
+  "type": "node",
   "id": 9659747402,
   "lat": 36.7673455,
   "lon": 127.1900247
@@ -6658,8 +6739,32 @@
 {
   "type": "node",
   "id": 9662014214,
-  "lat": 36.7667989,
-  "lon": 127.1886304
+  "lat": 36.7668087,
+  "lon": 127.1885958
+},
+{
+  "type": "node",
+  "id": 9662014215,
+  "lat": 36.7667755,
+  "lon": 127.1890966
+},
+{
+  "type": "node",
+  "id": 9662014216,
+  "lat": 36.7668130,
+  "lon": 127.1906308
+},
+{
+  "type": "node",
+  "id": 9662030419,
+  "lat": 36.7670901,
+  "lon": 127.1922041
+},
+{
+  "type": "node",
+  "id": 9662030420,
+  "lat": 36.7671975,
+  "lon": 127.1914761
 },
 {
   "type": "node",
@@ -6882,6 +6987,18 @@
   "id": 11195884111,
   "lat": 36.7692656,
   "lon": 127.1020672
+},
+{
+  "type": "node",
+  "id": 436219542,
+  "lat": 36.7669273,
+  "lon": 127.1934421
+},
+{
+  "type": "node",
+  "id": 10048788945,
+  "lat": 36.7670565,
+  "lon": 127.1924081
 },
 {
   "type": "node",
