@@ -2,12 +2,28 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-10-05T18:29:15Z",
-    "timestamp_areas_base": "2023-10-05T14:23:30Z",
+    "timestamp_osm_base": "2023-10-06T18:28:45Z",
+    "timestamp_areas_base": "2023-10-06T13:43:58Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
 
+{
+  "type": "way",
+  "id": 37397134,
+  "nodes": [
+    657777099,
+    436780439,
+    2422722349
+  ],
+  "tags": {
+    "highway": "motorway",
+    "ncat": "광역시도로",
+    "oneway": "no",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
 {
   "type": "way",
   "id": 492585793,
@@ -7243,6 +7259,24 @@
   "id": 11209118653,
   "lat": 37.3104131,
   "lon": 126.7186650
+},
+{
+  "type": "node",
+  "id": 436780439,
+  "lat": 37.4463998,
+  "lon": 126.6321533
+},
+{
+  "type": "node",
+  "id": 657777099,
+  "lat": 37.4459357,
+  "lon": 126.6330013
+},
+{
+  "type": "node",
+  "id": 2422722349,
+  "lat": 37.4464637,
+  "lon": 126.6320213
 }
 
   ]
