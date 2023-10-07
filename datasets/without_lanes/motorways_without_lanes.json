@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-10-06T18:28:45Z",
-    "timestamp_areas_base": "2023-10-06T13:43:58Z",
+    "timestamp_osm_base": "2023-10-07T18:27:12Z",
+    "timestamp_areas_base": "2023-10-07T13:59:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -192,8 +192,8 @@
     7878055525
   ],
   "tags": {
-    "destination": "대전;목천;독립기념관",
-    "destination:ref": "1",
+    "destination": "대전;목천",
+    "destination:ref": "1;21",
     "highway": "motorway",
     "maxspeed": "80",
     "name": "당진청주고속도로",
@@ -434,8 +434,6 @@
     "bridge": "yes",
     "bridge:name": "응원교",
     "bridge:name:en": "Eungwongyo",
-    "destination": "아산;서천안",
-    "destination:lang:en": "Asan;West Cheonan",
     "highway": "motorway",
     "layer": "1",
     "maxspeed": "100",
@@ -490,9 +488,6 @@
     "bridge": "yes",
     "bridge:name": "응원교",
     "bridge:name:en": "Eungwongyo",
-    "destination": "대전;목천;독립기념관",
-    "destination:lang:en": "Daejeon;Mokcheon;Independence Hall",
-    "destination:ref": "1",
     "highway": "motorway",
     "layer": "1",
     "maxspeed": "100",
@@ -511,34 +506,6 @@
 },
 {
   "type": "way",
-  "id": 1205417633,
-  "nodes": [
-    9659747402,
-    11195801757,
-    8110207341,
-    8110207345
-  ],
-  "tags": {
-    "destination": "아산;서천안",
-    "destination:lang:en": "Asan;West Cheonan",
-    "destination:ref": "32",
-    "highway": "motorway",
-    "maxspeed": "100",
-    "name": "당진청주고속도로",
-    "name:en": "Dangjin-Cheongju Expressway",
-    "name:ko": "당진청주고속도로",
-    "name:ko-Hani": "唐津淸州高速道路",
-    "name:zh": "唐津清州高速公路",
-    "name:zh-Hant": "唐津清州高速公路",
-    "oneway": "yes",
-    "ref": "32",
-    "start_date": "2023-09-20",
-    "surface": "asphalt",
-    "toll": "yes"
-  }
-},
-{
-  "type": "way",
   "id": 1205417637,
   "nodes": [
     436219542,
@@ -549,9 +516,9 @@
     9659747402
   ],
   "tags": {
-    "destination": "광주;논산;남천안;전주;세종",
-    "destination:lang:en": "Gwangju, Nonsan, Sejong, South Cheonan",
-    "destination:ref": "25;32",
+    "destination": "광주;논산",
+    "destination:lang:en": "Gwangju;Nonsan",
+    "destination:ref": "25",
     "highway": "motorway",
     "maxspeed": "80",
     "name": "당진청주고속도로",
@@ -4251,8 +4218,8 @@
     4845789675
   ],
   "tags": {
-    "destination": "대전;목천;독립기념관",
-    "destination:lang:en": "Daejeon;Mokcheon;Independence Hall",
+    "destination": "대전;목천",
+    "destination:lang:en": "Daejeon;Mokcheon",
     "destination:ref": "1",
     "embankment": "yes",
     "highway": "motorway",
@@ -5379,8 +5346,8 @@
 {
   "type": "node",
   "id": 10651479087,
-  "lat": 36.7891834,
-  "lon": 127.0434189
+  "lat": 36.7894604,
+  "lon": 127.0427240
 },
 {
   "type": "node",
@@ -5948,12 +5915,6 @@
 },
 {
   "type": "node",
-  "id": 10089687687,
-  "lat": 36.7623185,
-  "lon": 127.1323446
-},
-{
-  "type": "node",
   "id": 11204363588,
   "lat": 36.7621933,
   "lon": 127.1332534
@@ -6029,6 +5990,12 @@
   "id": 5692979310,
   "lat": 36.7630290,
   "lon": 127.1285530
+},
+{
+  "type": "node",
+  "id": 10089687687,
+  "lat": 36.7624371,
+  "lon": 127.1314158
 },
 {
   "type": "node",
@@ -6902,12 +6869,6 @@
 },
 {
   "type": "node",
-  "id": 8110207341,
-  "lat": 36.7677304,
-  "lon": 127.1871526
-},
-{
-  "type": "node",
   "id": 8110207344,
   "lat": 36.7670735,
   "lon": 127.1860300
@@ -6965,12 +6926,6 @@
   "id": 10706470234,
   "lat": 36.7669734,
   "lon": 127.1870767
-},
-{
-  "type": "node",
-  "id": 11195801757,
-  "lat": 36.7673955,
-  "lon": 127.1895021
 },
 {
   "type": "node",
