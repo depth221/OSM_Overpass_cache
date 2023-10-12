@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-10-11T18:45:13Z",
-    "timestamp_areas_base": "2023-10-11T16:50:15Z",
+    "timestamp_osm_base": "2023-10-12T18:50:52Z",
+    "timestamp_areas_base": "2023-10-12T16:38:48Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -30223,10 +30223,10 @@
     8096927931
   ],
   "tags": {
-    "destination:backward": "Daesan;Taean;Seosan",
+    "destination:backward": "운산;서산IC",
     "destination:forward": "대산;태안;서산",
-    "destination:lang:en:backward": "Seosan IC;Unsan",
-    "destination:lang:en:forward": "서산IC;운산",
+    "destination:lang:en:backward": "Unsan;Seosan IC",
+    "destination:lang:en:forward": "Daesan;Taean;Seosan",
     "highway": "primary",
     "name": "운암로",
     "name:en": "Unam-ro",
