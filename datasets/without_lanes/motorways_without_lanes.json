@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-10-20T18:27:15Z",
-    "timestamp_areas_base": "2023-10-20T15:21:22Z",
+    "timestamp_osm_base": "2023-10-21T18:27:24Z",
+    "timestamp_areas_base": "2023-10-21T15:04:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -64,46 +64,6 @@
     "start_date": "2023-09-21",
     "surface": "asphalt",
     "toll": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 536513725,
-  "nodes": [
-    5197165493,
-    9623340954,
-    9207200529,
-    11206799207
-  ],
-  "tags": {
-    "bicycle": "no",
-    "foot": "no",
-    "highway": "motorway",
-    "maxspeed": "30",
-    "motorcycle": "no",
-    "oneway": "yes",
-    "ref": "700",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 549213069,
-  "nodes": [
-    5197165496,
-    5197165495,
-    9604707095,
-    5197165494
-  ],
-  "tags": {
-    "bicycle": "no",
-    "foot": "no",
-    "highway": "motorway",
-    "maxspeed": "60",
-    "motorcycle": "no",
-    "oneway": "yes",
-    "ref": "700",
-    "surface": "asphalt"
   }
 },
 {
@@ -4223,24 +4183,6 @@
 },
 {
   "type": "way",
-  "id": 1209630605,
-  "nodes": [
-    11206799207,
-    5305331505
-  ],
-  "tags": {
-    "bicycle": "no",
-    "foot": "no",
-    "highway": "motorway",
-    "maxspeed": "60",
-    "motorcycle": "no",
-    "oneway": "yes",
-    "ref": "700",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
   "id": 1212412438,
   "nodes": [
     11232831283,
@@ -4550,60 +4492,6 @@
   "id": 436315481,
   "lat": 35.4714463,
   "lon": 128.5079168
-},
-{
-  "type": "node",
-  "id": 5197165493,
-  "lat": 35.8882461,
-  "lon": 128.7022731
-},
-{
-  "type": "node",
-  "id": 5197165494,
-  "lat": 35.8884749,
-  "lon": 128.7023620
-},
-{
-  "type": "node",
-  "id": 5197165495,
-  "lat": 35.8876863,
-  "lon": 128.7024546
-},
-{
-  "type": "node",
-  "id": 5197165496,
-  "lat": 35.8867995,
-  "lon": 128.7025743
-},
-{
-  "type": "node",
-  "id": 5305331505,
-  "lat": 35.8867939,
-  "lon": 128.7024549
-},
-{
-  "type": "node",
-  "id": 9207200529,
-  "lat": 35.8874981,
-  "lon": 128.7023663
-},
-{
-  "type": "node",
-  "id": 9604707095,
-  "lat": 35.8880494,
-  "lon": 128.7024125
-},
-{
-  "type": "node",
-  "id": 9623340954,
-  "lat": 35.8878980,
-  "lon": 128.7023201
-},
-{
-  "type": "node",
-  "id": 11206799207,
-  "lat": 35.8872368,
-  "lon": 128.7023980
 },
 {
   "type": "node",
