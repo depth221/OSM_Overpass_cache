@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-10-30T18:28:14Z",
-    "timestamp_areas_base": "2023-10-30T17:37:00Z",
+    "timestamp_osm_base": "2023-10-31T18:28:01Z",
+    "timestamp_areas_base": "2023-10-31T17:26:07Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -83,6 +83,33 @@
     "name:ko": "당진청주고속도로",
     "oneway": "yes",
     "ref": "32"
+  }
+},
+{
+  "type": "way",
+  "id": 856206869,
+  "nodes": [
+    7144959339,
+    11240445153,
+    11240445155,
+    6578625576
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:ko-Latn": "Donghaegosokdoro",
+    "name:zh": "東海高速公路",
+    "name:zh-Hans": "东海高速公路",
+    "name:zh-Hant": "東海高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
   }
 },
 {
@@ -7072,6 +7099,30 @@
   "id": 11209118653,
   "lat": 37.3104131,
   "lon": 126.7186650
+},
+{
+  "type": "node",
+  "id": 6578625576,
+  "lat": 37.3962140,
+  "lon": 129.2017414
+},
+{
+  "type": "node",
+  "id": 7144959339,
+  "lat": 37.3934892,
+  "lon": 129.2036187
+},
+{
+  "type": "node",
+  "id": 11240445153,
+  "lat": 37.3950421,
+  "lon": 129.2024324
+},
+{
+  "type": "node",
+  "id": 11240445155,
+  "lat": 37.3954960,
+  "lon": 129.2021397
 }
 
   ]
