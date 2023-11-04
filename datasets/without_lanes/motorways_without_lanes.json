@@ -2,13 +2,7128 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-11-03T18:29:09Z",
+    "timestamp_osm_base": "2023-11-04T18:26:14Z",
+    "timestamp_areas_base": "2023-11-04T16:30:20Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
 
-
-
+{
+  "type": "way",
+  "id": 492585793,
+  "nodes": [
+    11195884209,
+    5679580945,
+    11195884211,
+    11195950483,
+    4845789712
   ],
-"remark": "runtime error: open64: 2 No such file or directory /srv/overpass/db/area_tags_local.bin File_Blocks::File_Blocks::1"
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 492585799,
+  "nodes": [
+    4845790148,
+    11195884212,
+    5679580944
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "60",
+    "maxspeed:hgv": "60",
+    "minspeed": "40",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 555198510,
+  "nodes": [
+    5327560024,
+    5073644594
+  ],
+  "tags": {
+    "destination": "동서울;서오창;청주공항",
+    "destination:ref": "32",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "oneway": "yes",
+    "ref": "32"
+  }
+},
+{
+  "type": "way",
+  "id": 856206869,
+  "nodes": [
+    7144959339,
+    11240445153,
+    11240445155,
+    6578625576
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:ko-Latn": "Donghaegosokdoro",
+    "name:zh": "東海高速公路",
+    "name:zh-Hans": "东海高速公路",
+    "name:zh-Hant": "東海高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1021421788,
+  "nodes": [
+    436315481,
+    10976565952,
+    11071309527,
+    10976565943,
+    11071309528,
+    9599218240,
+    11071309529,
+    11071309530,
+    9420492459,
+    11071309531,
+    9420492471,
+    9420492458,
+    9420492457,
+    9420492473,
+    9420492456,
+    9599218238,
+    10976565941
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "minspeed": "50",
+    "name": "중부내륙고속도로",
+    "name:en": "Jungbunaeryuk Expressway",
+    "name:ko": "중부내륙고속도로",
+    "name:ko-Hani": "中部內陸高速道路",
+    "name:ko-Latn": "Jungbunaeryukgosokdoro",
+    "name:zh": "中部內陸高速公路",
+    "name:zh-Hans": "中部内陆高速公路",
+    "name:zh-Hant": "中部內陸高速公路",
+    "oneway": "yes",
+    "ref": "45",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1051177707,
+  "nodes": [
+    9662014214,
+    9662014215,
+    9662014216,
+    7878055525
+  ],
+  "tags": {
+    "destination": "대전;목천",
+    "destination:ref": "1;21",
+    "highway": "motorway",
+    "maxspeed": "80",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "oneway": "yes",
+    "ref": "32"
+  }
+},
+{
+  "type": "way",
+  "id": 1088766519,
+  "nodes": [
+    7007099173,
+    11209118650,
+    11209118653,
+    9974569826
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "수도권제2순환고속도로",
+    "name:en": "Sudogwon Je2sunhwan Expressway",
+    "name:ko": "수도권제2순환고속도로",
+    "name:ko-Hani": "首都圈第二循環高速道路",
+    "name:ko-Latn": "sudogwonje2sunhwangosokdoro",
+    "name:zh": "首都圈二環高速公路",
+    "name:zh-Hans": "首都圈二环高速公路",
+    "name:zh-Hant": "首都圈二環高速公路",
+    "oneway": "yes",
+    "ref": "400",
+    "start_date": "2023-09-25",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1181990675,
+  "nodes": [
+    10976565938,
+    9420492454,
+    9599218323,
+    9599218327,
+    9599218326,
+    9599218339,
+    9420492453
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "minspeed": "50",
+    "name": "중부내륙고속도로",
+    "name:en": "Jungbunaeryuk Expressway",
+    "name:ko": "중부내륙고속도로",
+    "name:ko-Hani": "中部內陸高速道路",
+    "name:ko-Latn": "Jungbunaeryukgosokdoro",
+    "name:zh": "中部內陸高速公路",
+    "name:zh-Hans": "中部内陆高速公路",
+    "name:zh-Hant": "中部內陸高速公路",
+    "oneway": "yes",
+    "ref": "45",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1181990676,
+  "nodes": [
+    10976565939,
+    10976565938
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "minspeed": "50",
+    "name": "중부내륙고속도로",
+    "name:en": "Jungbunaeryuk Expressway",
+    "name:ko": "중부내륙고속도로",
+    "name:ko-Hani": "中部內陸高速道路",
+    "name:ko-Latn": "Jungbunaeryukgosokdoro",
+    "name:zh": "中部內陸高速公路",
+    "name:zh-Hans": "中部内陆高速公路",
+    "name:zh-Hant": "中部內陸高速公路",
+    "oneway": "yes",
+    "ref": "45",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1181990677,
+  "nodes": [
+    10976565940,
+    9420492455,
+    10976565939
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "minspeed": "50",
+    "name": "중부내륙고속도로",
+    "name:en": "Jungbunaeryuk Expressway",
+    "name:ko": "중부내륙고속도로",
+    "name:ko-Hani": "中部內陸高速道路",
+    "name:ko-Latn": "Jungbunaeryukgosokdoro",
+    "name:zh": "中部內陸高速公路",
+    "name:zh-Hans": "中部内陆高速公路",
+    "name:zh-Hant": "中部內陸高速公路",
+    "oneway": "yes",
+    "ref": "45",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1181990678,
+  "nodes": [
+    10976565941,
+    10976565940
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "minspeed": "50",
+    "name": "중부내륙고속도로",
+    "name:en": "Jungbunaeryuk Expressway",
+    "name:ko": "중부내륙고속도로",
+    "name:ko-Hani": "中部內陸高速道路",
+    "name:ko-Latn": "Jungbunaeryukgosokdoro",
+    "name:zh": "中部內陸高速公路",
+    "name:zh-Hans": "中部内陆高速公路",
+    "name:zh-Hant": "中部內陸高速公路",
+    "oneway": "yes",
+    "ref": "45",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1181990688,
+  "nodes": [
+    9420492453,
+    10976565964
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "minspeed": "50",
+    "name": "중부내륙고속도로",
+    "name:en": "Jungbunaeryuk Expressway",
+    "name:ko": "중부내륙고속도로",
+    "name:ko-Hani": "中部內陸高速道路",
+    "name:ko-Latn": "Jungbunaeryukgosokdoro",
+    "name:zh": "中部內陸高速公路",
+    "name:zh-Hans": "中部内陆高速公路",
+    "name:zh-Hant": "中部內陸高速公路",
+    "oneway": "yes",
+    "ref": "45",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1181990689,
+  "nodes": [
+    10976565964,
+    9599218385,
+    10976565965
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "minspeed": "50",
+    "name": "중부내륙고속도로",
+    "name:en": "Jungbunaeryuk Expressway",
+    "name:ko": "중부내륙고속도로",
+    "name:ko-Hani": "中部內陸高速道路",
+    "name:ko-Latn": "Jungbunaeryukgosokdoro",
+    "name:zh": "中部內陸高速公路",
+    "name:zh-Hans": "中部内陆高速公路",
+    "name:zh-Hant": "中部內陸高速公路",
+    "oneway": "yes",
+    "ref": "45",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1181990690,
+  "nodes": [
+    10976565965,
+    9420492452,
+    9420492451
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "minspeed": "50",
+    "name": "중부내륙고속도로",
+    "name:en": "Jungbunaeryuk Expressway",
+    "name:ko": "중부내륙고속도로",
+    "name:ko-Hani": "中部內陸高速道路",
+    "name:ko-Latn": "Jungbunaeryukgosokdoro",
+    "name:zh": "中部內陸高速公路",
+    "name:zh-Hans": "中部内陆高速公路",
+    "name:zh-Hant": "中部內陸高速公路",
+    "oneway": "yes",
+    "ref": "45",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1205417630,
+  "nodes": [
+    8110207345,
+    11201110861,
+    8110207340,
+    9662014205,
+    11195801752,
+    4845789713,
+    8110207339,
+    11204363584,
+    4845789714
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "응원교",
+    "bridge:name:en": "Eungwongyo",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-20",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1205417631,
+  "nodes": [
+    11195801756,
+    8110207344,
+    10706470234,
+    9662014214
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-20",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1205417632,
+  "nodes": [
+    4845789675,
+    4845789674,
+    8110207337
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "응원교",
+    "bridge:name:en": "Eungwongyo",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-20",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1205417637,
+  "nodes": [
+    436219542,
+    10048788945,
+    9662030419,
+    9662030420,
+    9659747401,
+    9659747402
+  ],
+  "tags": {
+    "destination": "광주;논산",
+    "destination:lang:en": "Gwangju;Nonsan",
+    "destination:ref": "25",
+    "highway": "motorway",
+    "maxspeed": "80",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "ncat": "교차로및지명",
+    "oneway": "yes",
+    "ref": "32",
+    "review": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1208273739,
+  "nodes": [
+    8110207337,
+    8110207343,
+    11195801766
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-20",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208273740,
+  "nodes": [
+    11195801766,
+    11195801756
+  ],
+  "tags": {
+    "bridge": "yes",
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-20",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208273741,
+  "nodes": [
+    11195801786,
+    11195801794,
+    11195801795,
+    4845789681,
+    11195801770,
+    11195801780,
+    11266928563,
+    11195801771,
+    4845789678,
+    11195801772,
+    11171298794,
+    5731583868,
+    4845789682,
+    4845789677,
+    4845789676,
+    11171298795,
+    11222121827,
+    11195801774,
+    11171298796,
+    11171298782
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-20",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208273742,
+  "nodes": [
+    4845789714,
+    8110207374,
+    11222121826,
+    8110207380,
+    11171298798,
+    10048788958,
+    4845789715,
+    11195801782,
+    4845789716,
+    11195801773,
+    4845789718,
+    11195801781,
+    11171298793,
+    4845789719,
+    11195801792,
+    11195801790,
+    11195801791,
+    11195801789,
+    11195801785
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-20",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208273743,
+  "nodes": [
+    11195801785,
+    11195801883,
+    11195801787
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "삼성교",
+    "bridge:name:en": "Samsunggyo",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208273744,
+  "nodes": [
+    11195801788,
+    11195801882,
+    11195801786
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "삼성교",
+    "bridge:name:en": "Samsunggyo",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208273750,
+  "nodes": [
+    11195801787,
+    11201097357,
+    4845789720
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208273751,
+  "nodes": [
+    4845789679,
+    11195801788
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208273752,
+  "nodes": [
+    5731583866,
+    4845789680,
+    11266928564,
+    4845789679
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes",
+    "tunnel": "yes",
+    "tunnel:name": "동남터널",
+    "tunnel:name:en": "Dongnam Tunnel"
+  }
+},
+{
+  "type": "way",
+  "id": 1208273753,
+  "nodes": [
+    4845789720,
+    11201110860,
+    4845790121,
+    5731583867
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes",
+    "tunnel": "yes",
+    "tunnel:name": "동남터널",
+    "tunnel:name:en": "Dongnam Tunnel"
+  }
+},
+{
+  "type": "way",
+  "id": 1208273754,
+  "nodes": [
+    11195801858,
+    11195801881,
+    5731583861,
+    11266928565,
+    11195801856,
+    5731583866
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208273755,
+  "nodes": [
+    5731583867,
+    11195801857,
+    11266928566,
+    5731583862,
+    11201110856,
+    11195801859
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208273756,
+  "nodes": [
+    11195801859,
+    5731583860,
+    11201097356,
+    4845790122,
+    11232831281,
+    11232831282,
+    11232831283
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208273757,
+  "nodes": [
+    4845789683,
+    11195884088,
+    5731583857,
+    11195801861,
+    5731583859,
+    11266928567,
+    11195801858
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282679,
+  "nodes": [
+    11232831286,
+    11232831284,
+    11266940371,
+    5731583855,
+    11195884042,
+    4845790126,
+    11195884043,
+    11195884040,
+    5731583853,
+    10089687651,
+    11195884047
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282680,
+  "nodes": [
+    11195884046,
+    5731583852,
+    11195884039,
+    4845789687,
+    4845789686,
+    11195884038,
+    11266940369,
+    5731583854,
+    11232831271,
+    11232831295
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282685,
+  "nodes": [
+    11195884055,
+    10089687688,
+    11195884046
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282686,
+  "nodes": [
+    11195884047,
+    11195884056
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282687,
+  "nodes": [
+    11195884063,
+    11195884055
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282688,
+  "nodes": [
+    11195884056,
+    11195884064
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282689,
+  "nodes": [
+    11195884064,
+    11195884065
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282690,
+  "nodes": [
+    11195884066,
+    11195884068,
+    11195884067,
+    11195884063
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282691,
+  "nodes": [
+    4845789688,
+    11195884066
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282692,
+  "nodes": [
+    11195884065,
+    11201110862,
+    7531539859
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282693,
+  "nodes": [
+    7531539859,
+    11195884069
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282694,
+  "nodes": [
+    11195884070,
+    4845789688
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282695,
+  "nodes": [
+    11195884069,
+    7531539860
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282696,
+  "nodes": [
+    7531539860,
+    11195884076,
+    11195884075
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282697,
+  "nodes": [
+    10089687686,
+    11195884070
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282698,
+  "nodes": [
+    10089687685,
+    10089687686
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282699,
+  "nodes": [
+    11195884075,
+    10089687707,
+    4845790127
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282700,
+  "nodes": [
+    4845789689,
+    11204363588,
+    10089687685
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282703,
+  "nodes": [
+    4845790127,
+    11195884082,
+    11195884078
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes",
+    "tunnel": "yes",
+    "tunnel:name": "풍세2터널",
+    "tunnel:name:en": "Pungse 2 Tunnel"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282704,
+  "nodes": [
+    11195884079,
+    11201097361,
+    11201097360,
+    10089687687,
+    4845789689
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes",
+    "tunnel": "yes",
+    "tunnel:name": "풍세2터널",
+    "tunnel:name:en": "Pungse 2 Tunnel"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282706,
+  "nodes": [
+    5692979309,
+    11195884079
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282707,
+  "nodes": [
+    11195884083,
+    5692979309
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282708,
+  "nodes": [
+    11195884078,
+    11201097362,
+    11195884084
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282709,
+  "nodes": [
+    11195884084,
+    5692979310
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282710,
+  "nodes": [
+    5692979310,
+    11201097363,
+    11204363590,
+    11195884085
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282711,
+  "nodes": [
+    11195884086,
+    11201097364,
+    11195884083
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282713,
+  "nodes": [
+    5692979305,
+    11195884086
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes",
+    "tunnel": "yes",
+    "tunnel:name": "풍세1터널",
+    "tunnel:name:en": "Pungse 1 Tunnel"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282714,
+  "nodes": [
+    8071850411,
+    11232831269,
+    11232831270,
+    11195884091,
+    5692979305
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282715,
+  "nodes": [
+    4845789690,
+    8071850411
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282716,
+  "nodes": [
+    11195884085,
+    5692979308
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes",
+    "tunnel": "yes",
+    "tunnel:name": "풍세1터널",
+    "tunnel:name:en": "Pungse 1 Tunnel"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282717,
+  "nodes": [
+    8071850412,
+    11204363591,
+    4845790128
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282718,
+  "nodes": [
+    5692979308,
+    11195884090,
+    11232831262,
+    11232831261,
+    8071850412
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282719,
+  "nodes": [
+    11195884094,
+    4845789691,
+    11232831266,
+    11232831267,
+    11195884092,
+    11232831268,
+    4845789690
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282720,
+  "nodes": [
+    4845790128,
+    11201097365,
+    11195884093,
+    11232831263,
+    11232831264,
+    11232831265,
+    4845790129,
+    11195884095
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282721,
+  "nodes": [
+    11195884095,
+    11195884098,
+    11195884096
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282722,
+  "nodes": [
+    11195884097,
+    11195884094
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282723,
+  "nodes": [
+    5692979304,
+    11195884100,
+    4845789692,
+    11195884097
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282724,
+  "nodes": [
+    11195884096,
+    4845790130,
+    11195884099,
+    5692979300
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282725,
+  "nodes": [
+    5692979300,
+    4845790131,
+    11195884103,
+    11195884101
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-20",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282726,
+  "nodes": [
+    11195884102,
+    4845789693,
+    5692979304
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-20",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282727,
+  "nodes": [
+    11195884101,
+    11195884104
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-20",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282728,
+  "nodes": [
+    11195884105,
+    11195884102
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-20",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282729,
+  "nodes": [
+    11195884104,
+    11232831256,
+    11232831255,
+    11232831254,
+    5692979301,
+    11195884110
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-20",
+    "surface": "concrete",
+    "toll": "yes",
+    "tunnel": "yes",
+    "tunnel:name": "배방터널",
+    "tunnel:name:en": "Baebang Tunnel"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282730,
+  "nodes": [
+    5692979302,
+    11232831257,
+    11195884111,
+    11232831260,
+    11232831259,
+    11232831258,
+    11195884105
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-20",
+    "surface": "asphalt",
+    "toll": "yes",
+    "tunnel": "yes",
+    "tunnel:name": "배방터널",
+    "tunnel:name:en": "Baebang Tunnel"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282731,
+  "nodes": [
+    11195884110,
+    11201110851,
+    11201110852,
+    11195884112
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-20",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282732,
+  "nodes": [
+    11195884112,
+    5692979299,
+    11201110850,
+    11195884113
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-20",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282733,
+  "nodes": [
+    11195884114,
+    11201110853,
+    5692979302
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-20",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282734,
+  "nodes": [
+    5692979303,
+    11195884114
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-20",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282737,
+  "nodes": [
+    11195884132,
+    11199420372,
+    11195884119,
+    11195884131,
+    11195884116,
+    11195884129,
+    11199420374,
+    4845789695,
+    11195884117,
+    4845789694,
+    5692979303
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-20",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282738,
+  "nodes": [
+    11195884113,
+    4845790132,
+    11195884123,
+    11195884118,
+    4845790133,
+    11195884115,
+    11195884125,
+    11199420371,
+    11195884120,
+    11195884133
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-20",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282739,
+  "nodes": [
+    5679579310,
+    11195884142,
+    4845789699,
+    4845789698,
+    4845789697,
+    11195884137,
+    6236921876,
+    11195884138,
+    11195884135,
+    11195884134,
+    8073216378,
+    4845789696,
+    8073216379,
+    8073216380,
+    11195884132
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "현충사대교",
+    "bridge:name:en": "Hyeonchungsa Bridge",
+    "bridge:structure": "cable-stayed",
+    "highway": "motorway",
+    "layer": "3",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282740,
+  "nodes": [
+    11195884133,
+    8073216381,
+    8073216377,
+    4845790134,
+    11195884136,
+    6236921875,
+    11195884139,
+    4845790135,
+    4845790136,
+    11195884141,
+    11195884140,
+    11195884143,
+    5679579311
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "현충사대교",
+    "bridge:name:en": "Hyeonchungsa Bridge",
+    "bridge:structure": "cable-stayed",
+    "highway": "motorway",
+    "layer": "3",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282741,
+  "nodes": [
+    5679579311,
+    11195884144,
+    11195884147,
+    4845790137,
+    11195884149
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282742,
+  "nodes": [
+    5679579312,
+    11195884148,
+    4845789700,
+    11195884146,
+    11195884145,
+    5679579310
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282743,
+  "nodes": [
+    11195884149,
+    4845790138
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282744,
+  "nodes": [
+    11195884150,
+    5679579312
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282745,
+  "nodes": [
+    4845790138,
+    5679580976,
+    11195884151
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282746,
+  "nodes": [
+    11195884151,
+    5679579314
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282747,
+  "nodes": [
+    11195884152,
+    4845789701,
+    11195884150
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282748,
+  "nodes": [
+    5679579313,
+    11195884152
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282749,
+  "nodes": [
+    5679579314,
+    11195884158,
+    5679580957,
+    4845790139
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282750,
+  "nodes": [
+    4845789706,
+    11195884157,
+    5679580968,
+    11195884153,
+    5679579313
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282751,
+  "nodes": [
+    11195884156,
+    11201097372,
+    4845789706
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282752,
+  "nodes": [
+    4845790139,
+    11195884155
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282755,
+  "nodes": [
+    11195884155,
+    4845790140,
+    11195884161,
+    11129101745,
+    11195884162,
+    4845790141,
+    6236921873,
+    11129101747
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282756,
+  "nodes": [
+    11195884163,
+    4845789703,
+    5679579315,
+    11129101746,
+    4845789704,
+    10651479087,
+    4845789705,
+    11195884156
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282757,
+  "nodes": [
+    11195884164,
+    11195884167,
+    4845789702,
+    11195884163
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "2",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282758,
+  "nodes": [
+    11129101747,
+    4845790142,
+    11195884168,
+    4845790143,
+    11195884166,
+    11195884165
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "2",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282759,
+  "nodes": [
+    11195884165,
+    5679579319,
+    5679579316
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282760,
+  "nodes": [
+    5679579317,
+    5679579318,
+    11195884164
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282761,
+  "nodes": [
+    5679580921,
+    5679580924,
+    11195884173
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes",
+    "tunnel": "yes",
+    "tunnel:name": "현충사지하차도",
+    "tunnel:name:en": "Hyeonchungsa Underpass"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282762,
+  "nodes": [
+    11195884174,
+    5679580923,
+    11195884170
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes",
+    "tunnel": "yes",
+    "tunnel:name": "현충사지하차도",
+    "tunnel:name:en": "Hyeonchungsa Underpass"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282763,
+  "nodes": [
+    11195884170,
+    5679580925,
+    11195884180,
+    11199420376,
+    11199420377,
+    11204369448,
+    5679579317
+  ],
+  "tags": {
+    "cutting": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282764,
+  "nodes": [
+    5679579316,
+    11199420375,
+    11204369449,
+    11195884176,
+    11195884171,
+    5679580921
+  ],
+  "tags": {
+    "cutting": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282765,
+  "nodes": [
+    11195884173,
+    11195884178,
+    5679579320
+  ],
+  "tags": {
+    "cutting": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282766,
+  "nodes": [
+    5679580922,
+    11195884179,
+    11195884177,
+    11195884174
+  ],
+  "tags": {
+    "cutting": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282767,
+  "nodes": [
+    5679579320,
+    4845790144,
+    4845790145,
+    11195884181
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282768,
+  "nodes": [
+    11195884181,
+    11195884183
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "석정3교",
+    "bridge:name:en": "Seokjeong 3 gyo",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282769,
+  "nodes": [
+    11195884184,
+    4845789708,
+    4845789707,
+    5679580922
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282770,
+  "nodes": [
+    11195884182,
+    11195884184
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "석정3교",
+    "bridge:name:en": "Seokjeong 3 gyo",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282771,
+  "nodes": [
+    11195884183,
+    4845790146,
+    11195884188,
+    5679580927,
+    11195884187,
+    5679580930
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282772,
+  "nodes": [
+    11195884186,
+    5679580926,
+    4845789709,
+    11195884185,
+    11195884182
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282773,
+  "nodes": [
+    5679580929,
+    11195884186
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282774,
+  "nodes": [
+    5679580930,
+    11203747405,
+    11195884189
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282775,
+  "nodes": [
+    11195884192,
+    5679580928,
+    5679580929
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282776,
+  "nodes": [
+    11195884191,
+    11195884192
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282777,
+  "nodes": [
+    11195884189,
+    5679580931,
+    11195884193
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282778,
+  "nodes": [
+    11195884193,
+    11195884194
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282779,
+  "nodes": [
+    11195884198,
+    5679580935,
+    11195884195
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282780,
+  "nodes": [
+    11195884196,
+    5679580934,
+    11195884199
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282781,
+  "nodes": [
+    11195884194,
+    5679580933,
+    11195884197
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282782,
+  "nodes": [
+    11195884197,
+    11195884198
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282783,
+  "nodes": [
+    11195884200,
+    5679580932,
+    11195884191
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282784,
+  "nodes": [
+    11195884199,
+    11195884200
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282785,
+  "nodes": [
+    5679580936,
+    11195884201,
+    11195884196
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282786,
+  "nodes": [
+    11195884195,
+    5679580937
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282787,
+  "nodes": [
+    5679580937,
+    11195884202
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282788,
+  "nodes": [
+    11195884203,
+    5679580936
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282789,
+  "nodes": [
+    11195884202,
+    4845790147,
+    5679580938
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "maxspeed:hgv": "80",
+    "minspeed": "40",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282790,
+  "nodes": [
+    5679580939,
+    4845789710,
+    11195884203
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282791,
+  "nodes": [
+    5679580941,
+    5679580939
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282792,
+  "nodes": [
+    11195884204,
+    5679580941
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282793,
+  "nodes": [
+    5679580938,
+    5679580940,
+    11195884205
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "80",
+    "maxspeed:hgv": "80",
+    "minspeed": "40",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282794,
+  "nodes": [
+    11195884205,
+    11129101748,
+    11195884206
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "maxspeed:hgv": "80",
+    "minspeed": "40",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282795,
+  "nodes": [
+    5679580943,
+    11195884204
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282796,
+  "nodes": [
+    11195884206,
+    5679580942
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "80",
+    "maxspeed:hgv": "80",
+    "minspeed": "40",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282797,
+  "nodes": [
+    5679580942,
+    11201097367,
+    11201097366,
+    4845790148
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "80",
+    "maxspeed:hgv": "80",
+    "minspeed": "40",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes",
+    "tunnel": "yes",
+    "tunnel:name": "염치2터널",
+    "tunnel:name:en": "Yeomchi 2 Tunnel"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282798,
+  "nodes": [
+    4845789712,
+    11195884208,
+    5679580943
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes",
+    "tunnel": "yes",
+    "tunnel:name": "염치2터널",
+    "tunnel:name:en": "Yeomchi 2 Tunnel"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282799,
+  "nodes": [
+    5679580944,
+    11204373633,
+    11195884213
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "60",
+    "maxspeed:hgv": "60",
+    "minspeed": "40",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282800,
+  "nodes": [
+    8118498094,
+    11195884209
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 1208282801,
+  "nodes": [
+    11195884213,
+    8118498050
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "60",
+    "maxspeed:hgv": "60",
+    "minspeed": "40",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "note": "http://www.ex.co.kr/",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1209275922,
+  "nodes": [
+    11171298782,
+    4845789675
+  ],
+  "tags": {
+    "destination": "대전;목천",
+    "destination:lang:en": "Daejeon;Mokcheon",
+    "destination:ref": "1",
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-20",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1212412438,
+  "nodes": [
+    11232831283,
+    11266928568,
+    11232831292,
+    11232831291,
+    11232831290,
+    11232831289,
+    11232831288,
+    11232831287,
+    11232831293
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1212412439,
+  "nodes": [
+    11232831293,
+    11232831286
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1212412440,
+  "nodes": [
+    11232831296,
+    11232831274,
+    11232831275,
+    11232831276,
+    11232831277,
+    11232831278,
+    11232831279,
+    4845789683
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1212412441,
+  "nodes": [
+    11232831295,
+    11232831273,
+    11232831296
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "당진청주고속도로",
+    "name:en": "Dangjin-Cheongju Expressway",
+    "name:ko": "당진청주고속도로",
+    "name:ko-Hani": "唐津淸州高速道路",
+    "name:zh": "唐津清州高速公路",
+    "name:zh-Hant": "唐津清州高速公路",
+    "oneway": "yes",
+    "ref": "32",
+    "start_date": "2023-09-21",
+    "surface": "asphalt",
+    "toll": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9420492451,
+  "lat": 35.4467570,
+  "lon": 128.5043180
+},
+{
+  "type": "node",
+  "id": 9420492452,
+  "lat": 35.4475781,
+  "lon": 128.5043388
+},
+{
+  "type": "node",
+  "id": 9420492453,
+  "lat": 35.4493787,
+  "lon": 128.5045262
+},
+{
+  "type": "node",
+  "id": 9599218339,
+  "lat": 35.4510725,
+  "lon": 128.5047775
+},
+{
+  "type": "node",
+  "id": 9599218385,
+  "lat": 35.4481325,
+  "lon": 128.5043965
+},
+{
+  "type": "node",
+  "id": 10976565964,
+  "lat": 35.4486099,
+  "lon": 128.5044462
+},
+{
+  "type": "node",
+  "id": 10976565965,
+  "lat": 35.4477797,
+  "lon": 128.5043598
+},
+{
+  "type": "node",
+  "id": 9420492454,
+  "lat": 35.4543005,
+  "lon": 128.5053904
+},
+{
+  "type": "node",
+  "id": 9420492455,
+  "lat": 35.4574118,
+  "lon": 128.5061844
+},
+{
+  "type": "node",
+  "id": 9599218323,
+  "lat": 35.4531846,
+  "lon": 128.5051203
+},
+{
+  "type": "node",
+  "id": 9599218326,
+  "lat": 35.4526278,
+  "lon": 128.5050082
+},
+{
+  "type": "node",
+  "id": 9599218327,
+  "lat": 35.4529235,
+  "lon": 128.5050642
+},
+{
+  "type": "node",
+  "id": 10976565938,
+  "lat": 35.4554117,
+  "lon": 128.5056740
+},
+{
+  "type": "node",
+  "id": 10976565939,
+  "lat": 35.4569847,
+  "lon": 128.5060754
+},
+{
+  "type": "node",
+  "id": 9420492456,
+  "lat": 35.4620521,
+  "lon": 128.5071499
+},
+{
+  "type": "node",
+  "id": 9420492457,
+  "lat": 35.4645773,
+  "lon": 128.5075538
+},
+{
+  "type": "node",
+  "id": 9420492473,
+  "lat": 35.4636830,
+  "lon": 128.5074440
+},
+{
+  "type": "node",
+  "id": 9599218238,
+  "lat": 35.4616302,
+  "lon": 128.5070814
+},
+{
+  "type": "node",
+  "id": 10976565940,
+  "lat": 35.4587002,
+  "lon": 128.5064584
+},
+{
+  "type": "node",
+  "id": 10976565941,
+  "lat": 35.4607834,
+  "lon": 128.5069013
+},
+{
+  "type": "node",
+  "id": 9420492458,
+  "lat": 35.4666266,
+  "lon": 128.5078259
+},
+{
+  "type": "node",
+  "id": 9420492459,
+  "lat": 35.4683533,
+  "lon": 128.5079656
+},
+{
+  "type": "node",
+  "id": 9420492471,
+  "lat": 35.4676138,
+  "lon": 128.5079224
+},
+{
+  "type": "node",
+  "id": 9599218240,
+  "lat": 35.4696531,
+  "lon": 128.5078760
+},
+{
+  "type": "node",
+  "id": 10976565943,
+  "lat": 35.4702356,
+  "lon": 128.5078812
+},
+{
+  "type": "node",
+  "id": 10976565952,
+  "lat": 35.4710776,
+  "lon": 128.5078969
+},
+{
+  "type": "node",
+  "id": 11071309527,
+  "lat": 35.4706219,
+  "lon": 128.5078826
+},
+{
+  "type": "node",
+  "id": 11071309528,
+  "lat": 35.4699200,
+  "lon": 128.5078669
+},
+{
+  "type": "node",
+  "id": 11071309529,
+  "lat": 35.4689563,
+  "lon": 128.5079336
+},
+{
+  "type": "node",
+  "id": 11071309530,
+  "lat": 35.4686444,
+  "lon": 128.5079581
+},
+{
+  "type": "node",
+  "id": 11071309531,
+  "lat": 35.4680381,
+  "lon": 128.5079632
+},
+{
+  "type": "node",
+  "id": 436315481,
+  "lat": 35.4714463,
+  "lon": 128.5079168
+},
+{
+  "type": "node",
+  "id": 5679580944,
+  "lat": 36.8205824,
+  "lon": 126.9787251
+},
+{
+  "type": "node",
+  "id": 5679580945,
+  "lat": 36.8204557,
+  "lon": 126.9787248
+},
+{
+  "type": "node",
+  "id": 8118498094,
+  "lat": 36.8207013,
+  "lon": 126.9780198
+},
+{
+  "type": "node",
+  "id": 11195884209,
+  "lat": 36.8204767,
+  "lon": 126.9786680
+},
+{
+  "type": "node",
+  "id": 11195884211,
+  "lat": 36.8195836,
+  "lon": 126.9813181
+},
+{
+  "type": "node",
+  "id": 11195884212,
+  "lat": 36.8197194,
+  "lon": 126.9815615
+},
+{
+  "type": "node",
+  "id": 11195884213,
+  "lat": 36.8214103,
+  "lon": 126.9764509
+},
+{
+  "type": "node",
+  "id": 11195950483,
+  "lat": 36.8191823,
+  "lon": 126.9823444
+},
+{
+  "type": "node",
+  "id": 11204373633,
+  "lat": 36.8212821,
+  "lon": 126.9768031
+},
+{
+  "type": "node",
+  "id": 4845790143,
+  "lat": 36.7947337,
+  "lon": 127.0345729
+},
+{
+  "type": "node",
+  "id": 11195884167,
+  "lat": 36.7947022,
+  "lon": 127.0344405
+},
+{
+  "type": "node",
+  "id": 5679580932,
+  "lat": 36.8077233,
+  "lon": 127.0014694
+},
+{
+  "type": "node",
+  "id": 5679580933,
+  "lat": 36.8078375,
+  "lon": 127.0015861
+},
+{
+  "type": "node",
+  "id": 5679580926,
+  "lat": 36.8047298,
+  "lon": 127.0080230
+},
+{
+  "type": "node",
+  "id": 5679580927,
+  "lat": 36.8048355,
+  "lon": 127.0080387
+},
+{
+  "type": "node",
+  "id": 5679580928,
+  "lat": 36.8060232,
+  "lon": 127.0046073
+},
+{
+  "type": "node",
+  "id": 5679580929,
+  "lat": 36.8055756,
+  "lon": 127.0056656
+},
+{
+  "type": "node",
+  "id": 5679580930,
+  "lat": 36.8052398,
+  "lon": 127.0069013
+},
+{
+  "type": "node",
+  "id": 5679580931,
+  "lat": 36.8062525,
+  "lon": 127.0044378
+},
+{
+  "type": "node",
+  "id": 11195884186,
+  "lat": 36.8050991,
+  "lon": 127.0068933
+},
+{
+  "type": "node",
+  "id": 11195884187,
+  "lat": 36.8051355,
+  "lon": 127.0072071
+},
+{
+  "type": "node",
+  "id": 11195884189,
+  "lat": 36.8057267,
+  "lon": 127.0056248
+},
+{
+  "type": "node",
+  "id": 11195884191,
+  "lat": 36.8069953,
+  "lon": 127.0027618
+},
+{
+  "type": "node",
+  "id": 11195884192,
+  "lat": 36.8066443,
+  "lon": 127.0033772
+},
+{
+  "type": "node",
+  "id": 11195884193,
+  "lat": 36.8066954,
+  "lon": 127.0035335
+},
+{
+  "type": "node",
+  "id": 11195884194,
+  "lat": 36.8070873,
+  "lon": 127.0028454
+},
+{
+  "type": "node",
+  "id": 11203747405,
+  "lat": 36.8055784,
+  "lon": 127.0060135
+},
+{
+  "type": "node",
+  "id": 4845789710,
+  "lat": 36.8132557,
+  "lon": 126.9928129
+},
+{
+  "type": "node",
+  "id": 4845790147,
+  "lat": 36.8133695,
+  "lon": 126.9929361
+},
+{
+  "type": "node",
+  "id": 5679580936,
+  "lat": 36.8120151,
+  "lon": 126.9948090
+},
+{
+  "type": "node",
+  "id": 5679580937,
+  "lat": 36.8120787,
+  "lon": 126.9949174
+},
+{
+  "type": "node",
+  "id": 11195884195,
+  "lat": 36.8117925,
+  "lon": 126.9953922
+},
+{
+  "type": "node",
+  "id": 11195884196,
+  "lat": 36.8117212,
+  "lon": 126.9952938
+},
+{
+  "type": "node",
+  "id": 11195884201,
+  "lat": 36.8119608,
+  "lon": 126.9948986
+},
+{
+  "type": "node",
+  "id": 11195884202,
+  "lat": 36.8127491,
+  "lon": 126.9938679
+},
+{
+  "type": "node",
+  "id": 11195884203,
+  "lat": 36.8126383,
+  "lon": 126.9938324
+},
+{
+  "type": "node",
+  "id": 4845789712,
+  "lat": 36.8190170,
+  "lon": 126.9827077
+},
+{
+  "type": "node",
+  "id": 4845790148,
+  "lat": 36.8192638,
+  "lon": 126.9828148
+},
+{
+  "type": "node",
+  "id": 5679580940,
+  "lat": 36.8159166,
+  "lon": 126.9888810
+},
+{
+  "type": "node",
+  "id": 5679580941,
+  "lat": 36.8160419,
+  "lon": 126.9884485
+},
+{
+  "type": "node",
+  "id": 5679580942,
+  "lat": 36.8171840,
+  "lon": 126.9870216
+},
+{
+  "type": "node",
+  "id": 5679580943,
+  "lat": 36.8169303,
+  "lon": 126.9869560
+},
+{
+  "type": "node",
+  "id": 11129101748,
+  "lat": 36.8166655,
+  "lon": 126.9878206
+},
+{
+  "type": "node",
+  "id": 11195884204,
+  "lat": 36.8167595,
+  "lon": 126.9872329
+},
+{
+  "type": "node",
+  "id": 11195884205,
+  "lat": 36.8162078,
+  "lon": 126.9884700
+},
+{
+  "type": "node",
+  "id": 11195884206,
+  "lat": 36.8169994,
+  "lon": 126.9873082
+},
+{
+  "type": "node",
+  "id": 11195884208,
+  "lat": 36.8186194,
+  "lon": 126.9836745
+},
+{
+  "type": "node",
+  "id": 11201097366,
+  "lat": 36.8190157,
+  "lon": 126.9834945
+},
+{
+  "type": "node",
+  "id": 11201097367,
+  "lat": 36.8187235,
+  "lon": 126.9841714
+},
+{
+  "type": "node",
+  "id": 5679580938,
+  "lat": 36.8150967,
+  "lon": 126.9901842
+},
+{
+  "type": "node",
+  "id": 5679580939,
+  "lat": 36.8150048,
+  "lon": 126.9900859
+},
+{
+  "type": "node",
+  "id": 5679580934,
+  "lat": 36.8106962,
+  "lon": 126.9968830
+},
+{
+  "type": "node",
+  "id": 5679580935,
+  "lat": 36.8107329,
+  "lon": 126.9970510
+},
+{
+  "type": "node",
+  "id": 11195884197,
+  "lat": 36.8088258,
+  "lon": 127.0000381
+},
+{
+  "type": "node",
+  "id": 11195884198,
+  "lat": 36.8089876,
+  "lon": 126.9997847
+},
+{
+  "type": "node",
+  "id": 11195884199,
+  "lat": 36.8088978,
+  "lon": 126.9996575
+},
+{
+  "type": "node",
+  "id": 11195884200,
+  "lat": 36.8087201,
+  "lon": 126.9999316
+},
+{
+  "type": "node",
+  "id": 4845789709,
+  "lat": 36.8041309,
+  "lon": 127.0104922
+},
+{
+  "type": "node",
+  "id": 4845790146,
+  "lat": 36.8042456,
+  "lon": 127.0105754
+},
+{
+  "type": "node",
+  "id": 11195884185,
+  "lat": 36.8033410,
+  "lon": 127.0149912
+},
+{
+  "type": "node",
+  "id": 11195884188,
+  "lat": 36.8045700,
+  "lon": 127.0091653
+},
+{
+  "type": "node",
+  "id": 11195884181,
+  "lat": 36.8022866,
+  "lon": 127.0213131
+},
+{
+  "type": "node",
+  "id": 11195884182,
+  "lat": 36.8022747,
+  "lon": 127.0207898
+},
+{
+  "type": "node",
+  "id": 11195884183,
+  "lat": 36.8023759,
+  "lon": 127.0208931
+},
+{
+  "type": "node",
+  "id": 11195884184,
+  "lat": 36.8021740,
+  "lon": 127.0212748
+},
+{
+  "type": "node",
+  "id": 5679580921,
+  "lat": 36.8001359,
+  "lon": 127.0272767
+},
+{
+  "type": "node",
+  "id": 5679580922,
+  "lat": 36.8016764,
+  "lon": 127.0233008
+},
+{
+  "type": "node",
+  "id": 5679580923,
+  "lat": 36.8002147,
+  "lon": 127.0268735
+},
+{
+  "type": "node",
+  "id": 5679580924,
+  "lat": 36.8003200,
+  "lon": 127.0269354
+},
+{
+  "type": "node",
+  "id": 5679580925,
+  "lat": 36.7999072,
+  "lon": 127.0274483
+},
+{
+  "type": "node",
+  "id": 11195884170,
+  "lat": 36.8000363,
+  "lon": 127.0272044
+},
+{
+  "type": "node",
+  "id": 11195884171,
+  "lat": 36.7995276,
+  "lon": 127.0283117
+},
+{
+  "type": "node",
+  "id": 11195884173,
+  "lat": 36.8004515,
+  "lon": 127.0266644
+},
+{
+  "type": "node",
+  "id": 11195884174,
+  "lat": 36.8003570,
+  "lon": 127.0265846
+},
+{
+  "type": "node",
+  "id": 11195884177,
+  "lat": 36.8009126,
+  "lon": 127.0253296
+},
+{
+  "type": "node",
+  "id": 11195884178,
+  "lat": 36.8014289,
+  "lon": 127.0244342
+},
+{
+  "type": "node",
+  "id": 11195884179,
+  "lat": 36.8012919,
+  "lon": 127.0244523
+},
+{
+  "type": "node",
+  "id": 5679579316,
+  "lat": 36.7970536,
+  "lon": 127.0316615
+},
+{
+  "type": "node",
+  "id": 5679579317,
+  "lat": 36.7969797,
+  "lon": 127.0315511
+},
+{
+  "type": "node",
+  "id": 5679579318,
+  "lat": 36.7961793,
+  "lon": 127.0325992
+},
+{
+  "type": "node",
+  "id": 5679579319,
+  "lat": 36.7961602,
+  "lon": 127.0327312
+},
+{
+  "type": "node",
+  "id": 11195884164,
+  "lat": 36.7958742,
+  "lon": 127.0329916
+},
+{
+  "type": "node",
+  "id": 11195884165,
+  "lat": 36.7959133,
+  "lon": 127.0330733
+},
+{
+  "type": "node",
+  "id": 11195884166,
+  "lat": 36.7958634,
+  "lon": 127.0331424
+},
+{
+  "type": "node",
+  "id": 11195884176,
+  "lat": 36.7992563,
+  "lon": 127.0287018
+},
+{
+  "type": "node",
+  "id": 11195884180,
+  "lat": 36.7991819,
+  "lon": 127.0286238
+},
+{
+  "type": "node",
+  "id": 11199420375,
+  "lat": 36.7982692,
+  "lon": 127.0300931
+},
+{
+  "type": "node",
+  "id": 11199420376,
+  "lat": 36.7981577,
+  "lon": 127.0300709
+},
+{
+  "type": "node",
+  "id": 11199420377,
+  "lat": 36.7975205,
+  "lon": 127.0308632
+},
+{
+  "type": "node",
+  "id": 11204369448,
+  "lat": 36.7971364,
+  "lon": 127.0313517
+},
+{
+  "type": "node",
+  "id": 11204369449,
+  "lat": 36.7985775,
+  "lon": 127.0296586
+},
+{
+  "type": "node",
+  "id": 4845789707,
+  "lat": 36.8018326,
+  "lon": 127.0227256
+},
+{
+  "type": "node",
+  "id": 4845789708,
+  "lat": 36.8019245,
+  "lon": 127.0223343
+},
+{
+  "type": "node",
+  "id": 4845790144,
+  "lat": 36.8019124,
+  "lon": 127.0228900
+},
+{
+  "type": "node",
+  "id": 4845790145,
+  "lat": 36.8020553,
+  "lon": 127.0222681
+},
+{
+  "type": "node",
+  "id": 5679579320,
+  "lat": 36.8017544,
+  "lon": 127.0234025
+},
+{
+  "type": "node",
+  "id": 4845789706,
+  "lat": 36.7882256,
+  "lon": 127.0467418
+},
+{
+  "type": "node",
+  "id": 4845790139,
+  "lat": 36.7883619,
+  "lon": 127.0467447
+},
+{
+  "type": "node",
+  "id": 5679580957,
+  "lat": 36.7883165,
+  "lon": 127.0469602
+},
+{
+  "type": "node",
+  "id": 5679580968,
+  "lat": 36.7880197,
+  "lon": 127.0477618
+},
+{
+  "type": "node",
+  "id": 11195884155,
+  "lat": 36.7884788,
+  "lon": 127.0462494
+},
+{
+  "type": "node",
+  "id": 11195884156,
+  "lat": 36.7883652,
+  "lon": 127.0461594
+},
+{
+  "type": "node",
+  "id": 11195884157,
+  "lat": 36.7880796,
+  "lon": 127.0474652
+},
+{
+  "type": "node",
+  "id": 11195884158,
+  "lat": 36.7881636,
+  "lon": 127.0476867
+},
+{
+  "type": "node",
+  "id": 11201097372,
+  "lat": 36.7882756,
+  "lon": 127.0465331
+},
+{
+  "type": "node",
+  "id": 4845789702,
+  "lat": 36.7934007,
+  "lon": 127.0360833
+},
+{
+  "type": "node",
+  "id": 4845789703,
+  "lat": 36.7916591,
+  "lon": 127.0384834
+},
+{
+  "type": "node",
+  "id": 4845790141,
+  "lat": 36.7905245,
+  "lon": 127.0406828
+},
+{
+  "type": "node",
+  "id": 4845790142,
+  "lat": 36.7921923,
+  "lon": 127.0378334
+},
+{
+  "type": "node",
+  "id": 5679579315,
+  "lat": 36.7909610,
+  "lon": 127.0396262
+},
+{
+  "type": "node",
+  "id": 6236921873,
+  "lat": 36.7910432,
+  "lon": 127.0397650
+},
+{
+  "type": "node",
+  "id": 11129101746,
+  "lat": 36.7903199,
+  "lon": 127.0408089
+},
+{
+  "type": "node",
+  "id": 11129101747,
+  "lat": 36.7919498,
+  "lon": 127.0382394
+},
+{
+  "type": "node",
+  "id": 11195884163,
+  "lat": 36.7918650,
+  "lon": 127.0381686
+},
+{
+  "type": "node",
+  "id": 11195884168,
+  "lat": 36.7932772,
+  "lon": 127.0364223
+},
+{
+  "type": "node",
+  "id": 4845789704,
+  "lat": 36.7895491,
+  "lon": 127.0424848
+},
+{
+  "type": "node",
+  "id": 4845789705,
+  "lat": 36.7888205,
+  "lon": 127.0445679
+},
+{
+  "type": "node",
+  "id": 4845790140,
+  "lat": 36.7889151,
+  "lon": 127.0446874
+},
+{
+  "type": "node",
+  "id": 10651479087,
+  "lat": 36.7894604,
+  "lon": 127.0427240
+},
+{
+  "type": "node",
+  "id": 11129101745,
+  "lat": 36.7893199,
+  "lon": 127.0433596
+},
+{
+  "type": "node",
+  "id": 11195884161,
+  "lat": 36.7890524,
+  "lon": 127.0441946
+},
+{
+  "type": "node",
+  "id": 11195884162,
+  "lat": 36.7894002,
+  "lon": 127.0431573
+},
+{
+  "type": "node",
+  "id": 4845789701,
+  "lat": 36.7874076,
+  "lon": 127.0524460
+},
+{
+  "type": "node",
+  "id": 4845790138,
+  "lat": 36.7875148,
+  "lon": 127.0527643
+},
+{
+  "type": "node",
+  "id": 5679579312,
+  "lat": 36.7872754,
+  "lon": 127.0536021
+},
+{
+  "type": "node",
+  "id": 5679579313,
+  "lat": 36.7877970,
+  "lon": 127.0490116
+},
+{
+  "type": "node",
+  "id": 5679579314,
+  "lat": 36.7879246,
+  "lon": 127.0490136
+},
+{
+  "type": "node",
+  "id": 5679580976,
+  "lat": 36.7876210,
+  "lon": 127.0516594
+},
+{
+  "type": "node",
+  "id": 11195884149,
+  "lat": 36.7874155,
+  "lon": 127.0536113
+},
+{
+  "type": "node",
+  "id": 11195884150,
+  "lat": 36.7873751,
+  "lon": 127.0527301
+},
+{
+  "type": "node",
+  "id": 11195884151,
+  "lat": 36.7878364,
+  "lon": 127.0497603
+},
+{
+  "type": "node",
+  "id": 11195884152,
+  "lat": 36.7877026,
+  "lon": 127.0497932
+},
+{
+  "type": "node",
+  "id": 11195884153,
+  "lat": 36.7878295,
+  "lon": 127.0487825
+},
+{
+  "type": "node",
+  "id": 4845789700,
+  "lat": 36.7864521,
+  "lon": 127.0611901
+},
+{
+  "type": "node",
+  "id": 11195884148,
+  "lat": 36.7866812,
+  "lon": 127.0594506
+},
+{
+  "type": "node",
+  "id": 8073216380,
+  "lat": 36.7745218,
+  "lon": 127.0873285
+},
+{
+  "type": "node",
+  "id": 4845789697,
+  "lat": 36.7815128,
+  "lon": 127.0746403
+},
+{
+  "type": "node",
+  "id": 4845790135,
+  "lat": 36.7816011,
+  "lon": 127.0746641
+},
+{
+  "type": "node",
+  "id": 6236921875,
+  "lat": 36.7790351,
+  "lon": 127.0801780
+},
+{
+  "type": "node",
+  "id": 6236921876,
+  "lat": 36.7795998,
+  "lon": 127.0788081
+},
+{
+  "type": "node",
+  "id": 11195884137,
+  "lat": 36.7798860,
+  "lon": 127.0781723
+},
+{
+  "type": "node",
+  "id": 11195884138,
+  "lat": 36.7789501,
+  "lon": 127.0801092
+},
+{
+  "type": "node",
+  "id": 11195884139,
+  "lat": 36.7804933,
+  "lon": 127.0771184
+},
+{
+  "type": "node",
+  "id": 4845789696,
+  "lat": 36.7758575,
+  "lon": 127.0852196
+},
+{
+  "type": "node",
+  "id": 4845790134,
+  "lat": 36.7764786,
+  "lon": 127.0843816
+},
+{
+  "type": "node",
+  "id": 8073216377,
+  "lat": 36.7759287,
+  "lon": 127.0852660
+},
+{
+  "type": "node",
+  "id": 8073216378,
+  "lat": 36.7763697,
+  "lon": 127.0842902
+},
+{
+  "type": "node",
+  "id": 8073216379,
+  "lat": 36.7756237,
+  "lon": 127.0856059
+},
+{
+  "type": "node",
+  "id": 11195884134,
+  "lat": 36.7771081,
+  "lon": 127.0831242
+},
+{
+  "type": "node",
+  "id": 11195884135,
+  "lat": 36.7783259,
+  "lon": 127.0811819
+},
+{
+  "type": "node",
+  "id": 11195884136,
+  "lat": 36.7784194,
+  "lon": 127.0812303
+},
+{
+  "type": "node",
+  "id": 4845789699,
+  "lat": 36.7851465,
+  "lon": 127.0664545
+},
+{
+  "type": "node",
+  "id": 4845790137,
+  "lat": 36.7865553,
+  "lon": 127.0612953
+},
+{
+  "type": "node",
+  "id": 5679579310,
+  "lat": 36.7857660,
+  "lon": 127.0644032
+},
+{
+  "type": "node",
+  "id": 5679579311,
+  "lat": 36.7858907,
+  "lon": 127.0644135
+},
+{
+  "type": "node",
+  "id": 11195884140,
+  "lat": 36.7853686,
+  "lon": 127.0661012
+},
+{
+  "type": "node",
+  "id": 11195884141,
+  "lat": 36.7848485,
+  "lon": 127.0674987
+},
+{
+  "type": "node",
+  "id": 11195884142,
+  "lat": 36.7853089,
+  "lon": 127.0659711
+},
+{
+  "type": "node",
+  "id": 11195884143,
+  "lat": 36.7855431,
+  "lon": 127.0655951
+},
+{
+  "type": "node",
+  "id": 11195884144,
+  "lat": 36.7862017,
+  "lon": 127.0631637
+},
+{
+  "type": "node",
+  "id": 11195884145,
+  "lat": 36.7859840,
+  "lon": 127.0636375
+},
+{
+  "type": "node",
+  "id": 11195884146,
+  "lat": 36.7862334,
+  "lon": 127.0624011
+},
+{
+  "type": "node",
+  "id": 11195884147,
+  "lat": 36.7864028,
+  "lon": 127.0621636
+},
+{
+  "type": "node",
+  "id": 4845789698,
+  "lat": 36.7846341,
+  "lon": 127.0677720
+},
+{
+  "type": "node",
+  "id": 4845790136,
+  "lat": 36.7846700,
+  "lon": 127.0678999
+},
+{
+  "type": "node",
+  "id": 8118498050,
+  "lat": 36.8215332,
+  "lon": 126.9760948
+},
+{
+  "type": "node",
+  "id": 5073644594,
+  "lat": 36.7143675,
+  "lon": 127.3522873
+},
+{
+  "type": "node",
+  "id": 5327560024,
+  "lat": 36.7138351,
+  "lon": 127.3509996
+},
+{
+  "type": "node",
+  "id": 11195884101,
+  "lat": 36.7685977,
+  "lon": 127.1060194
+},
+{
+  "type": "node",
+  "id": 11195884102,
+  "lat": 36.7684869,
+  "lon": 127.1059661
+},
+{
+  "type": "node",
+  "id": 11195884105,
+  "lat": 36.7688876,
+  "lon": 127.1043311
+},
+{
+  "type": "node",
+  "id": 4845789692,
+  "lat": 36.7671438,
+  "lon": 127.1101582
+},
+{
+  "type": "node",
+  "id": 4845789693,
+  "lat": 36.7679892,
+  "lon": 127.1077377
+},
+{
+  "type": "node",
+  "id": 4845790130,
+  "lat": 36.7672601,
+  "lon": 127.1102030
+},
+{
+  "type": "node",
+  "id": 4845790131,
+  "lat": 36.7680824,
+  "lon": 127.1077826
+},
+{
+  "type": "node",
+  "id": 5692979300,
+  "lat": 36.7676799,
+  "lon": 127.1090323
+},
+{
+  "type": "node",
+  "id": 5692979304,
+  "lat": 36.7675725,
+  "lon": 127.1090033
+},
+{
+  "type": "node",
+  "id": 11195884094,
+  "lat": 36.7663734,
+  "lon": 127.1123765
+},
+{
+  "type": "node",
+  "id": 11195884095,
+  "lat": 36.7665118,
+  "lon": 127.1123329
+},
+{
+  "type": "node",
+  "id": 11195884096,
+  "lat": 36.7667561,
+  "lon": 127.1116465
+},
+{
+  "type": "node",
+  "id": 11195884097,
+  "lat": 36.7666012,
+  "lon": 127.1117366
+},
+{
+  "type": "node",
+  "id": 11195884098,
+  "lat": 36.7666659,
+  "lon": 127.1118999
+},
+{
+  "type": "node",
+  "id": 11195884099,
+  "lat": 36.7676488,
+  "lon": 127.1091190
+},
+{
+  "type": "node",
+  "id": 11195884100,
+  "lat": 36.7675216,
+  "lon": 127.1091403
+},
+{
+  "type": "node",
+  "id": 11195884103,
+  "lat": 36.7681758,
+  "lon": 127.1074789
+},
+{
+  "type": "node",
+  "id": 4845789690,
+  "lat": 36.7643607,
+  "lon": 127.1181580
+},
+{
+  "type": "node",
+  "id": 4845789691,
+  "lat": 36.7655169,
+  "lon": 127.1146652
+},
+{
+  "type": "node",
+  "id": 4845790128,
+  "lat": 36.7645120,
+  "lon": 127.1182801
+},
+{
+  "type": "node",
+  "id": 4845790129,
+  "lat": 36.7657300,
+  "lon": 127.1144547
+},
+{
+  "type": "node",
+  "id": 8071850411,
+  "lat": 36.7642296,
+  "lon": 127.1186364
+},
+{
+  "type": "node",
+  "id": 8071850412,
+  "lat": 36.7643942,
+  "lon": 127.1187513
+},
+{
+  "type": "node",
+  "id": 11195884090,
+  "lat": 36.7641876,
+  "lon": 127.1199734
+},
+{
+  "type": "node",
+  "id": 11195884091,
+  "lat": 36.7639434,
+  "lon": 127.1199752
+},
+{
+  "type": "node",
+  "id": 11195884092,
+  "lat": 36.7646948,
+  "lon": 127.1170481
+},
+{
+  "type": "node",
+  "id": 11195884093,
+  "lat": 36.7647737,
+  "lon": 127.1172873
+},
+{
+  "type": "node",
+  "id": 11201097365,
+  "lat": 36.7646267,
+  "lon": 127.1178451
+},
+{
+  "type": "node",
+  "id": 11204363591,
+  "lat": 36.7644359,
+  "lon": 127.1185846
+},
+{
+  "type": "node",
+  "id": 11232831261,
+  "lat": 36.7643247,
+  "lon": 127.1190766
+},
+{
+  "type": "node",
+  "id": 11232831262,
+  "lat": 36.7642670,
+  "lon": 127.1194203
+},
+{
+  "type": "node",
+  "id": 11232831263,
+  "lat": 36.7649395,
+  "lon": 127.1167505
+},
+{
+  "type": "node",
+  "id": 11232831264,
+  "lat": 36.7651574,
+  "lon": 127.1160824
+},
+{
+  "type": "node",
+  "id": 11232831265,
+  "lat": 36.7653892,
+  "lon": 127.1154136
+},
+{
+  "type": "node",
+  "id": 11232831266,
+  "lat": 36.7651415,
+  "lon": 127.1157235
+},
+{
+  "type": "node",
+  "id": 11232831267,
+  "lat": 36.7649233,
+  "lon": 127.1163635
+},
+{
+  "type": "node",
+  "id": 11232831268,
+  "lat": 36.7645068,
+  "lon": 127.1176443
+},
+{
+  "type": "node",
+  "id": 11232831269,
+  "lat": 36.7641391,
+  "lon": 127.1190460
+},
+{
+  "type": "node",
+  "id": 11232831270,
+  "lat": 36.7640340,
+  "lon": 127.1195054
+},
+{
+  "type": "node",
+  "id": 5692979305,
+  "lat": 36.7638287,
+  "lon": 127.1205856
+},
+{
+  "type": "node",
+  "id": 5692979308,
+  "lat": 36.7641261,
+  "lon": 127.1204801
+},
+{
+  "type": "node",
+  "id": 11195884085,
+  "lat": 36.7633763,
+  "lon": 127.1261008
+},
+{
+  "type": "node",
+  "id": 11195884086,
+  "lat": 36.7630405,
+  "lon": 127.1262957
+},
+{
+  "type": "node",
+  "id": 4845789689,
+  "lat": 36.7622242,
+  "lon": 127.1330412
+},
+{
+  "type": "node",
+  "id": 4845790127,
+  "lat": 36.7624302,
+  "lon": 127.1332733
+},
+{
+  "type": "node",
+  "id": 11204363588,
+  "lat": 36.7621933,
+  "lon": 127.1332534
+},
+{
+  "type": "node",
+  "id": 4845789688,
+  "lat": 36.7614439,
+  "lon": 127.1383355
+},
+{
+  "type": "node",
+  "id": 7531539859,
+  "lat": 36.7615407,
+  "lon": 127.1383866
+},
+{
+  "type": "node",
+  "id": 7531539860,
+  "lat": 36.7620275,
+  "lon": 127.1356498
+},
+{
+  "type": "node",
+  "id": 10089687685,
+  "lat": 36.7618718,
+  "lon": 127.1354102
+},
+{
+  "type": "node",
+  "id": 10089687686,
+  "lat": 36.7618275,
+  "lon": 127.1356650
+},
+{
+  "type": "node",
+  "id": 10089687707,
+  "lat": 36.7623793,
+  "lon": 127.1335970
+},
+{
+  "type": "node",
+  "id": 11195884069,
+  "lat": 36.7616599,
+  "lon": 127.1376765
+},
+{
+  "type": "node",
+  "id": 11195884070,
+  "lat": 36.7615306,
+  "lon": 127.1376992
+},
+{
+  "type": "node",
+  "id": 11195884075,
+  "lat": 36.7620610,
+  "lon": 127.1354276
+},
+{
+  "type": "node",
+  "id": 11195884076,
+  "lat": 36.7620373,
+  "lon": 127.1355846
+},
+{
+  "type": "node",
+  "id": 5692979309,
+  "lat": 36.7627343,
+  "lon": 127.1289458
+},
+{
+  "type": "node",
+  "id": 5692979310,
+  "lat": 36.7630290,
+  "lon": 127.1285530
+},
+{
+  "type": "node",
+  "id": 10089687687,
+  "lat": 36.7624371,
+  "lon": 127.1314158
+},
+{
+  "type": "node",
+  "id": 11195884078,
+  "lat": 36.7628867,
+  "lon": 127.1299923
+},
+{
+  "type": "node",
+  "id": 11195884079,
+  "lat": 36.7626416,
+  "lon": 127.1298605
+},
+{
+  "type": "node",
+  "id": 11195884082,
+  "lat": 36.7625936,
+  "lon": 127.1320987
+},
+{
+  "type": "node",
+  "id": 11195884083,
+  "lat": 36.7627864,
+  "lon": 127.1284629
+},
+{
+  "type": "node",
+  "id": 11195884084,
+  "lat": 36.7629756,
+  "lon": 127.1290499
+},
+{
+  "type": "node",
+  "id": 11201097360,
+  "lat": 36.7624697,
+  "lon": 127.1311706
+},
+{
+  "type": "node",
+  "id": 11201097361,
+  "lat": 36.7625258,
+  "lon": 127.1307433
+},
+{
+  "type": "node",
+  "id": 11201097362,
+  "lat": 36.7629536,
+  "lon": 127.1292833
+},
+{
+  "type": "node",
+  "id": 11201097363,
+  "lat": 36.7630751,
+  "lon": 127.1282278
+},
+{
+  "type": "node",
+  "id": 11201097364,
+  "lat": 36.7628214,
+  "lon": 127.1281646
+},
+{
+  "type": "node",
+  "id": 11204363590,
+  "lat": 36.7631627,
+  "lon": 127.1276090
+},
+{
+  "type": "node",
+  "id": 10089687651,
+  "lat": 36.7604292,
+  "lon": 127.1459110
+},
+{
+  "type": "node",
+  "id": 10089687688,
+  "lat": 36.7607411,
+  "lon": 127.1427504
+},
+{
+  "type": "node",
+  "id": 11195884046,
+  "lat": 36.7606070,
+  "lon": 127.1435161
+},
+{
+  "type": "node",
+  "id": 11195884047,
+  "lat": 36.7607536,
+  "lon": 127.1434805
+},
+{
+  "type": "node",
+  "id": 11195884055,
+  "lat": 36.7609191,
+  "lon": 127.1417144
+},
+{
+  "type": "node",
+  "id": 11195884056,
+  "lat": 36.7610378,
+  "lon": 127.1417078
+},
+{
+  "type": "node",
+  "id": 11195884063,
+  "lat": 36.7610591,
+  "lon": 127.1408515
+},
+{
+  "type": "node",
+  "id": 11195884064,
+  "lat": 36.7611596,
+  "lon": 127.1409481
+},
+{
+  "type": "node",
+  "id": 11195884065,
+  "lat": 36.7612621,
+  "lon": 127.1403092
+},
+{
+  "type": "node",
+  "id": 11195884066,
+  "lat": 36.7611577,
+  "lon": 127.1402439
+},
+{
+  "type": "node",
+  "id": 11195884067,
+  "lat": 36.7611033,
+  "lon": 127.1405790
+},
+{
+  "type": "node",
+  "id": 11195884068,
+  "lat": 36.7611326,
+  "lon": 127.1403987
+},
+{
+  "type": "node",
+  "id": 11201110862,
+  "lat": 36.7613021,
+  "lon": 127.1400330
+},
+{
+  "type": "node",
+  "id": 4845789686,
+  "lat": 36.7600468,
+  "lon": 127.1497093
+},
+{
+  "type": "node",
+  "id": 4845789687,
+  "lat": 36.7600655,
+  "lon": 127.1484575
+},
+{
+  "type": "node",
+  "id": 4845790126,
+  "lat": 36.7601745,
+  "lon": 127.1484041
+},
+{
+  "type": "node",
+  "id": 5731583852,
+  "lat": 36.7602078,
+  "lon": 127.1467014
+},
+{
+  "type": "node",
+  "id": 5731583853,
+  "lat": 36.7603252,
+  "lon": 127.1467085
+},
+{
+  "type": "node",
+  "id": 5731583854,
+  "lat": 36.7601526,
+  "lon": 127.1519263
+},
+{
+  "type": "node",
+  "id": 5731583855,
+  "lat": 36.7601917,
+  "lon": 127.1510152
+},
+{
+  "type": "node",
+  "id": 11195884038,
+  "lat": 36.7600899,
+  "lon": 127.1509478
+},
+{
+  "type": "node",
+  "id": 11195884039,
+  "lat": 36.7601167,
+  "lon": 127.1475256
+},
+{
+  "type": "node",
+  "id": 11195884040,
+  "lat": 36.7602379,
+  "lon": 127.1474412
+},
+{
+  "type": "node",
+  "id": 11195884042,
+  "lat": 36.7601611,
+  "lon": 127.1499597
+},
+{
+  "type": "node",
+  "id": 11195884043,
+  "lat": 36.7601946,
+  "lon": 127.1481089
+},
+{
+  "type": "node",
+  "id": 11232831271,
+  "lat": 36.7601875,
+  "lon": 127.1522717
+},
+{
+  "type": "node",
+  "id": 11232831273,
+  "lat": 36.7602278,
+  "lon": 127.1526586
+},
+{
+  "type": "node",
+  "id": 11232831284,
+  "lat": 36.7602858,
+  "lon": 127.1522096
+},
+{
+  "type": "node",
+  "id": 11232831286,
+  "lat": 36.7603181,
+  "lon": 127.1525052
+},
+{
+  "type": "node",
+  "id": 11232831293,
+  "lat": 36.7603553,
+  "lon": 127.1527722
+},
+{
+  "type": "node",
+  "id": 11232831295,
+  "lat": 36.7602129,
+  "lon": 127.1525124
+},
+{
+  "type": "node",
+  "id": 11232831296,
+  "lat": 36.7602446,
+  "lon": 127.1527857
+},
+{
+  "type": "node",
+  "id": 11266940369,
+  "lat": 36.7601188,
+  "lon": 127.1514381
+},
+{
+  "type": "node",
+  "id": 11266940371,
+  "lat": 36.7602273,
+  "lon": 127.1516846
+},
+{
+  "type": "node",
+  "id": 4845789683,
+  "lat": 36.7607691,
+  "lon": 127.1557460
+},
+{
+  "type": "node",
+  "id": 4845790122,
+  "lat": 36.7612234,
+  "lon": 127.1570449
+},
+{
+  "type": "node",
+  "id": 5731583857,
+  "lat": 36.7610083,
+  "lon": 127.1566208
+},
+{
+  "type": "node",
+  "id": 5731583859,
+  "lat": 36.7612844,
+  "lon": 127.1575646
+},
+{
+  "type": "node",
+  "id": 5731583860,
+  "lat": 36.7615150,
+  "lon": 127.1579227
+},
+{
+  "type": "node",
+  "id": 11195801858,
+  "lat": 36.7616314,
+  "lon": 127.1585736
+},
+{
+  "type": "node",
+  "id": 11195801859,
+  "lat": 36.7617170,
+  "lon": 127.1585349
+},
+{
+  "type": "node",
+  "id": 11195801861,
+  "lat": 36.7611525,
+  "lon": 127.1571237
+},
+{
+  "type": "node",
+  "id": 11195801881,
+  "lat": 36.7617985,
+  "lon": 127.1590291
+},
+{
+  "type": "node",
+  "id": 11195884088,
+  "lat": 36.7609052,
+  "lon": 127.1562403
+},
+{
+  "type": "node",
+  "id": 11201097356,
+  "lat": 36.7613800,
+  "lon": 127.1575408
+},
+{
+  "type": "node",
+  "id": 11201110856,
+  "lat": 36.7619281,
+  "lon": 127.1590947
+},
+{
+  "type": "node",
+  "id": 11232831274,
+  "lat": 36.7602688,
+  "lon": 127.1530225
+},
+{
+  "type": "node",
+  "id": 11232831275,
+  "lat": 36.7603016,
+  "lon": 127.1532481
+},
+{
+  "type": "node",
+  "id": 11232831276,
+  "lat": 36.7603621,
+  "lon": 127.1536540
+},
+{
+  "type": "node",
+  "id": 11232831277,
+  "lat": 36.7604821,
+  "lon": 127.1543828
+},
+{
+  "type": "node",
+  "id": 11232831278,
+  "lat": 36.7605716,
+  "lon": 127.1548872
+},
+{
+  "type": "node",
+  "id": 11232831279,
+  "lat": 36.7606494,
+  "lon": 127.1552846
+},
+{
+  "type": "node",
+  "id": 11232831281,
+  "lat": 36.7610971,
+  "lon": 127.1565990
+},
+{
+  "type": "node",
+  "id": 11232831282,
+  "lat": 36.7609939,
+  "lon": 127.1562482
+},
+{
+  "type": "node",
+  "id": 11232831283,
+  "lat": 36.7608595,
+  "lon": 127.1557210
+},
+{
+  "type": "node",
+  "id": 11232831287,
+  "lat": 36.7604100,
+  "lon": 127.1531734
+},
+{
+  "type": "node",
+  "id": 11232831288,
+  "lat": 36.7604551,
+  "lon": 127.1535072
+},
+{
+  "type": "node",
+  "id": 11232831289,
+  "lat": 36.7604806,
+  "lon": 127.1537335
+},
+{
+  "type": "node",
+  "id": 11232831290,
+  "lat": 36.7605284,
+  "lon": 127.1540887
+},
+{
+  "type": "node",
+  "id": 11232831291,
+  "lat": 36.7605973,
+  "lon": 127.1544764
+},
+{
+  "type": "node",
+  "id": 11232831292,
+  "lat": 36.7606708,
+  "lon": 127.1549191
+},
+{
+  "type": "node",
+  "id": 11266928567,
+  "lat": 36.7614635,
+  "lon": 127.1580899
+},
+{
+  "type": "node",
+  "id": 11266928568,
+  "lat": 36.7607497,
+  "lon": 127.1553078
+},
+{
+  "type": "node",
+  "id": 5731583861,
+  "lat": 36.7619931,
+  "lon": 127.1595366
+},
+{
+  "type": "node",
+  "id": 5731583862,
+  "lat": 36.7621194,
+  "lon": 127.1595909
+},
+{
+  "type": "node",
+  "id": 11266928565,
+  "lat": 36.7622324,
+  "lon": 127.1601776
+},
+{
+  "type": "node",
+  "id": 11266928566,
+  "lat": 36.7623641,
+  "lon": 127.1601897
+},
+{
+  "type": "node",
+  "id": 4845789679,
+  "lat": 36.7647958,
+  "lon": 127.1647056
+},
+{
+  "type": "node",
+  "id": 4845789680,
+  "lat": 36.7632694,
+  "lon": 127.1623386
+},
+{
+  "type": "node",
+  "id": 4845789720,
+  "lat": 36.7648829,
+  "lon": 127.1646002
+},
+{
+  "type": "node",
+  "id": 4845790121,
+  "lat": 36.7632045,
+  "lon": 127.1617394
+},
+{
+  "type": "node",
+  "id": 5731583866,
+  "lat": 36.7629090,
+  "lon": 127.1616530
+},
+{
+  "type": "node",
+  "id": 5731583867,
+  "lat": 36.7630882,
+  "lon": 127.1615221
+},
+{
+  "type": "node",
+  "id": 11195801787,
+  "lat": 36.7655732,
+  "lon": 127.1654642
+},
+{
+  "type": "node",
+  "id": 11195801788,
+  "lat": 36.7654989,
+  "lon": 127.1655716
+},
+{
+  "type": "node",
+  "id": 11195801856,
+  "lat": 36.7624773,
+  "lon": 127.1607336
+},
+{
+  "type": "node",
+  "id": 11195801857,
+  "lat": 36.7626925,
+  "lon": 127.1608947
+},
+{
+  "type": "node",
+  "id": 11201097357,
+  "lat": 36.7652039,
+  "lon": 127.1650058
+},
+{
+  "type": "node",
+  "id": 11201110860,
+  "lat": 36.7634379,
+  "lon": 127.1620950
+},
+{
+  "type": "node",
+  "id": 11266928564,
+  "lat": 36.7639053,
+  "lon": 127.1634002
+},
+{
+  "type": "node",
+  "id": 4845789678,
+  "lat": 36.7682964,
+  "lon": 127.1705088
+},
+{
+  "type": "node",
+  "id": 4845789681,
+  "lat": 36.7676595,
+  "lon": 127.1689091
+},
+{
+  "type": "node",
+  "id": 4845789682,
+  "lat": 36.7686274,
+  "lon": 127.1723299
+},
+{
+  "type": "node",
+  "id": 4845789716,
+  "lat": 36.7686683,
+  "lon": 127.1717768
+},
+{
+  "type": "node",
+  "id": 4845789718,
+  "lat": 36.7685488,
+  "lon": 127.1709921
+},
+{
+  "type": "node",
+  "id": 4845789719,
+  "lat": 36.7680557,
+  "lon": 127.1695259
+},
+{
+  "type": "node",
+  "id": 5731583868,
+  "lat": 36.7685943,
+  "lon": 127.1719348
+},
+{
+  "type": "node",
+  "id": 11171298793,
+  "lat": 36.7682848,
+  "lon": 127.1701361
+},
+{
+  "type": "node",
+  "id": 11171298794,
+  "lat": 36.7684991,
+  "lon": 127.1712853
+},
+{
+  "type": "node",
+  "id": 11195801770,
+  "lat": 36.7678861,
+  "lon": 127.1694292
+},
+{
+  "type": "node",
+  "id": 11195801771,
+  "lat": 36.7682108,
+  "lon": 127.1702406
+},
+{
+  "type": "node",
+  "id": 11195801772,
+  "lat": 36.7684304,
+  "lon": 127.1709619
+},
+{
+  "type": "node",
+  "id": 11195801773,
+  "lat": 36.7686357,
+  "lon": 127.1714874
+},
+{
+  "type": "node",
+  "id": 11195801780,
+  "lat": 36.7680181,
+  "lon": 127.1697865
+},
+{
+  "type": "node",
+  "id": 11195801781,
+  "lat": 36.7684378,
+  "lon": 127.1705850
+},
+{
+  "type": "node",
+  "id": 11195801785,
+  "lat": 36.7670132,
+  "lon": 127.1674091
+},
+{
+  "type": "node",
+  "id": 11195801786,
+  "lat": 36.7669106,
+  "lon": 127.1674680
+},
+{
+  "type": "node",
+  "id": 11195801789,
+  "lat": 36.7672752,
+  "lon": 127.1678545
+},
+{
+  "type": "node",
+  "id": 11195801790,
+  "lat": 36.7677110,
+  "lon": 127.1686924
+},
+{
+  "type": "node",
+  "id": 11195801791,
+  "lat": 36.7675023,
+  "lon": 127.1682687
+},
+{
+  "type": "node",
+  "id": 11195801792,
+  "lat": 36.7678759,
+  "lon": 127.1690781
+},
+{
+  "type": "node",
+  "id": 11195801794,
+  "lat": 36.7671956,
+  "lon": 127.1679520
+},
+{
+  "type": "node",
+  "id": 11195801795,
+  "lat": 36.7673982,
+  "lon": 127.1683630
+},
+{
+  "type": "node",
+  "id": 11195801882,
+  "lat": 36.7662118,
+  "lon": 127.1664677
+},
+{
+  "type": "node",
+  "id": 11195801883,
+  "lat": 36.7663124,
+  "lon": 127.1664236
+},
+{
+  "type": "node",
+  "id": 11266928563,
+  "lat": 36.7681188,
+  "lon": 127.1700174
+},
+{
+  "type": "node",
+  "id": 4845789675,
+  "lat": 36.7682345,
+  "lon": 127.1786005
+},
+{
+  "type": "node",
+  "id": 4845789676,
+  "lat": 36.7687715,
+  "lon": 127.1740914
+},
+{
+  "type": "node",
+  "id": 4845789677,
+  "lat": 36.7687435,
+  "lon": 127.1737419
+},
+{
+  "type": "node",
+  "id": 4845789714,
+  "lat": 36.7683346,
+  "lon": 127.1788530
+},
+{
+  "type": "node",
+  "id": 4845789715,
+  "lat": 36.7688551,
+  "lon": 127.1741889
+},
+{
+  "type": "node",
+  "id": 8110207374,
+  "lat": 36.7683898,
+  "lon": 127.1783307
+},
+{
+  "type": "node",
+  "id": 8110207380,
+  "lat": 36.7686830,
+  "lon": 127.1763541
+},
+{
+  "type": "node",
+  "id": 10048788958,
+  "lat": 36.7688340,
+  "lon": 127.1746064
+},
+{
+  "type": "node",
+  "id": 11171298782,
+  "lat": 36.7684086,
+  "lon": 127.1774210
+},
+{
+  "type": "node",
+  "id": 11171298795,
+  "lat": 36.7687354,
+  "lon": 127.1747210
+},
+{
+  "type": "node",
+  "id": 11171298796,
+  "lat": 36.7685540,
+  "lon": 127.1764004
+},
+{
+  "type": "node",
+  "id": 11171298798,
+  "lat": 36.7687957,
+  "lon": 127.1752932
+},
+{
+  "type": "node",
+  "id": 11195801774,
+  "lat": 36.7686633,
+  "lon": 127.1756474
+},
+{
+  "type": "node",
+  "id": 11195801782,
+  "lat": 36.7688095,
+  "lon": 127.1732159
+},
+{
+  "type": "node",
+  "id": 11222121826,
+  "lat": 36.7684392,
+  "lon": 127.1779978
+},
+{
+  "type": "node",
+  "id": 11222121827,
+  "lat": 36.7687286,
+  "lon": 127.1748084
+},
+{
+  "type": "node",
+  "id": 4845789674,
+  "lat": 36.7679086,
+  "lon": 127.1807101
+},
+{
+  "type": "node",
+  "id": 4845789713,
+  "lat": 36.7680854,
+  "lon": 127.1807076
+},
+{
+  "type": "node",
+  "id": 8110207337,
+  "lat": 36.7677650,
+  "lon": 127.1816988
+},
+{
+  "type": "node",
+  "id": 8110207339,
+  "lat": 36.7681293,
+  "lon": 127.1803167
+},
+{
+  "type": "node",
+  "id": 8110207340,
+  "lat": 36.7678603,
+  "lon": 127.1855448
+},
+{
+  "type": "node",
+  "id": 8110207343,
+  "lat": 36.7675321,
+  "lon": 127.1833766
+},
+{
+  "type": "node",
+  "id": 9662014205,
+  "lat": 36.7679787,
+  "lon": 127.1821292
+},
+{
+  "type": "node",
+  "id": 11195801752,
+  "lat": 36.7680195,
+  "lon": 127.1814809
+},
+{
+  "type": "node",
+  "id": 11195801756,
+  "lat": 36.7672277,
+  "lon": 127.1849445
+},
+{
+  "type": "node",
+  "id": 11195801766,
+  "lat": 36.7673196,
+  "lon": 127.1844675
+},
+{
+  "type": "node",
+  "id": 11204363584,
+  "lat": 36.7682570,
+  "lon": 127.1794060
+},
+{
+  "type": "node",
+  "id": 7878055525,
+  "lat": 36.7668673,
+  "lon": 127.1918539
+},
+{
+  "type": "node",
+  "id": 8110207344,
+  "lat": 36.7670735,
+  "lon": 127.1860300
+},
+{
+  "type": "node",
+  "id": 8110207345,
+  "lat": 36.7678385,
+  "lon": 127.1861763
+},
+{
+  "type": "node",
+  "id": 9659747401,
+  "lat": 36.7672529,
+  "lon": 127.1907299
+},
+{
+  "type": "node",
+  "id": 9659747402,
+  "lat": 36.7673455,
+  "lon": 127.1900247
+},
+{
+  "type": "node",
+  "id": 9662014214,
+  "lat": 36.7668087,
+  "lon": 127.1885958
+},
+{
+  "type": "node",
+  "id": 9662014215,
+  "lat": 36.7667755,
+  "lon": 127.1890966
+},
+{
+  "type": "node",
+  "id": 9662014216,
+  "lat": 36.7668130,
+  "lon": 127.1906308
+},
+{
+  "type": "node",
+  "id": 9662030419,
+  "lat": 36.7670901,
+  "lon": 127.1922041
+},
+{
+  "type": "node",
+  "id": 9662030420,
+  "lat": 36.7671975,
+  "lon": 127.1914761
+},
+{
+  "type": "node",
+  "id": 10706470234,
+  "lat": 36.7669734,
+  "lon": 127.1870767
+},
+{
+  "type": "node",
+  "id": 11201110861,
+  "lat": 36.7678532,
+  "lon": 127.1857515
+},
+{
+  "type": "node",
+  "id": 4845789695,
+  "lat": 36.7713186,
+  "lon": 127.0931162
+},
+{
+  "type": "node",
+  "id": 4845790133,
+  "lat": 36.7712950,
+  "lon": 127.0934893
+},
+{
+  "type": "node",
+  "id": 8073216381,
+  "lat": 36.7746218,
+  "lon": 127.0874221
+},
+{
+  "type": "node",
+  "id": 11195884115,
+  "lat": 36.7719497,
+  "lon": 127.0920233
+},
+{
+  "type": "node",
+  "id": 11195884116,
+  "lat": 36.7717683,
+  "lon": 127.0921494
+},
+{
+  "type": "node",
+  "id": 11195884119,
+  "lat": 36.7726706,
+  "lon": 127.0903719
+},
+{
+  "type": "node",
+  "id": 11195884120,
+  "lat": 36.7727432,
+  "lon": 127.0905006
+},
+{
+  "type": "node",
+  "id": 11195884125,
+  "lat": 36.7720873,
+  "lon": 127.0917192
+},
+{
+  "type": "node",
+  "id": 11195884129,
+  "lat": 36.7715370,
+  "lon": 127.0926466
+},
+{
+  "type": "node",
+  "id": 11195884131,
+  "lat": 36.7725330,
+  "lon": 127.0906216
+},
+{
+  "type": "node",
+  "id": 11195884132,
+  "lat": 36.7738721,
+  "lon": 127.0884529
+},
+{
+  "type": "node",
+  "id": 11195884133,
+  "lat": 36.7739442,
+  "lon": 127.0885308
+},
+{
+  "type": "node",
+  "id": 11199420371,
+  "lat": 36.7722420,
+  "lon": 127.0914318
+},
+{
+  "type": "node",
+  "id": 11199420372,
+  "lat": 36.7727163,
+  "lon": 127.0902987
+},
+{
+  "type": "node",
+  "id": 11199420374,
+  "lat": 36.7714244,
+  "lon": 127.0928886
+},
+{
+  "type": "node",
+  "id": 4845789694,
+  "lat": 36.7702974,
+  "lon": 127.0961193
+},
+{
+  "type": "node",
+  "id": 4845790132,
+  "lat": 36.7704274,
+  "lon": 127.0961097
+},
+{
+  "type": "node",
+  "id": 5692979299,
+  "lat": 36.7699749,
+  "lon": 127.0979189
+},
+{
+  "type": "node",
+  "id": 5692979303,
+  "lat": 36.7699599,
+  "lon": 127.0974430
+},
+{
+  "type": "node",
+  "id": 11195884112,
+  "lat": 36.7698810,
+  "lon": 127.0985774
+},
+{
+  "type": "node",
+  "id": 11195884113,
+  "lat": 36.7700733,
+  "lon": 127.0974780
+},
+{
+  "type": "node",
+  "id": 11195884114,
+  "lat": 36.7697468,
+  "lon": 127.0985327
+},
+{
+  "type": "node",
+  "id": 11195884117,
+  "lat": 36.7708101,
+  "lon": 127.0944313
+},
+{
+  "type": "node",
+  "id": 11195884118,
+  "lat": 36.7708916,
+  "lon": 127.0946011
+},
+{
+  "type": "node",
+  "id": 11195884123,
+  "lat": 36.7708440,
+  "lon": 127.0947556
+},
+{
+  "type": "node",
+  "id": 11201110850,
+  "lat": 36.7700354,
+  "lon": 127.0976478
+},
+{
+  "type": "node",
+  "id": 11201110851,
+  "lat": 36.7697327,
+  "lon": 127.0997858
+},
+{
+  "type": "node",
+  "id": 11201110852,
+  "lat": 36.7697426,
+  "lon": 127.0997056
+},
+{
+  "type": "node",
+  "id": 11201110853,
+  "lat": 36.7696059,
+  "lon": 127.0996251
+},
+{
+  "type": "node",
+  "id": 5692979301,
+  "lat": 36.7694436,
+  "lon": 127.1020982
+},
+{
+  "type": "node",
+  "id": 5692979302,
+  "lat": 36.7694513,
+  "lon": 127.1008241
+},
+{
+  "type": "node",
+  "id": 11195884104,
+  "lat": 36.7690073,
+  "lon": 127.1043630
+},
+{
+  "type": "node",
+  "id": 11195884110,
+  "lat": 36.7695999,
+  "lon": 127.1008680
+},
+{
+  "type": "node",
+  "id": 11195884111,
+  "lat": 36.7692959,
+  "lon": 127.1021293
+},
+{
+  "type": "node",
+  "id": 11232831254,
+  "lat": 36.7693364,
+  "lon": 127.1028007
+},
+{
+  "type": "node",
+  "id": 11232831255,
+  "lat": 36.7692197,
+  "lon": 127.1034482
+},
+{
+  "type": "node",
+  "id": 11232831256,
+  "lat": 36.7691048,
+  "lon": 127.1039623
+},
+{
+  "type": "node",
+  "id": 11232831257,
+  "lat": 36.7693718,
+  "lon": 127.1015433
+},
+{
+  "type": "node",
+  "id": 11232831258,
+  "lat": 36.7689886,
+  "lon": 127.1038994
+},
+{
+  "type": "node",
+  "id": 11232831259,
+  "lat": 36.7690866,
+  "lon": 127.1033934
+},
+{
+  "type": "node",
+  "id": 11232831260,
+  "lat": 36.7691961,
+  "lon": 127.1027398
+},
+{
+  "type": "node",
+  "id": 436219542,
+  "lat": 36.7669273,
+  "lon": 127.1934421
+},
+{
+  "type": "node",
+  "id": 10048788945,
+  "lat": 36.7670565,
+  "lon": 127.1924081
+},
+{
+  "type": "node",
+  "id": 7007099173,
+  "lat": 37.3104836,
+  "lon": 126.7184438
+},
+{
+  "type": "node",
+  "id": 9974569826,
+  "lat": 37.3103829,
+  "lon": 126.7187598
+},
+{
+  "type": "node",
+  "id": 11209118650,
+  "lat": 37.3104333,
+  "lon": 126.7186018
+},
+{
+  "type": "node",
+  "id": 11209118653,
+  "lat": 37.3104131,
+  "lon": 126.7186650
+},
+{
+  "type": "node",
+  "id": 6578625576,
+  "lat": 37.3962140,
+  "lon": 129.2017414
+},
+{
+  "type": "node",
+  "id": 7144959339,
+  "lat": 37.3934892,
+  "lon": 129.2036187
+},
+{
+  "type": "node",
+  "id": 11240445153,
+  "lat": 37.3950421,
+  "lon": 129.2024324
+},
+{
+  "type": "node",
+  "id": 11240445155,
+  "lat": 37.3954960,
+  "lon": 129.2021397
+}
+
+  ]
 }
