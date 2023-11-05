@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-11-04T18:45:34Z",
-    "timestamp_areas_base": "2023-11-04T16:30:20Z",
+    "timestamp_osm_base": "2023-11-05T18:45:49Z",
+    "timestamp_areas_base": "2023-11-05T16:07:05Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2238,7 +2238,8 @@
     "highway": "primary",
     "ref": "96",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -22171,7 +22172,8 @@
     "ncat": "국도",
     "ref": "39",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -31705,7 +31707,8 @@
     "ncat": "국도",
     "ref": "39",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -31725,7 +31728,8 @@
     "ncat": "국도",
     "ref": "39",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -35535,7 +35539,8 @@
     "ncat": "국도",
     "ref": "39",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -38904,7 +38909,8 @@
     "ncat": "국도;지방도",
     "ref": "39;618",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -38924,7 +38930,8 @@
     "ncat": "국도;지방도",
     "ref": "39;618",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -38944,7 +38951,8 @@
     "ncat": "국도;지방도",
     "ref": "39;618",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -39007,7 +39015,8 @@
     "ncat": "국도",
     "ref": "39",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -39057,7 +39066,8 @@
     "ncat": "국도;지방도",
     "ref": "39;618",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -39088,7 +39098,8 @@
     "ncat": "국도;지방도",
     "ref": "39;618",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -97346,8 +97357,8 @@
 {
   "type": "node",
   "id": 437292759,
-  "lat": 36.5053580,
-  "lon": 126.9132204
+  "lat": 36.5053754,
+  "lon": 126.9134947
 },
 {
   "type": "node",
