@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-11-05T18:45:49Z",
-    "timestamp_areas_base": "2023-11-05T16:07:05Z",
+    "timestamp_osm_base": "2023-11-06T18:45:30Z",
+    "timestamp_areas_base": "2023-11-06T15:44:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -24349,7 +24349,8 @@
     "ncat": "국도",
     "ref": "40",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -38676,6 +38677,7 @@
     436662574,
     6437808730,
     436662575,
+    11329095653,
     8699934120,
     436662576,
     8699768781,
@@ -95694,6 +95696,12 @@
 },
 {
   "type": "node",
+  "id": 11329095653,
+  "lat": 36.4210498,
+  "lon": 126.9494398
+},
+{
+  "type": "node",
   "id": 436662569,
   "lat": 36.4168500,
   "lon": 126.9504049
@@ -95713,8 +95721,8 @@
 {
   "type": "node",
   "id": 8699768811,
-  "lat": 36.4164634,
-  "lon": 126.9506326
+  "lat": 36.4164719,
+  "lon": 126.9506114
 },
 {
   "type": "node",
