@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-11-06T18:45:30Z",
-    "timestamp_areas_base": "2023-11-06T15:44:30Z",
+    "timestamp_osm_base": "2023-11-07T18:44:36Z",
+    "timestamp_areas_base": "2023-11-07T15:23:27Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -14093,6 +14093,7 @@
     245477129,
     245477126,
     6505214733,
+    11331148813,
     245477125,
     245477124,
     6505214734,
@@ -14159,7 +14160,8 @@
     "name:ko": "충절로",
     "ncat": "국도",
     "ref": "29",
-    "review": "yes"
+    "review": "yes",
+    "surface": "asphalt"
   }
 },
 {
@@ -14177,7 +14179,8 @@
     "ncat": "국도",
     "ref": "29",
     "review": "yes",
-    "source": "NTIC;Yahoo"
+    "source": "NTIC;Yahoo",
+    "surface": "asphalt"
   }
 },
 {
@@ -14195,7 +14198,8 @@
     "ncat": "국도",
     "ref": "29",
     "review": "yes",
-    "source": "NTIC;Yahoo"
+    "source": "NTIC;Yahoo",
+    "surface": "asphalt"
   }
 },
 {
@@ -14217,7 +14221,8 @@
     "ncat": "국도",
     "ref": "29",
     "review": "yes",
-    "source": "NTIC;Yahoo"
+    "source": "NTIC;Yahoo",
+    "surface": "asphalt"
   }
 },
 {
@@ -15589,6 +15594,7 @@
     6453962215,
     1458541980,
     437123800,
+    11331111618,
     437123801,
     437123802,
     6453962216,
@@ -15603,6 +15609,7 @@
     6453962219,
     437123809,
     437123810,
+    11331111623,
     437123811,
     6453962221,
     6453962220,
@@ -15635,7 +15642,8 @@
     "name:ko": "양화동로",
     "ref": "68",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -39133,7 +39141,8 @@
     "ncat": "지방도",
     "ref": "68;723",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -39248,7 +39257,8 @@
     "ncat": "국도",
     "ref": "29",
     "review": "yes",
-    "source": "NTIC;Yahoo"
+    "source": "NTIC;Yahoo",
+    "surface": "asphalt"
   }
 },
 {
@@ -47679,7 +47689,8 @@
     "ncat": "국도",
     "ref": "29;68",
     "review": "yes",
-    "source": "NTIC;Yahoo"
+    "source": "NTIC;Yahoo",
+    "surface": "asphalt"
   }
 },
 {
@@ -47763,6 +47774,7 @@
     437123775,
     1458541969,
     1458541970,
+    11331111579,
     437123777,
     437123779,
     6465974725,
@@ -47780,7 +47792,8 @@
     "name:ko": "양화서로",
     "ref": "68",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -48964,7 +48977,8 @@
     "ncat": "국도",
     "ref": "29",
     "review": "yes",
-    "source": "NTIC;Yahoo"
+    "source": "NTIC;Yahoo",
+    "surface": "asphalt"
   }
 },
 {
@@ -48982,7 +48996,8 @@
     "ncat": "국도;지방도",
     "ref": "29;723",
     "review": "yes",
-    "source": "NTIC;Yahoo"
+    "source": "NTIC;Yahoo",
+    "surface": "asphalt"
   }
 },
 {
@@ -53128,7 +53143,8 @@
     "ncat": "국도",
     "ref": "29;68",
     "review": "yes",
-    "source": "NTIC;Yahoo"
+    "source": "NTIC;Yahoo",
+    "surface": "asphalt"
   }
 },
 {
@@ -53148,7 +53164,8 @@
     "ncat": "국도",
     "ref": "29;68",
     "review": "yes",
-    "source": "NTIC;Yahoo"
+    "source": "NTIC;Yahoo",
+    "surface": "asphalt"
   }
 },
 {
@@ -75507,8 +75524,8 @@
 {
   "type": "node",
   "id": 245477126,
-  "lat": 36.1118148,
-  "lon": 126.8333084
+  "lat": 36.1119616,
+  "lon": 126.8333272
 },
 {
   "type": "node",
@@ -75560,6 +75577,12 @@
 },
 {
   "type": "node",
+  "id": 11331148813,
+  "lat": 36.1113716,
+  "lon": 126.8333789
+},
+{
+  "type": "node",
   "id": 437123785,
   "lat": 36.0911832,
   "lon": 126.8644336
@@ -75585,14 +75608,14 @@
 {
   "type": "node",
   "id": 437123791,
-  "lat": 36.0929489,
-  "lon": 126.8621068
+  "lat": 36.0929787,
+  "lon": 126.8621150
 },
 {
   "type": "node",
   "id": 437123792,
-  "lat": 36.0931655,
-  "lon": 126.8618748
+  "lat": 36.0931854,
+  "lon": 126.8619158
 },
 {
   "type": "node",
@@ -75639,8 +75662,8 @@
 {
   "type": "node",
   "id": 6453962209,
-  "lat": 36.0930789,
-  "lon": 126.8619552
+  "lat": 36.0930988,
+  "lon": 126.8619839
 },
 {
   "type": "node",
@@ -75663,20 +75686,20 @@
 {
   "type": "node",
   "id": 437123800,
-  "lat": 36.0949731,
-  "lon": 126.8605136
+  "lat": 36.0949996,
+  "lon": 126.8605382
 },
 {
   "type": "node",
   "id": 437123801,
-  "lat": 36.0959665,
-  "lon": 126.8601527
+  "lat": 36.0959897,
+  "lon": 126.8601650
 },
 {
   "type": "node",
   "id": 437123802,
-  "lat": 36.0963865,
-  "lon": 126.8598820
+  "lat": 36.0961381,
+  "lon": 126.8600870
 },
 {
   "type": "node",
@@ -75729,14 +75752,14 @@
 {
   "type": "node",
   "id": 1458541980,
-  "lat": 36.0948645,
-  "lon": 126.8605581
+  "lat": 36.0948910,
+  "lon": 126.8605991
 },
 {
   "type": "node",
   "id": 1458541989,
-  "lat": 36.0977251,
-  "lon": 126.8591183
+  "lat": 36.0977781,
+  "lon": 126.8591347
 },
 {
   "type": "node",
@@ -75797,6 +75820,18 @@
   "id": 6453962221,
   "lat": 36.1004282,
   "lon": 126.8601286
+},
+{
+  "type": "node",
+  "id": 11331111618,
+  "lat": 36.0952191,
+  "lon": 126.8604606
+},
+{
+  "type": "node",
+  "id": 11331111623,
+  "lat": 36.1002608,
+  "lon": 126.8600255
 },
 {
   "type": "node",
@@ -75905,6 +75940,12 @@
   "id": 6465974727,
   "lat": 36.0906295,
   "lon": 126.8651301
+},
+{
+  "type": "node",
+  "id": 11331111579,
+  "lat": 36.0889245,
+  "lon": 126.8648203
 },
 {
   "type": "node",
@@ -76256,12 +76297,6 @@
 },
 {
   "type": "node",
-  "id": 245477141,
-  "lat": 36.1192768,
-  "lon": 126.8379566
-},
-{
-  "type": "node",
   "id": 1458504002,
   "lat": 36.1144105,
   "lon": 126.8332912
@@ -76331,6 +76366,12 @@
   "id": 9455749608,
   "lat": 36.1178286,
   "lon": 126.8344115
+},
+{
+  "type": "node",
+  "id": 245477141,
+  "lat": 36.1195668,
+  "lon": 126.8390445
 },
 {
   "type": "node",
