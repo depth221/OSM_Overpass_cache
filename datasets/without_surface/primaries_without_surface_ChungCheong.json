@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-11-12T18:45:15Z",
-    "timestamp_areas_base": "2023-11-12T14:02:55Z",
+    "timestamp_osm_base": "2023-11-13T18:44:29Z",
+    "timestamp_areas_base": "2023-11-13T13:50:28Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -83952,6 +83952,25 @@
 },
 {
   "type": "way",
+  "id": 1222619876,
+  "nodes": [
+    408398563,
+    1351002942,
+    5190634963
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "익산대로",
+    "name:en": "Iksan-daero",
+    "name:ko": "익산대로",
+    "ncat": "국도",
+    "ref": "23;68",
+    "review": "no",
+    "source": "NTIC;Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
   "id": 1222756957,
   "nodes": [
     11341428759,
@@ -106102,57 +106121,69 @@
 },
 {
   "type": "node",
+  "id": 408398563,
+  "lat": 36.1460315,
+  "lon": 127.0059434
+},
+{
+  "type": "node",
   "id": 408398564,
-  "lat": 36.1473348,
-  "lon": 127.0061904
+  "lat": 36.1473292,
+  "lon": 127.0062564
 },
 {
   "type": "node",
   "id": 408398565,
-  "lat": 36.1501723,
-  "lon": 127.0083440
+  "lat": 36.1501272,
+  "lon": 127.0083799
 },
 {
   "type": "node",
   "id": 408398566,
-  "lat": 36.1504206,
-  "lon": 127.0086231
+  "lat": 36.1504317,
+  "lon": 127.0087128
+},
+{
+  "type": "node",
+  "id": 1351002942,
+  "lat": 36.1465753,
+  "lon": 127.0060519
 },
 {
   "type": "node",
   "id": 1351002943,
-  "lat": 36.1475321,
-  "lon": 127.0062860
+  "lat": 36.1475265,
+  "lon": 127.0063520
 },
 {
   "type": "node",
   "id": 1351002944,
-  "lat": 36.1477577,
-  "lon": 127.0064229
+  "lat": 36.1477521,
+  "lon": 127.0064889
 },
 {
   "type": "node",
   "id": 1351002945,
-  "lat": 36.1481569,
-  "lon": 127.0067208
+  "lat": 36.1481513,
+  "lon": 127.0067868
 },
 {
   "type": "node",
   "id": 1351002946,
-  "lat": 36.1494328,
-  "lon": 127.0076830
+  "lat": 36.1494272,
+  "lon": 127.0077490
 },
 {
   "type": "node",
   "id": 1351002947,
-  "lat": 36.1498768,
-  "lon": 127.0080582
+  "lat": 36.1498588,
+  "lon": 127.0081232
 },
 {
   "type": "node",
   "id": 5190634963,
-  "lat": 36.1472266,
-  "lon": 127.0061526
+  "lat": 36.1472210,
+  "lon": 127.0062186
 },
 {
   "type": "node",
