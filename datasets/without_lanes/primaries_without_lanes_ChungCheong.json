@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-12-02T18:45:14Z",
-    "timestamp_areas_base": "2023-12-02T13:12:34Z",
+    "timestamp_osm_base": "2023-12-03T18:44:46Z",
+    "timestamp_areas_base": "2023-12-03T17:45:08Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -5273,7 +5273,8 @@
     "layer": "1",
     "name": "음대교",
     "ref": "13",
-    "review": "no"
+    "review": "no",
+    "surface": "asphalt"
   }
 },
 {
@@ -50479,7 +50480,8 @@
     "name:en": "Geumsan-ro",
     "name:ko": "금산로",
     "ref": "13",
-    "review": "no"
+    "review": "no",
+    "surface": "asphalt"
   }
 },
 {
@@ -50487,6 +50489,7 @@
   "id": 984257489,
   "nodes": [
     4635084358,
+    11391879890,
     420549429,
     420549430,
     4635090691,
@@ -50508,7 +50511,8 @@
     "name:en": "Geumsan-ro",
     "name:ko": "금산로",
     "ref": "13",
-    "review": "no"
+    "review": "no",
+    "surface": "asphalt"
   }
 },
 {
@@ -73828,8 +73832,8 @@
 {
   "type": "node",
   "id": 420549428,
-  "lat": 36.0302475,
-  "lon": 127.5019509
+  "lat": 36.0302576,
+  "lon": 127.5019966
 },
 {
   "type": "node",
@@ -73858,14 +73862,20 @@
 {
   "type": "node",
   "id": 4635059430,
-  "lat": 36.0302782,
-  "lon": 127.5019322
+  "lat": 36.0303185,
+  "lon": 127.5019571
 },
 {
   "type": "node",
   "id": 4635084358,
-  "lat": 36.0296315,
-  "lon": 127.5023541
+  "lat": 36.0297011,
+  "lon": 127.5023787
+},
+{
+  "type": "node",
+  "id": 11391879890,
+  "lat": 36.0296374,
+  "lon": 127.5024159
 },
 {
   "type": "node",
