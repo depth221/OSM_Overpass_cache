@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-12-03T18:26:15Z",
-    "timestamp_areas_base": "2023-12-03T13:00:46Z",
+    "timestamp_osm_base": "2023-12-04T18:29:16Z",
+    "timestamp_areas_base": "2023-12-04T14:03:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -137,6 +137,7 @@
   "tags": {
     "highway": "motorway",
     "maxspeed": "80",
+    "maxspeed:advisory": "80",
     "minspeed": "50",
     "name": "중부내륙고속도로",
     "name:en": "Jungbunaeryuk Expressway",
@@ -148,6 +149,54 @@
     "name:zh-Hant": "中部內陸高速公路",
     "oneway": "yes",
     "ref": "45",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1021421789,
+  "nodes": [
+    11393701426,
+    11393701424,
+    11393701425,
+    9420492468,
+    9599218286,
+    9599218287,
+    9420492464,
+    9420492470,
+    9420492465,
+    9420492466,
+    11071309546,
+    10992191922,
+    10992191925,
+    10992191926,
+    10992191927,
+    10992191928,
+    10992191929,
+    10992191930,
+    10992191931,
+    11071309547,
+    11071309548,
+    11071309549,
+    436315172
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "maxspeed:advisory": "80",
+    "minspeed": "50",
+    "name": "중부내륙고속도로",
+    "name:en": "Jungbunaeryuk Expressway",
+    "name:ko": "중부내륙고속도로",
+    "name:ko-Hani": "中部內陸高速道路",
+    "name:ko-Latn": "Jungbunaeryukgosokdoro",
+    "name:zh": "中部內陸高速公路",
+    "name:zh-Hans": "中部内陆高速公路",
+    "name:zh-Hant": "中部內陸高速公路",
+    "oneway": "yes",
+    "ref": "45",
+    "review": "no",
+    "source": "NTIC",
     "toll": "yes"
   }
 },
@@ -216,6 +265,7 @@
   "tags": {
     "highway": "motorway",
     "maxspeed": "80",
+    "maxspeed:advisory": "80",
     "minspeed": "50",
     "name": "중부내륙고속도로",
     "name:en": "Jungbunaeryuk Expressway",
@@ -242,6 +292,7 @@
     "highway": "motorway",
     "layer": "1",
     "maxspeed": "80",
+    "maxspeed:advisory": "80",
     "minspeed": "50",
     "name": "중부내륙고속도로",
     "name:en": "Jungbunaeryuk Expressway",
@@ -293,6 +344,7 @@
     "highway": "motorway",
     "layer": "1",
     "maxspeed": "80",
+    "maxspeed:advisory": "80",
     "minspeed": "50",
     "name": "중부내륙고속도로",
     "name:en": "Jungbunaeryuk Expressway",
@@ -4329,6 +4381,247 @@
   }
 },
 {
+  "type": "way",
+  "id": 1228592125,
+  "nodes": [
+    9599218338,
+    9420492462,
+    11393701433,
+    9599218322,
+    9599218324,
+    9599218325,
+    11393701429
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "maxspeed:advisory": "80",
+    "minspeed": "50",
+    "name": "중부내륙고속도로",
+    "name:en": "Jungbunaeryuk Expressway",
+    "name:ko": "중부내륙고속도로",
+    "name:ko-Hani": "中部內陸高速道路",
+    "name:ko-Latn": "Jungbunaeryukgosokdoro",
+    "name:zh": "中部內陸高速公路",
+    "name:zh-Hans": "中部内陆高速公路",
+    "name:zh-Hant": "中部內陸高速公路",
+    "oneway": "yes",
+    "ref": "45",
+    "review": "no",
+    "source": "NTIC",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1228592126,
+  "nodes": [
+    11393701423,
+    11393701427,
+    9599185897,
+    11393701426
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "maxspeed:advisory": "80",
+    "minspeed": "50",
+    "name": "중부내륙고속도로",
+    "name:en": "Jungbunaeryuk Expressway",
+    "name:ko": "중부내륙고속도로",
+    "name:ko-Hani": "中部內陸高速道路",
+    "name:ko-Latn": "Jungbunaeryukgosokdoro",
+    "name:zh": "中部內陸高速公路",
+    "name:zh-Hans": "中部内陆高速公路",
+    "name:zh-Hant": "中部內陸高速公路",
+    "oneway": "yes",
+    "ref": "45",
+    "review": "no",
+    "source": "NTIC",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1228592127,
+  "nodes": [
+    11393701428,
+    9420492463,
+    11393701423
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:advisory": "80",
+    "minspeed": "50",
+    "name": "중부내륙고속도로",
+    "name:en": "Jungbunaeryuk Expressway",
+    "name:ko": "중부내륙고속도로",
+    "name:ko-Hani": "中部內陸高速道路",
+    "name:ko-Latn": "Jungbunaeryukgosokdoro",
+    "name:zh": "中部內陸高速公路",
+    "name:zh-Hans": "中部内陆高速公路",
+    "name:zh-Hant": "中部內陸高速公路",
+    "oneway": "yes",
+    "ref": "45",
+    "review": "no",
+    "source": "NTIC",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1228592128,
+  "nodes": [
+    11393701429,
+    11393701428
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "maxspeed:advisory": "80",
+    "minspeed": "50",
+    "name": "중부내륙고속도로",
+    "name:en": "Jungbunaeryuk Expressway",
+    "name:ko": "중부내륙고속도로",
+    "name:ko-Hani": "中部內陸高速道路",
+    "name:ko-Latn": "Jungbunaeryukgosokdoro",
+    "name:zh": "中部內陸高速公路",
+    "name:zh-Hans": "中部内陆高速公路",
+    "name:zh-Hant": "中部內陸高速公路",
+    "oneway": "yes",
+    "ref": "45",
+    "review": "no",
+    "source": "NTIC",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1228592129,
+  "nodes": [
+    9599218321,
+    11393701431,
+    9599218320,
+    9599218319
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "maxspeed:advisory": "80",
+    "minspeed": "50",
+    "name": "중부내륙고속도로",
+    "name:en": "Jungbunaeryuk Expressway",
+    "name:ko": "중부내륙고속도로",
+    "name:ko-Hani": "中部內陸高速道路",
+    "name:ko-Latn": "Jungbunaeryukgosokdoro",
+    "name:zh": "中部內陸高速公路",
+    "name:zh-Hans": "中部内陆高速公路",
+    "name:zh-Hant": "中部內陸高速公路",
+    "oneway": "yes",
+    "ref": "45",
+    "review": "no",
+    "source": "NTIC",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1228592130,
+  "nodes": [
+    9599218319,
+    9420492461
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "maxspeed:advisory": "80",
+    "minspeed": "50",
+    "name": "중부내륙고속도로",
+    "name:en": "Jungbunaeryuk Expressway",
+    "name:ko": "중부내륙고속도로",
+    "name:ko-Hani": "中部內陸高速道路",
+    "name:ko-Latn": "Jungbunaeryukgosokdoro",
+    "name:zh": "中部內陸高速公路",
+    "name:zh-Hans": "中部内陆高速公路",
+    "name:zh-Hant": "中部內陸高速公路",
+    "oneway": "yes",
+    "ref": "45",
+    "review": "no",
+    "source": "NTIC",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1228592131,
+  "nodes": [
+    11393701432,
+    9599218338
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "maxspeed:advisory": "80",
+    "minspeed": "50",
+    "name": "중부내륙고속도로",
+    "name:en": "Jungbunaeryuk Expressway",
+    "name:ko": "중부내륙고속도로",
+    "name:ko-Hani": "中部內陸高速道路",
+    "name:ko-Latn": "Jungbunaeryukgosokdoro",
+    "name:zh": "中部內陸高速公路",
+    "name:zh-Hans": "中部内陆高速公路",
+    "name:zh-Hant": "中部內陸高速公路",
+    "oneway": "yes",
+    "ref": "45",
+    "review": "no",
+    "source": "NTIC",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1228592132,
+  "nodes": [
+    9420492461,
+    9599218318,
+    11393701432
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "maxspeed:advisory": "80",
+    "minspeed": "50",
+    "name": "중부내륙고속도로",
+    "name:en": "Jungbunaeryuk Expressway",
+    "name:ko": "중부내륙고속도로",
+    "name:ko-Hani": "中部內陸高速道路",
+    "name:ko-Latn": "Jungbunaeryukgosokdoro",
+    "name:zh": "中部內陸高速公路",
+    "name:zh-Hans": "中部内陆高速公路",
+    "name:zh-Hant": "中部內陸高速公路",
+    "oneway": "yes",
+    "ref": "45",
+    "review": "no",
+    "source": "NTIC",
+    "toll": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9599218321,
+  "lat": 35.4446223,
+  "lon": 128.5044646
+},
+{
   "type": "node",
   "id": 9420492451,
   "lat": 35.4467570,
@@ -4345,6 +4638,42 @@
   "id": 9420492453,
   "lat": 35.4493787,
   "lon": 128.5045262
+},
+{
+  "type": "node",
+  "id": 9420492461,
+  "lat": 35.4477715,
+  "lon": 128.5045562
+},
+{
+  "type": "node",
+  "id": 9420492462,
+  "lat": 35.4499716,
+  "lon": 128.5047557
+},
+{
+  "type": "node",
+  "id": 9599218318,
+  "lat": 35.4483913,
+  "lon": 128.5046099
+},
+{
+  "type": "node",
+  "id": 9599218319,
+  "lat": 35.4468017,
+  "lon": 128.5045199
+},
+{
+  "type": "node",
+  "id": 9599218320,
+  "lat": 35.4463006,
+  "lon": 128.5044981
+},
+{
+  "type": "node",
+  "id": 9599218338,
+  "lat": 35.4493514,
+  "lon": 128.5046853
 },
 {
   "type": "node",
@@ -4372,6 +4701,24 @@
 },
 {
   "type": "node",
+  "id": 11393701431,
+  "lat": 35.4454614,
+  "lon": 128.5044725
+},
+{
+  "type": "node",
+  "id": 11393701432,
+  "lat": 35.4485464,
+  "lon": 128.5046221
+},
+{
+  "type": "node",
+  "id": 11393701433,
+  "lat": 35.4513706,
+  "lon": 128.5049705
+},
+{
+  "type": "node",
   "id": 9420492454,
   "lat": 35.4543005,
   "lon": 128.5053904
@@ -4384,9 +4731,33 @@
 },
 {
   "type": "node",
+  "id": 9420492463,
+  "lat": 35.4579484,
+  "lon": 128.5064869
+},
+{
+  "type": "node",
+  "id": 9599218322,
+  "lat": 35.4527608,
+  "lon": 128.5052065
+},
+{
+  "type": "node",
   "id": 9599218323,
   "lat": 35.4531846,
   "lon": 128.5051203
+},
+{
+  "type": "node",
+  "id": 9599218324,
+  "lat": 35.4535353,
+  "lon": 128.5053856
+},
+{
+  "type": "node",
+  "id": 9599218325,
+  "lat": 35.4545334,
+  "lon": 128.5056371
 },
 {
   "type": "node",
@@ -4414,6 +4785,18 @@
 },
 {
   "type": "node",
+  "id": 11393701428,
+  "lat": 35.4569647,
+  "lon": 128.5062453
+},
+{
+  "type": "node",
+  "id": 11393701429,
+  "lat": 35.4553801,
+  "lon": 128.5058531
+},
+{
+  "type": "node",
   "id": 9420492456,
   "lat": 35.4620521,
   "lon": 128.5071499
@@ -4426,9 +4809,21 @@
 },
 {
   "type": "node",
+  "id": 9420492468,
+  "lat": 35.4638741,
+  "lon": 128.5076604
+},
+{
+  "type": "node",
   "id": 9420492473,
   "lat": 35.4636830,
   "lon": 128.5074440
+},
+{
+  "type": "node",
+  "id": 9599185897,
+  "lat": 35.4602112,
+  "lon": 128.5069888
 },
 {
   "type": "node",
@@ -4439,14 +4834,44 @@
 {
   "type": "node",
   "id": 10976565940,
-  "lat": 35.4587002,
-  "lon": 128.5064584
+  "lat": 35.4587102,
+  "lon": 128.5064738
 },
 {
   "type": "node",
   "id": 10976565941,
-  "lat": 35.4607834,
-  "lon": 128.5069013
+  "lat": 35.4605902,
+  "lon": 128.5068828
+},
+{
+  "type": "node",
+  "id": 11393701423,
+  "lat": 35.4586550,
+  "lon": 128.5066431
+},
+{
+  "type": "node",
+  "id": 11393701424,
+  "lat": 35.4617204,
+  "lon": 128.5072993
+},
+{
+  "type": "node",
+  "id": 11393701425,
+  "lat": 35.4625835,
+  "lon": 128.5074586
+},
+{
+  "type": "node",
+  "id": 11393701426,
+  "lat": 35.4605694,
+  "lon": 128.5070740
+},
+{
+  "type": "node",
+  "id": 11393701427,
+  "lat": 35.4598503,
+  "lon": 128.5069067
 },
 {
   "type": "node",
@@ -4462,6 +4887,30 @@
 },
 {
   "type": "node",
+  "id": 9420492464,
+  "lat": 35.4663745,
+  "lon": 128.5080054
+},
+{
+  "type": "node",
+  "id": 9420492465,
+  "lat": 35.4683337,
+  "lon": 128.5081627
+},
+{
+  "type": "node",
+  "id": 9420492466,
+  "lat": 35.4689040,
+  "lon": 128.5081833
+},
+{
+  "type": "node",
+  "id": 9420492470,
+  "lat": 35.4675490,
+  "lon": 128.5081271
+},
+{
+  "type": "node",
   "id": 9420492471,
   "lat": 35.4676138,
   "lon": 128.5079224
@@ -4474,6 +4923,18 @@
 },
 {
   "type": "node",
+  "id": 9599218286,
+  "lat": 35.4649589,
+  "lon": 128.5077981
+},
+{
+  "type": "node",
+  "id": 9599218287,
+  "lat": 35.4655289,
+  "lon": 128.5078852
+},
+{
+  "type": "node",
   "id": 10976565943,
   "lat": 35.4702356,
   "lon": 128.5078812
@@ -4483,6 +4944,12 @@
   "id": 10976565952,
   "lat": 35.4710776,
   "lon": 128.5078969
+},
+{
+  "type": "node",
+  "id": 10992191922,
+  "lat": 35.4707605,
+  "lon": 128.5081267
 },
 {
   "type": "node",
@@ -4516,9 +4983,81 @@
 },
 {
   "type": "node",
+  "id": 11071309546,
+  "lat": 35.4702389,
+  "lon": 128.5081504
+},
+{
+  "type": "node",
   "id": 436315481,
   "lat": 35.4714463,
   "lon": 128.5079168
+},
+{
+  "type": "node",
+  "id": 10992191925,
+  "lat": 35.4714715,
+  "lon": 128.5081116
+},
+{
+  "type": "node",
+  "id": 10992191926,
+  "lat": 35.4720045,
+  "lon": 128.5081116
+},
+{
+  "type": "node",
+  "id": 10992191927,
+  "lat": 35.4724196,
+  "lon": 128.5081438
+},
+{
+  "type": "node",
+  "id": 10992191928,
+  "lat": 35.4728958,
+  "lon": 128.5082189
+},
+{
+  "type": "node",
+  "id": 10992191929,
+  "lat": 35.4732802,
+  "lon": 128.5082994
+},
+{
+  "type": "node",
+  "id": 10992191930,
+  "lat": 35.4737193,
+  "lon": 128.5084406
+},
+{
+  "type": "node",
+  "id": 10992191931,
+  "lat": 35.4744062,
+  "lon": 128.5086894
+},
+{
+  "type": "node",
+  "id": 11071309547,
+  "lat": 35.4749733,
+  "lon": 128.5089148
+},
+{
+  "type": "node",
+  "id": 11071309548,
+  "lat": 35.4752208,
+  "lon": 128.5090292
+},
+{
+  "type": "node",
+  "id": 11071309549,
+  "lat": 35.4754809,
+  "lon": 128.5091719
+},
+{
+  "type": "node",
+  "id": 436315172,
+  "lat": 35.4761165,
+  "lon": 128.5095508
 },
 {
   "type": "node",
