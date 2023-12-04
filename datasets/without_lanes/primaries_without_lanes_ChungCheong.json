@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-12-03T18:44:46Z",
-    "timestamp_areas_base": "2023-12-03T17:45:08Z",
+    "timestamp_osm_base": "2023-12-04T18:44:35Z",
+    "timestamp_areas_base": "2023-12-04T17:45:13Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -353,20 +353,15 @@
     6399528669,
     420533348,
     420533351,
-    6399528681,
-    420533353,
-    420533354,
-    420533355,
-    4634361946,
-    4637427594,
-    4637427595
+    11394090088
   ],
   "tags": {
     "highway": "primary",
     "name": "적벽강로",
     "name:en": "Jeokbyeokgang-ro",
     "name:ko": "적벽강로",
-    "ref": "601"
+    "ref": "601",
+    "surface": "asphalt"
   }
 },
 {
@@ -6185,7 +6180,8 @@
     "name:ko": "무금로",
     "ref": "37",
     "review": "no",
-    "source": "Bing (adjusted)"
+    "source": "Bing (adjusted)",
+    "surface": "asphalt"
   }
 },
 {
@@ -58503,6 +58499,45 @@
   "tags": {
     "highway": "primary",
     "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1228633624,
+  "nodes": [
+    6399528681,
+    420533353,
+    420533354,
+    420533355,
+    4634361946,
+    4637427594,
+    4637427595
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "적벽강로",
+    "name:en": "Jeokbyeokgang-ro",
+    "name:ko": "적벽강로",
+    "ref": "601",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1228633625,
+  "nodes": [
+    11394090088,
+    6399528681
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "layer": "1",
+    "name": "적벽강로",
+    "name:en": "Jeokbyeokgang-ro",
+    "name:ko": "적벽강로",
+    "ref": "601",
+    "surface": "asphalt"
   }
 },
 {
@@ -112178,8 +112213,8 @@
 {
   "type": "node",
   "id": 420532264,
-  "lat": 36.0514036,
-  "lon": 127.5583983
+  "lat": 36.0512864,
+  "lon": 127.5584074
 },
 {
   "type": "node",
@@ -112964,8 +112999,8 @@
 {
   "type": "node",
   "id": 420533351,
-  "lat": 36.0653874,
-  "lon": 127.5577727
+  "lat": 36.0654134,
+  "lon": 127.5577512
 },
 {
   "type": "node",
@@ -113060,8 +113095,14 @@
 {
   "type": "node",
   "id": 6399528681,
-  "lat": 36.0652859,
-  "lon": 127.5574869
+  "lat": 36.0653119,
+  "lon": 127.5575057
+},
+{
+  "type": "node",
+  "id": 11394090088,
+  "lat": 36.0653901,
+  "lon": 127.5577061
 },
 {
   "type": "node",
@@ -113174,26 +113215,26 @@
 {
   "type": "node",
   "id": 420532256,
-  "lat": 36.0441270,
-  "lon": 127.5628053
+  "lat": 36.0442515,
+  "lon": 127.5626603
 },
 {
   "type": "node",
   "id": 420532257,
-  "lat": 36.0451461,
-  "lon": 127.5621269
+  "lat": 36.0451021,
+  "lon": 127.5620997
 },
 {
   "type": "node",
   "id": 420532258,
-  "lat": 36.0460413,
-  "lon": 127.5616105
+  "lat": 36.0460559,
+  "lon": 127.5615561
 },
 {
   "type": "node",
   "id": 420532259,
-  "lat": 36.0479573,
-  "lon": 127.5605318
+  "lat": 36.0479280,
+  "lon": 127.5605137
 },
 {
   "type": "node",
@@ -113216,20 +113257,20 @@
 {
   "type": "node",
   "id": 1777847632,
-  "lat": 36.0437466,
-  "lon": 127.5630678
+  "lat": 36.0437979,
+  "lon": 127.5629591
 },
 {
   "type": "node",
   "id": 1777847633,
-  "lat": 36.0455229,
-  "lon": 127.5618994
+  "lat": 36.0455302,
+  "lon": 127.5618450
 },
 {
   "type": "node",
   "id": 1777847634,
   "lat": 36.0466605,
-  "lon": 127.5612626
+  "lon": 127.5612173
 },
 {
   "type": "node",
@@ -197678,8 +197719,8 @@
 {
   "type": "node",
   "id": 7276457019,
-  "lat": 36.9425086,
-  "lon": 127.7318148
+  "lat": 36.9425065,
+  "lon": 127.7317772
 },
 {
   "type": "node",
@@ -197690,8 +197731,8 @@
 {
   "type": "node",
   "id": 7276457030,
-  "lat": 36.9425914,
-  "lon": 127.7318198
+  "lat": 36.9425893,
+  "lon": 127.7317822
 },
 {
   "type": "node",
