@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-12-11T18:29:25Z",
-    "timestamp_areas_base": "2023-12-11T17:30:00Z",
+    "timestamp_osm_base": "2023-12-12T18:28:06Z",
+    "timestamp_areas_base": "2023-12-12T17:16:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -100,6 +100,7 @@
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "동해고속도로",
+    "name:el": "Αυτοκινητόδρομος Ντόγχε",
     "name:en": "Donghae Expressway",
     "name:ko": "동해고속도로",
     "name:ko-Hani": "東海高速道路",
