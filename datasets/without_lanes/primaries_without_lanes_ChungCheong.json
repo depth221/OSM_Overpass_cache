@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-12-15T18:44:45Z",
-    "timestamp_areas_base": "2023-12-15T16:57:45Z",
+    "timestamp_osm_base": "2023-12-16T18:45:26Z",
+    "timestamp_areas_base": "2023-12-16T16:51:25Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -26824,7 +26824,8 @@
     "oneway": "yes",
     "ref": "19",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -48924,7 +48925,8 @@
     "name:ko": "단재로",
     "ref": "19;32",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -48953,7 +48955,8 @@
     "name:ko": "단재로",
     "ref": "19;32",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -50575,7 +50578,8 @@
     "oneway": "yes",
     "ref": "19",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
