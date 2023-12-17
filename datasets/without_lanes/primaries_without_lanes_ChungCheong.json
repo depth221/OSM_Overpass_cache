@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-12-16T18:45:26Z",
-    "timestamp_areas_base": "2023-12-16T16:51:25Z",
+    "timestamp_osm_base": "2023-12-17T18:45:34Z",
+    "timestamp_areas_base": "2023-12-17T16:44:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1335,6 +1335,7 @@
     436927925,
     436927926,
     436927927,
+    11423780145,
     436927928,
     436927929,
     436927930,
@@ -1371,7 +1372,8 @@
     "ncat": "지방도",
     "ref": "32",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -1393,7 +1395,8 @@
     "name:ko": "화양로",
     "ref": "32",
     "review": "no",
-    "source": "Bing (adjusted)"
+    "source": "Bing (adjusted)",
+    "surface": "asphalt"
   }
 },
 {
@@ -3955,7 +3958,8 @@
     "ncat": "국도",
     "ref": "19;37",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -4024,7 +4028,8 @@
     "name:ko": "화양로",
     "ref": "32;37",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -4888,7 +4893,8 @@
     "name": "충청대로",
     "name:en": "Chungcheong-daero",
     "name:ko": "충청대로",
-    "ref": "36"
+    "ref": "36",
+    "surface": "asphalt"
   }
 },
 {
@@ -11459,6 +11465,8 @@
     3004219871,
     382791210,
     382791211,
+    11423800644,
+    11423800645,
     506885995
   ],
   "tags": {
@@ -11466,7 +11474,8 @@
     "name": "대청로",
     "name:en": "Daecheong-ro",
     "name:ko": "대청로",
-    "ref": "37"
+    "ref": "37",
+    "surface": "asphalt"
   }
 },
 {
@@ -14392,7 +14401,9 @@
     1858272650,
     1858272651,
     1858272653,
+    11423890190,
     1858272655,
+    11423890200,
     1858272675,
     436646280,
     436646281,
@@ -14425,7 +14436,8 @@
     "name": "괴산로",
     "name:en": "Goesan-ro",
     "name:ko": "괴산로",
-    "ref": "37"
+    "ref": "37",
+    "surface": "asphalt"
   }
 },
 {
@@ -14444,7 +14456,8 @@
     "name:ko": "금평교",
     "ref": "32",
     "review": "no",
-    "source": "Bing (adjusted)"
+    "source": "Bing (adjusted)",
+    "surface": "asphalt"
   }
 },
 {
@@ -14532,7 +14545,8 @@
     "name:ko": "화양로",
     "ref": "32",
     "review": "no",
-    "source": "Bing (adjusted)"
+    "source": "Bing (adjusted)",
+    "surface": "asphalt"
   }
 },
 {
@@ -19203,6 +19217,7 @@
   "id": 418041490,
   "nodes": [
     436646302,
+    11423887708,
     436646303,
     436646304,
     436646305,
@@ -19225,7 +19240,8 @@
     "name:ko": "괴산로",
     "ref": "37",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -19245,7 +19261,8 @@
     "ncat": "국도",
     "ref": "37",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -22650,7 +22667,6 @@
   "id": 495006432,
   "nodes": [
     414916574,
-    4867879708,
     4867879699,
     4867879709
   ],
@@ -22661,7 +22677,8 @@
     "name:ko": "단재로",
     "ref": "19;32",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -22702,7 +22719,8 @@
     "name:ko": "단재로",
     "ref": "19;32",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -22762,6 +22780,7 @@
     436444777,
     436444778,
     436444779,
+    11423764734,
     436444780,
     436444781,
     436444782,
@@ -22778,7 +22797,8 @@
     "name:ko": "단재로",
     "ref": "19;32",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -33620,7 +33640,8 @@
     "name:ko": "단재로",
     "ref": "19;32",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -35783,7 +35804,8 @@
     "name:ko": "금평로",
     "ref": "37",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -40794,7 +40816,8 @@
     "highway": "primary",
     "layer": "1",
     "name": "장계대교",
-    "ref": "37"
+    "ref": "37",
+    "surface": "asphalt"
   }
 },
 {
@@ -40812,7 +40835,8 @@
     "name": "대청로",
     "name:en": "Daecheong-ro",
     "name:ko": "대청로",
-    "ref": "37"
+    "ref": "37",
+    "surface": "asphalt"
   }
 },
 {
@@ -40827,7 +40851,8 @@
     "highway": "primary",
     "layer": "1",
     "name": "장계IC교",
-    "ref": "37"
+    "ref": "37",
+    "surface": "asphalt"
   }
 },
 {
@@ -46212,7 +46237,8 @@
     "ncat": "국도",
     "ref": "19;37",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -46247,7 +46273,8 @@
   "tags": {
     "highway": "primary",
     "oneway": "yes",
-    "ref": "19;37"
+    "ref": "19;37",
+    "surface": "asphalt"
   }
 },
 {
@@ -49966,7 +49993,8 @@
     "ncat": "국도",
     "ref": "19;37",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -56572,7 +56600,8 @@
     "name:ko": "단재로",
     "ref": "19;32",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -56591,7 +56620,8 @@
     "name:ko": "단재로",
     "ref": "19;32",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -119696,8 +119726,20 @@
 {
   "type": "node",
   "id": 506885995,
-  "lat": 36.3713924,
-  "lon": 127.6169334
+  "lat": 36.3713486,
+  "lon": 127.6169085
+},
+{
+  "type": "node",
+  "id": 11423800644,
+  "lat": 36.3719292,
+  "lon": 127.6176067
+},
+{
+  "type": "node",
+  "id": 11423800645,
+  "lat": 36.3714171,
+  "lon": 127.6169831
 },
 {
   "type": "node",
@@ -174116,8 +174158,8 @@
 {
   "type": "node",
   "id": 414916574,
-  "lat": 36.6492885,
-  "lon": 127.6751306
+  "lat": 36.6492265,
+  "lon": 127.6748773
 },
 {
   "type": "node",
@@ -174158,14 +174200,14 @@
 {
   "type": "node",
   "id": 4867879698,
-  "lat": 36.6490466,
-  "lon": 127.6747483
+  "lat": 36.6489474,
+  "lon": 127.6745660
 },
 {
   "type": "node",
   "id": 4867879699,
-  "lat": 36.6494775,
-  "lon": 127.6753733
+  "lat": 36.6493726,
+  "lon": 127.6750506
 },
 {
   "type": "node",
@@ -174178,12 +174220,6 @@
   "id": 4867879707,
   "lat": 36.6477531,
   "lon": 127.6734827
-},
-{
-  "type": "node",
-  "id": 4867879708,
-  "lat": 36.6493875,
-  "lon": 127.6752545
 },
 {
   "type": "node",
@@ -174742,6 +174778,12 @@
   "id": 10882676101,
   "lat": 36.6746684,
   "lon": 127.7079384
+},
+{
+  "type": "node",
+  "id": 11423764734,
+  "lat": 36.6721288,
+  "lon": 127.7036460
 },
 {
   "type": "node",
@@ -178376,8 +178418,8 @@
 {
   "type": "node",
   "id": 8956096023,
-  "lat": 36.6610497,
-  "lon": 127.7343792
+  "lat": 36.6610457,
+  "lon": 127.7343756
 },
 {
   "type": "node",
@@ -178538,8 +178580,8 @@
 {
   "type": "node",
   "id": 436646282,
-  "lat": 36.6413600,
-  "lon": 127.7477200
+  "lat": 36.6413095,
+  "lon": 127.7477318
 },
 {
   "type": "node",
@@ -178550,8 +178592,8 @@
 {
   "type": "node",
   "id": 436646284,
-  "lat": 36.6423600,
-  "lon": 127.7476700
+  "lat": 36.6423331,
+  "lon": 127.7476901
 },
 {
   "type": "node",
@@ -178576,6 +178618,18 @@
   "id": 1858272675,
   "lat": 36.6393066,
   "lon": 127.7478574
+},
+{
+  "type": "node",
+  "id": 11423890190,
+  "lat": 36.6383573,
+  "lon": 127.7479053
+},
+{
+  "type": "node",
+  "id": 11423890200,
+  "lat": 36.6387178,
+  "lon": 127.7478892
 },
 {
   "type": "node",
@@ -178670,32 +178724,32 @@
 {
   "type": "node",
   "id": 436646301,
-  "lat": 36.6557700,
-  "lon": 127.7446800
+  "lat": 36.6557772,
+  "lon": 127.7446309
 },
 {
   "type": "node",
   "id": 436646302,
-  "lat": 36.6561100,
-  "lon": 127.7443400
+  "lat": 36.6560813,
+  "lon": 127.7443132
 },
 {
   "type": "node",
   "id": 436646303,
-  "lat": 36.6563300,
-  "lon": 127.7440900
+  "lat": 36.6563425,
+  "lon": 127.7440342
 },
 {
   "type": "node",
   "id": 436646304,
-  "lat": 36.6565500,
-  "lon": 127.7437900
+  "lat": 36.6565912,
+  "lon": 127.7436694
 },
 {
   "type": "node",
   "id": 436646305,
-  "lat": 36.6567506,
-  "lon": 127.7435022
+  "lat": 36.6567148,
+  "lon": 127.7435402
 },
 {
   "type": "node",
@@ -178706,8 +178760,8 @@
 {
   "type": "node",
   "id": 8956099492,
-  "lat": 36.6568385,
-  "lon": 127.7433520
+  "lat": 36.6568062,
+  "lon": 127.7433587
 },
 {
   "type": "node",
@@ -178726,6 +178780,12 @@
   "id": 8956134342,
   "lat": 36.6540457,
   "lon": 127.7459204
+},
+{
+  "type": "node",
+  "id": 11423887708,
+  "lat": 36.6561130,
+  "lon": 127.7442823
 },
 {
   "type": "node",
@@ -179503,6 +179563,12 @@
 },
 {
   "type": "node",
+  "id": 11423780145,
+  "lat": 36.6645171,
+  "lon": 127.7232264
+},
+{
+  "type": "node",
   "id": 436646322,
   "lat": 36.6643400,
   "lon": 127.7433600
@@ -180242,8 +180308,8 @@
 {
   "type": "node",
   "id": 1862567053,
-  "lat": 36.6806436,
-  "lon": 127.7678525
+  "lat": 36.6806307,
+  "lon": 127.7678337
 },
 {
   "type": "node",
