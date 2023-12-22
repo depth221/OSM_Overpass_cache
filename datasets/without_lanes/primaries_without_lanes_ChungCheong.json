@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-12-21T18:44:25Z",
-    "timestamp_areas_base": "2023-12-21T15:53:54Z",
+    "timestamp_osm_base": "2023-12-22T18:45:00Z",
+    "timestamp_areas_base": "2023-12-22T15:49:31Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -29933,7 +29933,8 @@
     "oneway": "yes",
     "ref": "1",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -29963,7 +29964,8 @@
     "oneway": "yes",
     "ref": "1",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "surface": "asphalt"
   }
 },
 {
@@ -35743,13 +35745,7 @@
     414671789,
     4745020203,
     4713024334,
-    436655934,
-    4713024337,
-    6123462166,
-    436655935,
-    6121182714,
-    4713024326,
-    437183824
+    11443291561
   ],
   "tags": {
     "highway": "primary",
@@ -58515,6 +58511,29 @@
     "highway": "primary",
     "ref": "37",
     "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1233273695,
+  "nodes": [
+    11443291561,
+    436655934,
+    11443291552,
+    4713024337,
+    6123462166,
+    436655935,
+    6121182714,
+    4713024326,
+    437183824
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "내토로",
+    "name:en": "Naeto-ro",
+    "name:ko": "내토로",
+    "ncat": "지방도",
+    "ref": "82"
   }
 },
 {
@@ -202604,8 +202623,8 @@
 {
   "type": "node",
   "id": 436655934,
-  "lat": 37.1300342,
-  "lon": 128.2063636
+  "lat": 37.1300038,
+  "lon": 128.2063470
 },
 {
   "type": "node",
@@ -202628,14 +202647,14 @@
 {
   "type": "node",
   "id": 4713024334,
-  "lat": 37.1298059,
-  "lon": 128.2070058
+  "lat": 37.1298030,
+  "lon": 128.2070064
 },
 {
   "type": "node",
   "id": 4713024337,
-  "lat": 37.1302125,
-  "lon": 128.2057543
+  "lat": 37.1301783,
+  "lon": 128.2057436
 },
 {
   "type": "node",
@@ -202652,8 +202671,20 @@
 {
   "type": "node",
   "id": 6123462166,
-  "lat": 37.1303487,
-  "lon": 128.2053568
+  "lat": 37.1303359,
+  "lon": 128.2053482
+},
+{
+  "type": "node",
+  "id": 11443291552,
+  "lat": 37.1301314,
+  "lon": 128.2059007
+},
+{
+  "type": "node",
+  "id": 11443291561,
+  "lat": 37.1298677,
+  "lon": 128.2068020
 },
 {
   "type": "node",
