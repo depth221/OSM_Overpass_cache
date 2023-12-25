@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-12-24T18:44:44Z",
-    "timestamp_areas_base": "2023-12-24T15:27:29Z",
+    "timestamp_osm_base": "2023-12-25T18:44:44Z",
+    "timestamp_areas_base": "2023-12-25T15:08:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -43772,40 +43772,6 @@
 },
 {
   "type": "way",
-  "id": 572948822,
-  "nodes": [
-    5504199704,
-    436606372,
-    414946484,
-    436606374
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충청대로",
-    "name:en": "Chungcheong-daero",
-    "name:ko": "충청대로",
-    "ref": "36"
-  }
-},
-{
-  "type": "way",
-  "id": 572948823,
-  "nodes": [
-    5504199705,
-    5504199704
-  ],
-  "tags": {
-    "bridge": "yes",
-    "bridge:structure": "beam",
-    "highway": "primary",
-    "layer": "1",
-    "name": "오리점교",
-    "name:ko": "오리점교",
-    "ref": "36"
-  }
-},
-{
-  "type": "way",
   "id": 572948824,
   "nodes": [
     414671869,
@@ -43834,23 +43800,6 @@
     "name:en": "Chungcheong-daero",
     "name:ko": "충청대로",
     "ref": "36;49"
-  }
-},
-{
-  "type": "way",
-  "id": 572948825,
-  "nodes": [
-    436606374,
-    5504199706
-  ],
-  "tags": {
-    "bridge": "yes",
-    "bridge:structure": "beam",
-    "highway": "primary",
-    "layer": "1",
-    "name": "음성교",
-    "name:ko": "음성교",
-    "ref": "36"
   }
 },
 {
@@ -67546,27 +67495,6 @@
     "ref": "36",
     "review": "no",
     "source": "NTIC"
-  }
-},
-{
-  "type": "way",
-  "id": 977475802,
-  "nodes": [
-    5504199706,
-    436606376,
-    436606379,
-    436606381,
-    436606383,
-    436606385,
-    436606387,
-    414671869
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충청대로",
-    "name:en": "Chungcheong-daero",
-    "name:ko": "충청대로",
-    "ref": "36"
   }
 },
 {
@@ -244371,60 +244299,6 @@
 },
 {
   "type": "node",
-  "id": 414946484,
-  "lat": 36.9225214,
-  "lon": 127.6953215
-},
-{
-  "type": "node",
-  "id": 436606372,
-  "lat": 36.9213028,
-  "lon": 127.6945336
-},
-{
-  "type": "node",
-  "id": 436606374,
-  "lat": 36.9227691,
-  "lon": 127.6954734
-},
-{
-  "type": "node",
-  "id": 436606376,
-  "lat": 36.9237900,
-  "lon": 127.6961536
-},
-{
-  "type": "node",
-  "id": 5504199704,
-  "lat": 36.9201085,
-  "lon": 127.6937559
-},
-{
-  "type": "node",
-  "id": 5504199705,
-  "lat": 36.9198550,
-  "lon": 127.6935908
-},
-{
-  "type": "node",
-  "id": 5504199706,
-  "lat": 36.9234756,
-  "lon": 127.6959478
-},
-{
-  "type": "node",
-  "id": 436606379,
-  "lat": 36.9253457,
-  "lon": 127.6971444
-},
-{
-  "type": "node",
-  "id": 436606381,
-  "lat": 36.9260242,
-  "lon": 127.6974558
-},
-{
-  "type": "node",
   "id": 436445117,
   "lat": 36.7521716,
   "lon": 127.7274546
@@ -252849,24 +252723,6 @@
 },
 {
   "type": "node",
-  "id": 436606383,
-  "lat": 36.9266342,
-  "lon": 127.6977073
-},
-{
-  "type": "node",
-  "id": 436606385,
-  "lat": 36.9274971,
-  "lon": 127.6979244
-},
-{
-  "type": "node",
-  "id": 436606387,
-  "lat": 36.9283085,
-  "lon": 127.6979866
-},
-{
-  "type": "node",
   "id": 436606389,
   "lat": 36.9292685,
   "lon": 127.6979544
@@ -254272,8 +254128,8 @@
 {
   "type": "node",
   "id": 436606437,
-  "lat": 36.9422538,
-  "lon": 127.7293062
+  "lat": 36.9422439,
+  "lon": 127.7292197
 },
 {
   "type": "node",
@@ -254386,8 +254242,8 @@
 {
   "type": "node",
   "id": 7276457019,
-  "lat": 36.9425065,
-  "lon": 127.7317772
+  "lat": 36.9425044,
+  "lon": 127.7318201
 },
 {
   "type": "node",
@@ -254398,8 +254254,8 @@
 {
   "type": "node",
   "id": 7276457030,
-  "lat": 36.9425893,
-  "lon": 127.7317822
+  "lat": 36.9425979,
+  "lon": 127.7318144
 },
 {
   "type": "node",
