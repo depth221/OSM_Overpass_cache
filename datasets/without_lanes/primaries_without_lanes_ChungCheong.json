@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-12-24T18:44:44Z",
-    "timestamp_areas_base": "2023-12-24T17:03:35Z",
+    "timestamp_osm_base": "2023-12-25T18:44:44Z",
+    "timestamp_areas_base": "2023-12-25T15:08:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -4887,6 +4887,7 @@
     5658224943,
     414946454,
     4634666274,
+    11452055244,
     5504199705
   ],
   "tags": {
@@ -31193,7 +31194,8 @@
     "name": "충청대로",
     "name:en": "Chungcheong-daero",
     "name:ko": "충청대로",
-    "ref": "36"
+    "ref": "36",
+    "surface": "asphalt"
   }
 },
 {
@@ -31210,7 +31212,8 @@
     "layer": "1",
     "name": "오리점교",
     "name:ko": "오리점교",
-    "ref": "36"
+    "ref": "36",
+    "surface": "asphalt"
   }
 },
 {
@@ -31259,7 +31262,8 @@
     "layer": "1",
     "name": "음성교",
     "name:ko": "음성교",
-    "ref": "36"
+    "ref": "36",
+    "surface": "asphalt"
   }
 },
 {
@@ -50104,6 +50108,7 @@
   "id": 977475802,
   "nodes": [
     5504199706,
+    11451698429,
     436606376,
     436606379,
     436606381,
@@ -50117,7 +50122,8 @@
     "name": "충청대로",
     "name:en": "Chungcheong-daero",
     "name:ko": "충청대로",
-    "ref": "36"
+    "ref": "36",
+    "surface": "asphalt"
   }
 },
 {
@@ -187580,6 +187586,18 @@
 },
 {
   "type": "node",
+  "id": 11451698429,
+  "lat": 36.9235176,
+  "lon": 127.6959753
+},
+{
+  "type": "node",
+  "id": 11452055244,
+  "lat": 36.9197958,
+  "lon": 127.6935521
+},
+{
+  "type": "node",
   "id": 436606379,
   "lat": 36.9253457,
   "lon": 127.6971444
@@ -197487,8 +197505,8 @@
 {
   "type": "node",
   "id": 436606437,
-  "lat": 36.9422538,
-  "lon": 127.7293062
+  "lat": 36.9422439,
+  "lon": 127.7292197
 },
 {
   "type": "node",
@@ -197601,8 +197619,8 @@
 {
   "type": "node",
   "id": 7276457019,
-  "lat": 36.9425065,
-  "lon": 127.7317772
+  "lat": 36.9425044,
+  "lon": 127.7318201
 },
 {
   "type": "node",
@@ -197613,8 +197631,8 @@
 {
   "type": "node",
   "id": 7276457030,
-  "lat": 36.9425893,
-  "lon": 127.7317822
+  "lat": 36.9425979,
+  "lon": 127.7318144
 },
 {
   "type": "node",
