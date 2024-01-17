@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2024-01-16T18:29:10Z",
-    "timestamp_areas_base": "2024-01-16T16:20:26Z",
+    "timestamp_osm_base": "2024-01-17T18:29:44Z",
+    "timestamp_areas_base": "2024-01-17T17:28:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -25,6 +25,7 @@
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "당진청주고속도로",
+    "name:el": "Αυτοκινητόδρομος Ντάνγκτζιν–Τσόνγκτζου",
     "name:en": "Dangjin-Cheongju Expressway",
     "name:ko": "당진청주고속도로",
     "name:ko-Hani": "唐津淸州高速道路",
@@ -53,6 +54,7 @@
     "maxspeed:hgv": "60",
     "minspeed": "40",
     "name": "당진청주고속도로",
+    "name:el": "Αυτοκινητόδρομος Ντάνγκτζιν–Τσόνγκτζου",
     "name:en": "Dangjin-Cheongju Expressway",
     "name:ko": "당진청주고속도로",
     "name:ko-Hani": "唐津淸州高速道路",
@@ -79,6 +81,7 @@
     "highway": "motorway",
     "maxspeed": "100",
     "name": "당진청주고속도로",
+    "name:el": "Αυτοκινητόδρομος Ντάνγκτζιν–Τσόνγκτζου",
     "name:en": "Dangjin-Cheongju Expressway",
     "name:ko": "당진청주고속도로",
     "oneway": "yes",
