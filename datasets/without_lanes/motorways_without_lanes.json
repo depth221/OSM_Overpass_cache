@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2024-02-01T18:25:30Z",
-    "timestamp_areas_base": "2024-02-01T17:00:45Z",
+    "timestamp_osm_base": "2024-02-02T18:28:16Z",
+    "timestamp_areas_base": "2024-02-02T12:45:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -462,6 +462,8 @@
     "highway": "motorway",
     "layer": "1",
     "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "당진청주고속도로",
     "name:en": "Dangjin-Cheongju Expressway",
     "name:ko": "당진청주고속도로",
@@ -541,9 +543,9 @@
     9659747402
   ],
   "tags": {
-    "destination": "광주;논산",
-    "destination:lang:en": "Gwangju;Nonsan",
-    "destination:ref": "25",
+    "destination": "아산;논산",
+    "destination:lang:en": "Asan;Nonsan",
+    "destination:ref": "25;32",
     "highway": "motorway",
     "maxspeed": "80",
     "name": "당진청주고속도로",
