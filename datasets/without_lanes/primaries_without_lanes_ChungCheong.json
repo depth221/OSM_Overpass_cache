@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2024-02-17T18:45:27Z",
-    "timestamp_areas_base": "2024-02-17T14:56:00Z",
+    "timestamp_osm_base": "2024-02-18T18:44:43Z",
+    "timestamp_areas_base": "2024-02-18T15:10:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3664,6 +3664,68 @@
   "tags": {
     "highway": "primary",
     "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 54022202,
+  "nodes": [
+    436593199,
+    10249244234,
+    10249244317,
+    10249244235,
+    10249244315,
+    10249244236,
+    10249244316,
+    10249244237,
+    10249244314,
+    10249244238,
+    10249244313,
+    10249244311,
+    10249244312,
+    10249244239,
+    10249244309,
+    10249244302,
+    10249244310,
+    10249244240,
+    10249244303,
+    10249244241,
+    10249244304,
+    10249244242,
+    10249244305,
+    10249244243,
+    10249244306,
+    10249244244,
+    10249244307,
+    10249244245,
+    10249244308,
+    10249244246,
+    11591317653,
+    10249244247,
+    11591317657,
+    10249244248,
+    11591317658,
+    10249244249,
+    10249244256,
+    10249244250,
+    10249244255,
+    10249244254,
+    10249244253,
+    10249244252,
+    10249244251,
+    436593182,
+    436593185
+  ],
+  "tags": {
+    "alt_name:en": "Northern Industrial Road",
+    "destination": "둔포;;아산;삽교호",
+    "destination:lang:en": "Dunpo;Asan;Sapgyoho",
+    "highway": "primary",
+    "name": "북부산업로",
+    "name:en": "Bukbusaneop-ro",
+    "name:ko": "북부산업로",
+    "oneway": "yes",
+    "ref": "38;77"
   }
 },
 {
@@ -8484,9 +8546,11 @@
     1358913196,
     1358913189,
     1358913186,
-    1358913184
+    11637769422
   ],
   "tags": {
+    "destination": "보령;홍성",
+    "destination:lang:en": "Boryeong;Hongseong",
     "highway": "primary",
     "name": "충서로",
     "name:en": "Chungseo-ro",
@@ -8885,7 +8949,9 @@
     1358602999,
     1358603013,
     8424227406,
+    11636218512,
     1358603036,
+    11636218515,
     8424227405,
     1358603107,
     1358603120,
@@ -8972,41 +9038,6 @@
 },
 {
   "type": "way",
-  "id": 121328141,
-  "nodes": [
-    1358912386,
-    1358912395,
-    1358912400
-  ],
-  "tags": {
-    "highway": "primary",
-    "layer": "-1",
-    "oneway": "yes",
-    "review": "no",
-    "source": "Bing (adjusted)",
-    "tunnel": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 121328145,
-  "nodes": [
-    1358912378,
-    10224998370,
-    1358912349,
-    1358912343
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
   "id": 121328152,
   "nodes": [
     11527666514,
@@ -9072,46 +9103,6 @@
 },
 {
   "type": "way",
-  "id": 121328160,
-  "nodes": [
-    1358912378,
-    1358912381,
-    10224998371,
-    1358912389,
-    1358912386
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "yes",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 121328163,
-  "nodes": [
-    1358912400,
-    1358912413,
-    1358912432,
-    1358912447,
-    1358912504
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "yes",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
   "id": 121328173,
   "nodes": [
     10226944244,
@@ -9165,132 +9156,37 @@
 },
 {
   "type": "way",
-  "id": 121328197,
-  "nodes": [
-    1358913151,
-    1358913155,
-    1358913157,
-    1358913159,
-    1358913165,
-    1358913168,
-    1358913171,
-    1358913174,
-    1358913182,
-    1358913184
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "ref": "21",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 121328198,
-  "nodes": [
-    1358912911,
-    1358912906,
-    1358912904,
-    1358912903,
-    1358912900,
-    6424545486,
-    1358912899,
-    1358912891,
-    1358912889,
-    1358912887,
-    10224998414,
-    5336502271,
-    1358912886,
-    1358912882
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "ref": "21",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 121328202,
-  "nodes": [
-    1358913151,
-    1358913145,
-    1358913133,
-    1358913126,
-    1358913114,
-    1358913109,
-    1358913099,
-    1358913084,
-    1358913074,
-    1358913058,
-    1358913044,
-    1358913030,
-    1358913019,
-    1358913017
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
   "id": 121328203,
   "nodes": [
-    1358913017,
-    1358913018,
-    1358913024,
-    1358913039,
-    1358913052,
-    1358913073,
-    1358913082,
-    1358913096,
-    1358913106,
-    1358913113,
-    1358913124,
-    1358913129,
-    1358913143,
-    1358913151
+    11637558778,
+    11637569792,
+    11637569795,
+    1358912921,
+    1358912930,
+    1358912933,
+    1358912935,
+    1358912943,
+    1358912950,
+    1358912958,
+    11637569824,
+    11637569830,
+    11637569825,
+    11637569826,
+    1358912971,
+    1358912976,
+    1358912980,
+    11637700028,
+    11637700029,
+    11637700040
   ],
   "tags": {
+    "destination": "아산;예산;예산수덕사IC",
+    "destination:lang:en": "Asan;Yesan;Yesan-Sudeoksa IC",
     "highway": "primary",
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 121328205,
-  "nodes": [
-    1358912920,
-    2845711000,
-    2845713166,
-    1358912913
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
     "ref": "21",
     "review": "no",
     "source": "Bing (adjusted)"
@@ -9309,6 +9205,7 @@
     "layer": "1",
     "name": "대교",
     "name:ko": "대교",
+    "oneway": "yes",
     "ref": "21",
     "review": "no",
     "source": "Bing (adjusted)"
@@ -9316,16 +9213,42 @@
 },
 {
   "type": "way",
-  "id": 121328215,
+  "id": 121328211,
   "nodes": [
-    1358912870,
-    1358912857
+    1358912591,
+    11637291448,
+    1358912586
   ],
   "tags": {
+    "bridge": "yes",
+    "destination": "보령;홍성",
+    "destination:lang:en": "Boryeong;Hongseong",
     "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
+    "layer": "1",
+    "name": "금마교",
+    "name:ko": "금마교",
+    "oneway": "yes",
+    "ref": "21",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 121328218,
+  "nodes": [
+    1358912584,
+    1358912588
+  ],
+  "tags": {
+    "bridge": "yes",
+    "destination": "아산;예산;예산수덕사IC",
+    "destination:lang:en": "Asan;Yesan;Yesan-Sudeoksa IC",
+    "highway": "primary",
+    "layer": "1",
+    "name": "금마교",
+    "name:ko": "금마교",
+    "oneway": "yes",
     "ref": "21",
     "review": "no",
     "source": "Bing (adjusted)"
@@ -9424,280 +9347,6 @@
 },
 {
   "type": "way",
-  "id": 121328230,
-  "nodes": [
-    1358912828,
-    5336502280,
-    1358912821,
-    1825103416,
-    1825103413,
-    1358912782,
-    1358912768,
-    1825103392,
-    1358912754,
-    1358912751,
-    1358912745,
-    1358912738,
-    1358912735,
-    1358912733,
-    1358912732,
-    1358912730,
-    1358912727,
-    1358912723,
-    1358912720,
-    1358912717,
-    1358912709,
-    1358912706,
-    1358912704,
-    1358912698,
-    1358912693,
-    1358912688,
-    1358912680,
-    1358912678,
-    1358912676,
-    1358912673,
-    1358912672,
-    1358602085,
-    7015765503,
-    436473911,
-    436473912,
-    1358602084,
-    436473913,
-    436473914,
-    1358912643,
-    1358912634
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "ref": "21",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 121328231,
-  "nodes": [
-    1358912969,
-    1358912963,
-    5620443956,
-    1358912961,
-    1358912960
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "ref": "21",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 121328239,
-  "nodes": [
-    1358912987,
-    1358912986,
-    1358912977,
-    1358912972,
-    1358912969
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 121328241,
-  "nodes": [
-    1358912870,
-    1358912868,
-    1358912875,
-    1358912881,
-    1358912882
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 121328242,
-  "nodes": [
-    1358912969,
-    1358912971,
-    1358912976,
-    1358912980,
-    1358912987
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 121328243,
-  "nodes": [
-    1358912882,
-    1358912884,
-    1358912879,
-    1358912873,
-    1358912870
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 121328244,
-  "nodes": [
-    1358912828,
-    1358912826,
-    1358912831,
-    1358912843,
-    1358912852,
-    1358912857
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 121328245,
-  "nodes": [
-    1358912857,
-    1358912858,
-    1358912847,
-    1358912841,
-    1358912830,
-    1358912828
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 121328246,
-  "nodes": [
-    1358912987,
-    1358912989,
-    1358912991,
-    1358913008,
-    1358913015,
-    1358913017
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "ref": "21",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 121328249,
-  "nodes": [
-    1358912920,
-    1358912921,
-    1358912930,
-    1358912933,
-    1358912935,
-    1358912943,
-    1358912950,
-    1358912958,
-    1358912960
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 121328253,
-  "nodes": [
-    1358912960,
-    1358912959,
-    1358912952,
-    1358912945,
-    1358912940,
-    1358912934,
-    1358912931,
-    1358912927,
-    1358912920
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
   "id": 121328257,
   "nodes": [
     436535174,
@@ -9733,26 +9382,6 @@
     "ref": "29",
     "review": "no",
     "source": "NTIC"
-  }
-},
-{
-  "type": "way",
-  "id": 121507292,
-  "nodes": [
-    1360054723,
-    6480039362,
-    1360054728,
-    436586111
-  ],
-  "tags": {
-    "highway": "primary",
-    "maxspeed": "60",
-    "name": "차동로",
-    "name:en": "Chadong-ro",
-    "name:ko": "차동로",
-    "ref": "32;70;618",
-    "review": "no",
-    "source": "Bing (adjusted)"
   }
 },
 {
@@ -10014,32 +9643,6 @@
 },
 {
   "type": "way",
-  "id": 121783772,
-  "nodes": [
-    1362330455,
-    1362330469,
-    10872714914,
-    1362330473,
-    1362330482,
-    10872885829,
-    1362330484,
-    1362330486,
-    10872883389,
-    1362330491
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "no",
-    "ref": "21;32;45",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
   "id": 121783775,
   "nodes": [
     1362330815,
@@ -10088,37 +9691,6 @@
     "name:ko": "온천대로",
     "oneway": "yes",
     "ref": "21;45;645",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 121783778,
-  "nodes": [
-    1362330356,
-    10266373666,
-    1362330363,
-    1362330365,
-    7333775205,
-    1362330366,
-    1362330368,
-    436473745,
-    1362330380,
-    1362330379,
-    1362330382,
-    1362330383,
-    11017725181,
-    11017725180,
-    11017725179,
-    436473736
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "ref": "21;32;70;618",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -10303,8 +9875,10 @@
     1362330415,
     10872885969,
     10872886046,
+    11636548374,
     1362330431,
     1362330432,
+    11636548375,
     4658715844
   ],
   "tags": {
@@ -10326,30 +9900,9 @@
     1362330660,
     9852112870,
     9852112843,
-    1362330641
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "no",
-    "ref": "21;32;45",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 121783790,
-  "nodes": [
-    1362330491,
-    1362330509,
-    1362330513,
-    1362330518,
-    1362330524,
-    1362330532,
-    1368842582
+    11636683982,
+    11636683971,
+    1362330622
   ],
   "tags": {
     "highway": "primary",
@@ -10427,9 +9980,30 @@
   "type": "way",
   "id": 121783794,
   "nodes": [
-    1362330618,
-    10872855499,
-    1362330641
+    436473714,
+    1362330596,
+    1362330599,
+    1362330605,
+    11636683950,
+    1362330607,
+    1362330616,
+    11636683951,
+    11636683952,
+    1362330628,
+    11636683953,
+    1362330644,
+    11636683954,
+    1362330646,
+    11636683955,
+    11636683956,
+    1362330648,
+    11020993321,
+    8509115631,
+    10872855485,
+    10872855482,
+    11636683972,
+    11636683986,
+    1362330622
   ],
   "tags": {
     "highway": "primary",
@@ -10473,13 +10047,15 @@
   "id": 121783798,
   "nodes": [
     1368842582,
-    1362330542
+    1362330542,
+    1362330546
   ],
   "tags": {
     "highway": "primary",
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
+    "oneway": "no",
     "ref": "21;32;45",
     "review": "no",
     "source": "Bing (adjusted)"
@@ -10608,32 +10184,6 @@
 },
 {
   "type": "way",
-  "id": 121783813,
-  "nodes": [
-    436473714,
-    1362330596,
-    1362330599,
-    1362330605,
-    1362330607,
-    1362330616,
-    1362330628,
-    1362330644,
-    1362330646,
-    1362330648
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "no",
-    "ref": "21;32;45",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
   "id": 121783814,
   "nodes": [
     1362330963,
@@ -10718,24 +10268,6 @@
 },
 {
   "type": "way",
-  "id": 121783817,
-  "nodes": [
-    1362330542,
-    1362330546
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "no",
-    "ref": "21;32;45",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
   "id": 121783820,
   "nodes": [
     4658639931,
@@ -10778,6 +10310,7 @@
     8882631955,
     6448763100,
     436473753,
+    11636218602,
     6448763101,
     436586111
   ],
@@ -10829,27 +10362,6 @@
     "name:ko": "온천대로",
     "oneway": "no",
     "ref": "21;45",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 121783839,
-  "nodes": [
-    4658715844,
-    10872886062,
-    8567224271,
-    1362330449,
-    1362330455
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "no",
-    "ref": "21;32;45",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -10966,32 +10478,9 @@
     1368842771,
     8509115626,
     1362330555,
+    11636548372,
     1362330564,
     436473714
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "no",
-    "ref": "21;32;45",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 121783852,
-  "nodes": [
-    1362330648,
-    11020993321,
-    8509115631,
-    10872855485,
-    10872855482,
-    1362330622,
-    6112215022,
-    1362330618
   ],
   "tags": {
     "highway": "primary",
@@ -12429,6 +11918,138 @@
     "name": "구인교",
     "name:ko": "구인교",
     "ref": "25"
+  }
+},
+{
+  "type": "way",
+  "id": 160447568,
+  "nodes": [
+    1725035668,
+    436590362,
+    1725035640,
+    8606248397,
+    436590372
+  ],
+  "tags": {
+    "destination": "평택;아산;둔포",
+    "destination:lang:en": "Pyeongtaek;Asan;Dunpo",
+    "highway": "primary",
+    "name": "서해로",
+    "name:en": "Seohae-ro",
+    "name:ko": "서해로",
+    "oneway": "yes",
+    "ref": "34;38;77"
+  }
+},
+{
+  "type": "way",
+  "id": 160447569,
+  "nodes": [
+    436590365,
+    8606248404,
+    436590366
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:structure": "beam",
+    "destination": "평택;아산;둔포",
+    "destination:lang:en": "Pyeongtaek;Asan;Dunpo",
+    "highway": "primary",
+    "layer": "1",
+    "name": "문방1교",
+    "name:en": "Munbang 1 Bridge",
+    "name:ko": "문방1교",
+    "name:ko-Latn": "Munbang 1 Gyo",
+    "oneway": "yes",
+    "ref": "34;38;77"
+  }
+},
+{
+  "type": "way",
+  "id": 160447570,
+  "nodes": [
+    436590361,
+    1725035668
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:structure": "beam",
+    "destination": "평택;아산;둔포",
+    "destination:lang:en": "Pyeongtaek;Asan;Dunpo",
+    "highway": "primary",
+    "layer": "1",
+    "name": "밀두2교",
+    "name:en": "Mildu 2 Bridge",
+    "name:ko": "밀두2교",
+    "name:ko-Latn": "Mildu 2 Gyo",
+    "oneway": "yes",
+    "ref": "34;38;77",
+    "source:bridge": "mp2osm"
+  }
+},
+{
+  "type": "way",
+  "id": 160447572,
+  "nodes": [
+    436590358,
+    436590360
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "밀두1교",
+    "bridge:name:ko": "밀두1교",
+    "destination": "천안;둔포;아산",
+    "destination:lang:en": "Cheonan;Dunpo;Asan",
+    "highway": "primary",
+    "layer": "1",
+    "name": "밀두1교",
+    "name:en": "Mildu 1 Bridge",
+    "name:ko": "밀두1교",
+    "name:ko-Latn": "Mildu 1 Gyo",
+    "oneway": "yes",
+    "ref": "34;38;77"
+  }
+},
+{
+  "type": "way",
+  "id": 160447573,
+  "nodes": [
+    436590366,
+    1725035612,
+    8606248400,
+    436590367,
+    8606248401,
+    1725035628,
+    436590368
+  ],
+  "tags": {
+    "destination": "평택;아산;둔포",
+    "destination:lang:en": "Pyeongtaek;Asan;Dunpo",
+    "highway": "primary",
+    "name": "서해로",
+    "name:en": "Seohae-ro",
+    "name:ko": "서해로",
+    "oneway": "yes",
+    "ref": "34;38;77"
+  }
+},
+{
+  "type": "way",
+  "id": 160447576,
+  "nodes": [
+    436590360,
+    1725035691,
+    436590361
+  ],
+  "tags": {
+    "destination": "천안;둔포;아산",
+    "destination:lang:en": "Cheonan;Dunpo;Asan",
+    "highway": "primary",
+    "name": "서해로",
+    "name:en": "Seohae-ro",
+    "name:ko": "서해로",
+    "oneway": "yes",
+    "ref": "34;38;77"
   }
 },
 {
@@ -41033,6 +40654,7 @@
   "nodes": [
     1358914699,
     1370755813,
+    11636369868,
     436473736
   ],
   "tags": {
@@ -41042,35 +40664,6 @@
     "name:ko": "충서로",
     "oneway": "no",
     "ref": "21;32;70",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 772699938,
-  "nodes": [
-    1358913184,
-    1358913185,
-    1358913188,
-    1358913194,
-    1358913199,
-    1358913209,
-    1358913213,
-    1358913216,
-    1358913224,
-    1358913231,
-    1358913245,
-    4062339200,
-    4062339202
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "yes",
-    "ref": "21",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -43039,6 +42632,66 @@
     8606271067,
     8606271068,
     8606248403
+  ],
+  "tags": {
+    "destination": "서산;당진;삽교호",
+    "destination:lang:en": "Seosan;Dangjin;Sapgyoho",
+    "highway": "primary",
+    "name": "서해로",
+    "name:en": "Seohae-ro",
+    "name:ko": "서해로",
+    "oneway": "yes",
+    "ref": "34;38;77"
+  }
+},
+{
+  "type": "way",
+  "id": 786453674,
+  "nodes": [
+    7353528308,
+    10249244335,
+    8025224191,
+    10249244166,
+    10249244167,
+    10249244168,
+    10249244169,
+    10249244170,
+    10249244171,
+    10249244172,
+    10249244173,
+    10249244174,
+    10249244175,
+    10249244176,
+    10249244177,
+    10249244178,
+    10249244179,
+    10249244180
+  ],
+  "tags": {
+    "alt_name:en": "Northern Industrial Road",
+    "destination": "대산;석문;송악IC",
+    "destination:lang:en": "Daesan;Seongmun;Songak IC",
+    "highway": "primary",
+    "name": "북부산업로",
+    "name:en": "Bukbusaneop-ro",
+    "name:ko": "북부산업로",
+    "oneway": "yes",
+    "ref": "38;77"
+  }
+},
+{
+  "type": "way",
+  "id": 786453675,
+  "nodes": [
+    8606248390,
+    8606248391,
+    436596468,
+    7353528334,
+    7353528333,
+    10820593491,
+    10709028739,
+    7353528332,
+    7353528322
   ],
   "tags": {
     "destination": "서산;당진;삽교호",
@@ -48331,6 +47984,31 @@
 },
 {
   "type": "way",
+  "id": 907578920,
+  "nodes": [
+    436590372,
+    1725035631,
+    1725035626,
+    436590363,
+    1725035615,
+    436590364,
+    1725035613,
+    1725035610,
+    436590365
+  ],
+  "tags": {
+    "destination": "평택;아산;둔포",
+    "destination:lang:en": "Pyeongtaek;Asan;Dunpo",
+    "highway": "primary",
+    "name": "서해로",
+    "name:en": "Seohae-ro",
+    "name:ko": "서해로",
+    "oneway": "yes",
+    "ref": "34;38;77"
+  }
+},
+{
+  "type": "way",
   "id": 907578921,
   "nodes": [
     436590368,
@@ -48419,30 +48097,6 @@
   "tags": {
     "highway": "primary",
     "oneway": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 916112432,
-  "nodes": [
-    1362330641,
-    1362330635,
-    10872855583,
-    1362330630,
-    1362330627,
-    1362330624,
-    1362330623,
-    1362330622
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "yes",
-    "ref": "21;32;45",
-    "review": "no",
-    "source": "Bing (adjusted)"
   }
 },
 {
@@ -48791,6 +48445,113 @@
     "ref": "21;45",
     "review": "no",
     "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 927651868,
+  "nodes": [
+    8606248394,
+    8606248393
+  ],
+  "tags": {
+    "destination": "서산;당진;삽교호",
+    "destination:lang:en": "Seosan;Dangjin;Sapgyoho",
+    "highway": "primary",
+    "name": "서해로",
+    "name:en": "Seohae-ro",
+    "name:ko": "서해로",
+    "oneway": "yes",
+    "ref": "34;38;77"
+  }
+},
+{
+  "type": "way",
+  "id": 927651869,
+  "nodes": [
+    8606248393,
+    8606248390
+  ],
+  "tags": {
+    "bridge": "yes",
+    "destination": "서산;당진;삽교호",
+    "destination:lang:en": "Seosan;Dangjin;Sapgyoho",
+    "highway": "primary",
+    "layer": "1",
+    "name": "서해로",
+    "name:en": "Seohae-ro",
+    "name:ko": "서해로",
+    "oneway": "yes",
+    "ref": "34;38;77"
+  }
+},
+{
+  "type": "way",
+  "id": 927651870,
+  "nodes": [
+    8606248415,
+    8606248414,
+    8606248413,
+    8606248412,
+    8606248411,
+    8606248410,
+    8606248408,
+    8606248407,
+    8606248409,
+    8606248406,
+    8606248405,
+    8606248396,
+    8606248395
+  ],
+  "tags": {
+    "destination": "서산;당진;삽교호",
+    "destination:lang:en": "Seosan;Dangjin;Sapgyoho",
+    "highway": "primary",
+    "name": "서해로",
+    "name:en": "Seohae-ro",
+    "name:ko": "서해로",
+    "oneway": "yes",
+    "ref": "34;38;77"
+  }
+},
+{
+  "type": "way",
+  "id": 927651871,
+  "nodes": [
+    8606248395,
+    8606248394
+  ],
+  "tags": {
+    "bridge": "yes",
+    "destination": "서산;당진;삽교호",
+    "destination:lang:en": "Seosan;Dangjin;Sapgyoho",
+    "highway": "primary",
+    "layer": "1",
+    "name": "서해로",
+    "name:en": "Seohae-ro",
+    "name:ko": "서해로",
+    "oneway": "yes",
+    "ref": "34;38;77"
+  }
+},
+{
+  "type": "way",
+  "id": 927651872,
+  "nodes": [
+    8606248416,
+    8606248415
+  ],
+  "tags": {
+    "bridge": "yes",
+    "destination": "서산;당진;삽교호",
+    "destination:lang:en": "Seosan;Dangjin;Sapgyoho",
+    "highway": "primary",
+    "layer": "1",
+    "name": "서해로",
+    "name:en": "Seohae-ro",
+    "name:ko": "서해로",
+    "oneway": "yes",
+    "ref": "34;38;77"
   }
 },
 {
@@ -55069,6 +54830,230 @@
 },
 {
   "type": "way",
+  "id": 1120969838,
+  "nodes": [
+    10253006880,
+    10253006881
+  ],
+  "tags": {
+    "highway": "primary",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1120984970,
+  "nodes": [
+    11527405519,
+    10253145373,
+    10253145374,
+    10253145375,
+    10253145376,
+    10253145377,
+    10253145379,
+    10253145378
+  ],
+  "tags": {
+    "access": "yes",
+    "alt_name:en": "Yedang Plains Road",
+    "destination": "예산;합덕;거산리",
+    "destination:lang:en": "Yesan;Hapdeok;Geosan-ri",
+    "highway": "primary",
+    "name": "예당평야로",
+    "name:en": "Yedangpyeongya-ro",
+    "name:ko": "예당평야로",
+    "ncat": "국도",
+    "oneway": "yes",
+    "ref": "32"
+  }
+},
+{
+  "type": "way",
+  "id": 1120984971,
+  "nodes": [
+    10253145378,
+    10253145380,
+    10253145381,
+    10253145382,
+    10253145383,
+    10253145384,
+    10253145385,
+    10253145386,
+    10253145387,
+    10253145388,
+    10253145389,
+    10253145390,
+    10253145391
+  ],
+  "tags": {
+    "alt_name:en": "Yedang Plains Road",
+    "destination": "공주;예산;합덕",
+    "destination:lang:en": "Gongju;Yesan;Hapdeok",
+    "highway": "primary",
+    "name": "예당평야로",
+    "name:en": "Yedangpyeongya-ro",
+    "name:ko": "예당평야로",
+    "ncat": "국도",
+    "oneway": "yes",
+    "ref": "32"
+  }
+},
+{
+  "type": "way",
+  "id": 1120984976,
+  "nodes": [
+    10253145405,
+    10253145406,
+    10253145407,
+    10253145408,
+    10253145409,
+    10253145410,
+    10253145411,
+    10253145412,
+    10253145413,
+    10253145414,
+    10253145415,
+    10253145416,
+    10253145417,
+    10253145418,
+    10253145419,
+    10253145420,
+    10253145421,
+    10253145422,
+    10253145423,
+    10253145424,
+    10253145425,
+    10253145426,
+    10253145427,
+    10253145428,
+    10253145429,
+    10253145430,
+    10253145431,
+    10253145432,
+    10253145362
+  ],
+  "tags": {
+    "alt_name:en": "Yedang Plains Road",
+    "destination": "서산;당진;당진IC",
+    "destination:lang:en": "Seosan;Dangjin;Dangjin IC",
+    "highway": "primary",
+    "name": "예당평야로",
+    "name:en": "Yedangpyeongya-ro",
+    "name:ko": "예당평야로",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1120984983,
+  "nodes": [
+    10253145398,
+    10253145466,
+    10253145465,
+    10253145464,
+    10253145399,
+    10253145492
+  ],
+  "tags": {
+    "alt_name:en": "Yedang Plains Road",
+    "destination": "서산;당진;당진IC",
+    "destination:lang:en": "Seosan;Dangjin;Dangjin IC",
+    "highway": "primary",
+    "name": "예당평야로",
+    "name:en": "Yedangpyeongya-ro",
+    "name:ko": "예당평야로",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1120984984,
+  "nodes": [
+    10253145452,
+    10253145453,
+    10253145454,
+    10253145455,
+    10253145456,
+    10253145457,
+    10253145491
+  ],
+  "tags": {
+    "alt_name:en": "Yedang Plains Road",
+    "bridge": "yes",
+    "bridge:name": "거산교",
+    "bridge:name:en": "Geosan Bridge",
+    "bridge:name:ko": "거산교",
+    "destination": "홍성;예산;합덕",
+    "destination:lang:en": "Hongseong;Yesan;Hapdeok",
+    "highway": "primary",
+    "layer": "1",
+    "name": "예당평야로",
+    "name:en": "Yedangpyeongya-ro",
+    "name:ko": "예당평야로",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1120984985,
+  "nodes": [
+    10253145492,
+    10253145400,
+    10253145401,
+    10253145402,
+    10253145403,
+    10253145404,
+    10253145405
+  ],
+  "tags": {
+    "alt_name:en": "Yedang Plains Road",
+    "bridge": "yes",
+    "bridge:name": "거산교",
+    "bridge:name:en": "Geosan Bridge",
+    "bridge:name:ko": "거산교",
+    "destination": "서산;당진;당진IC",
+    "destination:lang:en": "Seosan;Dangjin;Dangjin IC",
+    "highway": "primary",
+    "layer": "1",
+    "name": "예당평야로",
+    "name:en": "Yedangpyeongya-ro",
+    "name:ko": "예당평야로",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1120984986,
+  "nodes": [
+    3663959119,
+    10253145501
+  ],
+  "tags": {
+    "highway": "primary"
+  }
+},
+{
+  "type": "way",
+  "id": 1121014786,
+  "nodes": [
+    7353528322,
+    10253420204,
+    10253420205,
+    10253420206,
+    10253420207,
+    10253420208,
+    10253420209,
+    8427372439
+  ],
+  "tags": {
+    "destination": "삽교호",
+    "destination:lang:en": "Sapgyoho",
+    "highway": "primary",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
   "id": 1121711140,
   "nodes": [
     10259602967,
@@ -55668,6 +55653,53 @@
   "tags": {
     "highway": "primary",
     "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1146992512,
+  "nodes": [
+    681158379,
+    1725035619,
+    436590370,
+    1725035617,
+    1725035618,
+    436590371,
+    1725035624,
+    1725035629,
+    1725035633,
+    8606248398,
+    8606248409
+  ],
+  "tags": {
+    "destination": "서산;당진;삽교호",
+    "destination:lang:en": "Seosan;Dangjin;Sapgyoho",
+    "highway": "primary",
+    "oneway": "yes",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 1146992513,
+  "nodes": [
+    436590372,
+    1725035630,
+    1725035620,
+    1725035614,
+    1725035609,
+    436590373,
+    1725035605,
+    1725035604,
+    436590374,
+    437070160
+  ],
+  "tags": {
+    "highway": "primary",
+    "oneway": "yes",
+    "review": "no",
+    "source": "NTIC"
   }
 },
 {
@@ -58981,6 +59013,27 @@
 },
 {
   "type": "way",
+  "id": 1240686997,
+  "nodes": [
+    10253145332,
+    10253145372,
+    11527405519
+  ],
+  "tags": {
+    "alt_name:en": "Yedang Plains Road",
+    "destination": "예산;합덕;거산리",
+    "destination:lang:en": "Yesan;Hapdeok;Geosan-ri",
+    "highway": "primary",
+    "name": "예당평야로",
+    "name:en": "Yedangpyeongya-ro",
+    "name:ko": "예당평야로",
+    "ncat": "국도",
+    "oneway": "yes",
+    "ref": "32"
+  }
+},
+{
+  "type": "way",
   "id": 1241274332,
   "nodes": [
     436669661,
@@ -59938,6 +59991,517 @@
     "ref": "70",
     "review": "no",
     "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 1251844733,
+  "nodes": [
+    1362330356,
+    10266373666,
+    1362330363,
+    11636218634,
+    1362330365,
+    11636218725,
+    11636218625,
+    436473745,
+    11636218626,
+    11636218773,
+    11636218627,
+    11636218628,
+    11636218629,
+    11017725180
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "충서로",
+    "name:en": "Chungseo-ro",
+    "name:ko": "충서로",
+    "ref": "21;32;70;618",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1251844735,
+  "nodes": [
+    11017725180,
+    11636218630,
+    11636218631,
+    11636218632,
+    11636218633,
+    436473736
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "충서로",
+    "name:en": "Chungseo-ro",
+    "name:ko": "충서로",
+    "ref": "21;32;70;618",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1251927136,
+  "nodes": [
+    1358912349,
+    1358912343
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "충서로",
+    "name:en": "Chungseo-ro",
+    "name:ko": "충서로",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1251927145,
+  "nodes": [
+    1358912911,
+    11637569793,
+    11637558787,
+    11637558786,
+    11637558785,
+    11637558784,
+    11637558776
+  ],
+  "tags": {
+    "destination": "보령;홍성",
+    "destination:lang:en": "Boryeong;Hongseong",
+    "highway": "primary",
+    "name": "충서로",
+    "name:en": "Chungseo-ro",
+    "name:ko": "충서로",
+    "oneway": "yes",
+    "ref": "21",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1251927146,
+  "nodes": [
+    1358912588,
+    11637291491,
+    11637291505,
+    11637291506,
+    11637291507,
+    11637291508,
+    11637291552,
+    11637291521,
+    11637291555,
+    11637291522,
+    11637291548,
+    11637291523,
+    11637291547,
+    11637291524,
+    11637291549,
+    11637291525,
+    11637291526,
+    11637291527,
+    11637291528,
+    11637291529,
+    11637291561,
+    11637291562,
+    7015765503,
+    11637291570,
+    11637291563,
+    11637356013,
+    11637356014,
+    11637356047,
+    11637356015,
+    11637356016,
+    11637356017,
+    11637356018,
+    11637356019,
+    11637356020,
+    11637356021,
+    11637356022,
+    11637356023,
+    11637356024,
+    11637356025,
+    11637356026,
+    11637357075,
+    11637356027,
+    11637518168,
+    11637523969,
+    11637523983,
+    11637523970,
+    11637523985
+  ],
+  "tags": {
+    "destination": "아산;예산;예산수덕사IC",
+    "destination:lang:en": "Asan;Yesan;Yesan-Sudeoksa IC",
+    "highway": "primary",
+    "name": "충서로",
+    "name:en": "Chungseo-ro",
+    "name:ko": "충서로",
+    "oneway": "yes",
+    "ref": "21",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1251953632,
+  "nodes": [
+    11637523985,
+    11637523971,
+    11637523972,
+    11637524062,
+    11637523973,
+    11637523974,
+    11637523975,
+    11637524269,
+    11637524270,
+    11637524271,
+    11637524272,
+    11637524285,
+    11637524273,
+    11637524274,
+    11637524275,
+    11637524276,
+    11637524277,
+    11637524278,
+    11637524279,
+    11637558795,
+    11637524280,
+    11637558794
+  ],
+  "tags": {
+    "destination": "아산;예산;예산수덕사IC",
+    "destination:lang:en": "Asan;Yesan;Yesan-Sudeoksa IC",
+    "highway": "primary",
+    "name": "충서로",
+    "name:en": "Chungseo-ro",
+    "name:ko": "충서로",
+    "oneway": "yes",
+    "ref": "21",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1251953637,
+  "nodes": [
+    11637524056,
+    11637523976,
+    11637356041,
+    11637357076,
+    11637356040,
+    11637356039,
+    11637356038,
+    11637356037,
+    11637356036,
+    11637356035,
+    11637356034,
+    11637356033,
+    11637356032,
+    11637357113,
+    11637356031,
+    11637356046,
+    11637356030,
+    11637357101,
+    11637356029,
+    11637291566,
+    11637291533,
+    11637291569,
+    11637291565,
+    11637291571,
+    11637291564,
+    11637291520,
+    11637291519,
+    11637291518,
+    11637291517,
+    11637291516,
+    11637291546,
+    11637291515,
+    11637291514,
+    11637291513,
+    11637291512,
+    11637291511,
+    11637291510,
+    11637291509,
+    11637291490,
+    1358912591
+  ],
+  "tags": {
+    "destination": "보령;홍성",
+    "destination:lang:en": "Boryeong;Hongseong",
+    "highway": "primary",
+    "name": "충서로",
+    "name:en": "Chungseo-ro",
+    "name:ko": "충서로",
+    "oneway": "yes",
+    "ref": "21",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1251958203,
+  "nodes": [
+    11637558779,
+    11637558778
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "layer": "1",
+    "name": "대교",
+    "name:ko": "대교",
+    "oneway": "yes",
+    "ref": "21",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1251958207,
+  "nodes": [
+    11637558794,
+    11637558780,
+    11637558811,
+    11637558781,
+    11637558782,
+    11637558783,
+    11637569791,
+    11637558779
+  ],
+  "tags": {
+    "destination": "아산;예산;예산수덕사IC",
+    "destination:lang:en": "Asan;Yesan;Yesan-Sudeoksa IC",
+    "highway": "primary",
+    "name": "충서로",
+    "name:en": "Chungseo-ro",
+    "name:ko": "충서로",
+    "oneway": "yes",
+    "ref": "21",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1251958209,
+  "nodes": [
+    11637558776,
+    11637524268,
+    11637524267,
+    11637524266,
+    11637524265,
+    11637524264,
+    11637524263,
+    11637524286,
+    11637524262,
+    11637524261,
+    11637524260,
+    11637524290,
+    11637524259,
+    11637523982,
+    11637523981,
+    11637524061,
+    11637523980,
+    11637523979,
+    11637523978,
+    11637524057,
+    11637523977,
+    11637524056
+  ],
+  "tags": {
+    "destination": "보령;홍성",
+    "destination:lang:en": "Boryeong;Hongseong",
+    "highway": "primary",
+    "name": "충서로",
+    "name:en": "Chungseo-ro",
+    "name:ko": "충서로",
+    "oneway": "yes",
+    "ref": "21",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1251980368,
+  "nodes": [
+    11637700040,
+    11637700030,
+    11637700031,
+    1358913018,
+    1358913024,
+    11637769425,
+    1358913039,
+    11637769428,
+    1358913052,
+    11637769429,
+    1358913073,
+    1358913082,
+    1358913096,
+    1358913106,
+    1358913113,
+    1358913124,
+    1358913129,
+    1358913143,
+    11637700017,
+    11637700018,
+    11637700019,
+    11637700020,
+    11637769421
+  ],
+  "tags": {
+    "destination": "아산;예산;예산수덕사IC",
+    "destination:lang:en": "Asan;Yesan;Yesan-Sudeoksa IC",
+    "highway": "primary",
+    "name": "충서로",
+    "name:en": "Chungseo-ro",
+    "name:ko": "충서로",
+    "oneway": "yes",
+    "ref": "21",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1251980369,
+  "nodes": [
+    11637700041,
+    11637700033,
+    11637700032,
+    1358912986,
+    1358912977,
+    1358912972,
+    11637569827,
+    11637569831,
+    11637569828,
+    11637569829,
+    1358912959,
+    1358912952,
+    1358912945,
+    1358912940,
+    1358912934,
+    1358912931,
+    11637569794,
+    1358912927,
+    1358912913
+  ],
+  "tags": {
+    "destination": "보령;홍성",
+    "destination:lang:en": "Boryeong;Hongseong",
+    "highway": "primary",
+    "name": "충서로",
+    "name:en": "Chungseo-ro",
+    "name:ko": "충서로",
+    "oneway": "yes",
+    "ref": "21",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1251980379,
+  "nodes": [
+    11637769421,
+    11637769424
+  ],
+  "tags": {
+    "destination": "아산;예산;예산수덕사IC",
+    "destination:lang:en": "Asan;Yesan;Yesan-Sudeoksa IC",
+    "highway": "primary",
+    "name": "충서로",
+    "name:en": "Chungseo-ro",
+    "name:ko": "충서로",
+    "oneway": "yes",
+    "ref": "21",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1251980381,
+  "nodes": [
+    11637769422,
+    11637700027,
+    11637700026,
+    11637700025,
+    11637700024,
+    11637700023,
+    1358913145,
+    1358913133,
+    1358913126,
+    1358913114,
+    1358913109,
+    1358913099,
+    1358913084,
+    1358913074,
+    1358913058,
+    1358913044,
+    1358913030,
+    1358913019,
+    11637700036,
+    11637700035,
+    11637700034,
+    11637700041
+  ],
+  "tags": {
+    "destination": "보령;홍성",
+    "destination:lang:en": "Boryeong;Hongseong",
+    "highway": "primary",
+    "name": "충서로",
+    "name:en": "Chungseo-ro",
+    "name:ko": "충서로",
+    "oneway": "yes",
+    "ref": "21",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1251980382,
+  "nodes": [
+    11637769424,
+    11637700021,
+    11637700022,
+    1358913185,
+    1358913188,
+    1358913194,
+    1358913199,
+    1358913209,
+    1358913213,
+    1358913216,
+    1358913224,
+    1358913231,
+    11637769450,
+    1358913245,
+    4062339200,
+    4062339202
+  ],
+  "tags": {
+    "destination": "아산;예산;예산수덕사IC",
+    "destination:lang:en": "Asan;Yesan;Yesan-Sudeoksa IC",
+    "highway": "primary",
+    "name": "충서로",
+    "name:en": "Chungseo-ro",
+    "name:ko": "충서로",
+    "oneway": "yes",
+    "ref": "21",
+    "review": "no",
+    "source": "Bing (adjusted)"
   }
 },
 {
@@ -151353,116 +151917,248 @@
 {
   "type": "node",
   "id": 1358912349,
-  "lat": 36.6039993,
-  "lon": 126.6845147
-},
-{
-  "type": "node",
-  "id": 1358912378,
-  "lat": 36.6042775,
-  "lon": 126.6856232
-},
-{
-  "type": "node",
-  "id": 1358912381,
-  "lat": 36.6044300,
-  "lon": 126.6864666
-},
-{
-  "type": "node",
-  "id": 1358912386,
-  "lat": 36.6045042,
-  "lon": 126.6871302
-},
-{
-  "type": "node",
-  "id": 1358912389,
-  "lat": 36.6044925,
-  "lon": 126.6869046
-},
-{
-  "type": "node",
-  "id": 1358912395,
-  "lat": 36.6045176,
-  "lon": 126.6873296
-},
-{
-  "type": "node",
-  "id": 10224998370,
   "lat": 36.6041025,
   "lon": 126.6849259
 },
 {
   "type": "node",
-  "id": 10224998371,
-  "lat": 36.6044783,
-  "lon": 126.6868052
+  "id": 1358912584,
+  "lat": 36.6077747,
+  "lon": 126.6985414
 },
 {
   "type": "node",
-  "id": 1358912400,
-  "lat": 36.6045910,
-  "lon": 126.6878714
+  "id": 1358912586,
+  "lat": 36.6078381,
+  "lon": 126.6985010
 },
 {
   "type": "node",
-  "id": 1358912413,
-  "lat": 36.6047321,
-  "lon": 126.6882465
+  "id": 1358912588,
+  "lat": 36.6079115,
+  "lon": 126.6989011
 },
 {
   "type": "node",
-  "id": 1358912432,
-  "lat": 36.6049222,
-  "lon": 126.6887749
+  "id": 1358912591,
+  "lat": 36.6079770,
+  "lon": 126.6988595
 },
 {
   "type": "node",
-  "id": 1358912447,
-  "lat": 36.6051869,
-  "lon": 126.6895233
+  "id": 11637291448,
+  "lat": 36.6079348,
+  "lon": 126.6987506
 },
 {
   "type": "node",
-  "id": 1358912504,
-  "lat": 36.6057567,
-  "lon": 126.6913261
+  "id": 11637291490,
+  "lat": 36.6081417,
+  "lon": 126.6992593
 },
 {
   "type": "node",
-  "id": 436473912,
-  "lat": 36.6109768,
-  "lon": 126.7032697
+  "id": 11637291491,
+  "lat": 36.6080802,
+  "lon": 126.6993118
 },
 {
   "type": "node",
-  "id": 436473913,
-  "lat": 36.6098751,
-  "lon": 126.7021675
+  "id": 11637291505,
+  "lat": 36.6082421,
+  "lon": 126.6996672
 },
 {
   "type": "node",
-  "id": 436473914,
-  "lat": 36.6096700,
-  "lon": 126.7019125
+  "id": 11637291506,
+  "lat": 36.6084025,
+  "lon": 126.6999850
 },
 {
   "type": "node",
-  "id": 1358602084,
-  "lat": 36.6102795,
-  "lon": 126.7026120
+  "id": 11637291507,
+  "lat": 36.6086265,
+  "lon": 126.7003900
 },
 {
   "type": "node",
-  "id": 1358912634,
-  "lat": 36.6089833,
-  "lon": 126.7010092
+  "id": 11637291508,
+  "lat": 36.6088289,
+  "lon": 126.7007360
 },
 {
   "type": "node",
-  "id": 1358912643,
-  "lat": 36.6093275,
-  "lon": 126.7014855
+  "id": 11637291509,
+  "lat": 36.6083213,
+  "lon": 126.6996355
+},
+{
+  "type": "node",
+  "id": 11637291510,
+  "lat": 36.6085054,
+  "lon": 126.6999842
+},
+{
+  "type": "node",
+  "id": 11637291511,
+  "lat": 36.6087326,
+  "lon": 126.7004013
+},
+{
+  "type": "node",
+  "id": 11637291512,
+  "lat": 36.6089457,
+  "lon": 126.7007741
+},
+{
+  "type": "node",
+  "id": 11637291513,
+  "lat": 36.6091599,
+  "lon": 126.7011000
+},
+{
+  "type": "node",
+  "id": 11637291514,
+  "lat": 36.6093785,
+  "lon": 126.7014018
+},
+{
+  "type": "node",
+  "id": 11637291515,
+  "lat": 36.6096939,
+  "lon": 126.7017947
+},
+{
+  "type": "node",
+  "id": 11637291516,
+  "lat": 36.6099114,
+  "lon": 126.7020576
+},
+{
+  "type": "node",
+  "id": 11637291517,
+  "lat": 36.6101719,
+  "lon": 126.7023338
+},
+{
+  "type": "node",
+  "id": 11637291518,
+  "lat": 36.6106671,
+  "lon": 126.7028408
+},
+{
+  "type": "node",
+  "id": 11637291519,
+  "lat": 36.6109976,
+  "lon": 126.7031479
+},
+{
+  "type": "node",
+  "id": 11637291520,
+  "lat": 36.6114475,
+  "lon": 126.7035462
+},
+{
+  "type": "node",
+  "id": 11637291521,
+  "lat": 36.6090720,
+  "lon": 126.7011007
+},
+{
+  "type": "node",
+  "id": 11637291522,
+  "lat": 36.6093181,
+  "lon": 126.7014458
+},
+{
+  "type": "node",
+  "id": 11637291523,
+  "lat": 36.6096232,
+  "lon": 126.7018597
+},
+{
+  "type": "node",
+  "id": 11637291524,
+  "lat": 36.6098172,
+  "lon": 126.7020956
+},
+{
+  "type": "node",
+  "id": 11637291525,
+  "lat": 36.6100533,
+  "lon": 126.7023559
+},
+{
+  "type": "node",
+  "id": 11637291526,
+  "lat": 36.6102529,
+  "lon": 126.7025579
+},
+{
+  "type": "node",
+  "id": 11637291527,
+  "lat": 36.6105022,
+  "lon": 126.7027996
+},
+{
+  "type": "node",
+  "id": 11637291528,
+  "lat": 36.6107328,
+  "lon": 126.7030167
+},
+{
+  "type": "node",
+  "id": 11637291529,
+  "lat": 36.6109671,
+  "lon": 126.7032420
+},
+{
+  "type": "node",
+  "id": 11637291546,
+  "lat": 36.6097714,
+  "lon": 126.7018884
+},
+{
+  "type": "node",
+  "id": 11637291547,
+  "lat": 36.6097135,
+  "lon": 126.7019695
+},
+{
+  "type": "node",
+  "id": 11637291548,
+  "lat": 36.6096130,
+  "lon": 126.7018460
+},
+{
+  "type": "node",
+  "id": 11637291549,
+  "lat": 36.6099343,
+  "lon": 126.7022246
+},
+{
+  "type": "node",
+  "id": 11637291552,
+  "lat": 36.6089321,
+  "lon": 126.7008908
+},
+{
+  "type": "node",
+  "id": 11637291555,
+  "lat": 36.6091949,
+  "lon": 126.7012730
+},
+{
+  "type": "node",
+  "id": 11637291561,
+  "lat": 36.6111654,
+  "lon": 126.7034203
+},
+{
+  "type": "node",
+  "id": 11637291562,
+  "lat": 36.6115565,
+  "lon": 126.7037810
 },
 {
   "type": "node",
@@ -153986,399 +154682,609 @@
 },
 {
   "type": "node",
-  "id": 436473911,
-  "lat": 36.6123090,
-  "lon": 126.7044593
-},
-{
-  "type": "node",
-  "id": 1358602085,
-  "lat": 36.6130894,
-  "lon": 126.7051376
-},
-{
-  "type": "node",
-  "id": 1358912672,
-  "lat": 36.6140237,
-  "lon": 126.7059181
-},
-{
-  "type": "node",
-  "id": 1358912673,
-  "lat": 36.6142111,
-  "lon": 126.7061126
-},
-{
-  "type": "node",
-  "id": 1358912676,
-  "lat": 36.6146953,
-  "lon": 126.7065074
-},
-{
-  "type": "node",
-  "id": 1358912678,
-  "lat": 36.6152016,
-  "lon": 126.7069549
-},
-{
-  "type": "node",
   "id": 7015765503,
-  "lat": 36.6130343,
-  "lon": 126.7050897
+  "lat": 36.6130315,
+  "lon": 126.7050940
 },
 {
   "type": "node",
-  "id": 1358912680,
-  "lat": 36.6156652,
-  "lon": 126.7073742
+  "id": 11637291533,
+  "lat": 36.6142574,
+  "lon": 126.7060571
 },
 {
   "type": "node",
-  "id": 1358912688,
-  "lat": 36.6163424,
-  "lon": 126.7079518
+  "id": 11637291564,
+  "lat": 36.6118642,
+  "lon": 126.7039292
 },
 {
   "type": "node",
-  "id": 1358912693,
-  "lat": 36.6171252,
-  "lon": 126.7086472
+  "id": 11637291565,
+  "lat": 36.6132719,
+  "lon": 126.7051982
 },
 {
   "type": "node",
-  "id": 1358912698,
-  "lat": 36.6177030,
-  "lon": 126.7091543
+  "id": 11637291569,
+  "lat": 36.6142274,
+  "lon": 126.7060310
 },
 {
   "type": "node",
-  "id": 1358912704,
-  "lat": 36.6182683,
-  "lon": 126.7096834
+  "id": 11637291570,
+  "lat": 36.6141776,
+  "lon": 126.7061142
 },
 {
   "type": "node",
-  "id": 1358912706,
-  "lat": 36.6188116,
-  "lon": 126.7102398
+  "id": 11637291571,
+  "lat": 36.6130661,
+  "lon": 126.7050126
 },
 {
   "type": "node",
-  "id": 1358912709,
-  "lat": 36.6191534,
-  "lon": 126.7106620
+  "id": 11637291563,
+  "lat": 36.6183069,
+  "lon": 126.7097904
 },
 {
   "type": "node",
-  "id": 1358912717,
-  "lat": 36.6192327,
-  "lon": 126.7107553
+  "id": 11637291566,
+  "lat": 36.6183812,
+  "lon": 126.7097287
 },
 {
   "type": "node",
-  "id": 1358912720,
-  "lat": 36.6196058,
-  "lon": 126.7112851
+  "id": 11637356013,
+  "lat": 36.6185231,
+  "lon": 126.7100106
 },
 {
   "type": "node",
-  "id": 1358912723,
-  "lat": 36.6198534,
-  "lon": 126.7116657
+  "id": 11637356014,
+  "lat": 36.6187653,
+  "lon": 126.7102721
 },
 {
   "type": "node",
-  "id": 1358912727,
-  "lat": 36.6201415,
-  "lon": 126.7121814
+  "id": 11637356015,
+  "lat": 36.6190333,
+  "lon": 126.7105765
 },
 {
   "type": "node",
-  "id": 1358912730,
-  "lat": 36.6203943,
-  "lon": 126.7126954
+  "id": 11637356016,
+  "lat": 36.6192593,
+  "lon": 126.7108528
 },
 {
   "type": "node",
-  "id": 1358912732,
-  "lat": 36.6205569,
-  "lon": 126.7130849
+  "id": 11637356017,
+  "lat": 36.6194832,
+  "lon": 126.7111559
 },
 {
   "type": "node",
-  "id": 1358912733,
-  "lat": 36.6206995,
-  "lon": 126.7134170
+  "id": 11637356018,
+  "lat": 36.6197146,
+  "lon": 126.7114925
 },
 {
   "type": "node",
-  "id": 1358912735,
-  "lat": 36.6208673,
-  "lon": 126.7139455
+  "id": 11637356019,
+  "lat": 36.6199278,
+  "lon": 126.7118439
 },
 {
   "type": "node",
-  "id": 1358912738,
-  "lat": 36.6209913,
-  "lon": 126.7144709
+  "id": 11637356020,
+  "lat": 36.6201484,
+  "lon": 126.7122610
 },
 {
   "type": "node",
-  "id": 1358912745,
-  "lat": 36.6211637,
-  "lon": 126.7151436
+  "id": 11637356021,
+  "lat": 36.6203314,
+  "lon": 126.7126351
 },
 {
   "type": "node",
-  "id": 1358912751,
-  "lat": 36.6213353,
-  "lon": 126.7159957
+  "id": 11637356022,
+  "lat": 36.6205542,
+  "lon": 126.7131743
 },
 {
   "type": "node",
-  "id": 1358912754,
-  "lat": 36.6216266,
-  "lon": 126.7172873
+  "id": 11637356023,
+  "lat": 36.6207404,
+  "lon": 126.7137161
 },
 {
   "type": "node",
-  "id": 1358912768,
-  "lat": 36.6219641,
-  "lon": 126.7186637
+  "id": 11637356029,
+  "lat": 36.6186477,
+  "lon": 126.7099994
 },
 {
   "type": "node",
-  "id": 1358912782,
-  "lat": 36.6222131,
-  "lon": 126.7197510
+  "id": 11637356030,
+  "lat": 36.6188985,
+  "lon": 126.7102677
 },
 {
   "type": "node",
-  "id": 1825103392,
-  "lat": 36.6218112,
-  "lon": 126.7180767
+  "id": 11637356031,
+  "lat": 36.6191234,
+  "lon": 126.7105372
 },
 {
   "type": "node",
-  "id": 1358912821,
-  "lat": 36.6225866,
-  "lon": 126.7217055
+  "id": 11637356032,
+  "lat": 36.6194097,
+  "lon": 126.7109007
 },
 {
   "type": "node",
-  "id": 1358912826,
-  "lat": 36.6227543,
-  "lon": 126.7229308
+  "id": 11637356033,
+  "lat": 36.6196670,
+  "lon": 126.7112654
 },
 {
   "type": "node",
-  "id": 1358912828,
-  "lat": 36.6227664,
-  "lon": 126.7228099
+  "id": 11637356034,
+  "lat": 36.6198920,
+  "lon": 126.7116463
 },
 {
   "type": "node",
-  "id": 1358912830,
-  "lat": 36.6228244,
-  "lon": 126.7228834
+  "id": 11637356035,
+  "lat": 36.6201837,
+  "lon": 126.7121667
 },
 {
   "type": "node",
-  "id": 1358912831,
-  "lat": 36.6228187,
-  "lon": 126.7233303
+  "id": 11637356036,
+  "lat": 36.6204355,
+  "lon": 126.7126723
 },
 {
   "type": "node",
-  "id": 1358912841,
-  "lat": 36.6228958,
-  "lon": 126.7233016
+  "id": 11637356037,
+  "lat": 36.6206357,
+  "lon": 126.7131443
 },
 {
   "type": "node",
-  "id": 1358912843,
-  "lat": 36.6229332,
-  "lon": 126.7240836
+  "id": 11637356038,
+  "lat": 36.6207886,
+  "lon": 126.7135681
 },
 {
   "type": "node",
-  "id": 1358912847,
-  "lat": 36.6230105,
-  "lon": 126.7240345
+  "id": 11637356046,
+  "lat": 36.6189917,
+  "lon": 126.7103794
 },
 {
   "type": "node",
-  "id": 1358912852,
-  "lat": 36.6231283,
-  "lon": 126.7253433
+  "id": 11637356047,
+  "lat": 36.6189089,
+  "lon": 126.7104352
 },
 {
   "type": "node",
-  "id": 1358912857,
-  "lat": 36.6231693,
-  "lon": 126.7254246
+  "id": 11637357101,
+  "lat": 36.6188619,
+  "lon": 126.7102286
 },
 {
   "type": "node",
-  "id": 1358912858,
-  "lat": 36.6232149,
-  "lon": 126.7253285
+  "id": 11637357113,
+  "lat": 36.6193590,
+  "lon": 126.7108362
 },
 {
   "type": "node",
-  "id": 1825103413,
-  "lat": 36.6223679,
-  "lon": 126.7205145
+  "id": 11637356024,
+  "lat": 36.6208750,
+  "lon": 126.7141787
 },
 {
   "type": "node",
-  "id": 1825103416,
-  "lat": 36.6223982,
-  "lon": 126.7206826
+  "id": 11637356025,
+  "lat": 36.6210117,
+  "lon": 126.7146991
 },
 {
   "type": "node",
-  "id": 5336502280,
-  "lat": 36.6226843,
-  "lon": 126.7222183
+  "id": 11637356026,
+  "lat": 36.6211290,
+  "lon": 126.7152127
 },
 {
   "type": "node",
-  "id": 1358912868,
-  "lat": 36.6234336,
-  "lon": 126.7272351
+  "id": 11637356027,
+  "lat": 36.6219851,
+  "lon": 126.7189674
 },
 {
   "type": "node",
-  "id": 1358912870,
-  "lat": 36.6234282,
-  "lon": 126.7270653
+  "id": 11637356039,
+  "lat": 36.6209038,
+  "lon": 126.7139503
 },
 {
   "type": "node",
-  "id": 1358912873,
-  "lat": 36.6235023,
-  "lon": 126.7272042
+  "id": 11637356040,
+  "lat": 36.6210286,
+  "lon": 126.7144533
 },
 {
   "type": "node",
-  "id": 1358912875,
-  "lat": 36.6236608,
-  "lon": 126.7287223
+  "id": 11637356041,
+  "lat": 36.6220540,
+  "lon": 126.7189365
 },
 {
   "type": "node",
-  "id": 1358912879,
-  "lat": 36.6237316,
-  "lon": 126.7287052
+  "id": 11637357075,
+  "lat": 36.6217813,
+  "lon": 126.7180736
 },
 {
   "type": "node",
-  "id": 1358912881,
-  "lat": 36.6238046,
-  "lon": 126.7296340
+  "id": 11637357076,
+  "lat": 36.6218435,
+  "lon": 126.7180162
 },
 {
   "type": "node",
-  "id": 1358912882,
-  "lat": 36.6238483,
-  "lon": 126.7297793
+  "id": 11637518168,
+  "lat": 36.6221259,
+  "lon": 126.7196025
 },
 {
   "type": "node",
-  "id": 1358912884,
-  "lat": 36.6238778,
-  "lon": 126.7296327
+  "id": 11637523969,
+  "lat": 36.6222714,
+  "lon": 126.7202660
 },
 {
   "type": "node",
-  "id": 1358912886,
-  "lat": 36.6239317,
-  "lon": 126.7301518
+  "id": 11637523976,
+  "lat": 36.6222054,
+  "lon": 126.7195910
 },
 {
   "type": "node",
-  "id": 1358912887,
-  "lat": 36.6240273,
-  "lon": 126.7306037
+  "id": 11637523977,
+  "lat": 36.6223265,
+  "lon": 126.7201442
 },
 {
   "type": "node",
-  "id": 1358912889,
-  "lat": 36.6240989,
-  "lon": 126.7308677
+  "id": 11637524056,
+  "lat": 36.6223218,
+  "lon": 126.7201228
 },
 {
   "type": "node",
-  "id": 1358912891,
-  "lat": 36.6242244,
-  "lon": 126.7312182
+  "id": 11637523970,
+  "lat": 36.6223690,
+  "lon": 126.7207820
 },
 {
   "type": "node",
-  "id": 1358912899,
-  "lat": 36.6244643,
-  "lon": 126.7318288
+  "id": 11637523971,
+  "lat": 36.6225001,
+  "lon": 126.7215213
 },
 {
   "type": "node",
-  "id": 1358912900,
-  "lat": 36.6247402,
-  "lon": 126.7323689
+  "id": 11637523972,
+  "lat": 36.6226185,
+  "lon": 126.7221748
 },
 {
   "type": "node",
-  "id": 5336502271,
-  "lat": 36.6239927,
-  "lon": 126.7304401
+  "id": 11637523973,
+  "lat": 36.6227272,
+  "lon": 126.7228523
 },
 {
   "type": "node",
-  "id": 6424545486,
-  "lat": 36.6245908,
-  "lon": 126.7321014
+  "id": 11637523974,
+  "lat": 36.6228232,
+  "lon": 126.7234799
 },
 {
   "type": "node",
-  "id": 10224998414,
-  "lat": 36.6240110,
-  "lon": 126.7305267
+  "id": 11637523978,
+  "lat": 36.6224368,
+  "lon": 126.7206942
 },
 {
   "type": "node",
-  "id": 1358912903,
-  "lat": 36.6250257,
-  "lon": 126.7328608
+  "id": 11637523979,
+  "lat": 36.6225248,
+  "lon": 126.7211783
 },
 {
   "type": "node",
-  "id": 1358912904,
-  "lat": 36.6252691,
-  "lon": 126.7332143
+  "id": 11637523980,
+  "lat": 36.6226543,
+  "lon": 126.7219096
 },
 {
   "type": "node",
-  "id": 1358912906,
-  "lat": 36.6256971,
-  "lon": 126.7337143
+  "id": 11637523981,
+  "lat": 36.6227247,
+  "lon": 126.7223519
+},
+{
+  "type": "node",
+  "id": 11637523983,
+  "lat": 36.6223456,
+  "lon": 126.7206582
+},
+{
+  "type": "node",
+  "id": 11637523985,
+  "lat": 36.6224041,
+  "lon": 126.7209801
+},
+{
+  "type": "node",
+  "id": 11637524057,
+  "lat": 36.6223944,
+  "lon": 126.7204824
+},
+{
+  "type": "node",
+  "id": 11637524061,
+  "lat": 36.6227119,
+  "lon": 126.7222714
+},
+{
+  "type": "node",
+  "id": 11637524062,
+  "lat": 36.6226363,
+  "lon": 126.7222860
+},
+{
+  "type": "node",
+  "id": 11637523975,
+  "lat": 36.6238546,
+  "lon": 126.7299766
+},
+{
+  "type": "node",
+  "id": 11637523982,
+  "lat": 36.6239179,
+  "lon": 126.7299358
+},
+{
+  "type": "node",
+  "id": 11637524259,
+  "lat": 36.6239654,
+  "lon": 126.7301943
+},
+{
+  "type": "node",
+  "id": 11637524260,
+  "lat": 36.6240379,
+  "lon": 126.7305136
+},
+{
+  "type": "node",
+  "id": 11637524261,
+  "lat": 36.6241096,
+  "lon": 126.7307791
+},
+{
+  "type": "node",
+  "id": 11637524262,
+  "lat": 36.6242078,
+  "lon": 126.7310904
+},
+{
+  "type": "node",
+  "id": 11637524263,
+  "lat": 36.6243015,
+  "lon": 126.7313707
+},
+{
+  "type": "node",
+  "id": 11637524264,
+  "lat": 36.6244200,
+  "lon": 126.7316477
+},
+{
+  "type": "node",
+  "id": 11637524265,
+  "lat": 36.6245422,
+  "lon": 126.7319063
+},
+{
+  "type": "node",
+  "id": 11637524266,
+  "lat": 36.6246928,
+  "lon": 126.7321879
+},
+{
+  "type": "node",
+  "id": 11637524269,
+  "lat": 36.6239089,
+  "lon": 126.7302601
+},
+{
+  "type": "node",
+  "id": 11637524270,
+  "lat": 36.6239677,
+  "lon": 126.7305107
+},
+{
+  "type": "node",
+  "id": 11637524271,
+  "lat": 36.6240439,
+  "lon": 126.7307727
+},
+{
+  "type": "node",
+  "id": 11637524272,
+  "lat": 36.6241183,
+  "lon": 126.7310257
+},
+{
+  "type": "node",
+  "id": 11637524273,
+  "lat": 36.6242129,
+  "lon": 126.7313095
+},
+{
+  "type": "node",
+  "id": 11637524274,
+  "lat": 36.6242882,
+  "lon": 126.7315075
+},
+{
+  "type": "node",
+  "id": 11637524275,
+  "lat": 36.6243847,
+  "lon": 126.7317386
+},
+{
+  "type": "node",
+  "id": 11637524276,
+  "lat": 36.6244682,
+  "lon": 126.7319297
+},
+{
+  "type": "node",
+  "id": 11637524277,
+  "lat": 36.6245711,
+  "lon": 126.7321460
+},
+{
+  "type": "node",
+  "id": 11637524278,
+  "lat": 36.6246896,
+  "lon": 126.7323703
+},
+{
+  "type": "node",
+  "id": 11637524285,
+  "lat": 36.6241677,
+  "lon": 126.7311738
+},
+{
+  "type": "node",
+  "id": 11637524286,
+  "lat": 36.6242196,
+  "lon": 126.7311255
+},
+{
+  "type": "node",
+  "id": 11637524290,
+  "lat": 36.6240276,
+  "lon": 126.7304682
+},
+{
+  "type": "node",
+  "id": 11637524267,
+  "lat": 36.6248462,
+  "lon": 126.7324522
+},
+{
+  "type": "node",
+  "id": 11637524268,
+  "lat": 36.6250152,
+  "lon": 126.7327280
+},
+{
+  "type": "node",
+  "id": 11637524279,
+  "lat": 36.6248329,
+  "lon": 126.7326175
+},
+{
+  "type": "node",
+  "id": 11637524280,
+  "lat": 36.6249366,
+  "lon": 126.7327880
+},
+{
+  "type": "node",
+  "id": 11637558776,
+  "lat": 36.6250810,
+  "lon": 126.7328311
+},
+{
+  "type": "node",
+  "id": 11637558780,
+  "lat": 36.6250729,
+  "lon": 126.7329948
+},
+{
+  "type": "node",
+  "id": 11637558781,
+  "lat": 36.6252470,
+  "lon": 126.7332404
+},
+{
+  "type": "node",
+  "id": 11637558782,
+  "lat": 36.6254379,
+  "lon": 126.7334821
+},
+{
+  "type": "node",
+  "id": 11637558784,
+  "lat": 36.6251668,
+  "lon": 126.7329654
+},
+{
+  "type": "node",
+  "id": 11637558785,
+  "lat": 36.6253357,
+  "lon": 126.7331954
+},
+{
+  "type": "node",
+  "id": 11637558786,
+  "lat": 36.6255673,
+  "lon": 126.7334865
+},
+{
+  "type": "node",
+  "id": 11637558794,
+  "lat": 36.6250084,
+  "lon": 126.7328991
+},
+{
+  "type": "node",
+  "id": 11637558795,
+  "lat": 36.6248440,
+  "lon": 126.7326357
+},
+{
+  "type": "node",
+  "id": 11637558811,
+  "lat": 36.6251674,
+  "lon": 126.7331282
 },
 {
   "type": "node",
   "id": 1358912911,
-  "lat": 36.6260631,
-  "lon": 126.7341652
+  "lat": 36.6261010,
+  "lon": 126.7341278
 },
 {
   "type": "node",
   "id": 1358912913,
-  "lat": 36.6263389,
-  "lon": 126.7344840
-},
-{
-  "type": "node",
-  "id": 1358912920,
-  "lat": 36.6272674,
-  "lon": 126.7355346
+  "lat": 36.6263716,
+  "lon": 126.7344323
 },
 {
   "type": "node",
@@ -154389,8 +155295,8 @@
 {
   "type": "node",
   "id": 1358912927,
-  "lat": 36.6273764,
-  "lon": 126.7355933
+  "lat": 36.6265983,
+  "lon": 126.7346916
 },
 {
   "type": "node",
@@ -154466,45 +155372,93 @@
 },
 {
   "type": "node",
-  "id": 1358912960,
-  "lat": 36.6306842,
-  "lon": 126.7394319
+  "id": 11637558778,
+  "lat": 36.6263352,
+  "lon": 126.7345197
 },
 {
   "type": "node",
-  "id": 1358912961,
-  "lat": 36.6309644,
-  "lon": 126.7397196
+  "id": 11637558779,
+  "lat": 36.6260594,
+  "lon": 126.7342009
 },
 {
   "type": "node",
-  "id": 1358912963,
-  "lat": 36.6312778,
-  "lon": 126.7400451
+  "id": 11637558783,
+  "lat": 36.6256799,
+  "lon": 126.7337629
 },
 {
   "type": "node",
-  "id": 2845711000,
-  "lat": 36.6267738,
-  "lon": 126.7349887
+  "id": 11637558787,
+  "lat": 36.6258374,
+  "lon": 126.7338270
 },
 {
   "type": "node",
-  "id": 2845713166,
-  "lat": 36.6264016,
-  "lon": 126.7345549
+  "id": 11637569791,
+  "lat": 36.6259962,
+  "lon": 126.7341280
 },
 {
   "type": "node",
-  "id": 5620443956,
-  "lat": 36.6311743,
-  "lon": 126.7399376
+  "id": 11637569792,
+  "lat": 36.6265169,
+  "lon": 126.7347236
 },
 {
   "type": "node",
-  "id": 1358912969,
-  "lat": 36.6316139,
-  "lon": 126.7403639
+  "id": 11637569793,
+  "lat": 36.6260192,
+  "lon": 126.7340345
+},
+{
+  "type": "node",
+  "id": 11637569794,
+  "lat": 36.6267675,
+  "lon": 126.7348843
+},
+{
+  "type": "node",
+  "id": 11637569795,
+  "lat": 36.6267287,
+  "lon": 126.7349680
+},
+{
+  "type": "node",
+  "id": 11637569824,
+  "lat": 36.6309951,
+  "lon": 126.7398165
+},
+{
+  "type": "node",
+  "id": 11637569828,
+  "lat": 36.6311979,
+  "lon": 126.7398843
+},
+{
+  "type": "node",
+  "id": 11637569829,
+  "lat": 36.6309160,
+  "lon": 126.7396101
+},
+{
+  "type": "node",
+  "id": 11637569830,
+  "lat": 36.6311638,
+  "lon": 126.7399843
+},
+{
+  "type": "node",
+  "id": 11637569831,
+  "lat": 36.6312113,
+  "lon": 126.7398982
+},
+{
+  "type": "node",
+  "id": 11637569825,
+  "lat": 36.6312523,
+  "lon": 126.7400722
 },
 {
   "type": "node",
@@ -154515,8 +155469,8 @@
 {
   "type": "node",
   "id": 1358912972,
-  "lat": 36.6316599,
-  "lon": 126.7403516
+  "lat": 36.6316636,
+  "lon": 126.7403439
 },
 {
   "type": "node",
@@ -154540,43 +155494,7 @@
   "type": "node",
   "id": 1358912986,
   "lat": 36.6329973,
-  "lon": 126.7413992
-},
-{
-  "type": "node",
-  "id": 1358912987,
-  "lat": 36.6330239,
-  "lon": 126.7414690
-},
-{
-  "type": "node",
-  "id": 1358912989,
-  "lat": 36.6333366,
-  "lon": 126.7416887
-},
-{
-  "type": "node",
-  "id": 1358912991,
-  "lat": 36.6336421,
-  "lon": 126.7418740
-},
-{
-  "type": "node",
-  "id": 1358913008,
-  "lat": 36.6338989,
-  "lon": 126.7420275
-},
-{
-  "type": "node",
-  "id": 1358913015,
-  "lat": 36.6341992,
-  "lon": 126.7421905
-},
-{
-  "type": "node",
-  "id": 1358913017,
-  "lat": 36.6345334,
-  "lon": 126.7423660
+  "lon": 126.7413912
 },
 {
   "type": "node",
@@ -154637,6 +155555,102 @@
   "id": 1358913074,
   "lat": 36.6379053,
   "lon": 126.7442574
+},
+{
+  "type": "node",
+  "id": 11637569826,
+  "lat": 36.6314612,
+  "lon": 126.7402802
+},
+{
+  "type": "node",
+  "id": 11637569827,
+  "lat": 36.6314575,
+  "lon": 126.7401523
+},
+{
+  "type": "node",
+  "id": 11637700028,
+  "lat": 36.6332367,
+  "lon": 126.7416663
+},
+{
+  "type": "node",
+  "id": 11637700029,
+  "lat": 36.6335136,
+  "lon": 126.7418358
+},
+{
+  "type": "node",
+  "id": 11637700030,
+  "lat": 36.6337720,
+  "lon": 126.7419960
+},
+{
+  "type": "node",
+  "id": 11637700031,
+  "lat": 36.6341713,
+  "lon": 126.7422225
+},
+{
+  "type": "node",
+  "id": 11637700032,
+  "lat": 36.6332015,
+  "lon": 126.7415326
+},
+{
+  "type": "node",
+  "id": 11637700033,
+  "lat": 36.6334383,
+  "lon": 126.7416895
+},
+{
+  "type": "node",
+  "id": 11637700034,
+  "lat": 36.6336611,
+  "lon": 126.7418250
+},
+{
+  "type": "node",
+  "id": 11637700035,
+  "lat": 36.6338946,
+  "lon": 126.7419631
+},
+{
+  "type": "node",
+  "id": 11637700036,
+  "lat": 36.6343046,
+  "lon": 126.7421924
+},
+{
+  "type": "node",
+  "id": 11637700040,
+  "lat": 36.6336333,
+  "lon": 126.7419100
+},
+{
+  "type": "node",
+  "id": 11637700041,
+  "lat": 36.6336346,
+  "lon": 126.7418089
+},
+{
+  "type": "node",
+  "id": 11637769425,
+  "lat": 36.6354445,
+  "lon": 126.7429222
+},
+{
+  "type": "node",
+  "id": 11637769428,
+  "lat": 36.6361982,
+  "lon": 126.7433616
+},
+{
+  "type": "node",
+  "id": 11637769429,
+  "lat": 36.6371495,
+  "lon": 126.7439163
 },
 {
   "type": "node",
@@ -154724,63 +155738,27 @@
 },
 {
   "type": "node",
-  "id": 1358913151,
-  "lat": 36.6417528,
-  "lon": 126.7470402
+  "id": 11637700017,
+  "lat": 36.6430237,
+  "lon": 126.7480802
 },
 {
   "type": "node",
-  "id": 1358913155,
-  "lat": 36.6424542,
-  "lon": 126.7475631
+  "id": 11637700018,
+  "lat": 36.6438756,
+  "lon": 126.7487562
 },
 {
   "type": "node",
-  "id": 1358913157,
-  "lat": 36.6429464,
-  "lon": 126.7479176
+  "id": 11637700023,
+  "lat": 36.6437094,
+  "lon": 126.7485061
 },
 {
   "type": "node",
-  "id": 1358913159,
-  "lat": 36.6432695,
-  "lon": 126.7481557
-},
-{
-  "type": "node",
-  "id": 1358913165,
-  "lat": 36.6435816,
-  "lon": 126.7484050
-},
-{
-  "type": "node",
-  "id": 1358913168,
-  "lat": 36.6440080,
-  "lon": 126.7487202
-},
-{
-  "type": "node",
-  "id": 1358913171,
-  "lat": 36.6444636,
-  "lon": 126.7491091
-},
-{
-  "type": "node",
-  "id": 1358913174,
-  "lat": 36.6449999,
-  "lon": 126.7495738
-},
-{
-  "type": "node",
-  "id": 1358913182,
-  "lat": 36.6453051,
-  "lon": 126.7498336
-},
-{
-  "type": "node",
-  "id": 1358913184,
-  "lat": 36.6455151,
-  "lon": 126.7501047
+  "id": 11637700024,
+  "lat": 36.6441385,
+  "lon": 126.7488400
 },
 {
   "type": "node",
@@ -154791,8 +155769,8 @@
 {
   "type": "node",
   "id": 1358913186,
-  "lat": 36.6455915,
-  "lon": 126.7501272
+  "lat": 36.6455952,
+  "lon": 126.7501155
 },
 {
   "type": "node",
@@ -154865,6 +155843,66 @@
   "id": 1358913217,
   "lat": 36.6474708,
   "lon": 126.7524097
+},
+{
+  "type": "node",
+  "id": 11637700019,
+  "lat": 36.6446934,
+  "lon": 126.7494180
+},
+{
+  "type": "node",
+  "id": 11637700020,
+  "lat": 36.6450504,
+  "lon": 126.7497387
+},
+{
+  "type": "node",
+  "id": 11637700021,
+  "lat": 36.6452577,
+  "lon": 126.7499263
+},
+{
+  "type": "node",
+  "id": 11637700022,
+  "lat": 36.6454029,
+  "lon": 126.7500626
+},
+{
+  "type": "node",
+  "id": 11637700025,
+  "lat": 36.6445469,
+  "lon": 126.7491598
+},
+{
+  "type": "node",
+  "id": 11637700026,
+  "lat": 36.6448542,
+  "lon": 126.7494120
+},
+{
+  "type": "node",
+  "id": 11637700027,
+  "lat": 36.6451745,
+  "lon": 126.7497039
+},
+{
+  "type": "node",
+  "id": 11637769421,
+  "lat": 36.6451302,
+  "lon": 126.7498109
+},
+{
+  "type": "node",
+  "id": 11637769422,
+  "lat": 36.6451839,
+  "lon": 126.7497130
+},
+{
+  "type": "node",
+  "id": 11637769424,
+  "lat": 36.6452376,
+  "lon": 126.7499081
 },
 {
   "type": "node",
@@ -154943,6 +155981,12 @@
   "id": 4062339203,
   "lat": 36.6503748,
   "lon": 126.7570912
+},
+{
+  "type": "node",
+  "id": 11637769450,
+  "lat": 36.6494189,
+  "lon": 126.7556869
 },
 {
   "type": "node",
@@ -156902,6 +157946,18 @@
 },
 {
   "type": "node",
+  "id": 11636218512,
+  "lat": 36.6787930,
+  "lon": 126.7925592
+},
+{
+  "type": "node",
+  "id": 11636218515,
+  "lat": 36.6792751,
+  "lon": 126.7937145
+},
+{
+  "type": "node",
   "id": 1358603203,
   "lat": 36.6815605,
   "lon": 126.7992633
@@ -157100,27 +158156,9 @@
 },
 {
   "type": "node",
-  "id": 1360054723,
-  "lat": 36.6816816,
-  "lon": 126.8262499
-},
-{
-  "type": "node",
-  "id": 1360054728,
-  "lat": 36.6821593,
-  "lon": 126.8263230
-},
-{
-  "type": "node",
   "id": 6448763101,
   "lat": 36.6832967,
   "lon": 126.8265661
-},
-{
-  "type": "node",
-  "id": 6480039362,
-  "lat": 36.6819222,
-  "lon": 126.8262711
 },
 {
   "type": "node",
@@ -157160,195 +158198,195 @@
 },
 {
   "type": "node",
+  "id": 11636218602,
+  "lat": 36.6838526,
+  "lon": 126.8266379
+},
+{
+  "type": "node",
   "id": 436473745,
-  "lat": 36.6939355,
-  "lon": 126.8281420
+  "lat": 36.6939265,
+  "lon": 126.8282738
 },
 {
   "type": "node",
   "id": 1362330363,
-  "lat": 36.6908678,
-  "lon": 126.8276649
+  "lat": 36.6908568,
+  "lon": 126.8277780
 },
 {
   "type": "node",
   "id": 1362330365,
-  "lat": 36.6917682,
-  "lon": 126.8278106
-},
-{
-  "type": "node",
-  "id": 1362330366,
-  "lat": 36.6925339,
-  "lon": 126.8279503
-},
-{
-  "type": "node",
-  "id": 1362330368,
-  "lat": 36.6935387,
-  "lon": 126.8281116
-},
-{
-  "type": "node",
-  "id": 1362330379,
-  "lat": 36.6947121,
-  "lon": 126.8282044
-},
-{
-  "type": "node",
-  "id": 1362330380,
-  "lat": 36.6944150,
-  "lon": 126.8281938
-},
-{
-  "type": "node",
-  "id": 1362330382,
-  "lat": 36.6953371,
-  "lon": 126.8282482
-},
-{
-  "type": "node",
-  "id": 1362330383,
-  "lat": 36.6956280,
-  "lon": 126.8282828
-},
-{
-  "type": "node",
-  "id": 7333775205,
-  "lat": 36.6921948,
-  "lon": 126.8278922
+  "lat": 36.6932787,
+  "lon": 126.8281814
 },
 {
   "type": "node",
   "id": 11017725180,
-  "lat": 36.6957966,
-  "lon": 126.8283149
+  "lat": 36.6956576,
+  "lon": 126.8284334
 },
 {
   "type": "node",
-  "id": 11017725181,
-  "lat": 36.6957501,
-  "lon": 126.8283057
+  "id": 11636218625,
+  "lat": 36.6937256,
+  "lon": 126.8282456
+},
+{
+  "type": "node",
+  "id": 11636218626,
+  "lat": 36.6941044,
+  "lon": 126.8282987
+},
+{
+  "type": "node",
+  "id": 11636218627,
+  "lat": 36.6945322,
+  "lon": 126.8283412
+},
+{
+  "type": "node",
+  "id": 11636218628,
+  "lat": 36.6951068,
+  "lon": 126.8283730
+},
+{
+  "type": "node",
+  "id": 11636218629,
+  "lat": 36.6953725,
+  "lon": 126.8283944
+},
+{
+  "type": "node",
+  "id": 11636218630,
+  "lat": 36.6961062,
+  "lon": 126.8285030
+},
+{
+  "type": "node",
+  "id": 11636218631,
+  "lat": 36.6965804,
+  "lon": 126.8285770
+},
+{
+  "type": "node",
+  "id": 11636218634,
+  "lat": 36.6919706,
+  "lon": 126.8279577
+},
+{
+  "type": "node",
+  "id": 11636218725,
+  "lat": 36.6935203,
+  "lon": 126.8282183
+},
+{
+  "type": "node",
+  "id": 11636218773,
+  "lat": 36.6943654,
+  "lon": 126.8283246
 },
 {
   "type": "node",
   "id": 436473736,
-  "lat": 36.6987238,
-  "lon": 126.8289318
+  "lat": 36.6987070,
+  "lon": 126.8290369
 },
 {
   "type": "node",
   "id": 1358914699,
-  "lat": 36.7016632,
-  "lon": 126.8296587
+  "lat": 36.7016534,
+  "lon": 126.8297310
 },
 {
   "type": "node",
   "id": 1358914727,
-  "lat": 36.7025702,
-  "lon": 126.8298535
+  "lat": 36.7025968,
+  "lon": 126.8299587
 },
 {
   "type": "node",
   "id": 1370755813,
-  "lat": 36.7006034,
-  "lon": 126.8294311
+  "lat": 36.7005990,
+  "lon": 126.8294975
 },
 {
   "type": "node",
-  "id": 11017725179,
-  "lat": 36.6974225,
-  "lon": 126.8286246
+  "id": 11636218632,
+  "lat": 36.6970529,
+  "lon": 126.8286717
+},
+{
+  "type": "node",
+  "id": 11636218633,
+  "lat": 36.6975660,
+  "lon": 126.8287849
+},
+{
+  "type": "node",
+  "id": 11636369868,
+  "lat": 36.6990415,
+  "lon": 126.8291064
 },
 {
   "type": "node",
   "id": 1362330405,
-  "lat": 36.7045337,
-  "lon": 126.8302839
+  "lat": 36.7045603,
+  "lon": 126.8303891
 },
 {
   "type": "node",
   "id": 1362330415,
-  "lat": 36.7065030,
-  "lon": 126.8307272
+  "lat": 36.7065296,
+  "lon": 126.8308324
 },
 {
   "type": "node",
   "id": 1362330431,
-  "lat": 36.7087007,
-  "lon": 126.8311297
+  "lat": 36.7086918,
+  "lon": 126.8312017
 },
 {
   "type": "node",
   "id": 1362330432,
-  "lat": 36.7087647,
-  "lon": 126.8311396
+  "lat": 36.7087691,
+  "lon": 126.8312060
 },
 {
   "type": "node",
   "id": 4658639931,
-  "lat": 36.7035110,
-  "lon": 126.8300555
+  "lat": 36.7035376,
+  "lon": 126.8301607
 },
 {
   "type": "node",
   "id": 10872885969,
-  "lat": 36.7069072,
-  "lon": 126.8308127
+  "lat": 36.7069111,
+  "lon": 126.8309308
 },
 {
   "type": "node",
   "id": 10872886046,
-  "lat": 36.7074416,
-  "lon": 126.8309065
+  "lat": 36.7074882,
+  "lon": 126.8310422
 },
 {
   "type": "node",
-  "id": 1362330449,
-  "lat": 36.7114653,
-  "lon": 126.8314298
+  "id": 11636548374,
+  "lat": 36.7078554,
+  "lon": 126.8310970
 },
 {
   "type": "node",
-  "id": 1362330455,
-  "lat": 36.7125206,
-  "lon": 126.8315618
-},
-{
-  "type": "node",
-  "id": 1362330469,
-  "lat": 36.7138290,
-  "lon": 126.8317208
+  "id": 11636548375,
+  "lat": 36.7096027,
+  "lon": 126.8313112
 },
 {
   "type": "node",
   "id": 4658715844,
-  "lat": 36.7102932,
-  "lon": 126.8313007
-},
-{
-  "type": "node",
-  "id": 8567224271,
-  "lat": 36.7111328,
-  "lon": 126.8313915
-},
-{
-  "type": "node",
-  "id": 10872886062,
-  "lat": 36.7105842,
-  "lon": 126.8313388
-},
-{
-  "type": "node",
-  "id": 1362330473,
-  "lat": 36.7158282,
-  "lon": 126.8319728
-},
-{
-  "type": "node",
-  "id": 10872714914,
-  "lat": 36.7149840,
-  "lon": 126.8318770
+  "lat": 36.7102954,
+  "lon": 126.8313865
 },
 {
   "type": "node",
@@ -162794,75 +163832,9 @@
 },
 {
   "type": "node",
-  "id": 1362330509,
-  "lat": 36.7208378,
-  "lon": 126.8315772
-},
-{
-  "type": "node",
-  "id": 1362330513,
-  "lat": 36.7212829,
-  "lon": 126.8314509
-},
-{
-  "type": "node",
-  "id": 1362330518,
-  "lat": 36.7218118,
-  "lon": 126.8313851
-},
-{
-  "type": "node",
-  "id": 1362330524,
-  "lat": 36.7223276,
-  "lon": 126.8314938
-},
-{
-  "type": "node",
-  "id": 1362330482,
-  "lat": 36.7166035,
-  "lon": 126.8320783
-},
-{
-  "type": "node",
-  "id": 1362330484,
-  "lat": 36.7172648,
-  "lon": 126.8321513
-},
-{
-  "type": "node",
-  "id": 1362330486,
-  "lat": 36.7185924,
-  "lon": 126.8323095
-},
-{
-  "type": "node",
-  "id": 1362330491,
-  "lat": 36.7190678,
-  "lon": 126.8322533
-},
-{
-  "type": "node",
-  "id": 10872883389,
-  "lat": 36.7189319,
-  "lon": 126.8322694
-},
-{
-  "type": "node",
-  "id": 10872885829,
-  "lat": 36.7169053,
-  "lon": 126.8321116
-},
-{
-  "type": "node",
-  "id": 1362330532,
-  "lat": 36.7232115,
-  "lon": 126.8319631
-},
-{
-  "type": "node",
   "id": 1362330542,
-  "lat": 36.7252231,
-  "lon": 126.8328166
+  "lat": 36.7252016,
+  "lon": 126.8328515
 },
 {
   "type": "node",
@@ -162885,8 +163857,8 @@
 {
   "type": "node",
   "id": 1362330564,
-  "lat": 36.7293595,
-  "lon": 126.8355197
+  "lat": 36.7293171,
+  "lon": 126.8355827
 },
 {
   "type": "node",
@@ -162908,63 +163880,75 @@
 },
 {
   "type": "node",
+  "id": 11636548372,
+  "lat": 36.7277853,
+  "lon": 126.8343296
+},
+{
+  "type": "node",
   "id": 436473714,
-  "lat": 36.7301158,
-  "lon": 126.8361614
+  "lat": 36.7300928,
+  "lon": 126.8362300
 },
 {
   "type": "node",
   "id": 1362330596,
-  "lat": 36.7308195,
-  "lon": 126.8367625
+  "lat": 36.7307917,
+  "lon": 126.8368434
 },
 {
   "type": "node",
   "id": 1362330599,
-  "lat": 36.7312626,
-  "lon": 126.8371617
+  "lat": 36.7310038,
+  "lon": 126.8370356
 },
 {
   "type": "node",
   "id": 1362330605,
-  "lat": 36.7315769,
-  "lon": 126.8375437
+  "lat": 36.7313837,
+  "lon": 126.8374331
 },
 {
   "type": "node",
   "id": 1362330607,
-  "lat": 36.7318988,
-  "lon": 126.8380121
+  "lat": 36.7318545,
+  "lon": 126.8380541
 },
 {
   "type": "node",
   "id": 1362330616,
-  "lat": 36.7322553,
-  "lon": 126.8386887
+  "lat": 36.7320479,
+  "lon": 126.8383724
+},
+{
+  "type": "node",
+  "id": 11636683950,
+  "lat": 36.7316288,
+  "lon": 126.8377307
 },
 {
   "type": "node",
   "id": 1362330628,
-  "lat": 36.7325354,
-  "lon": 126.8394132
+  "lat": 36.7325230,
+  "lon": 126.8394773
 },
 {
   "type": "node",
   "id": 1362330644,
-  "lat": 36.7327167,
-  "lon": 126.8401595
+  "lat": 36.7327114,
+  "lon": 126.8402126
 },
 {
   "type": "node",
   "id": 1362330646,
-  "lat": 36.7328001,
-  "lon": 126.8408695
+  "lat": 36.7328068,
+  "lon": 126.8408594
 },
 {
   "type": "node",
   "id": 1362330648,
-  "lat": 36.7328124,
-  "lon": 126.8418815
+  "lat": 36.7328191,
+  "lon": 126.8418832
 },
 {
   "type": "node",
@@ -162980,45 +163964,45 @@
 },
 {
   "type": "node",
-  "id": 1362330618,
-  "lat": 36.7322847,
-  "lon": 126.8511897
+  "id": 11636683951,
+  "lat": 36.7322578,
+  "lon": 126.8387743
+},
+{
+  "type": "node",
+  "id": 11636683952,
+  "lat": 36.7323774,
+  "lon": 126.8390496
+},
+{
+  "type": "node",
+  "id": 11636683953,
+  "lat": 36.7326198,
+  "lon": 126.8398184
+},
+{
+  "type": "node",
+  "id": 11636683954,
+  "lat": 36.7327664,
+  "lon": 126.8405300
+},
+{
+  "type": "node",
+  "id": 11636683955,
+  "lat": 36.7328282,
+  "lon": 126.8412283
+},
+{
+  "type": "node",
+  "id": 11636683956,
+  "lat": 36.7328337,
+  "lon": 126.8415566
 },
 {
   "type": "node",
   "id": 1362330622,
-  "lat": 36.7323653,
-  "lon": 126.8500098
-},
-{
-  "type": "node",
-  "id": 1362330623,
-  "lat": 36.7323632,
-  "lon": 126.8505801
-},
-{
-  "type": "node",
-  "id": 1362330624,
-  "lat": 36.7323687,
-  "lon": 126.8508974
-},
-{
-  "type": "node",
-  "id": 1362330627,
-  "lat": 36.7324083,
-  "lon": 126.8511158
-},
-{
-  "type": "node",
-  "id": 1362330630,
-  "lat": 36.7324714,
-  "lon": 126.8512752
-},
-{
-  "type": "node",
-  "id": 6112215022,
-  "lat": 36.7322820,
-  "lon": 126.8505611
+  "lat": 36.7322773,
+  "lon": 126.8513201
 },
 {
   "type": "node",
@@ -163034,27 +164018,21 @@
 },
 {
   "type": "node",
-  "id": 10872855583,
-  "lat": 36.7325792,
-  "lon": 126.8514754
+  "id": 11636683972,
+  "lat": 36.7323416,
+  "lon": 126.8502378
 },
 {
   "type": "node",
-  "id": 1362330635,
-  "lat": 36.7326056,
-  "lon": 126.8515245
-},
-{
-  "type": "node",
-  "id": 1362330641,
-  "lat": 36.7327268,
-  "lon": 126.8517065
+  "id": 11636683986,
+  "lat": 36.7323129,
+  "lon": 126.8507214
 },
 {
   "type": "node",
   "id": 1362330660,
-  "lat": 36.7338635,
-  "lon": 126.8531929
+  "lat": 36.7338298,
+  "lon": 126.8532792
 },
 {
   "type": "node",
@@ -163071,20 +164049,26 @@
 {
   "type": "node",
   "id": 9852112843,
-  "lat": 36.7333601,
-  "lon": 126.8525570
+  "lat": 36.7332520,
+  "lon": 126.8525592
 },
 {
   "type": "node",
   "id": 9852112870,
-  "lat": 36.7335214,
-  "lon": 126.8527581
+  "lat": 36.7334877,
+  "lon": 126.8528311
 },
 {
   "type": "node",
-  "id": 10872855499,
-  "lat": 36.7325672,
-  "lon": 126.8515199
+  "id": 11636683971,
+  "lat": 36.7325560,
+  "lon": 126.8516744
+},
+{
+  "type": "node",
+  "id": 11636683982,
+  "lat": 36.7328510,
+  "lon": 126.8520495
 },
 {
   "type": "node",
@@ -163155,8 +164139,8 @@
 {
   "type": "node",
   "id": 1362330680,
-  "lat": 36.7404654,
-  "lon": 126.8593248
+  "lat": 36.7404523,
+  "lon": 126.8593085
 },
 {
   "type": "node",
@@ -163634,6 +164618,18 @@
 },
 {
   "type": "node",
+  "id": 10253006880,
+  "lat": 36.8985561,
+  "lon": 126.7072087
+},
+{
+  "type": "node",
+  "id": 10253006881,
+  "lat": 36.8984821,
+  "lon": 126.7073934
+},
+{
+  "type": "node",
   "id": 3662457681,
   "lat": 36.9029889,
   "lon": 126.6818175
@@ -163649,6 +164645,990 @@
   "id": 10252712200,
   "lat": 36.9025662,
   "lon": 126.6830239
+},
+{
+  "type": "node",
+  "id": 3663959119,
+  "lat": 36.8858435,
+  "lon": 126.7402819
+},
+{
+  "type": "node",
+  "id": 10253145332,
+  "lat": 36.8849704,
+  "lon": 126.7456764
+},
+{
+  "type": "node",
+  "id": 10253145372,
+  "lat": 36.8848705,
+  "lon": 126.7459945
+},
+{
+  "type": "node",
+  "id": 10253145373,
+  "lat": 36.8848122,
+  "lon": 126.7461550
+},
+{
+  "type": "node",
+  "id": 10253145374,
+  "lat": 36.8847445,
+  "lon": 126.7463274
+},
+{
+  "type": "node",
+  "id": 10253145375,
+  "lat": 36.8846779,
+  "lon": 126.7464804
+},
+{
+  "type": "node",
+  "id": 10253145501,
+  "lat": 36.8861380,
+  "lon": 126.7403911
+},
+{
+  "type": "node",
+  "id": 11527405519,
+  "lat": 36.8848462,
+  "lon": 126.7460614
+},
+{
+  "type": "node",
+  "id": 10253145362,
+  "lat": 36.8840887,
+  "lon": 126.7504490
+},
+{
+  "type": "node",
+  "id": 10253145376,
+  "lat": 36.8845603,
+  "lon": 126.7466884
+},
+{
+  "type": "node",
+  "id": 10253145377,
+  "lat": 36.8844010,
+  "lon": 126.7469351
+},
+{
+  "type": "node",
+  "id": 10253145378,
+  "lat": 36.8838385,
+  "lon": 126.7477215
+},
+{
+  "type": "node",
+  "id": 10253145379,
+  "lat": 36.8841821,
+  "lon": 126.7472597
+},
+{
+  "type": "node",
+  "id": 10253145380,
+  "lat": 36.8835981,
+  "lon": 126.7479544
+},
+{
+  "type": "node",
+  "id": 10253145381,
+  "lat": 36.8834875,
+  "lon": 126.7480363
+},
+{
+  "type": "node",
+  "id": 10253145382,
+  "lat": 36.8833551,
+  "lon": 126.7481131
+},
+{
+  "type": "node",
+  "id": 10253145383,
+  "lat": 36.8832104,
+  "lon": 126.7481814
+},
+{
+  "type": "node",
+  "id": 10253145384,
+  "lat": 36.8830780,
+  "lon": 126.7482258
+},
+{
+  "type": "node",
+  "id": 10253145385,
+  "lat": 36.8829223,
+  "lon": 126.7482633
+},
+{
+  "type": "node",
+  "id": 10253145386,
+  "lat": 36.8827394,
+  "lon": 126.7482872
+},
+{
+  "type": "node",
+  "id": 10253145387,
+  "lat": 36.8822493,
+  "lon": 126.7483316
+},
+{
+  "type": "node",
+  "id": 10253145388,
+  "lat": 36.8820718,
+  "lon": 126.7483521
+},
+{
+  "type": "node",
+  "id": 10253145389,
+  "lat": 36.8818984,
+  "lon": 126.7483708
+},
+{
+  "type": "node",
+  "id": 10253145390,
+  "lat": 36.8816500,
+  "lon": 126.7484118
+},
+{
+  "type": "node",
+  "id": 10253145391,
+  "lat": 36.8813059,
+  "lon": 126.7484681
+},
+{
+  "type": "node",
+  "id": 10253145398,
+  "lat": 36.8816048,
+  "lon": 126.7485662
+},
+{
+  "type": "node",
+  "id": 10253145399,
+  "lat": 36.8826210,
+  "lon": 126.7487976
+},
+{
+  "type": "node",
+  "id": 10253145400,
+  "lat": 36.8828202,
+  "lon": 126.7488725
+},
+{
+  "type": "node",
+  "id": 10253145401,
+  "lat": 36.8829842,
+  "lon": 126.7489453
+},
+{
+  "type": "node",
+  "id": 10253145402,
+  "lat": 36.8831684,
+  "lon": 126.7490359
+},
+{
+  "type": "node",
+  "id": 10253145403,
+  "lat": 36.8833978,
+  "lon": 126.7491711
+},
+{
+  "type": "node",
+  "id": 10253145404,
+  "lat": 36.8835820,
+  "lon": 126.7492944
+},
+{
+  "type": "node",
+  "id": 10253145405,
+  "lat": 36.8837916,
+  "lon": 126.7494628
+},
+{
+  "type": "node",
+  "id": 10253145406,
+  "lat": 36.8840598,
+  "lon": 126.7497120
+},
+{
+  "type": "node",
+  "id": 10253145407,
+  "lat": 36.8844436,
+  "lon": 126.7501131
+},
+{
+  "type": "node",
+  "id": 10253145408,
+  "lat": 36.8846680,
+  "lon": 126.7503554
+},
+{
+  "type": "node",
+  "id": 10253145409,
+  "lat": 36.8847364,
+  "lon": 126.7504467
+},
+{
+  "type": "node",
+  "id": 10253145410,
+  "lat": 36.8847983,
+  "lon": 126.7505572
+},
+{
+  "type": "node",
+  "id": 10253145411,
+  "lat": 36.8848324,
+  "lon": 126.7506517
+},
+{
+  "type": "node",
+  "id": 10253145412,
+  "lat": 36.8848531,
+  "lon": 126.7507448
+},
+{
+  "type": "node",
+  "id": 10253145413,
+  "lat": 36.8848614,
+  "lon": 126.7508418
+},
+{
+  "type": "node",
+  "id": 10253145414,
+  "lat": 36.8848562,
+  "lon": 126.7509440
+},
+{
+  "type": "node",
+  "id": 10253145415,
+  "lat": 36.8848397,
+  "lon": 126.7510281
+},
+{
+  "type": "node",
+  "id": 10253145416,
+  "lat": 36.8848117,
+  "lon": 126.7511005
+},
+{
+  "type": "node",
+  "id": 10253145417,
+  "lat": 36.8847724,
+  "lon": 126.7511716
+},
+{
+  "type": "node",
+  "id": 10253145418,
+  "lat": 36.8847186,
+  "lon": 126.7512415
+},
+{
+  "type": "node",
+  "id": 10253145419,
+  "lat": 36.8846648,
+  "lon": 126.7512945
+},
+{
+  "type": "node",
+  "id": 10253145420,
+  "lat": 36.8846110,
+  "lon": 126.7513333
+},
+{
+  "type": "node",
+  "id": 10253145421,
+  "lat": 36.8845396,
+  "lon": 126.7513605
+},
+{
+  "type": "node",
+  "id": 10253145422,
+  "lat": 36.8844858,
+  "lon": 126.7513696
+},
+{
+  "type": "node",
+  "id": 10253145423,
+  "lat": 36.8844186,
+  "lon": 126.7513644
+},
+{
+  "type": "node",
+  "id": 10253145424,
+  "lat": 36.8843544,
+  "lon": 126.7513411
+},
+{
+  "type": "node",
+  "id": 10253145425,
+  "lat": 36.8842955,
+  "lon": 126.7512971
+},
+{
+  "type": "node",
+  "id": 10253145426,
+  "lat": 36.8842334,
+  "lon": 126.7512350
+},
+{
+  "type": "node",
+  "id": 10253145427,
+  "lat": 36.8841889,
+  "lon": 126.7511574
+},
+{
+  "type": "node",
+  "id": 10253145428,
+  "lat": 36.8841548,
+  "lon": 126.7510669
+},
+{
+  "type": "node",
+  "id": 10253145429,
+  "lat": 36.8841289,
+  "lon": 126.7509582
+},
+{
+  "type": "node",
+  "id": 10253145430,
+  "lat": 36.8841082,
+  "lon": 126.7508392
+},
+{
+  "type": "node",
+  "id": 10253145431,
+  "lat": 36.8840979,
+  "lon": 126.7506995
+},
+{
+  "type": "node",
+  "id": 10253145432,
+  "lat": 36.8840896,
+  "lon": 126.7505947
+},
+{
+  "type": "node",
+  "id": 10253145452,
+  "lat": 36.8838161,
+  "lon": 126.7494186
+},
+{
+  "type": "node",
+  "id": 10253145453,
+  "lat": 36.8836200,
+  "lon": 126.7492492
+},
+{
+  "type": "node",
+  "id": 10253145454,
+  "lat": 36.8834667,
+  "lon": 126.7491422
+},
+{
+  "type": "node",
+  "id": 10253145455,
+  "lat": 36.8832991,
+  "lon": 126.7490337
+},
+{
+  "type": "node",
+  "id": 10253145456,
+  "lat": 36.8831660,
+  "lon": 126.7489580
+},
+{
+  "type": "node",
+  "id": 10253145457,
+  "lat": 36.8829580,
+  "lon": 126.7488480
+},
+{
+  "type": "node",
+  "id": 10253145464,
+  "lat": 36.8822403,
+  "lon": 126.7486724
+},
+{
+  "type": "node",
+  "id": 10253145465,
+  "lat": 36.8819960,
+  "lon": 126.7486139
+},
+{
+  "type": "node",
+  "id": 10253145466,
+  "lat": 36.8817765,
+  "lon": 126.7485851
+},
+{
+  "type": "node",
+  "id": 10253145491,
+  "lat": 36.8827795,
+  "lon": 126.7487723
+},
+{
+  "type": "node",
+  "id": 10253145492,
+  "lat": 36.8827523,
+  "lon": 126.7488469
+},
+{
+  "type": "node",
+  "id": 436590362,
+  "lat": 36.8733168,
+  "lon": 126.8751242
+},
+{
+  "type": "node",
+  "id": 1725035640,
+  "lat": 36.8722568,
+  "lon": 126.8771988
+},
+{
+  "type": "node",
+  "id": 8606248396,
+  "lat": 36.8733976,
+  "lon": 126.8751506
+},
+{
+  "type": "node",
+  "id": 8606248397,
+  "lat": 36.8721235,
+  "lon": 126.8774670
+},
+{
+  "type": "node",
+  "id": 8606248405,
+  "lat": 36.8724917,
+  "lon": 126.8769048
+},
+{
+  "type": "node",
+  "id": 8606248406,
+  "lat": 36.8721096,
+  "lon": 126.8776658
+},
+{
+  "type": "node",
+  "id": 10249244239,
+  "lat": 36.8803702,
+  "lon": 126.8131518
+},
+{
+  "type": "node",
+  "id": 10249244240,
+  "lat": 36.8802984,
+  "lon": 126.8132852
+},
+{
+  "type": "node",
+  "id": 10249244241,
+  "lat": 36.8802537,
+  "lon": 126.8134163
+},
+{
+  "type": "node",
+  "id": 10249244242,
+  "lat": 36.8802163,
+  "lon": 126.8135609
+},
+{
+  "type": "node",
+  "id": 10249244243,
+  "lat": 36.8802013,
+  "lon": 126.8137054
+},
+{
+  "type": "node",
+  "id": 10249244244,
+  "lat": 36.8801958,
+  "lon": 126.8138538
+},
+{
+  "type": "node",
+  "id": 10249244245,
+  "lat": 36.8802103,
+  "lon": 126.8139865
+},
+{
+  "type": "node",
+  "id": 10249244246,
+  "lat": 36.8802398,
+  "lon": 126.8141275
+},
+{
+  "type": "node",
+  "id": 10249244247,
+  "lat": 36.8802977,
+  "lon": 126.8142972
+},
+{
+  "type": "node",
+  "id": 10249244248,
+  "lat": 36.8803570,
+  "lon": 126.8144137
+},
+{
+  "type": "node",
+  "id": 10249244302,
+  "lat": 36.8803320,
+  "lon": 126.8132146
+},
+{
+  "type": "node",
+  "id": 10249244303,
+  "lat": 36.8802734,
+  "lon": 126.8133519
+},
+{
+  "type": "node",
+  "id": 10249244304,
+  "lat": 36.8802336,
+  "lon": 126.8134886
+},
+{
+  "type": "node",
+  "id": 10249244305,
+  "lat": 36.8802074,
+  "lon": 126.8136331
+},
+{
+  "type": "node",
+  "id": 10249244306,
+  "lat": 36.8801957,
+  "lon": 126.8137792
+},
+{
+  "type": "node",
+  "id": 10249244307,
+  "lat": 36.8802013,
+  "lon": 126.8139251
+},
+{
+  "type": "node",
+  "id": 10249244308,
+  "lat": 36.8802229,
+  "lon": 126.8140581
+},
+{
+  "type": "node",
+  "id": 10249244309,
+  "lat": 36.8803505,
+  "lon": 126.8131798
+},
+{
+  "type": "node",
+  "id": 10249244310,
+  "lat": 36.8803143,
+  "lon": 126.8132483
+},
+{
+  "type": "node",
+  "id": 10249244312,
+  "lat": 36.8803894,
+  "lon": 126.8131270
+},
+{
+  "type": "node",
+  "id": 11591317653,
+  "lat": 36.8802687,
+  "lon": 126.8142196
+},
+{
+  "type": "node",
+  "id": 11591317657,
+  "lat": 36.8803264,
+  "lon": 126.8143560
+},
+{
+  "type": "node",
+  "id": 11591317658,
+  "lat": 36.8803966,
+  "lon": 126.8144763
+},
+{
+  "type": "node",
+  "id": 436593182,
+  "lat": 36.8816907,
+  "lon": 126.8161258
+},
+{
+  "type": "node",
+  "id": 436593185,
+  "lat": 36.8819250,
+  "lon": 126.8166263
+},
+{
+  "type": "node",
+  "id": 436593199,
+  "lat": 36.8828305,
+  "lon": 126.8122498
+},
+{
+  "type": "node",
+  "id": 7353528308,
+  "lat": 36.8816601,
+  "lon": 126.8151145
+},
+{
+  "type": "node",
+  "id": 8025224191,
+  "lat": 36.8816179,
+  "lon": 126.8145265
+},
+{
+  "type": "node",
+  "id": 10249244166,
+  "lat": 36.8816202,
+  "lon": 126.8142988
+},
+{
+  "type": "node",
+  "id": 10249244167,
+  "lat": 36.8816238,
+  "lon": 126.8140885
+},
+{
+  "type": "node",
+  "id": 10249244168,
+  "lat": 36.8816468,
+  "lon": 126.8138936
+},
+{
+  "type": "node",
+  "id": 10249244169,
+  "lat": 36.8816981,
+  "lon": 126.8136833
+},
+{
+  "type": "node",
+  "id": 10249244170,
+  "lat": 36.8817637,
+  "lon": 126.8134907
+},
+{
+  "type": "node",
+  "id": 10249244171,
+  "lat": 36.8818398,
+  "lon": 126.8133047
+},
+{
+  "type": "node",
+  "id": 10249244172,
+  "lat": 36.8819390,
+  "lon": 126.8131365
+},
+{
+  "type": "node",
+  "id": 10249244173,
+  "lat": 36.8820541,
+  "lon": 126.8129594
+},
+{
+  "type": "node",
+  "id": 10249244174,
+  "lat": 36.8821727,
+  "lon": 126.8128221
+},
+{
+  "type": "node",
+  "id": 10249244175,
+  "lat": 36.8823268,
+  "lon": 126.8126760
+},
+{
+  "type": "node",
+  "id": 10249244176,
+  "lat": 36.8824915,
+  "lon": 126.8125520
+},
+{
+  "type": "node",
+  "id": 10249244177,
+  "lat": 36.8826208,
+  "lon": 126.8124568
+},
+{
+  "type": "node",
+  "id": 10249244178,
+  "lat": 36.8827253,
+  "lon": 126.8123904
+},
+{
+  "type": "node",
+  "id": 10249244179,
+  "lat": 36.8828315,
+  "lon": 126.8123395
+},
+{
+  "type": "node",
+  "id": 10249244180,
+  "lat": 36.8829307,
+  "lon": 126.8123085
+},
+{
+  "type": "node",
+  "id": 10249244234,
+  "lat": 36.8808707,
+  "lon": 126.8127876
+},
+{
+  "type": "node",
+  "id": 10249244235,
+  "lat": 36.8807578,
+  "lon": 126.8128299
+},
+{
+  "type": "node",
+  "id": 10249244236,
+  "lat": 36.8806538,
+  "lon": 126.8128844
+},
+{
+  "type": "node",
+  "id": 10249244237,
+  "lat": 36.8805589,
+  "lon": 126.8129503
+},
+{
+  "type": "node",
+  "id": 10249244238,
+  "lat": 36.8804526,
+  "lon": 126.8130540
+},
+{
+  "type": "node",
+  "id": 10249244249,
+  "lat": 36.8804352,
+  "lon": 126.8145289
+},
+{
+  "type": "node",
+  "id": 10249244250,
+  "lat": 36.8811848,
+  "lon": 126.8153918
+},
+{
+  "type": "node",
+  "id": 10249244251,
+  "lat": 36.8816139,
+  "lon": 126.8159764
+},
+{
+  "type": "node",
+  "id": 10249244252,
+  "lat": 36.8815146,
+  "lon": 126.8158114
+},
+{
+  "type": "node",
+  "id": 10249244253,
+  "lat": 36.8814071,
+  "lon": 126.8156711
+},
+{
+  "type": "node",
+  "id": 10249244254,
+  "lat": 36.8812961,
+  "lon": 126.8155251
+},
+{
+  "type": "node",
+  "id": 10249244255,
+  "lat": 36.8812532,
+  "lon": 126.8154736
+},
+{
+  "type": "node",
+  "id": 10249244256,
+  "lat": 36.8804907,
+  "lon": 126.8145952
+},
+{
+  "type": "node",
+  "id": 10249244311,
+  "lat": 36.8804079,
+  "lon": 126.8131056
+},
+{
+  "type": "node",
+  "id": 10249244313,
+  "lat": 36.8804302,
+  "lon": 126.8130798
+},
+{
+  "type": "node",
+  "id": 10249244314,
+  "lat": 36.8805037,
+  "lon": 126.8129984
+},
+{
+  "type": "node",
+  "id": 10249244315,
+  "lat": 36.8807085,
+  "lon": 126.8128526
+},
+{
+  "type": "node",
+  "id": 10249244316,
+  "lat": 36.8806133,
+  "lon": 126.8129114
+},
+{
+  "type": "node",
+  "id": 10249244317,
+  "lat": 36.8808142,
+  "lon": 126.8128071
+},
+{
+  "type": "node",
+  "id": 10249244335,
+  "lat": 36.8816270,
+  "lon": 126.8147677
+},
+{
+  "type": "node",
+  "id": 7353528322,
+  "lat": 36.8866504,
+  "lon": 126.8345764
+},
+{
+  "type": "node",
+  "id": 8427372439,
+  "lat": 36.8875911,
+  "lon": 126.8312300
+},
+{
+  "type": "node",
+  "id": 10253420204,
+  "lat": 36.8873811,
+  "lon": 126.8316145
+},
+{
+  "type": "node",
+  "id": 10253420205,
+  "lat": 36.8874100,
+  "lon": 126.8315259
+},
+{
+  "type": "node",
+  "id": 10253420206,
+  "lat": 36.8874401,
+  "lon": 126.8314522
+},
+{
+  "type": "node",
+  "id": 10253420207,
+  "lat": 36.8874765,
+  "lon": 126.8313811
+},
+{
+  "type": "node",
+  "id": 10253420208,
+  "lat": 36.8875119,
+  "lon": 126.8313221
+},
+{
+  "type": "node",
+  "id": 10253420209,
+  "lat": 36.8875527,
+  "lon": 126.8312752
+},
+{
+  "type": "node",
+  "id": 7353528332,
+  "lat": 36.8797356,
+  "lon": 126.8621773
+},
+{
+  "type": "node",
+  "id": 7353528333,
+  "lat": 36.8793421,
+  "lon": 126.8633868
+},
+{
+  "type": "node",
+  "id": 7353528334,
+  "lat": 36.8788647,
+  "lon": 126.8645314
+},
+{
+  "type": "node",
+  "id": 10709028739,
+  "lat": 36.8795421,
+  "lon": 126.8628320
+},
+{
+  "type": "node",
+  "id": 10820593491,
+  "lat": 36.8795362,
+  "lon": 126.8628485
+},
+{
+  "type": "node",
+  "id": 436590358,
+  "lat": 36.8766154,
+  "lon": 126.8687091
+},
+{
+  "type": "node",
+  "id": 436590360,
+  "lat": 36.8764422,
+  "lon": 126.8690504
+},
+{
+  "type": "node",
+  "id": 436596468,
+  "lat": 36.8781626,
+  "lon": 126.8658991
+},
+{
+  "type": "node",
+  "id": 1725035691,
+  "lat": 36.8754680,
+  "lon": 126.8709542
+},
+{
+  "type": "node",
+  "id": 8606248390,
+  "lat": 36.8766844,
+  "lon": 126.8687660
+},
+{
+  "type": "node",
+  "id": 8606248391,
+  "lat": 36.8774233,
+  "lon": 126.8673465
+},
+{
+  "type": "node",
+  "id": 8606248393,
+  "lat": 36.8765198,
+  "lon": 126.8690973
+},
+{
+  "type": "node",
+  "id": 436590361,
+  "lat": 36.8740795,
+  "lon": 126.8736756
+},
+{
+  "type": "node",
+  "id": 1725035668,
+  "lat": 36.8739060,
+  "lon": 126.8740158
+},
+{
+  "type": "node",
+  "id": 8606248394,
+  "lat": 36.8741331,
+  "lon": 126.8737303
+},
+{
+  "type": "node",
+  "id": 8606248395,
+  "lat": 36.8739667,
+  "lon": 126.8740591
 },
 {
   "type": "node",
@@ -163803,8 +165783,8 @@
 {
   "type": "node",
   "id": 1362330867,
-  "lat": 36.7498568,
-  "lon": 126.8880322
+  "lat": 36.7498207,
+  "lon": 126.8880251
 },
 {
   "type": "node",
@@ -163857,8 +165837,8 @@
 {
   "type": "node",
   "id": 5617920891,
-  "lat": 36.7499816,
-  "lon": 126.8883103
+  "lat": 36.7499227,
+  "lon": 126.8882890
 },
 {
   "type": "node",
@@ -166640,6 +168620,270 @@
 },
 {
   "type": "node",
+  "id": 436590363,
+  "lat": 36.8715375,
+  "lon": 126.8790106
+},
+{
+  "type": "node",
+  "id": 436590364,
+  "lat": 36.8713488,
+  "lon": 126.8798473
+},
+{
+  "type": "node",
+  "id": 436590365,
+  "lat": 36.8711927,
+  "lon": 126.8815862
+},
+{
+  "type": "node",
+  "id": 436590366,
+  "lat": 36.8711981,
+  "lon": 126.8820412
+},
+{
+  "type": "node",
+  "id": 436590367,
+  "lat": 36.8713723,
+  "lon": 126.8834587
+},
+{
+  "type": "node",
+  "id": 436590370,
+  "lat": 36.8715429,
+  "lon": 126.8810997
+},
+{
+  "type": "node",
+  "id": 436590371,
+  "lat": 36.8715855,
+  "lon": 126.8796694
+},
+{
+  "type": "node",
+  "id": 436590372,
+  "lat": 36.8718974,
+  "lon": 126.8779384
+},
+{
+  "type": "node",
+  "id": 436590373,
+  "lat": 36.8709857,
+  "lon": 126.8805135
+},
+{
+  "type": "node",
+  "id": 436590374,
+  "lat": 36.8708551,
+  "lon": 126.8812475
+},
+{
+  "type": "node",
+  "id": 437070160,
+  "lat": 36.8708439,
+  "lon": 126.8817732
+},
+{
+  "type": "node",
+  "id": 681158379,
+  "lat": 36.8715824,
+  "lon": 126.8818821
+},
+{
+  "type": "node",
+  "id": 1725035604,
+  "lat": 36.8708641,
+  "lon": 126.8810817
+},
+{
+  "type": "node",
+  "id": 1725035605,
+  "lat": 36.8709029,
+  "lon": 126.8808748
+},
+{
+  "type": "node",
+  "id": 1725035609,
+  "lat": 36.8711864,
+  "lon": 126.8798579
+},
+{
+  "type": "node",
+  "id": 1725035610,
+  "lat": 36.8712037,
+  "lon": 126.8809571
+},
+{
+  "type": "node",
+  "id": 1725035612,
+  "lat": 36.8712338,
+  "lon": 126.8824942
+},
+{
+  "type": "node",
+  "id": 1725035613,
+  "lat": 36.8712739,
+  "lon": 126.8803272
+},
+{
+  "type": "node",
+  "id": 1725035614,
+  "lat": 36.8714532,
+  "lon": 126.8789632
+},
+{
+  "type": "node",
+  "id": 1725035615,
+  "lat": 36.8714305,
+  "lon": 126.8794485
+},
+{
+  "type": "node",
+  "id": 1725035617,
+  "lat": 36.8715283,
+  "lon": 126.8804978
+},
+{
+  "type": "node",
+  "id": 1725035618,
+  "lat": 36.8715523,
+  "lon": 126.8800782
+},
+{
+  "type": "node",
+  "id": 1725035619,
+  "lat": 36.8715503,
+  "lon": 126.8813905
+},
+{
+  "type": "node",
+  "id": 1725035620,
+  "lat": 36.8715969,
+  "lon": 126.8785788
+},
+{
+  "type": "node",
+  "id": 1725035624,
+  "lat": 36.8716407,
+  "lon": 126.8793363
+},
+{
+  "type": "node",
+  "id": 1725035626,
+  "lat": 36.8716653,
+  "lon": 126.8785834
+},
+{
+  "type": "node",
+  "id": 1725035629,
+  "lat": 36.8717289,
+  "lon": 126.8789415
+},
+{
+  "type": "node",
+  "id": 1725035630,
+  "lat": 36.8717903,
+  "lon": 126.8781159
+},
+{
+  "type": "node",
+  "id": 1725035631,
+  "lat": 36.8718109,
+  "lon": 126.8781698
+},
+{
+  "type": "node",
+  "id": 1725035633,
+  "lat": 36.8718237,
+  "lon": 126.8785761
+},
+{
+  "type": "node",
+  "id": 8606248398,
+  "lat": 36.8719470,
+  "lon": 126.8781627
+},
+{
+  "type": "node",
+  "id": 8606248400,
+  "lat": 36.8713071,
+  "lon": 126.8830757
+},
+{
+  "type": "node",
+  "id": 8606248401,
+  "lat": 36.8715050,
+  "lon": 126.8841273
+},
+{
+  "type": "node",
+  "id": 8606248404,
+  "lat": 36.8711971,
+  "lon": 126.8819607
+},
+{
+  "type": "node",
+  "id": 8606248407,
+  "lat": 36.8718927,
+  "lon": 126.8781680
+},
+{
+  "type": "node",
+  "id": 8606248408,
+  "lat": 36.8716832,
+  "lon": 126.8787842
+},
+{
+  "type": "node",
+  "id": 8606248409,
+  "lat": 36.8720044,
+  "lon": 126.8779095
+},
+{
+  "type": "node",
+  "id": 8606248410,
+  "lat": 36.8715466,
+  "lon": 126.8792619
+},
+{
+  "type": "node",
+  "id": 8606248411,
+  "lat": 36.8714620,
+  "lon": 126.8796644
+},
+{
+  "type": "node",
+  "id": 8606248412,
+  "lat": 36.8713661,
+  "lon": 126.8801746
+},
+{
+  "type": "node",
+  "id": 8606248413,
+  "lat": 36.8713157,
+  "lon": 126.8806259
+},
+{
+  "type": "node",
+  "id": 8606248414,
+  "lat": 36.8712831,
+  "lon": 126.8811076
+},
+{
+  "type": "node",
+  "id": 8606248415,
+  "lat": 36.8712701,
+  "lon": 126.8815975
+},
+{
+  "type": "node",
+  "id": 8606248416,
+  "lat": 36.8712766,
+  "lon": 126.8820406
+},
+{
+  "type": "node",
   "id": 436590368,
   "lat": 36.8720534,
   "lon": 126.8864975
@@ -166649,6 +168893,12 @@
   "id": 436590377,
   "lat": 36.8729536,
   "lon": 126.8896571
+},
+{
+  "type": "node",
+  "id": 1725035628,
+  "lat": 36.8716545,
+  "lon": 126.8847815
 },
 {
   "type": "node",
@@ -166857,14 +169107,14 @@
 {
   "type": "node",
   "id": 8607030421,
-  "lat": 36.8777777,
-  "lon": 126.8992182
+  "lat": 36.8777841,
+  "lon": 126.8992611
 },
 {
   "type": "node",
   "id": 8607030422,
   "lat": 36.8777142,
-  "lon": 126.8992472
+  "lon": 126.8992740
 },
 {
   "type": "node",
