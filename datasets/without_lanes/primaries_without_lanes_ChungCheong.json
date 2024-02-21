@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2024-02-20T18:45:28Z",
-    "timestamp_areas_base": "2024-02-20T14:35:36Z",
+    "timestamp_osm_base": "2024-02-21T18:45:08Z",
+    "timestamp_areas_base": "2024-02-21T15:02:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -49,11 +49,9 @@
   "type": "way",
   "id": 28209201,
   "nodes": [
-    4213320487,
     309836390,
-    322725196,
     4838045473,
-    643037460,
+    643037458,
     983313940,
     310335353
   ],
@@ -9696,53 +9694,6 @@
 },
 {
   "type": "way",
-  "id": 121783788,
-  "nodes": [
-    1362330415,
-    10872885969,
-    10872886046,
-    11636548374,
-    1362330431,
-    1362330432,
-    11636548375,
-    4658715844
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "no",
-    "ref": "21;32;45",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 121783789,
-  "nodes": [
-    1362330662,
-    1362330660,
-    9852112870,
-    9852112843,
-    11636683982,
-    11636683971,
-    1362330622
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "no",
-    "ref": "21;32;45",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
   "id": 121783792,
   "nodes": [
     1362330724,
@@ -9758,9 +9709,11 @@
     1362330687,
     1362330685,
     1362330683,
-    1362330681
+    11648484275
   ],
   "tags": {
+    "destination": "당진;홍성;예산",
+    "destination:lang:en": "Dangjin;Hongseong;Yesan",
     "highway": "primary",
     "name": "온천대로",
     "name:en": "Oncheon-daero",
@@ -9775,7 +9728,7 @@
   "type": "way",
   "id": 121783793,
   "nodes": [
-    1362330681,
+    11648484270,
     1362330682,
     1362330684,
     1362330686,
@@ -9792,52 +9745,14 @@
     1362330740
   ],
   "tags": {
+    "destination": "평택;천안;아산",
+    "destination:lang:en": "Pyeongtaek;Cheonan;Asan",
     "highway": "primary",
     "name": "온천대로",
     "name:en": "Oncheon-daero",
     "name:ko": "온천대로",
     "oneway": "yes",
     "ref": "21;45",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 121783794,
-  "nodes": [
-    436473714,
-    1362330596,
-    1362330599,
-    1362330605,
-    11636683950,
-    1362330607,
-    1362330616,
-    11636683951,
-    11636683952,
-    1362330628,
-    11636683953,
-    1362330644,
-    11636683954,
-    1362330646,
-    11636683955,
-    11636683956,
-    1362330648,
-    11020993321,
-    8509115631,
-    10872855485,
-    10872855482,
-    11636683972,
-    11636683986,
-    1362330622
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "no",
-    "ref": "21;32;45",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -9870,25 +9785,6 @@
 },
 {
   "type": "way",
-  "id": 121783798,
-  "nodes": [
-    1368842582,
-    1362330542,
-    1362330546
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "no",
-    "ref": "21;32;45",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
   "id": 121783800,
   "nodes": [
     1362330668,
@@ -9897,12 +9793,14 @@
   "tags": {
     "bridge": "yes",
     "bridge:structure": "beam",
+    "destination": "홍성;서산;예산",
+    "destination:lang:en": "Hongseong;Seosan;Yesan",
     "highway": "primary",
     "layer": "1",
     "name": "임성교",
     "name:ko": "임성교",
     "oneway": "yes",
-    "ref": "21;32;45;70",
+    "ref": "21;32;45",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -9954,39 +9852,21 @@
 },
 {
   "type": "way",
-  "id": 121783809,
-  "nodes": [
-    1362330666,
-    10872855387,
-    10872855471,
-    1362330664
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "no",
-    "ref": "21;32;45",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
   "id": 121783811,
   "nodes": [
-    1362330664,
-    1362330662
+    1362330662,
+    1362330664
   ],
   "tags": {
     "bridge": "yes",
     "bridge:structure": "beam",
+    "destination": "천안;아산;당진",
+    "destination:lang:en": "Cheonan;Asan;Dangjin",
     "highway": "primary",
     "layer": "1",
     "name": "창소육교",
     "name:ko": "창소육교",
-    "oneway": "no",
+    "oneway": "yes",
     "ref": "21;32;45",
     "review": "no",
     "source": "Bing (adjusted)"
@@ -10078,35 +9958,23 @@
 },
 {
   "type": "way",
-  "id": 121783820,
-  "nodes": [
-    4658639931,
-    1362330405
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "ref": "21;32;70",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
   "id": 121783823,
   "nodes": [
     1362330546,
+    11648073237,
+    11648073236,
+    11648073235,
     1362330548
   ],
   "tags": {
     "bridge": "yes",
+    "destination": "천안;아산;당진",
+    "destination:lang:en": "Cheonan;Asan;Dangjin",
     "highway": "primary",
     "layer": "1",
     "name": "신례원1교",
     "name:ko": "신례원1교",
-    "oneway": "no",
+    "oneway": "yes",
     "ref": "21;32;45",
     "review": "no",
     "source": "Bing (adjusted)"
@@ -10259,29 +10127,6 @@
 },
 {
   "type": "way",
-  "id": 121783848,
-  "nodes": [
-    1362330548,
-    1368842771,
-    8509115626,
-    1362330555,
-    11636548372,
-    1362330564,
-    436473714
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "no",
-    "ref": "21;32;45",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
   "id": 121783854,
   "nodes": [
     1362330842,
@@ -10352,25 +10197,6 @@
     "name:ko": "온천대로",
     "oneway": "no",
     "ref": "21;45;645",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 121783858,
-  "nodes": [
-    4658639931,
-    1358914727,
-    1358914699
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "no",
-    "ref": "21;32",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -10475,25 +10301,6 @@
     "name:ko": "온천대로",
     "oneway": "yes",
     "ref": "21;45",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 121783871,
-  "nodes": [
-    1326552012,
-    1362330678,
-    8123702417
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "no",
-    "ref": "21;32;45;70",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -18699,7 +18506,7 @@
   "id": 421581513,
   "nodes": [
     4213320486,
-    4213320487
+    309836390
   ],
   "tags": {
     "highway": "primary",
@@ -18716,7 +18523,7 @@
   "id": 421581514,
   "nodes": [
     278184473,
-    322725270,
+    11649056731,
     4213320486
   ],
   "tags": {
@@ -34005,24 +33812,6 @@
 },
 {
   "type": "way",
-  "id": 651857800,
-  "nodes": [
-    1362330680,
-    8123702402
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "no",
-    "ref": "21;45",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
   "id": 652930472,
   "nodes": [
     436670530,
@@ -36174,24 +35963,6 @@
     "noname": "yes",
     "oneway": "yes",
     "ref": "4"
-  }
-},
-{
-  "type": "way",
-  "id": 680001795,
-  "nodes": [
-    1362330681,
-    1362330680
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "온천대로",
-    "name:en": "Oncheon-daero",
-    "name:ko": "온천대로",
-    "oneway": "no",
-    "ref": "21;45",
-    "review": "no",
-    "source": "Bing (adjusted)"
   }
 },
 {
@@ -40382,43 +40153,6 @@
     "oneway": "yes",
     "review": "no",
     "source": "Mapbox Satellite (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 772692894,
-  "nodes": [
-    1362330405,
-    1362330415
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "no",
-    "ref": "21;32",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 772692895,
-  "nodes": [
-    1358914699,
-    1370755813,
-    11641067953
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "no",
-    "ref": "21;32;70",
-    "review": "no",
-    "source": "Bing (adjusted)"
   }
 },
 {
@@ -46553,64 +46287,6 @@
 },
 {
   "type": "way",
-  "id": 872202194,
-  "nodes": [
-    1362330679,
-    1326552012
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "no",
-    "ref": "21;45",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 872202195,
-  "nodes": [
-    8123702402,
-    1362330679
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "no",
-    "ref": "21;45",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 872202197,
-  "nodes": [
-    8123702417,
-    1362330677,
-    1362330676,
-    8509115693,
-    10872855385,
-    1362330668
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
-    "oneway": "no",
-    "ref": "21;32;45;70",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
   "id": 879128738,
   "nodes": [
     436443026,
@@ -48713,9 +48389,9 @@
   "id": 966428895,
   "nodes": [
     310335353,
+    11649134411,
     8941171049,
     8941171050,
-    8998251281,
     8941171051
   ],
   "tags": {
@@ -60766,72 +60442,298 @@
 },
 {
   "type": "way",
-  "id": 1252380077,
+  "id": 1253161074,
   "nodes": [
-    11641067978,
-    11641067952
+    11648073234,
+    11648073239,
+    11648073240,
+    11648073233
   ],
   "tags": {
+    "bridge": "yes",
+    "destination": "홍성;서산;예산",
+    "destination:lang:en": "Hongseong;Seosan;Yesan",
     "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
+    "layer": "1",
+    "name": "신례원1교",
+    "name:ko": "신례원1교",
     "oneway": "yes",
-    "ref": "21;32;70",
+    "ref": "21;32;45",
     "review": "no",
     "source": "Bing (adjusted)"
   }
 },
 {
   "type": "way",
-  "id": 1252380078,
+  "id": 1253161122,
   "nodes": [
-    11641067954,
-    11636369868
+    11648355780,
+    11648355800
   ],
   "tags": {
+    "destination": "신례원역;신례원리",
+    "destination:lang:en": "Sillyewon*ri;Sillyewon Station",
     "highway": "primary",
-    "name": "충서로",
-    "name:en": "Chungseo-ro",
-    "name:ko": "충서로",
+    "name": "신례원로",
+    "name:en": "Sillyewon-ro",
+    "name:ko": "신례원로",
     "oneway": "yes",
-    "ref": "21;32;70",
     "review": "no",
     "source": "Bing (adjusted)"
   }
 },
 {
   "type": "way",
-  "id": 1252380090,
+  "id": 1253178806,
   "nodes": [
-    11641067952,
-    11641067953
+    1362330664,
+    11648448047,
+    11648448052,
+    11648448049,
+    11648448051
   ],
   "tags": {
+    "destination": "천안;아산;당진",
+    "destination:lang:en": "Cheonan;Asan;Dangjin",
     "highway": "primary",
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21;32;70",
+    "ref": "21;32;45",
     "review": "no",
     "source": "Bing (adjusted)"
   }
 },
 {
   "type": "way",
-  "id": 1252380091,
+  "id": 1253178807,
   "nodes": [
-    11641067953,
-    11641067954
+    11648448048,
+    11648355781
   ],
   "tags": {
+    "bridge": "yes",
+    "bridge:structure": "beam",
+    "destination": "홍성;서산;예산",
+    "destination:lang:en": "Hongseong;Seosan;Yesan",
+    "highway": "primary",
+    "layer": "1",
+    "name": "창소육교",
+    "name:ko": "창소육교",
+    "oneway": "yes",
+    "ref": "21;32;45",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1253178808,
+  "nodes": [
+    1362330666,
+    10872855472,
+    11648448048
+  ],
+  "tags": {
+    "destination": "홍성;서산;예산",
+    "destination:lang:en": "Hongseong;Seosan;Yesan",
     "highway": "primary",
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21;32;70",
+    "ref": "21;32;45",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1253178809,
+  "nodes": [
+    11648448051,
+    11648448050
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:structure": "beam",
+    "destination": "천안;아산;당진",
+    "destination:lang:en": "Cheonan;Asan;Dangjin",
+    "highway": "primary",
+    "layer": "1",
+    "name": "임성교",
+    "name:ko": "임성교",
+    "oneway": "yes",
+    "ref": "21;32;45;70",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1253178810,
+  "nodes": [
+    11648484297,
+    11648484296
+  ],
+  "tags": {
+    "destination": "홍성;서산;예산수덕사IC",
+    "destination:lang:en": "Hongseong;Seosan;Yesan-Sudeoksa IC",
+    "highway": "primary",
+    "name": "충서로",
+    "name:en": "Chungseo-ro",
+    "name:ko": "충서로",
+    "oneway": "yes",
+    "ref": "21;32;45",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1253178811,
+  "nodes": [
+    11648448050,
+    11648448064,
+    11648448054,
+    11648448055,
+    11648448056,
+    11648448057,
+    11648448058,
+    11648448059,
+    11648448060,
+    11648448061,
+    11648448062,
+    11648484280,
+    11648448063,
+    11648484469,
+    11067602531
+  ],
+  "tags": {
+    "destination": "천안;아산;당진",
+    "destination:lang:en": "Cheonan;Asan;Dangjin",
+    "highway": "primary",
+    "name": "충서로",
+    "name:en": "Chungseo-ro",
+    "name:ko": "충서로",
+    "oneway": "yes",
+    "ref": "21;32;45",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1253178815,
+  "nodes": [
+    11648484275,
+    11648484418
+  ],
+  "tags": {
+    "destination": "당진;홍성;예산",
+    "destination:lang:en": "Dangjin;Hongseong;Yesan",
+    "highway": "primary",
+    "name": "충서로",
+    "name:en": "Chungseo-ro",
+    "name:ko": "충서로",
+    "oneway": "yes",
+    "ref": "21;32;45;70",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1253178819,
+  "nodes": [
+    11648484276,
+    11648484269,
+    11648484270
+  ],
+  "tags": {
+    "destination": "평택;천안;아산",
+    "destination:lang:en": "Pyeongtaek;Cheonan;Asan",
+    "highway": "primary",
+    "name": "충서로",
+    "name:en": "Chungseo-ro",
+    "name:ko": "충서로",
+    "oneway": "yes",
+    "ref": "21;45",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1253178826,
+  "nodes": [
+    11648484296,
+    11648484274,
+    11648484364,
+    11648484273,
+    11648484272,
+    11648484271,
+    11648448068,
+    8509115693,
+    11648448066,
+    11648448065,
+    11648448067,
+    11648448053,
+    10872855385,
+    1362330668
+  ],
+  "tags": {
+    "destination": "홍성;서산;예산수덕사IC",
+    "destination:lang:en": "Hongseong;Seosan;Yesan-Sudeoksa IC",
+    "highway": "primary",
+    "name": "충서로",
+    "name:en": "Chungseo-ro",
+    "name:ko": "충서로",
+    "oneway": "yes",
+    "ref": "21;32;45",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1253178828,
+  "nodes": [
+    11067602531,
+    11648484276
+  ],
+  "tags": {
+    "destination": "평택;천안;아산",
+    "destination:lang:en": "Pyeongtaek;Cheonan;Asan",
+    "highway": "primary",
+    "name": "충서로",
+    "name:en": "Chungseo-ro",
+    "name:ko": "충서로",
+    "oneway": "yes",
+    "ref": "21;32;45",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1253178830,
+  "nodes": [
+    11648484418,
+    11648484326,
+    11648484466,
+    11648484297
+  ],
+  "tags": {
+    "destination": "홍성;서산;예산수덕사IC",
+    "destination:lang:en": "Hongseong;Seosan;Yesan-Sudeoksa IC",
+    "highway": "primary",
+    "name": "충서로",
+    "name:en": "Chungseo-ro",
+    "name:ko": "충서로",
+    "oneway": "yes",
+    "ref": "21;32;45;70",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -113789,8 +113691,8 @@
 {
   "type": "node",
   "id": 278184473,
-  "lat": 36.3217414,
-  "lon": 127.4378806
+  "lat": 36.3217090,
+  "lon": 127.4378489
 },
 {
   "type": "node",
@@ -113807,26 +113709,14 @@
 {
   "type": "node",
   "id": 309836390,
-  "lat": 36.3223087,
-  "lon": 127.4401752
+  "lat": 36.3221419,
+  "lon": 127.4396318
 },
 {
   "type": "node",
   "id": 321741348,
   "lat": 36.3210426,
   "lon": 127.4357949
-},
-{
-  "type": "node",
-  "id": 322725196,
-  "lat": 36.3223799,
-  "lon": 127.4405544
-},
-{
-  "type": "node",
-  "id": 322725270,
-  "lat": 36.3219120,
-  "lon": 127.4385383
 },
 {
   "type": "node",
@@ -113849,20 +113739,20 @@
 {
   "type": "node",
   "id": 4213320486,
-  "lat": 36.3220232,
-  "lon": 127.4390006
-},
-{
-  "type": "node",
-  "id": 4213320487,
-  "lat": 36.3221939,
-  "lon": 127.4396524
+  "lat": 36.3219860,
+  "lon": 127.4390017
 },
 {
   "type": "node",
   "id": 4838045473,
-  "lat": 36.3224974,
-  "lon": 127.4411395
+  "lat": 36.3224494,
+  "lon": 127.4411432
+},
+{
+  "type": "node",
+  "id": 11649056731,
+  "lat": 36.3219215,
+  "lon": 127.4387333
 },
 {
   "type": "node",
@@ -113909,44 +113799,44 @@
 {
   "type": "node",
   "id": 310335353,
-  "lat": 36.3227240,
-  "lon": 127.4420683
+  "lat": 36.3226760,
+  "lon": 127.4421278
 },
 {
   "type": "node",
-  "id": 643037460,
-  "lat": 36.3225340,
+  "id": 643037458,
+  "lat": 36.3224815,
   "lon": 127.4413309
 },
 {
   "type": "node",
   "id": 983313940,
-  "lat": 36.3225892,
-  "lon": 127.4416152
+  "lat": 36.3225457,
+  "lon": 127.4416357
 },
 {
   "type": "node",
   "id": 8941171049,
-  "lat": 36.3225287,
-  "lon": 127.4422714
+  "lat": 36.3224963,
+  "lon": 127.4422513
 },
 {
   "type": "node",
   "id": 8941171050,
-  "lat": 36.3217500,
-  "lon": 127.4440189
+  "lat": 36.3217176,
+  "lon": 127.4439988
 },
 {
   "type": "node",
   "id": 8941171051,
-  "lat": 36.3215741,
-  "lon": 127.4444139
+  "lat": 36.3215453,
+  "lon": 127.4443893
 },
 {
   "type": "node",
-  "id": 8998251281,
-  "lat": 36.3216621,
-  "lon": 127.4442164
+  "id": 11649134411,
+  "lat": 36.3225790,
+  "lon": 127.4421683
 },
 {
   "type": "node",
@@ -113999,8 +113889,8 @@
 {
   "type": "node",
   "id": 806204820,
-  "lat": 36.3306732,
-  "lon": 127.4329723
+  "lat": 36.3307077,
+  "lon": 127.4329644
 },
 {
   "type": "node",
@@ -158800,114 +158690,6 @@
 },
 {
   "type": "node",
-  "id": 1358914699,
-  "lat": 36.7016534,
-  "lon": 126.8297310
-},
-{
-  "type": "node",
-  "id": 1358914727,
-  "lat": 36.7025968,
-  "lon": 126.8299587
-},
-{
-  "type": "node",
-  "id": 1370755813,
-  "lat": 36.7005990,
-  "lon": 126.8294975
-},
-{
-  "type": "node",
-  "id": 11636369868,
-  "lat": 36.6987191,
-  "lon": 126.8289363
-},
-{
-  "type": "node",
-  "id": 11641067952,
-  "lat": 36.6994901,
-  "lon": 126.8292750
-},
-{
-  "type": "node",
-  "id": 11641067953,
-  "lat": 36.6996276,
-  "lon": 126.8292400
-},
-{
-  "type": "node",
-  "id": 11641067954,
-  "lat": 36.6995198,
-  "lon": 126.8291321
-},
-{
-  "type": "node",
-  "id": 11641067978,
-  "lat": 36.6987030,
-  "lon": 126.8290821
-},
-{
-  "type": "node",
-  "id": 1362330405,
-  "lat": 36.7045603,
-  "lon": 126.8303891
-},
-{
-  "type": "node",
-  "id": 1362330415,
-  "lat": 36.7065296,
-  "lon": 126.8308324
-},
-{
-  "type": "node",
-  "id": 1362330431,
-  "lat": 36.7086918,
-  "lon": 126.8312017
-},
-{
-  "type": "node",
-  "id": 1362330432,
-  "lat": 36.7087691,
-  "lon": 126.8312060
-},
-{
-  "type": "node",
-  "id": 4658639931,
-  "lat": 36.7035376,
-  "lon": 126.8301607
-},
-{
-  "type": "node",
-  "id": 10872885969,
-  "lat": 36.7069111,
-  "lon": 126.8309308
-},
-{
-  "type": "node",
-  "id": 10872886046,
-  "lat": 36.7074882,
-  "lon": 126.8310422
-},
-{
-  "type": "node",
-  "id": 11636548374,
-  "lat": 36.7078554,
-  "lon": 126.8310970
-},
-{
-  "type": "node",
-  "id": 11636548375,
-  "lat": 36.7096027,
-  "lon": 126.8313112
-},
-{
-  "type": "node",
-  "id": 4658715844,
-  "lat": 36.7102954,
-  "lon": 126.8313865
-},
-{
-  "type": "node",
   "id": 436662702,
   "lat": 36.5070987,
   "lon": 126.9532776
@@ -164350,243 +164132,105 @@
 },
 {
   "type": "node",
-  "id": 1362330542,
-  "lat": 36.7252016,
-  "lon": 126.8328515
-},
-{
-  "type": "node",
   "id": 1362330546,
-  "lat": 36.7260732,
-  "lon": 126.8332239
+  "lat": 36.7260558,
+  "lon": 126.8332456
 },
 {
   "type": "node",
   "id": 1362330548,
-  "lat": 36.7265170,
-  "lon": 126.8334336
+  "lat": 36.7264925,
+  "lon": 126.8334783
 },
 {
   "type": "node",
-  "id": 1362330555,
-  "lat": 36.7274392,
-  "lon": 126.8340680
+  "id": 11648073233,
+  "lat": 36.7260867,
+  "lon": 126.8331649
 },
 {
   "type": "node",
-  "id": 1362330564,
-  "lat": 36.7293171,
-  "lon": 126.8355827
+  "id": 11648073234,
+  "lat": 36.7265209,
+  "lon": 126.8333912
 },
 {
   "type": "node",
-  "id": 1368842582,
-  "lat": 36.7247302,
-  "lon": 126.8326232
+  "id": 11648073235,
+  "lat": 36.7263979,
+  "lon": 126.8334275
 },
 {
   "type": "node",
-  "id": 1368842771,
-  "lat": 36.7265710,
-  "lon": 126.8334713
+  "id": 11648073236,
+  "lat": 36.7263031,
+  "lon": 126.8333750
 },
 {
   "type": "node",
-  "id": 8509115626,
-  "lat": 36.7266401,
-  "lon": 126.8335254
+  "id": 11648073237,
+  "lat": 36.7261802,
+  "lon": 126.8333100
 },
 {
   "type": "node",
-  "id": 11636548372,
-  "lat": 36.7277853,
-  "lon": 126.8343296
+  "id": 11648073239,
+  "lat": 36.7263613,
+  "lon": 126.8333025
 },
 {
   "type": "node",
-  "id": 436473714,
-  "lat": 36.7300928,
-  "lon": 126.8362300
+  "id": 11648073240,
+  "lat": 36.7262116,
+  "lon": 126.8332278
 },
 {
   "type": "node",
-  "id": 1362330596,
-  "lat": 36.7307917,
-  "lon": 126.8368434
+  "id": 11648355780,
+  "lat": 36.7322946,
+  "lon": 126.8512443
 },
 {
   "type": "node",
-  "id": 1362330599,
-  "lat": 36.7310038,
-  "lon": 126.8370356
-},
-{
-  "type": "node",
-  "id": 1362330605,
-  "lat": 36.7313837,
-  "lon": 126.8374331
-},
-{
-  "type": "node",
-  "id": 1362330607,
-  "lat": 36.7318545,
-  "lon": 126.8380541
-},
-{
-  "type": "node",
-  "id": 1362330616,
-  "lat": 36.7320479,
-  "lon": 126.8383724
-},
-{
-  "type": "node",
-  "id": 11636683950,
-  "lat": 36.7316288,
-  "lon": 126.8377307
-},
-{
-  "type": "node",
-  "id": 1362330628,
-  "lat": 36.7325230,
-  "lon": 126.8394773
-},
-{
-  "type": "node",
-  "id": 1362330644,
-  "lat": 36.7327114,
-  "lon": 126.8402126
-},
-{
-  "type": "node",
-  "id": 1362330646,
-  "lat": 36.7328068,
-  "lon": 126.8408594
-},
-{
-  "type": "node",
-  "id": 1362330648,
-  "lat": 36.7328191,
-  "lon": 126.8418832
-},
-{
-  "type": "node",
-  "id": 8509115631,
-  "lat": 36.7326853,
-  "lon": 126.8440332
-},
-{
-  "type": "node",
-  "id": 11020993321,
-  "lat": 36.7327577,
-  "lon": 126.8428073
-},
-{
-  "type": "node",
-  "id": 11636683951,
-  "lat": 36.7322578,
-  "lon": 126.8387743
-},
-{
-  "type": "node",
-  "id": 11636683952,
-  "lat": 36.7323774,
-  "lon": 126.8390496
-},
-{
-  "type": "node",
-  "id": 11636683953,
-  "lat": 36.7326198,
-  "lon": 126.8398184
-},
-{
-  "type": "node",
-  "id": 11636683954,
-  "lat": 36.7327664,
-  "lon": 126.8405300
-},
-{
-  "type": "node",
-  "id": 11636683955,
-  "lat": 36.7328282,
-  "lon": 126.8412283
-},
-{
-  "type": "node",
-  "id": 11636683956,
-  "lat": 36.7328337,
-  "lon": 126.8415566
-},
-{
-  "type": "node",
-  "id": 1362330622,
-  "lat": 36.7322773,
-  "lon": 126.8513201
-},
-{
-  "type": "node",
-  "id": 10872855482,
-  "lat": 36.7324588,
-  "lon": 126.8482635
-},
-{
-  "type": "node",
-  "id": 10872855485,
-  "lat": 36.7325657,
-  "lon": 126.8462667
-},
-{
-  "type": "node",
-  "id": 11636683972,
-  "lat": 36.7323416,
-  "lon": 126.8502378
-},
-{
-  "type": "node",
-  "id": 11636683986,
-  "lat": 36.7323129,
-  "lon": 126.8507214
-},
-{
-  "type": "node",
-  "id": 1362330660,
-  "lat": 36.7338298,
-  "lon": 126.8532792
+  "id": 11648355800,
+  "lat": 36.7322352,
+  "lon": 126.8511862
 },
 {
   "type": "node",
   "id": 1362330662,
-  "lat": 36.7346590,
-  "lon": 126.8543479
+  "lat": 36.7346246,
+  "lon": 126.8543385
 },
 {
   "type": "node",
   "id": 1362330664,
-  "lat": 36.7348707,
-  "lon": 126.8546155
+  "lat": 36.7348363,
+  "lon": 126.8546061
 },
 {
   "type": "node",
-  "id": 9852112843,
-  "lat": 36.7332520,
-  "lon": 126.8525592
+  "id": 11648355781,
+  "lat": 36.7347041,
+  "lon": 126.8543033
 },
 {
   "type": "node",
-  "id": 9852112870,
-  "lat": 36.7334877,
-  "lon": 126.8528311
+  "id": 11648448047,
+  "lat": 36.7358751,
+  "lon": 126.8559678
 },
 {
   "type": "node",
-  "id": 11636683971,
-  "lat": 36.7325560,
-  "lon": 126.8516744
+  "id": 11648448048,
+  "lat": 36.7349158,
+  "lon": 126.8545709
 },
 {
   "type": "node",
-  "id": 11636683982,
-  "lat": 36.7328510,
-  "lon": 126.8520495
+  "id": 11648448052,
+  "lat": 36.7360812,
+  "lon": 126.8562123
 },
 {
   "type": "node",
@@ -164602,21 +164246,9 @@
 },
 {
   "type": "node",
-  "id": 1362330676,
-  "lat": 36.7376157,
-  "lon": 126.8576361
-},
-{
-  "type": "node",
-  "id": 1362330677,
-  "lat": 36.7380076,
-  "lon": 126.8579439
-},
-{
-  "type": "node",
   "id": 8509115693,
-  "lat": 36.7373463,
-  "lon": 126.8573713
+  "lat": 36.7373050,
+  "lon": 126.8573979
 },
 {
   "type": "node",
@@ -164626,45 +164258,111 @@
 },
 {
   "type": "node",
-  "id": 10872855387,
-  "lat": 36.7363075,
-  "lon": 126.8563443
+  "id": 10872855472,
+  "lat": 36.7362572,
+  "lon": 126.8562783
 },
 {
   "type": "node",
-  "id": 10872855471,
-  "lat": 36.7362220,
-  "lon": 126.8562414
+  "id": 11648448049,
+  "lat": 36.7362546,
+  "lon": 126.8564127
 },
 {
   "type": "node",
-  "id": 1326552012,
-  "lat": 36.7390805,
-  "lon": 126.8585869
+  "id": 11648448050,
+  "lat": 36.7365009,
+  "lon": 126.8566899
 },
 {
   "type": "node",
-  "id": 1362330678,
-  "lat": 36.7386384,
-  "lon": 126.8583697
+  "id": 11648448051,
+  "lat": 36.7362791,
+  "lon": 126.8564410
 },
 {
   "type": "node",
-  "id": 1362330679,
-  "lat": 36.7395586,
-  "lon": 126.8588765
+  "id": 11648448053,
+  "lat": 36.7368435,
+  "lon": 126.8569466
 },
 {
   "type": "node",
-  "id": 1362330680,
-  "lat": 36.7404523,
-  "lon": 126.8593085
+  "id": 11648448054,
+  "lat": 36.7365818,
+  "lon": 126.8567799
 },
 {
   "type": "node",
-  "id": 1362330681,
-  "lat": 36.7418345,
-  "lon": 126.8599343
+  "id": 11648448055,
+  "lat": 36.7366720,
+  "lon": 126.8568773
+},
+{
+  "type": "node",
+  "id": 11648448056,
+  "lat": 36.7368254,
+  "lon": 126.8570416
+},
+{
+  "type": "node",
+  "id": 11648448057,
+  "lat": 36.7370090,
+  "lon": 126.8572405
+},
+{
+  "type": "node",
+  "id": 11648448058,
+  "lat": 36.7372259,
+  "lon": 126.8574444
+},
+{
+  "type": "node",
+  "id": 11648448059,
+  "lat": 36.7375973,
+  "lon": 126.8577866
+},
+{
+  "type": "node",
+  "id": 11648448060,
+  "lat": 36.7378479,
+  "lon": 126.8579946
+},
+{
+  "type": "node",
+  "id": 11648448064,
+  "lat": 36.7365281,
+  "lon": 126.8567202
+},
+{
+  "type": "node",
+  "id": 11648448065,
+  "lat": 36.7370906,
+  "lon": 126.8572019
+},
+{
+  "type": "node",
+  "id": 11648448066,
+  "lat": 36.7372559,
+  "lon": 126.8573557
+},
+{
+  "type": "node",
+  "id": 11648448067,
+  "lat": 36.7369587,
+  "lon": 126.8570661
+},
+{
+  "type": "node",
+  "id": 11648448068,
+  "lat": 36.7375753,
+  "lon": 126.8576299
+},
+{
+  "type": "node",
+  "id": 11648484271,
+  "lat": 36.7378746,
+  "lon": 126.8578751
 },
 {
   "type": "node",
@@ -164680,15 +164378,117 @@
 },
 {
   "type": "node",
-  "id": 8123702402,
-  "lat": 36.7401155,
-  "lon": 126.8591341
+  "id": 11067602531,
+  "lat": 36.7389191,
+  "lon": 126.8586569
 },
 {
   "type": "node",
-  "id": 8123702417,
-  "lat": 36.7383117,
-  "lon": 126.8581717
+  "id": 11648448061,
+  "lat": 36.7381071,
+  "lon": 126.8581871
+},
+{
+  "type": "node",
+  "id": 11648448062,
+  "lat": 36.7383750,
+  "lon": 126.8583566
+},
+{
+  "type": "node",
+  "id": 11648448063,
+  "lat": 36.7387762,
+  "lon": 126.8585800
+},
+{
+  "type": "node",
+  "id": 11648484269,
+  "lat": 36.7394505,
+  "lon": 126.8589301
+},
+{
+  "type": "node",
+  "id": 11648484270,
+  "lat": 36.7401945,
+  "lon": 126.8592626
+},
+{
+  "type": "node",
+  "id": 11648484272,
+  "lat": 36.7382734,
+  "lon": 126.8581555
+},
+{
+  "type": "node",
+  "id": 11648484273,
+  "lat": 36.7385351,
+  "lon": 126.8583172
+},
+{
+  "type": "node",
+  "id": 11648484274,
+  "lat": 36.7388907,
+  "lon": 126.8585005
+},
+{
+  "type": "node",
+  "id": 11648484275,
+  "lat": 36.7403565,
+  "lon": 126.8592363
+},
+{
+  "type": "node",
+  "id": 11648484276,
+  "lat": 36.7390425,
+  "lon": 126.8587182
+},
+{
+  "type": "node",
+  "id": 11648484280,
+  "lat": 36.7384865,
+  "lon": 126.8584186
+},
+{
+  "type": "node",
+  "id": 11648484296,
+  "lat": 36.7390100,
+  "lon": 126.8585605
+},
+{
+  "type": "node",
+  "id": 11648484297,
+  "lat": 36.7391247,
+  "lon": 126.8586180
+},
+{
+  "type": "node",
+  "id": 11648484326,
+  "lat": 36.7392504,
+  "lon": 126.8586811
+},
+{
+  "type": "node",
+  "id": 11648484364,
+  "lat": 36.7386091,
+  "lon": 126.8583554
+},
+{
+  "type": "node",
+  "id": 11648484418,
+  "lat": 36.7396952,
+  "lon": 126.8589044
+},
+{
+  "type": "node",
+  "id": 11648484466,
+  "lat": 36.7391489,
+  "lon": 126.8586301
+},
+{
+  "type": "node",
+  "id": 11648484469,
+  "lat": 36.7388919,
+  "lon": 126.8586422
 },
 {
   "type": "node",
