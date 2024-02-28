@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2024-02-27T18:44:59Z",
-    "timestamp_areas_base": "2024-02-27T16:33:25Z",
+    "timestamp_osm_base": "2024-02-28T18:45:13Z",
+    "timestamp_areas_base": "2024-02-28T16:42:12Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -27796,9 +27796,9 @@
     "destination:lang:en:backward": "Unsan;Seosan IC",
     "destination:lang:en:forward": "Daesan;Taean;Seosan",
     "highway": "primary",
-    "name": "운암로",
-    "name:en": "Unam-ro",
-    "name:ko": "운암로"
+    "name": "갈산무로치길",
+    "name:en": "GalsanMurochi-gil",
+    "name:ko": "갈산무로치길"
   }
 },
 {
