@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2024-02-28T18:26:42Z",
-    "timestamp_areas_base": "2024-02-28T16:17:34Z",
+    "timestamp_osm_base": "2024-02-29T18:27:30Z",
+    "timestamp_areas_base": "2024-02-29T16:48:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -271,6 +271,39 @@
     "oneway": "yes",
     "ref": "400",
     "start_date": "2023-09-25",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1102263693,
+  "nodes": [
+    9168621140,
+    10833988825,
+    10833988826,
+    10833988827,
+    9168621142,
+    10086119613,
+    7099351116,
+    10086119607
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "경부고속도로",
+    "name:el": "Αυτοκινητόδρομος Γκιόνγκμπου",
+    "name:en": "Gyeongbu Expressway",
+    "name:ko": "경부고속도로",
+    "name:ko-Hani": "京釜高速道路",
+    "name:ko-Latn": "Gyeongbugosokdoro",
+    "name:zh": "京釜高速公路",
+    "name:zh-Hant": "京釜高速公路",
+    "ncat": "고속도로",
+    "oneway": "yes",
+    "opening_date": "2024-02-29",
+    "ref": "1",
     "toll": "yes"
   }
 },
@@ -7837,6 +7870,54 @@
   "id": 11209118653,
   "lat": 37.3104131,
   "lon": 126.7186650
+},
+{
+  "type": "node",
+  "id": 9168621140,
+  "lat": 37.1786479,
+  "lon": 127.0962597
+},
+{
+  "type": "node",
+  "id": 9168621142,
+  "lat": 37.1817107,
+  "lon": 127.0961327
+},
+{
+  "type": "node",
+  "id": 10833988825,
+  "lat": 37.1796608,
+  "lon": 127.0962688
+},
+{
+  "type": "node",
+  "id": 10833988826,
+  "lat": 37.1804285,
+  "lon": 127.0962471
+},
+{
+  "type": "node",
+  "id": 10833988827,
+  "lat": 37.1810822,
+  "lon": 127.0962042
+},
+{
+  "type": "node",
+  "id": 7099351116,
+  "lat": 37.1828836,
+  "lon": 127.0959695
+},
+{
+  "type": "node",
+  "id": 10086119607,
+  "lat": 37.1835317,
+  "lon": 127.0958656
+},
+{
+  "type": "node",
+  "id": 10086119613,
+  "lat": 37.1820271,
+  "lon": 127.0960823
 },
 {
   "type": "node",
