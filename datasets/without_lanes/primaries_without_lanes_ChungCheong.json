@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2024-03-07T18:45:02Z",
-    "timestamp_areas_base": "2024-03-07T13:02:46Z",
+    "timestamp_osm_base": "2024-03-08T18:45:15Z",
+    "timestamp_areas_base": "2024-03-08T13:40:37Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -20418,6 +20418,7 @@
     "highway": "primary",
     "name": "계룡로",
     "name:en": "Gyeryong-ro",
+    "name:ja": "鶏龍路",
     "name:ko": "계룡로",
     "oneway": "yes"
   }
