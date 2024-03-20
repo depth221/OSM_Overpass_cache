@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2024-03-19T18:44:44Z",
-    "timestamp_areas_base": "2024-03-19T13:19:11Z",
+    "timestamp_osm_base": "2024-03-20T18:44:44Z",
+    "timestamp_areas_base": "2024-03-20T14:11:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -59403,6 +59403,19 @@
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
     "ref": "25"
+  }
+},
+{
+  "type": "way",
+  "id": 1264388385,
+  "nodes": [
+    11747182669,
+    11747167868
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "layer": "1"
   }
 },
 {
@@ -147508,6 +147521,18 @@
   "id": 7755884585,
   "lat": 36.8964180,
   "lon": 126.6243202
+},
+{
+  "type": "node",
+  "id": 11747167868,
+  "lat": 36.9762689,
+  "lon": 126.3035919
+},
+{
+  "type": "node",
+  "id": 11747182669,
+  "lat": 36.9762267,
+  "lon": 126.3035337
 },
 {
   "type": "node",
