@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-03-23T18:45:19Z",
-    "timestamp_areas_base": "2024-03-23T15:42:14Z",
+    "timestamp_osm_base": "2024-03-24T18:45:01Z",
+    "timestamp_areas_base": "2024-03-24T16:56:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -23456,28 +23456,6 @@
   "tags": {
     "highway": "primary",
     "oneway": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 547287777,
-  "nodes": [
-    414677526,
-    8837377648,
-    1916537067
-  ],
-  "tags": {
-    "bicycle": "designated",
-    "cycleway": "track",
-    "highway": "primary",
-    "name": "탄금대로",
-    "name:en": "Tangeum-daero",
-    "name:ko": "탄금대로",
-    "ncat": "지방도",
-    "oneway": "no",
-    "ref": "82",
-    "review": "no",
-    "source": "gps"
   }
 },
 {
@@ -203157,24 +203135,6 @@
   "id": 4639438460,
   "lat": 36.9762917,
   "lon": 127.7959748
-},
-{
-  "type": "node",
-  "id": 414677526,
-  "lat": 36.9859867,
-  "lon": 127.9036922
-},
-{
-  "type": "node",
-  "id": 1916537067,
-  "lat": 36.9857047,
-  "lon": 127.9042610
-},
-{
-  "type": "node",
-  "id": 8837377648,
-  "lat": 36.9857433,
-  "lon": 127.9041794
 },
 {
   "type": "node",
