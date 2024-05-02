@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-05-01T18:45:16Z",
-    "timestamp_areas_base": "2024-05-01T17:21:29Z",
+    "timestamp_osm_base": "2024-05-02T18:44:25Z",
+    "timestamp_areas_base": "2024-05-02T13:13:22Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2926,42 +2926,6 @@
     "name:en": "Jaewon-ro",
     "name:ko": "제원로",
     "ref": "5"
-  }
-},
-{
-  "type": "way",
-  "id": 52889732,
-  "nodes": [
-    436694049,
-    436694050,
-    5313870327,
-    436694052,
-    7340236524
-  ],
-  "tags": {
-    "highway": "primary",
-    "ncat": "국도",
-    "oneway": "yes",
-    "ref": "5",
-    "review": "no",
-    "source": "NTIC"
-  }
-},
-{
-  "type": "way",
-  "id": 52889733,
-  "nodes": [
-    436694044,
-    436694045,
-    5313870326,
-    436694046,
-    436694047,
-    436694048,
-    7340236525
-  ],
-  "tags": {
-    "highway": "primary",
-    "oneway": "yes"
   }
 },
 {
@@ -198496,78 +198460,6 @@
   "id": 437181604,
   "lat": 37.0517177,
   "lon": 128.1717590
-},
-{
-  "type": "node",
-  "id": 436694045,
-  "lat": 37.1309508,
-  "lon": 128.1480016
-},
-{
-  "type": "node",
-  "id": 436694046,
-  "lat": 37.1307666,
-  "lon": 128.1469863
-},
-{
-  "type": "node",
-  "id": 436694047,
-  "lat": 37.1307000,
-  "lon": 128.1462100
-},
-{
-  "type": "node",
-  "id": 436694048,
-  "lat": 37.1306900,
-  "lon": 128.1456700
-},
-{
-  "type": "node",
-  "id": 436694049,
-  "lat": 37.1307785,
-  "lon": 128.1450840
-},
-{
-  "type": "node",
-  "id": 436694050,
-  "lat": 37.1311403,
-  "lon": 128.1466072
-},
-{
-  "type": "node",
-  "id": 436694052,
-  "lat": 37.1313006,
-  "lon": 128.1477158
-},
-{
-  "type": "node",
-  "id": 5313870326,
-  "lat": 37.1307883,
-  "lon": 128.1471060
-},
-{
-  "type": "node",
-  "id": 5313870327,
-  "lat": 37.1312147,
-  "lon": 128.1470322
-},
-{
-  "type": "node",
-  "id": 7340236525,
-  "lat": 37.1307123,
-  "lon": 128.1451449
-},
-{
-  "type": "node",
-  "id": 436694044,
-  "lat": 37.1312524,
-  "lon": 128.1491202
-},
-{
-  "type": "node",
-  "id": 7340236524,
-  "lat": 37.1313649,
-  "lon": 128.1491945
 },
 {
   "type": "node",
