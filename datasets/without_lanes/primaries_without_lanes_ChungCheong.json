@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-05-17T18:45:13Z",
-    "timestamp_areas_base": "2024-05-17T13:20:06Z",
+    "timestamp_osm_base": "2024-05-18T18:45:15Z",
+    "timestamp_areas_base": "2024-05-18T13:56:11Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -104,12 +104,14 @@
   "id": 29255948,
   "nodes": [
     321741449,
-    322725636,
     321741450,
     321741451
   ],
   "tags": {
     "highway": "primary",
+    "name": "대종로224번길",
+    "name:en": "Daejong-ro 224beon-gil",
+    "name:ko": "대종로224번길",
     "ref": "17"
   }
 },
@@ -105294,32 +105296,26 @@
 {
   "type": "node",
   "id": 321741448,
-  "lat": 36.3110413,
-  "lon": 127.4430267
+  "lat": 36.3110466,
+  "lon": 127.4431127
 },
 {
   "type": "node",
   "id": 321741449,
-  "lat": 36.3114509,
-  "lon": 127.4429647
+  "lat": 36.3114615,
+  "lon": 127.4430224
 },
 {
   "type": "node",
   "id": 321741450,
-  "lat": 36.3116424,
-  "lon": 127.4429593
+  "lat": 36.3115146,
+  "lon": 127.4430148
 },
 {
   "type": "node",
   "id": 321741451,
-  "lat": 36.3117921,
-  "lon": 127.4429614
-},
-{
-  "type": "node",
-  "id": 322725636,
-  "lat": 36.3114881,
-  "lon": 127.4429618
+  "lat": 36.3117618,
+  "lon": 127.4430338
 },
 {
   "type": "node",
