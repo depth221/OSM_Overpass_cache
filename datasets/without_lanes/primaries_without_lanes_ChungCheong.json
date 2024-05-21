@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-05-19T18:45:00Z",
-    "timestamp_areas_base": "2024-05-19T14:13:59Z",
+    "timestamp_osm_base": "2024-05-21T18:44:45Z",
+    "timestamp_areas_base": "2024-05-21T15:25:01Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -52813,13 +52813,14 @@
     11465676316,
     11465676317,
     11465676318,
+    11921520033,
     11465676319,
     11465676320,
     11465676321,
     11465676322,
     11465676323,
     11465676324,
-    11465676325
+    11921457854
   ],
   "tags": {
     "highway": "primary"
@@ -58149,6 +58150,30 @@
     "ncat": "국도",
     "oneway": "yes",
     "ref": "36;49"
+  }
+},
+{
+  "type": "way",
+  "id": 1285075104,
+  "nodes": [
+    11921457855,
+    11465676325
+  ],
+  "tags": {
+    "highway": "primary"
+  }
+},
+{
+  "type": "way",
+  "id": 1285075105,
+  "nodes": [
+    11921457854,
+    11921457855
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "layer": "1"
   }
 },
 {
@@ -78067,6 +78092,12 @@
 },
 {
   "type": "node",
+  "id": 11921520033,
+  "lat": 36.2914030,
+  "lon": 126.6760116
+},
+{
+  "type": "node",
   "id": 436670324,
   "lat": 36.2925113,
   "lon": 126.6875947
@@ -78361,6 +78392,12 @@
 },
 {
   "type": "node",
+  "id": 11921457854,
+  "lat": 36.2938599,
+  "lon": 126.6930914
+},
+{
+  "type": "node",
   "id": 436670276,
   "lat": 36.2950334,
   "lon": 126.6998934
@@ -78490,6 +78527,12 @@
   "id": 11465676327,
   "lat": 36.2965884,
   "lon": 126.7005497
+},
+{
+  "type": "node",
+  "id": 11921457855,
+  "lat": 36.2944241,
+  "lon": 126.6945934
 },
 {
   "type": "node",
