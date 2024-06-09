@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-06-08T18:45:15Z",
-    "timestamp_areas_base": "2024-06-08T15:47:46Z",
+    "timestamp_osm_base": "2024-06-09T18:45:15Z",
+    "timestamp_areas_base": "2024-06-09T16:13:16Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -14612,9 +14612,7 @@
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "1"
   }
 },
 {
@@ -15999,6 +15997,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "60",
     "name": "읍내로",
     "name:en": "Eumnae-ro",
     "name:ko": "읍내로",
@@ -19977,52 +19976,11 @@
   "id": 518910708,
   "nodes": [
     436445541,
-    3960162398,
-    436445560,
-    436445561,
-    436445563,
-    436445565,
-    436445567,
-    436445572,
-    436445578,
-    436445580,
-    436445581,
-    436445583,
-    436445586,
-    436445587,
-    436445589,
-    436445598,
-    436445599,
-    436445600,
-    436445601,
-    436445602,
-    436445604,
-    436445607,
-    436445609,
-    436445612,
-    436445615,
-    436445618,
-    436445620,
-    436445622,
-    436445624,
-    436445626,
-    436445628,
-    436445632,
-    436445634,
-    436445636,
-    436445638,
-    436445640,
-    4655893912,
-    436445642,
-    3433207094,
-    436445651,
-    436445654,
-    436445656,
-    436445664,
-    436646433
+    3960162398
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "60",
     "name": "괴강로",
     "name:en": "Goegang-ro",
     "name:ko": "괴강로",
@@ -26674,9 +26632,7 @@
     "name": "득안대로",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "1"
   }
 },
 {
@@ -26702,8 +26658,6 @@
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -26733,8 +26687,6 @@
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -26753,9 +26705,7 @@
     "name": "득안대로",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "1"
   }
 },
 {
@@ -26830,9 +26780,7 @@
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "1"
   }
 },
 {
@@ -26850,9 +26798,7 @@
     "name": "득안대로",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "1"
   }
 },
 {
@@ -26872,9 +26818,7 @@
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "1"
   }
 },
 {
@@ -26893,9 +26837,7 @@
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "1"
   }
 },
 {
@@ -26913,9 +26855,7 @@
     "name": "득안대로",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "1"
   }
 },
 {
@@ -28568,9 +28508,7 @@
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "1"
   }
 },
 {
@@ -28605,9 +28543,7 @@
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "1"
   }
 },
 {
@@ -44261,6 +44197,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "60",
     "name": "괴강로",
     "name:en": "Goegang-ro",
     "name:ko": "괴강로",
@@ -44280,6 +44217,7 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "60",
     "name": "괴강로",
     "name:en": "Goegang-ro",
     "name:ko": "괴강로",
@@ -58894,9 +58832,7 @@
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "1"
   }
 },
 {
@@ -58914,9 +58850,7 @@
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "1"
   }
 },
 {
@@ -58932,9 +58866,7 @@
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "1"
   }
 },
 {
@@ -58952,9 +58884,7 @@
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "1"
   }
 },
 {
@@ -59065,6 +58995,65 @@
     "ncat": "국도",
     "ref": "29;68",
     "review": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1290677827,
+  "nodes": [
+    3960162398,
+    436445560,
+    436445561,
+    436445563,
+    436445565,
+    436445567,
+    436445572,
+    436445578,
+    436445580,
+    436445581,
+    436445583,
+    436445586,
+    436445587,
+    436445589,
+    436445598,
+    436445599,
+    436445600,
+    436445601,
+    436445602,
+    436445604,
+    436445607,
+    436445609,
+    436445612,
+    436445615,
+    436445618,
+    436445620,
+    436445622,
+    436445624,
+    436445626,
+    436445628,
+    436445632,
+    436445634,
+    436445636,
+    436445638,
+    436445640,
+    4655893912,
+    436445642,
+    3433207094,
+    436445651,
+    436445654,
+    436445656,
+    436445664,
+    436646433
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "60",
+    "name": "괴강로",
+    "name:en": "Goegang-ro",
+    "name:ko": "괴강로",
+    "ref": "19;37;49",
+    "review": "no",
+    "source": "NTIC"
   }
 },
 {
