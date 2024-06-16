@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-06-15T18:29:45Z",
-    "timestamp_areas_base": "2024-06-15T14:11:59Z",
+    "timestamp_osm_base": "2024-06-16T18:30:29Z",
+    "timestamp_areas_base": "2024-06-16T14:55:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -57,26 +57,6 @@
     "name:ko": "당진청주고속도로",
     "oneway": "yes",
     "ref": "32"
-  }
-},
-{
-  "type": "way",
-  "id": 772901368,
-  "nodes": [
-    4714330011,
-    4714330010,
-    4617826062,
-    4714330012,
-    4619035647,
-    4714330013,
-    4619035648,
-    4619035649,
-    4511915028,
-    4511915038
-  ],
-  "tags": {
-    "highway": "motorway",
-    "oneway": "yes"
   }
 },
 {
@@ -5280,66 +5260,6 @@
   "id": 436315172,
   "lat": 35.4761165,
   "lon": 128.5095508
-},
-{
-  "type": "node",
-  "id": 4511915038,
-  "lat": 36.3828111,
-  "lon": 129.3677041
-},
-{
-  "type": "node",
-  "id": 4511915028,
-  "lat": 36.3832172,
-  "lon": 129.3683145
-},
-{
-  "type": "node",
-  "id": 4617826062,
-  "lat": 36.3847550,
-  "lon": 129.3697816
-},
-{
-  "type": "node",
-  "id": 4619035647,
-  "lat": 36.3843837,
-  "lon": 129.3696304
-},
-{
-  "type": "node",
-  "id": 4619035648,
-  "lat": 36.3839430,
-  "lon": 129.3692634
-},
-{
-  "type": "node",
-  "id": 4619035649,
-  "lat": 36.3837374,
-  "lon": 129.3690176
-},
-{
-  "type": "node",
-  "id": 4714330010,
-  "lat": 36.3850774,
-  "lon": 129.3698267
-},
-{
-  "type": "node",
-  "id": 4714330011,
-  "lat": 36.3853466,
-  "lon": 129.3698594
-},
-{
-  "type": "node",
-  "id": 4714330012,
-  "lat": 36.3845635,
-  "lon": 129.3697248
-},
-{
-  "type": "node",
-  "id": 4714330013,
-  "lat": 36.3841683,
-  "lon": 129.3694726
 },
 {
   "type": "node",
