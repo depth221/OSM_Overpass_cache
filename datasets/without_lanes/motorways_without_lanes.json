@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-06-27T18:29:54Z",
+    "timestamp_osm_base": "2024-06-28T18:30:07Z",
     "timestamp_areas_base": "2024-06-13T01:59:49Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -4818,41 +4818,6 @@
   }
 },
 {
-  "type": "way",
-  "id": 1295781708,
-  "nodes": [
-    12007180769,
-    12007169368
-  ],
-  "tags": {
-    "bridge": "yes",
-    "highway": "motorway",
-    "layer": "1"
-  }
-},
-{
-  "type": "way",
-  "id": 1295781709,
-  "nodes": [
-    12007169368,
-    10907411972
-  ],
-  "tags": {
-    "highway": "motorway"
-  }
-},
-{
-  "type": "way",
-  "id": 1295781710,
-  "nodes": [
-    12007169367,
-    12007180769
-  ],
-  "tags": {
-    "highway": "motorway"
-  }
-},
-{
   "type": "node",
   "id": 9599218328,
   "lat": 35.4446223,
@@ -5295,30 +5260,6 @@
   "id": 436315172,
   "lat": 35.4761165,
   "lon": 128.5095508
-},
-{
-  "type": "node",
-  "id": 10907411972,
-  "lat": 35.8858537,
-  "lon": 128.6943699
-},
-{
-  "type": "node",
-  "id": 12007169367,
-  "lat": 35.8856566,
-  "lon": 128.6943741
-},
-{
-  "type": "node",
-  "id": 12007169368,
-  "lat": 35.8858133,
-  "lon": 128.6943708
-},
-{
-  "type": "node",
-  "id": 12007180769,
-  "lat": 35.8857177,
-  "lon": 128.6943728
 },
 {
   "type": "node",
