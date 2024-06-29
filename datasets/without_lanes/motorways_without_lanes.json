@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-06-28T18:30:07Z",
-    "timestamp_areas_base": "2024-06-13T01:59:49Z",
+    "timestamp_osm_base": "2024-06-29T18:29:44Z",
+    "timestamp_areas_base": "2024-06-29T17:24:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -4818,6 +4818,30 @@
   }
 },
 {
+  "type": "way",
+  "id": 1297282449,
+  "nodes": [
+    670440250,
+    670440223,
+    12019656955,
+    12019656956,
+    12019656957,
+    12019656958,
+    12019656959
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:structure": "beam",
+    "highway": "motorway",
+    "layer": "0",
+    "name": "남제천IC2교",
+    "name:ko": "남제천IC2교",
+    "oneway": "yes",
+    "review": "no",
+    "source": "Yahoo"
+  }
+},
+{
   "type": "node",
   "id": 9599218328,
   "lat": 35.4446223,
@@ -8974,6 +8998,48 @@
   "id": 11628652578,
   "lat": 37.4649695,
   "lon": 127.0928162
+},
+{
+  "type": "node",
+  "id": 12019656957,
+  "lat": 37.0761627,
+  "lon": 128.1816282
+},
+{
+  "type": "node",
+  "id": 12019656958,
+  "lat": 37.0760526,
+  "lon": 128.1812490
+},
+{
+  "type": "node",
+  "id": 12019656959,
+  "lat": 37.0759898,
+  "lon": 128.1809721
+},
+{
+  "type": "node",
+  "id": 670440223,
+  "lat": 37.0764801,
+  "lon": 128.1827013
+},
+{
+  "type": "node",
+  "id": 670440250,
+  "lat": 37.0766189,
+  "lon": 128.1831736
+},
+{
+  "type": "node",
+  "id": 12019656955,
+  "lat": 37.0763977,
+  "lon": 128.1824053
+},
+{
+  "type": "node",
+  "id": 12019656956,
+  "lat": 37.0762950,
+  "lon": 128.1820786
 }
 
   ]
