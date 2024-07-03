@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-07-02T18:44:53Z",
-    "timestamp_areas_base": "2024-07-02T15:02:14Z",
+    "timestamp_osm_base": "2024-07-03T18:44:30Z",
+    "timestamp_areas_base": "2024-07-03T15:34:42Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -11079,7 +11079,8 @@
     "ncat": "국도",
     "ref": "29",
     "review": "no",
-    "source": "Bing (adjusted)"
+    "source": "Bing (adjusted)",
+    "surface": "asphalt"
   }
 },
 {
@@ -40984,7 +40985,8 @@
     "name:ko": "충절로",
     "ref": "29",
     "review": "no",
-    "source": "Bing (adjusted)"
+    "source": "Bing (adjusted)",
+    "surface": "asphalt"
   }
 },
 {
@@ -41003,7 +41005,8 @@
     "ncat": "국도",
     "ref": "29",
     "review": "no",
-    "source": "Bing (adjusted)"
+    "source": "Bing (adjusted)",
+    "surface": "asphalt"
   }
 },
 {
@@ -89935,12 +89938,6 @@
 },
 {
   "type": "node",
-  "id": 436534136,
-  "lat": 36.4215417,
-  "lon": 126.7958730
-},
-{
-  "type": "node",
   "id": 1770306448,
   "lat": 36.4180859,
   "lon": 126.7988241
@@ -89990,44 +89987,50 @@
 {
   "type": "node",
   "id": 1770306468,
-  "lat": 36.4210206,
-  "lon": 126.7960585
+  "lat": 36.4210752,
+  "lon": 126.7960976
+},
+{
+  "type": "node",
+  "id": 436534136,
+  "lat": 36.4217936,
+  "lon": 126.7958417
 },
 {
   "type": "node",
   "id": 436534138,
-  "lat": 36.4221332,
-  "lon": 126.7956571
+  "lat": 36.4221437,
+  "lon": 126.7957249
 },
 {
   "type": "node",
   "id": 436534140,
-  "lat": 36.4224333,
-  "lon": 126.7955518
+  "lat": 36.4221984,
+  "lon": 126.7956904
 },
 {
   "type": "node",
   "id": 436534142,
-  "lat": 36.4226371,
-  "lon": 126.7954929
+  "lat": 36.4226644,
+  "lon": 126.7955451
 },
 {
   "type": "node",
   "id": 436534144,
-  "lat": 36.4228511,
-  "lon": 126.7954465
+  "lat": 36.4230211,
+  "lon": 126.7954856
 },
 {
   "type": "node",
   "id": 436534146,
-  "lat": 36.4232947,
-  "lon": 126.7953805
+  "lat": 36.4235613,
+  "lon": 126.7954040
 },
 {
   "type": "node",
   "id": 436534149,
-  "lat": 36.4239264,
-  "lon": 126.7952913
+  "lat": 36.4236829,
+  "lon": 126.7953904
 },
 {
   "type": "node",
@@ -90074,8 +90077,8 @@
 {
   "type": "node",
   "id": 7660450264,
-  "lat": 36.4217427,
-  "lon": 126.7957996
+  "lat": 36.4218351,
+  "lon": 126.7958257
 },
 {
   "type": "node",
