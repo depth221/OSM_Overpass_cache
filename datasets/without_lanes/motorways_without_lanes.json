@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-07-25T18:31:29Z",
-    "timestamp_areas_base": "2024-07-25T14:38:55Z",
+    "timestamp_osm_base": "2024-07-26T18:30:19Z",
+    "timestamp_areas_base": "2024-07-26T15:40:41Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -57,6 +57,54 @@
     "name:ko": "당진청주고속도로",
     "oneway": "yes",
     "ref": "32"
+  }
+},
+{
+  "type": "way",
+  "id": 867561259,
+  "nodes": [
+    8086463189,
+    8086463188
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "평택파주고속도로",
+    "name:el": "Αυτοκινητόδρομος Πιόνγκτεκ–Πάτζου",
+    "name:en": "Pyeongtaek-Paju Expressway",
+    "name:ko": "평택파주고속도로",
+    "name:ko-Hani": "平澤坡州高速道路",
+    "name:zh": "平澤坡州高速公路",
+    "name:zh-Hans": "平泽坡州高速公路",
+    "name:zh-Hant": "平澤坡州高速公路",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 867568567,
+  "nodes": [
+    8086530254,
+    8086530253
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "평택파주고속도로",
+    "name:el": "Αυτοκινητόδρομος Πιόνγκτεκ–Πάτζου",
+    "name:en": "Pyeongtaek-Paju Expressway",
+    "name:ko": "평택파주고속도로",
+    "name:ko-Hani": "平澤坡州高速道路",
+    "name:zh": "平澤坡州高速公路",
+    "name:zh-Hans": "平泽坡州高速公路",
+    "name:zh-Hant": "平澤坡州高速公路",
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -4842,6 +4890,84 @@
   }
 },
 {
+  "type": "way",
+  "id": 1303819185,
+  "nodes": [
+    12074594917,
+    8086463103
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "대원1교",
+    "name:el": "Αυτοκινητόδρομος Πιόνγκτεκ–Πάτζου",
+    "name:en": "Pyeongtaek-Paju Expressway",
+    "name:ko": "대원1교",
+    "name:ko-Hani": "平澤坡州高速道路",
+    "name:zh": "平澤坡州高速公路",
+    "name:zh-Hans": "平泽坡州高速公路",
+    "name:zh-Hant": "平澤坡州高速公路",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1303819186,
+  "nodes": [
+    12074594918,
+    8086530295,
+    11662267748,
+    8086530298
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "평택파주고속도로",
+    "name:el": "Αυτοκινητόδρομος Πιόνγκτεκ–Πάτζου",
+    "name:en": "Pyeongtaek-Paju Expressway",
+    "name:ko": "평택파주고속도로",
+    "name:ko-Hani": "平澤坡州高速道路",
+    "name:zh": "平澤坡州高速公路",
+    "name:zh-Hans": "平泽坡州高速公路",
+    "name:zh-Hant": "平澤坡州高速公路",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1303819188,
+  "nodes": [
+    11662267740,
+    8086463105,
+    12074594917
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "평택파주고속도로",
+    "name:el": "Αυτοκινητόδρομος Πιόνγκτεκ–Πάτζου",
+    "name:en": "Pyeongtaek-Paju Expressway",
+    "name:ko": "평택파주고속도로",
+    "name:ko-Hani": "平澤坡州高速道路",
+    "name:zh": "平澤坡州高速公路",
+    "name:zh-Hans": "平泽坡州高速公路",
+    "name:zh-Hant": "平澤坡州高速公路",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
   "type": "node",
   "id": 9599218328,
   "lat": 35.4446223,
@@ -8716,6 +8842,78 @@
   "id": 11625385580,
   "lat": 37.3928624,
   "lon": 127.0275416
+},
+{
+  "type": "node",
+  "id": 8086463103,
+  "lat": 37.7402667,
+  "lon": 126.7958601
+},
+{
+  "type": "node",
+  "id": 8086463105,
+  "lat": 37.7394929,
+  "lon": 126.7962459
+},
+{
+  "type": "node",
+  "id": 8086530295,
+  "lat": 37.7396981,
+  "lon": 126.7960227
+},
+{
+  "type": "node",
+  "id": 8086530298,
+  "lat": 37.7391500,
+  "lon": 126.7962630
+},
+{
+  "type": "node",
+  "id": 11662267740,
+  "lat": 37.7390118,
+  "lon": 126.7964464
+},
+{
+  "type": "node",
+  "id": 11662267748,
+  "lat": 37.7394653,
+  "lon": 126.7961281
+},
+{
+  "type": "node",
+  "id": 12074594917,
+  "lat": 37.7398624,
+  "lon": 126.7960617
+},
+{
+  "type": "node",
+  "id": 12074594918,
+  "lat": 37.7398721,
+  "lon": 126.7959381
+},
+{
+  "type": "node",
+  "id": 8086463188,
+  "lat": 37.7580651,
+  "lon": 126.7912371
+},
+{
+  "type": "node",
+  "id": 8086463189,
+  "lat": 37.7572043,
+  "lon": 126.7912126
+},
+{
+  "type": "node",
+  "id": 8086530253,
+  "lat": 37.7572871,
+  "lon": 126.7909939
+},
+{
+  "type": "node",
+  "id": 8086530254,
+  "lat": 37.7580209,
+  "lon": 126.7910851
 },
 {
   "type": "node",
