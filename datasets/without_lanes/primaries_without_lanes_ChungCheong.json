@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-08-09T18:45:01Z",
-    "timestamp_areas_base": "2024-08-09T14:57:45Z",
+    "timestamp_osm_base": "2024-08-10T18:44:35Z",
+    "timestamp_areas_base": "2024-08-10T15:15:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -27676,32 +27676,6 @@
     "name:ko": "속리산로",
     "ncat": "국도",
     "ref": "37",
-    "review": "no",
-    "source": "NTIC"
-  }
-},
-{
-  "type": "way",
-  "id": 574295221,
-  "nodes": [
-    5513064044,
-    414949556
-  ],
-  "tags": {
-    "bridge": "yes",
-    "bridge:structure": "beam",
-    "destination:backward": "당진;합덕;면천IC",
-    "destination:forward": "서산;해미;운산",
-    "destination:lang:en:backward": "Dangjin;Hapdeok;Myeoncheonn IC",
-    "destination:lang:en:forward": "Seosan;Haemi IC;Unsan",
-    "highway": "primary",
-    "layer": "1",
-    "name": "수당교",
-    "name:en": "Sudang Bridge",
-    "name:ko": "수당교",
-    "name:ko-Latn": "Sudanggyo",
-    "ncat": "지방도",
-    "ref": "70;647",
     "review": "no",
     "source": "NTIC"
   }
@@ -140872,18 +140846,6 @@
   "id": 7996409707,
   "lat": 36.7891992,
   "lon": 126.4808256
-},
-{
-  "type": "node",
-  "id": 414949556,
-  "lat": 36.8150024,
-  "lon": 126.5969244
-},
-{
-  "type": "node",
-  "id": 5513064044,
-  "lat": 36.8149658,
-  "lon": 126.5972508
 },
 {
   "type": "node",
