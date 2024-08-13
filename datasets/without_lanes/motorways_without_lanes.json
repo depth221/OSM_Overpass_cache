@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-08-12T18:34:23Z",
-    "timestamp_areas_base": "2024-08-12T16:25:10Z",
+    "timestamp_osm_base": "2024-08-13T18:33:11Z",
+    "timestamp_areas_base": "2024-08-13T16:57:06Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -4962,6 +4962,37 @@
   }
 },
 {
+  "type": "way",
+  "id": 1307432034,
+  "nodes": [
+    12107786212,
+    812798928
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "영동고속도로",
+    "name:el": "Αυτοκινητόδρομος Γιόνγκντονγκ",
+    "name:en": "Yeongdong Expressway",
+    "name:ja": "嶺東高速道路",
+    "name:ko": "영동고속도로",
+    "name:ko-Hani": "嶺東高速道路",
+    "name:ko-Latn": "Yeongdonggosokdoro",
+    "name:zh": "嶺東高速公路",
+    "name:zh-Hans": "岭东高速公路",
+    "name:zh-Hant": "嶺東高速公路",
+    "ncat": "고속도로",
+    "oneway": "yes",
+    "ref": "50",
+    "review": "no",
+    "source": "NTIC",
+    "toll": "yes"
+  }
+},
+{
   "type": "node",
   "id": 9599218328,
   "lat": 35.4446223,
@@ -9154,6 +9185,18 @@
   "id": 11628652578,
   "lat": 37.4649695,
   "lon": 127.0928162
+},
+{
+  "type": "node",
+  "id": 812798928,
+  "lat": 37.2428401,
+  "lon": 127.7466298
+},
+{
+  "type": "node",
+  "id": 12107786212,
+  "lat": 37.2428844,
+  "lon": 127.7462155
 },
 {
   "type": "node",
