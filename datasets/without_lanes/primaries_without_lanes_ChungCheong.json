@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-09-08T18:44:47Z",
-    "timestamp_areas_base": "2024-09-08T16:03:04Z",
+    "timestamp_osm_base": "2024-09-09T18:45:44Z",
+    "timestamp_areas_base": "2024-09-09T16:57:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -18840,6 +18840,7 @@
     4798166348,
     4798166343,
     11083768782,
+    12165084346,
     8261788562
   ],
   "tags": {
@@ -49899,7 +49900,8 @@
     "name": "계룡로",
     "name:en": "Gyeryong-ro",
     "name:ko": "계룡로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "surface": "asphalt"
   }
 },
 {
@@ -104779,7 +104781,7 @@
 {
   "type": "node",
   "id": 8947580590,
-  "lat": 36.3580165,
+  "lat": 36.3579997,
   "lon": 127.3312863
 },
 {
@@ -104803,8 +104805,8 @@
 {
   "type": "node",
   "id": 282170317,
-  "lat": 36.3536026,
-  "lon": 127.3416389
+  "lat": 36.3536063,
+  "lon": 127.3416298
 },
 {
   "type": "node",
@@ -104841,6 +104843,12 @@
   "id": 11083768785,
   "lat": 36.3536231,
   "lon": 127.3415830
+},
+{
+  "type": "node",
+  "id": 12165084346,
+  "lat": 36.3537168,
+  "lon": 127.3413294
 },
 {
   "type": "node",
