@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-09-12T18:37:01Z",
-    "timestamp_areas_base": "2024-09-12T16:48:36Z",
+    "timestamp_osm_base": "2024-09-13T18:35:11Z",
+    "timestamp_areas_base": "2024-09-13T17:03:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -4887,11 +4887,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "남제천IC2교",
+    "bridge:name:ko": "남제천IC2교",
     "bridge:structure": "beam",
     "highway": "motorway",
     "layer": "0",
-    "name": "남제천IC2교",
-    "name:ko": "남제천IC2교",
     "oneway": "yes",
     "review": "no",
     "source": "Yahoo"
@@ -4905,15 +4905,15 @@
     8086463103
   ],
   "tags": {
+    "bridge:name": "대원1교",
+    "bridge:name:ko": "대원1교",
     "highway": "motorway",
     "layer": "1",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
     "minspeed": "50",
-    "name": "대원1교",
     "name:el": "Αυτοκινητόδρομος Πιόνγκτεκ–Πάτζου",
     "name:en": "Pyeongtaek-Paju Expressway",
-    "name:ko": "대원1교",
     "name:ko-Hani": "平澤坡州高速道路",
     "name:zh": "平澤坡州高速公路",
     "name:zh-Hans": "平泽坡州高速公路",
