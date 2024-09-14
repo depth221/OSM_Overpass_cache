@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-09-12T18:46:20Z",
-    "timestamp_areas_base": "2024-09-12T16:48:36Z",
+    "timestamp_osm_base": "2024-09-14T18:44:51Z",
+    "timestamp_areas_base": "2024-09-14T13:42:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -91,11 +91,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "천석교",
+    "bridge:name:ko": "천석교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "천석교",
-    "name:ko": "천석교",
     "ref": "17"
   }
 },
@@ -172,10 +172,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "금강교",
+    "bridge:name:ko": "금강교",
     "highway": "primary",
     "layer": "1",
-    "name": "금강교",
-    "name:ko": "금강교",
     "oneway": "yes",
     "ref": "40"
   }
@@ -360,9 +360,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "인포교",
     "highway": "primary",
     "layer": "1",
-    "name": "인포교",
     "ref": "37",
     "surface": "asphalt"
   }
@@ -1426,11 +1426,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "효교교",
+    "bridge:name:ko": "효교교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "효교교",
-    "name:ko": "효교교",
     "ncat": "국도",
     "ref": "40",
     "review": "no",
@@ -1845,9 +1845,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "벽천2교",
     "highway": "primary",
     "layer": "1",
-    "name": "벽천2교",
     "ref": "29",
     "review": "no",
     "source": "NTIC"
@@ -1995,10 +1995,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "장신교",
+    "bridge:name:ko": "장신교",
     "highway": "primary",
     "layer": "1",
-    "name": "장신교",
-    "name:ko": "장신교",
     "ref": "25",
     "surface": "asphalt"
   }
@@ -2027,10 +2027,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "교사교",
+    "bridge:name:ko": "교사교",
     "highway": "primary",
     "layer": "1",
-    "name": "교사교",
-    "name:ko": "교사교",
     "ref": "25"
   }
 },
@@ -2101,9 +2101,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "인차교",
     "highway": "primary",
     "layer": "1",
-    "name": "인차교",
     "ref": "25"
   }
 },
@@ -2391,11 +2391,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "성북교",
+    "bridge:name:ko": "성북교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "성북교",
-    "name:ko": "성북교",
     "ncat": "국도",
     "oneway": "yes",
     "ref": "21;77",
@@ -2436,10 +2436,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "대천교",
+    "bridge:name:ko": "대천교",
     "highway": "primary",
     "layer": "1",
-    "name": "대천교",
-    "name:ko": "대천교",
     "ref": "4"
   }
 },
@@ -2491,10 +2491,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "과선교",
+    "bridge:name:ko": "과선교",
     "highway": "primary",
     "layer": "1",
-    "name": "과선교",
-    "name:ko": "과선교",
     "ref": "4"
   }
 },
@@ -2599,10 +2599,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "추풍령4교",
+    "bridge:name:ko": "추풍령4교",
     "highway": "primary",
     "layer": "1",
-    "name": "추풍령4교",
-    "name:ko": "추풍령4교",
     "oneway": "yes",
     "ref": "4"
   }
@@ -2666,9 +2666,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "송천교",
     "highway": "primary",
     "layer": "1",
-    "name": "송천교",
     "ncat": "국도",
     "oneway": "yes",
     "ref": "19",
@@ -2685,10 +2685,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "추풍령2교",
+    "bridge:name:ko": "추풍령2교",
     "highway": "primary",
     "layer": "1",
-    "name": "추풍령2교",
-    "name:ko": "추풍령2교",
     "oneway": "yes",
     "ref": "4"
   }
@@ -2737,10 +2737,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "추풍령3교",
+    "bridge:name:ko": "추풍령3교",
     "highway": "primary",
     "layer": "1",
-    "name": "추풍령3교",
-    "name:ko": "추풍령3교",
     "oneway": "yes",
     "ref": "4"
   }
@@ -2787,10 +2787,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "추풍령1교",
+    "bridge:name:ko": "추풍령1교",
     "highway": "primary",
     "layer": "1",
-    "name": "추풍령1교",
-    "name:ko": "추풍령1교",
     "oneway": "yes",
     "ref": "4"
   }
@@ -2821,10 +2821,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "추풍령과선교",
+    "bridge:name:ko": "추풍령과선교",
     "highway": "primary",
     "layer": "1",
-    "name": "추풍령과선교",
-    "name:ko": "추풍령과선교",
     "oneway": "yes",
     "ref": "4"
   }
@@ -3349,10 +3349,13 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "송학교",
+    "bridge:name:ko": "송학교",
     "highway": "primary",
     "layer": "1",
-    "name": "송학교",
-    "name:ko": "송학교",
+    "name": "북부로",
+    "name:en": "Bukbu-ro",
+    "name:ko": "북부로",
     "oneway": "yes",
     "ref": "38"
   }
@@ -3456,10 +3459,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "은하2교",
+    "bridge:name:ko": "은하2교",
     "highway": "primary",
     "layer": "1",
-    "name": "은하2교",
-    "name:ko": "은하2교",
     "oneway": "yes",
     "ref": "21",
     "review": "no",
@@ -3576,10 +3579,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "천수만교",
+    "bridge:name:ko": "천수만교",
     "highway": "primary",
     "layer": "1",
-    "name": "천수만교",
-    "name:ko": "천수만교",
     "oneway": "yes",
     "ref": "21",
     "review": "no",
@@ -3730,11 +3733,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "오촌교",
+    "bridge:name:ko": "오촌교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "오촌교",
-    "name:ko": "오촌교",
     "ncat": "국도;지방도",
     "ref": "40;645",
     "review": "no",
@@ -3780,9 +3783,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "정전교",
     "highway": "primary",
     "layer": "1",
-    "name": "정전교",
     "oneway": "yes",
     "ref": "21",
     "review": "no",
@@ -3841,11 +3844,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "상정교",
+    "bridge:name:ko": "상정교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "상정교",
-    "name:ko": "상정교",
     "ref": "96",
     "review": "no",
     "source": "NTIC"
@@ -3982,10 +3985,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "매주육교",
     "highway": "primary",
     "layer": "1",
     "maxspeed": "40",
-    "name": "매주육교",
     "ncat": "지방도",
     "ref": "70",
     "review": "no",
@@ -4131,11 +4134,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "도원교",
+    "bridge:name:ko": "도원교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "도원교",
-    "name:ko": "도원교",
     "ncat": "지방도",
     "ref": "32",
     "review": "no",
@@ -4175,11 +4178,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "동진교",
+    "bridge:name:ko": "동진교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "동진교",
-    "name:ko": "동진교",
     "ncat": "국도",
     "review": "no",
     "source": "NTIC"
@@ -4333,9 +4336,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "황풍교",
     "highway": "primary",
     "layer": "1",
-    "name": "황풍교",
     "ref": "37",
     "review": "no",
     "source": "Bing (adjusted)"
@@ -4402,9 +4405,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "음대교",
     "highway": "primary",
     "layer": "1",
-    "name": "음대교",
     "ref": "13",
     "review": "no",
     "surface": "asphalt"
@@ -4419,10 +4422,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "보청교",
+    "bridge:name:ko": "보청교",
     "highway": "primary",
     "layer": "1",
-    "name": "보청교",
-    "name:ko": "보청교",
     "ref": "25"
   }
 },
@@ -4662,28 +4665,7 @@
     437005195,
     437005197,
     437005199,
-    437005201,
-    437005202,
-    437005204,
-    437005206,
-    437005212,
-    10825708693,
-    7042102157,
-    437005214,
-    437005215,
-    437005216,
-    437005217,
-    437005218,
-    437005219,
-    437005220,
-    437005221,
-    437005222,
-    437005223,
-    437005225,
-    437005227,
-    437005228,
-    437005230,
-    437005337
+    437005201
   ],
   "tags": {
     "highway": "primary",
@@ -4732,11 +4714,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "유정2교",
+    "bridge:name:ko": "유정2교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "유정2교",
-    "name:ko": "유정2교",
     "oneway": "yes",
     "ref": "1;23;43",
     "review": "no",
@@ -4809,11 +4791,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "팔송대교",
+    "bridge:name:ko": "팔송대교",
     "highway": "primary",
     "layer": "1",
-    "name": "팔송대교",
     "name:en": "Palsongdae Bridge",
-    "name:ko": "팔송대교",
     "name:ko-Latn": "Palsongdaegyo",
     "ref": "5"
   }
@@ -4827,10 +4809,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "수산3교",
+    "bridge:name:ko": "수산3교",
     "highway": "primary",
     "layer": "1",
-    "name": "수산3교",
-    "name:ko": "수산3교",
     "ref": "36;82"
   }
 },
@@ -5418,10 +5400,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "왕릉교",
+    "bridge:name:ko": "왕릉교",
     "highway": "primary",
     "layer": "1",
-    "name": "왕릉교",
-    "name:ko": "왕릉교",
     "ref": "40",
     "review": "no",
     "source": "Yahoo"
@@ -6195,10 +6177,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "차정교",
+    "bridge:name:ko": "차정교",
     "highway": "primary",
     "layer": "1",
-    "name": "차정교",
-    "name:ko": "차정교",
     "ref": "25",
     "surface": "asphalt"
   }
@@ -6212,9 +6194,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "해창교",
     "highway": "primary",
     "layer": "1",
-    "name": "해창교",
     "oneway": "yes",
     "ref": "23"
   }
@@ -6273,9 +6255,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "영창교",
     "highway": "primary",
     "layer": "1",
-    "name": "영창교",
     "oneway": "yes",
     "ref": "23"
   }
@@ -6322,9 +6304,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "영창교",
     "highway": "primary",
     "layer": "1",
-    "name": "영창교",
     "oneway": "yes",
     "ref": "23"
   }
@@ -6355,9 +6337,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "부창교",
     "highway": "primary",
     "layer": "1",
-    "name": "부창교",
     "oneway": "yes",
     "ref": "23"
   }
@@ -6371,9 +6353,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "화산교",
     "highway": "primary",
     "layer": "1",
-    "name": "화산교",
     "oneway": "yes",
     "ref": "23"
   }
@@ -7642,12 +7624,12 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "노화교",
+    "bridge:name:ko": "노화교",
     "destination": "보령;홍성",
     "destination:lang:en": "Boryeong;Hongseong",
     "highway": "primary",
     "layer": "1",
-    "name": "노화교",
-    "name:ko": "노화교",
     "oneway": "yes",
     "ref": "21",
     "review": "no",
@@ -7716,12 +7698,12 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "노화교",
+    "bridge:name:ko": "노화교",
     "destination": "아산;예산;예산수덕사IC",
     "destination:lang:en": "Asan;Yesan;Yesan-Sudeoksa IC",
     "highway": "primary",
     "layer": "1",
-    "name": "노화교",
-    "name:ko": "노화교",
     "oneway": "yes",
     "ref": "21",
     "review": "no",
@@ -7824,12 +7806,12 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "역탑1교",
+    "bridge:name:ko": "역탑1교",
     "destination": "공주;아산;예산",
     "destination:lang:en": "Gongju;Asan;Yesan",
     "highway": "primary",
     "layer": "1",
-    "name": "역탑1교",
-    "name:ko": "역탑1교",
     "oneway": "yes",
     "ref": "21",
     "review": "no",
@@ -7847,12 +7829,12 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "역탑1교",
+    "bridge:name:ko": "역탑1교",
     "destination": "홍성;충남도청;예산수덕사IC",
     "destination:lang:en": "Hongseong;Chungnam Provincial Office;Yesan-Sudeoksa IC",
     "highway": "primary",
     "layer": "1",
-    "name": "역탑1교",
-    "name:ko": "역탑1교",
     "oneway": "yes",
     "ref": "21",
     "review": "no",
@@ -7996,10 +7978,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "대교",
+    "bridge:name:ko": "대교",
     "highway": "primary",
     "layer": "1",
-    "name": "대교",
-    "name:ko": "대교",
     "oneway": "yes",
     "ref": "21",
     "review": "no",
@@ -8016,12 +7998,12 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "금마교",
+    "bridge:name:ko": "금마교",
     "destination": "보령;홍성",
     "destination:lang:en": "Boryeong;Hongseong",
     "highway": "primary",
     "layer": "1",
-    "name": "금마교",
-    "name:ko": "금마교",
     "oneway": "yes",
     "ref": "21",
     "review": "no",
@@ -8037,12 +8019,12 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "금마교",
+    "bridge:name:ko": "금마교",
     "destination": "아산;예산;예산수덕사IC",
     "destination:lang:en": "Asan;Yesan;Yesan-Sudeoksa IC",
     "highway": "primary",
     "layer": "1",
-    "name": "금마교",
-    "name:ko": "금마교",
     "oneway": "yes",
     "ref": "21",
     "review": "no",
@@ -8179,10 +8161,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "입암교",
+    "bridge:name:ko": "입암교",
     "highway": "primary",
     "layer": "1",
-    "name": "입암교",
-    "name:ko": "입암교",
     "oneway": "yes",
     "ref": "29",
     "review": "no",
@@ -8198,13 +8180,13 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "임성교",
+    "bridge:name:ko": "임성교",
     "bridge:structure": "beam",
     "destination": "홍성;서산;예산",
     "destination:lang:en": "Hongseong;Seosan;Yesan",
     "highway": "primary",
     "layer": "1",
-    "name": "임성교",
-    "name:ko": "임성교",
     "oneway": "yes",
     "ref": "21;32;45",
     "review": "no",
@@ -8220,13 +8202,13 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "창소육교",
+    "bridge:name:ko": "창소육교",
     "bridge:structure": "beam",
     "destination": "천안;아산;당진",
     "destination:lang:en": "Cheonan;Asan;Dangjin",
     "highway": "primary",
     "layer": "1",
-    "name": "창소육교",
-    "name:ko": "창소육교",
     "oneway": "yes",
     "ref": "21;32;45",
     "review": "no",
@@ -8245,12 +8227,12 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "신례원1교",
+    "bridge:name:ko": "신례원1교",
     "destination": "천안;아산;당진",
     "destination:lang:en": "Cheonan;Asan;Dangjin",
     "highway": "primary",
     "layer": "1",
-    "name": "신례원1교",
-    "name:ko": "신례원1교",
     "oneway": "yes",
     "ref": "21;32;45",
     "review": "no",
@@ -8326,12 +8308,12 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "예산대교",
+    "bridge:name:ko": "예산대교",
     "destination": "홍성;충남도청;예산수덕사IC",
     "destination:lang:en": "Hongseong;Chungnam Provincial Office;Yesan-Sudeoksa IC",
     "highway": "primary",
     "layer": "1",
-    "name": "예산대교",
-    "name:ko": "예산대교",
     "oneway": "yes",
     "ref": "21",
     "review": "no",
@@ -8467,9 +8449,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "송죽교",
     "highway": "primary",
     "layer": "1",
-    "name": "송죽교",
     "oneway": "yes",
     "ref": "19",
     "review": "no",
@@ -8485,9 +8467,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "화성교",
     "highway": "primary",
     "layer": "1",
-    "name": "화성교",
     "ref": "19",
     "review": "no",
     "source": "Bing (adjusted)"
@@ -8869,9 +8851,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "청산교",
     "highway": "primary",
     "layer": "1",
-    "name": "청산교",
     "ref": "19",
     "review": "no",
     "source": "Bing (adjusted)"
@@ -9489,10 +9471,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "구인교",
+    "bridge:name:ko": "구인교",
     "highway": "primary",
     "layer": "1",
-    "name": "구인교",
-    "name:ko": "구인교",
     "ref": "25"
   }
 },
@@ -9506,14 +9488,14 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "문방1교",
+    "bridge:name:ko": "문방1교",
     "bridge:structure": "beam",
     "destination": "평택;아산;둔포",
     "destination:lang:en": "Pyeongtaek;Asan;Dunpo",
     "highway": "primary",
     "layer": "1",
-    "name": "문방1교",
     "name:en": "Munbang 1 Bridge",
-    "name:ko": "문방1교",
     "name:ko-Latn": "Munbang 1 Gyo",
     "oneway": "yes",
     "ref": "34;38;77"
@@ -9559,10 +9541,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "고당교",
+    "bridge:name:ko": "고당교",
     "highway": "primary",
     "layer": "1",
-    "name": "고당교",
-    "name:ko": "고당교",
     "ref": "4"
   }
 },
@@ -9674,10 +9656,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "각계교",
+    "bridge:name:ko": "각계교",
     "highway": "primary",
     "layer": "1",
-    "name": "각계교",
-    "name:ko": "각계교",
     "ref": "4"
   }
 },
@@ -9690,10 +9672,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "산리교",
+    "bridge:name:ko": "산리교",
     "highway": "primary",
     "layer": "1",
-    "name": "산리교",
-    "name:ko": "산리교",
     "ref": "4"
   }
 },
@@ -9843,9 +9825,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "지사천교",
     "highway": "primary",
     "layer": "1",
-    "name": "지사천교",
     "oneway": "yes",
     "ref": "37"
   }
@@ -9877,9 +9859,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "신금천대교",
     "highway": "primary",
     "layer": "1",
-    "name": "신금천대교",
     "oneway": "yes",
     "ref": "37"
   }
@@ -9951,11 +9933,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "제1상옥교",
+    "bridge:name:ko": "제1상옥교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "제1상옥교",
-    "name:ko": "제1상옥교",
     "ref": "13"
   }
 },
@@ -10119,9 +10101,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "학암교",
     "highway": "primary",
     "layer": "1",
-    "name": "학암교",
     "ncat": "국도",
     "ref": "39",
     "review": "no",
@@ -10137,10 +10119,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "지천교",
+    "bridge:name:ko": "지천교",
     "highway": "primary",
     "layer": "1",
-    "name": "지천교",
-    "name:ko": "지천교",
     "ref": "39",
     "review": "no",
     "source": "NTIC"
@@ -10155,9 +10137,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "중추교",
     "highway": "primary",
     "layer": "1",
-    "name": "중추교",
     "ncat": "국도;지방도",
     "ref": "39;625;645",
     "review": "no",
@@ -10173,9 +10155,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "미당교",
     "highway": "primary",
     "layer": "1",
-    "name": "미당교",
     "ncat": "국도",
     "ref": "39",
     "review": "no",
@@ -10462,9 +10444,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "금정교",
     "highway": "primary",
     "layer": "1",
-    "name": "금정교",
     "ncat": "국도",
     "ref": "29",
     "review": "no",
@@ -10899,9 +10881,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "벽룡교",
     "highway": "primary",
     "layer": "1",
-    "name": "벽룡교",
     "ncat": "국도",
     "ref": "29",
     "review": "yes",
@@ -10918,9 +10900,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "여사교",
     "highway": "primary",
     "layer": "1",
-    "name": "여사교",
     "ncat": "국도",
     "ref": "29",
     "review": "yes",
@@ -10960,10 +10942,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "눌곡교",
+    "bridge:name:ko": "눌곡교",
     "highway": "primary",
     "layer": "1",
-    "name": "눌곡교",
-    "name:ko": "눌곡교",
     "ref": "25",
     "surface": "asphalt"
   }
@@ -10978,10 +10960,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "송평교",
+    "bridge:name:ko": "송평교",
     "highway": "primary",
     "layer": "1",
-    "name": "송평교",
-    "name:ko": "송평교",
     "ref": "25",
     "surface": "asphalt"
   }
@@ -11127,11 +11109,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "금평교",
+    "bridge:name:ko": "금평교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "금평교",
-    "name:ko": "금평교",
     "ref": "32",
     "review": "no",
     "source": "Bing (adjusted)",
@@ -11770,10 +11752,13 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "서곡교",
+    "bridge:name:ko": "서곡교",
     "highway": "primary",
     "layer": "1",
-    "name": "서곡교",
-    "name:ko": "서곡교",
+    "name": "북부로",
+    "name:en": "Bukbu-ro",
+    "name:ko": "북부로",
     "oneway": "yes",
     "ref": "38"
   }
@@ -11787,15 +11772,15 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "신진대교",
+    "bridge:name:ko": "신진대교",
     "destination:backward": "신진도리",
     "destination:forward": "서산;태안;근흥",
     "destination:lang:en:backward": "Sinjin Island",
     "destination:lang:en:forward": "Seosan;Taean;Geunheung",
     "highway": "primary",
     "layer": "1",
-    "name": "신진대교",
     "name:en": "Sinjindae Bridge",
-    "name:ko": "신진대교",
     "name:ko-Latn": "Sinjindaegyo",
     "ncat": "지방도",
     "ref": "96;603",
@@ -12511,9 +12496,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "지사천교",
     "highway": "primary",
     "layer": "1",
-    "name": "지사천교",
     "oneway": "yes",
     "ref": "37"
   }
@@ -12780,9 +12765,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "야현교",
     "highway": "primary",
     "layer": "1",
-    "name": "야현교",
     "oneway": "yes",
     "ref": "21"
   }
@@ -12858,9 +12843,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "야현교",
     "highway": "primary",
     "layer": "1",
-    "name": "야현교",
     "oneway": "yes",
     "ref": "21",
     "review": "no",
@@ -12926,9 +12911,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "정전교",
     "highway": "primary",
     "layer": "1",
-    "name": "정전교",
     "oneway": "yes",
     "ref": "21"
   }
@@ -13360,11 +13345,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "장호원교",
+    "bridge:name:ko": "장호원교",
     "highway": "primary",
     "layer": "1",
     "maxspeed": "80",
-    "name": "장호원교",
-    "name:ko": "장호원교",
     "oneway": "yes",
     "ref": "38"
   }
@@ -13379,10 +13364,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "장호원교",
+    "bridge:name:ko": "장호원교",
     "highway": "primary",
     "layer": "1",
-    "name": "장호원교",
-    "name:ko": "장호원교",
     "oneway": "yes",
     "ref": "38"
   }
@@ -13443,10 +13428,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "황곡교",
+    "bridge:name:ko": "황곡교",
     "highway": "primary",
     "layer": "1",
-    "name": "황곡교",
-    "name:ko": "황곡교",
     "ref": "25"
   }
 },
@@ -13542,9 +13527,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "백석2교",
     "highway": "primary",
     "layer": "1",
-    "name": "백석2교",
     "ncat": "국도",
     "ref": "37",
     "review": "no",
@@ -13561,10 +13546,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "안성천교",
+    "bridge:name:ko": "안성천교",
     "highway": "primary",
-    "name": "안성천교",
     "name:en": "Anseongcheongyo (Bridge)",
-    "name:ko": "안성천교",
     "oneway": "yes",
     "ref": "1",
     "review": "no",
@@ -13580,10 +13565,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "이원교",
+    "bridge:name:ko": "이원교",
     "highway": "primary",
     "layer": "1",
-    "name": "이원교",
-    "name:ko": "이원교",
     "ref": "4"
   }
 },
@@ -13596,10 +13581,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "건진교",
+    "bridge:name:ko": "건진교",
     "highway": "primary",
     "layer": "1",
-    "name": "건진교",
-    "name:ko": "건진교",
     "ref": "4"
   }
 },
@@ -14194,12 +14179,12 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "세도교",
+    "bridge:name:ko": "세도교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "세도교",
     "name:en": "Sedo Bridge",
-    "name:ko": "세도교",
     "name:ko-Latn": "Sedogyo",
     "ncat": "지방도",
     "oneway": "no",
@@ -14778,10 +14763,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "보국사교",
+    "bridge:name:ko": "보국사교",
     "highway": "primary",
     "layer": "1",
-    "name": "보국사교",
-    "name:ko": "보국사교",
     "ref": "5;36"
   }
 },
@@ -15006,12 +14991,12 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "둔포교",
     "destination": "평택;팽성;성환",
     "destination:lang:en": "Pyeongtaek;Paengseong;Seonghwan",
     "highway": "primary",
     "layer": "1",
     "maxspeed": "80",
-    "name": "둔포교",
     "ncat": "국도",
     "oneway": "yes",
     "ref": "34",
@@ -15049,14 +15034,14 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "둔포RAMP1교",
+    "bridge:name:ko": "둔포RAMP1교",
     "bridge:structure": "beam",
     "destination": "평택;팽성;성환",
     "destination:lang:en": "Pyeongtaek;Paengseong;Seonghwan",
     "highway": "primary",
     "layer": "1",
     "maxspeed": "80",
-    "name": "둔포RAMP1교",
-    "name:ko": "둔포RAMP1교",
     "oneway": "yes",
     "ref": "34",
     "surface": "asphalt"
@@ -15091,10 +15076,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "온천교",
+    "bridge:name:ko": "온천교",
     "highway": "primary",
-    "name": "온천교",
     "name:en": "Oncheongyo (Bridge)",
-    "name:ko": "온천교",
     "oneway": "yes"
   }
 },
@@ -15785,11 +15770,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "금석교",
+    "bridge:name:ko": "금석교",
     "highway": "primary",
     "layer": "1",
-    "name": "금석교",
-    "name:en": "Geumseokgyo (Bridge)",
-    "name:ko": "금석교"
+    "name:en": "Geumseokgyo (Bridge)"
   }
 },
 {
@@ -15801,9 +15786,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "부교",
     "highway": "primary",
     "layer": "1",
-    "name": "부교",
     "oneway": "yes",
     "ref": "23"
   }
@@ -15817,9 +15802,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "부교",
     "highway": "primary",
     "layer": "1",
-    "name": "부교",
     "oneway": "yes",
     "ref": "23"
   }
@@ -16040,10 +16025,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "장호원교",
+    "bridge:name:ko": "장호원교",
     "highway": "primary",
-    "layer": "1",
-    "name": "장호원교",
-    "name:ko": "장호원교"
+    "layer": "1"
   }
 },
 {
@@ -16055,11 +16040,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "익금교",
+    "bridge:name:ko": "익금교",
     "bridge:structure": "beam",
     "highway": "primary",
-    "layer": "1",
-    "name": "익금교",
-    "name:ko": "익금교"
+    "layer": "1"
   }
 },
 {
@@ -16171,11 +16156,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "미암교",
+    "bridge:name:ko": "미암교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "미암교",
-    "name:ko": "미암교",
     "ref": "34;36",
     "review": "no",
     "source": "NTIC"
@@ -16191,11 +16176,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "반탄교",
+    "bridge:name:ko": "반탄교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "반탄교",
-    "name:ko": "반탄교",
     "ref": "34",
     "review": "no"
   }
@@ -16306,10 +16291,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "옥수교",
+    "bridge:name:ko": "옥수교",
     "highway": "primary",
     "layer": "1",
-    "name": "옥수교",
-    "name:ko": "옥수교",
     "oneway": "yes",
     "ref": "36;592",
     "review": "no",
@@ -16325,10 +16310,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "옥수교",
+    "bridge:name:ko": "옥수교",
     "highway": "primary",
     "layer": "1",
-    "name": "옥수교",
-    "name:ko": "옥수교",
     "oneway": "yes",
     "ref": "36;592",
     "review": "no",
@@ -16598,11 +16583,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "공운교",
+    "bridge:name:ko": "공운교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "공운교",
-    "name:ko": "공운교",
     "oneway": "yes",
     "ref": "1"
   }
@@ -16674,11 +16659,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "공운교",
+    "bridge:name:ko": "공운교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "공운교",
-    "name:ko": "공운교",
     "oneway": "yes",
     "ref": "1"
   }
@@ -17038,11 +17023,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "부용교",
+    "bridge:name:ko": "부용교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "부용교",
-    "name:ko": "부용교",
     "oneway": "yes"
   }
 },
@@ -17055,11 +17040,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "부용교",
+    "bridge:name:ko": "부용교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "부용교",
-    "name:ko": "부용교",
     "oneway": "yes"
   }
 },
@@ -17147,9 +17132,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "추풍령5교",
+    "bridge:name:ko": "추풍령5교",
     "highway": "primary",
-    "name": "추풍령5교",
-    "name:ko": "추풍령5교",
     "oneway": "yes",
     "ref": "4"
   }
@@ -17215,10 +17200,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "원관과선교",
+    "bridge:name:ko": "원관과선교",
     "highway": "primary",
     "layer": "1",
-    "name": "원관과선교",
-    "name:ko": "원관과선교",
     "oneway": "yes",
     "ref": "4"
   }
@@ -17275,9 +17260,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "추풍령5교",
+    "bridge:name:ko": "추풍령5교",
     "highway": "primary",
-    "name": "추풍령5교",
-    "name:ko": "추풍령5교",
     "oneway": "yes",
     "ref": "4"
   }
@@ -17297,10 +17282,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "원관과선교",
+    "bridge:name:ko": "원관과선교",
     "highway": "primary",
     "layer": "1",
-    "name": "원관과선교",
-    "name:ko": "원관과선교",
     "oneway": "yes",
     "ref": "4"
   }
@@ -17634,9 +17619,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "안치교",
     "highway": "primary",
     "layer": "2",
-    "name": "안치교",
     "oneway": "yes",
     "ref": "40"
   }
@@ -17650,9 +17635,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "안치교",
     "highway": "primary",
     "layer": "2",
-    "name": "안치교",
     "oneway": "yes",
     "ref": "40"
   }
@@ -17807,11 +17792,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "용정교",
+    "bridge:name:ko": "용정교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "용정교",
-    "name:ko": "용정교",
     "oneway": "yes",
     "ref": "40"
   }
@@ -18025,9 +18010,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "율암교",
     "highway": "primary",
     "layer": "1",
-    "name": "율암교",
     "ncat": "국도",
     "ref": "40",
     "review": "no",
@@ -18209,11 +18194,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "금왕대교",
+    "bridge:name:ko": "금왕대교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "금왕대교",
-    "name:ko": "금왕대교",
     "ncat": "지방도",
     "ref": "82",
     "review": "no",
@@ -18492,10 +18477,13 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "송학교",
+    "bridge:name:ko": "송학교",
     "highway": "primary",
     "layer": "1",
-    "name": "송학교",
-    "name:ko": "송학교",
+    "name": "북부로",
+    "name:en": "Bukbu-ro",
+    "name:ko": "북부로",
     "oneway": "yes",
     "ref": "38"
   }
@@ -18683,12 +18671,12 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "화암육교",
+    "bridge:name:ko": "화암육교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
     "maxspeed": "60",
-    "name": "화암육교",
-    "name:ko": "화암육교",
     "oneway": "yes",
     "ref": "57"
   }
@@ -18793,9 +18781,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "명천고가교",
     "highway": "primary",
     "layer": "1",
-    "name": "명천고가교",
     "oneway": "yes",
     "ref": "40",
     "review": "no",
@@ -18828,10 +18816,13 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "서곡교",
+    "bridge:name:ko": "서곡교",
     "highway": "primary",
     "layer": "1",
-    "name": "서곡교",
-    "name:ko": "서곡교",
+    "name": "북부로",
+    "name:en": "Bukbu-ro",
+    "name:ko": "북부로",
     "oneway": "yes"
   }
 },
@@ -19189,10 +19180,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "추풍령과선교",
+    "bridge:name:ko": "추풍령과선교",
     "highway": "primary",
     "layer": "1",
-    "name": "추풍령과선교",
-    "name:ko": "추풍령과선교",
     "oneway": "yes",
     "ref": "4"
   }
@@ -19224,9 +19215,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "가탑교",
     "highway": "primary",
     "layer": "1",
-    "name": "가탑교",
     "oneway": "yes",
     "ref": "40"
   }
@@ -19384,11 +19375,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "무도1교",
+    "bridge:name:ko": "무도1교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "무도1교",
-    "name:ko": "무도1교",
     "ref": "82"
   }
 },
@@ -19475,10 +19466,13 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "영덕1교",
+    "bridge:name:ko": "영덕1교",
     "highway": "primary",
     "layer": "1",
-    "name": "영덕1교",
-    "name:ko": "영덕1교",
+    "name": "북부로",
+    "name:en": "Bukbu-ro",
+    "name:ko": "북부로",
     "oneway": "yes",
     "ref": "38"
   }
@@ -19492,11 +19486,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "안성천교",
+    "bridge:name:ko": "안성천교",
     "highway": "primary",
     "layer": "1",
-    "name": "안성천교",
     "name:en": "Anseongcheongyo (Bridge)",
-    "name:ko": "안성천교",
     "oneway": "yes",
     "ref": "1"
   }
@@ -19526,10 +19520,13 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "영덕2교",
+    "bridge:name:ko": "영덕2교",
     "highway": "primary",
     "layer": "1",
-    "name": "영덕2교",
-    "name:ko": "영덕2교",
+    "name": "북부로",
+    "name:en": "Bukbu-ro",
+    "name:ko": "북부로",
     "oneway": "yes",
     "ref": "38"
   }
@@ -19770,9 +19767,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "고교",
     "highway": "primary",
     "layer": "1",
-    "name": "고교",
     "ncat": "지방도",
     "ref": "82",
     "review": "no",
@@ -19927,11 +19924,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "구교교",
+    "bridge:name:ko": "구교교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "구교교",
-    "name:ko": "구교교",
     "oneway": "yes",
     "ref": "19"
   }
@@ -19968,11 +19965,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "구교교",
+    "bridge:name:ko": "구교교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "구교교",
-    "name:ko": "구교교",
     "oneway": "yes",
     "ref": "19"
   }
@@ -20202,9 +20199,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "오미교",
     "highway": "primary",
     "layer": "1",
-    "name": "오미교",
     "oneway": "yes",
     "ref": "19",
     "review": "no",
@@ -20220,9 +20217,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "원남교",
     "highway": "primary",
     "layer": "1",
-    "name": "원남교",
     "oneway": "yes",
     "ref": "19",
     "review": "no",
@@ -20238,9 +20235,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "선지교",
     "highway": "primary",
     "layer": "1",
-    "name": "선지교",
     "oneway": "yes",
     "ref": "19",
     "review": "no",
@@ -20279,10 +20276,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "이평교",
+    "bridge:name:ko": "이평교",
     "highway": "primary",
     "layer": "1",
-    "name": "이평교",
-    "name:ko": "이평교",
     "oneway": "yes",
     "ref": "25",
     "surface": "asphalt"
@@ -20491,12 +20488,12 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "치재교",
+    "bridge:name:ko": "치재교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "치재교",
     "name:en": "Chijae Bridge",
-    "name:ko": "치재교",
     "name:ko-Latn": "Chijaegyo",
     "ncat": "지방도",
     "ncat:bridge": "mp_poi",
@@ -20751,9 +20748,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "자왕교",
     "highway": "primary",
     "layer": "1",
-    "name": "자왕교",
     "ncat": "국도",
     "ref": "40",
     "review": "no",
@@ -20791,9 +20788,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "저석교",
     "highway": "primary",
     "layer": "1",
-    "name": "저석교",
     "ncat": "국도;지방도",
     "ref": "40;645",
     "review": "no",
@@ -20810,9 +20807,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "신정육교",
     "highway": "primary",
     "layer": "1",
-    "name": "신정육교",
     "ncat": "국도",
     "ref": "40",
     "review": "no",
@@ -20903,11 +20900,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "송용교",
+    "bridge:name:ko": "송용교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "송용교",
-    "name:ko": "송용교",
     "ref": "36"
   }
 },
@@ -20953,10 +20950,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "청성교",
+    "bridge:name:ko": "청성교",
     "highway": "primary",
     "layer": "1",
-    "name": "청성교",
-    "name:ko": "청성교",
     "oneway": "yes",
     "ref": "29",
     "review": "no",
@@ -21016,9 +21013,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "죽림교",
     "highway": "primary",
     "layer": "1",
-    "name": "죽림교",
     "oneway": "yes",
     "ref": "40"
   }
@@ -21070,9 +21067,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "죽림교",
     "highway": "primary",
     "layer": "1",
-    "name": "죽림교",
     "oneway": "yes",
     "ref": "40"
   }
@@ -21086,9 +21083,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "주암교",
     "highway": "primary",
     "layer": "1",
-    "name": "주암교",
     "oneway": "yes",
     "ref": "40"
   }
@@ -21157,9 +21154,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "주암교",
     "highway": "primary",
     "layer": "1",
-    "name": "주암교",
     "oneway": "yes",
     "ref": "40"
   }
@@ -21203,10 +21200,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "은하2교",
+    "bridge:name:ko": "은하2교",
     "highway": "primary",
     "layer": "1",
-    "name": "은하2교",
-    "name:ko": "은하2교",
     "oneway": "yes",
     "ref": "21"
   }
@@ -21223,10 +21220,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "천수만교",
+    "bridge:name:ko": "천수만교",
     "highway": "primary",
     "layer": "1",
-    "name": "천수만교",
-    "name:ko": "천수만교",
     "oneway": "yes",
     "ref": "21"
   }
@@ -21597,9 +21594,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "하판교",
     "highway": "primary",
     "layer": "1",
-    "name": "하판교",
     "ncat": "국도",
     "ref": "37",
     "review": "no",
@@ -21666,9 +21663,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "백석1교",
     "highway": "primary",
     "layer": "1",
-    "name": "백석1교",
     "ncat": "국도",
     "ref": "37",
     "review": "no",
@@ -21684,9 +21681,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "장갑교",
     "highway": "primary",
     "layer": "1",
-    "name": "장갑교",
     "ncat": "국도",
     "ref": "37",
     "review": "no",
@@ -22595,11 +22592,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "동대2교",
+    "bridge:name:ko": "동대2교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "동대2교",
-    "name:ko": "동대2교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -22613,11 +22610,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "동대1교",
+    "bridge:name:ko": "동대1교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "동대1교",
-    "name:ko": "동대1교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -22650,11 +22647,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "동대2교",
+    "bridge:name:ko": "동대2교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "동대2교",
-    "name:ko": "동대2교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -22734,11 +22731,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "동대1교",
+    "bridge:name:ko": "동대1교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "동대1교",
-    "name:ko": "동대1교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -23761,11 +23758,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "신상정교",
+    "bridge:name:ko": "신상정교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "신상정교",
-    "name:ko": "신상정교",
     "ref": "96",
     "review": "no",
     "source": "NTIC"
@@ -23918,11 +23915,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "화성1교",
+    "bridge:name:ko": "화성1교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "화성1교",
-    "name:ko": "화성1교",
     "oneway": "yes",
     "ref": "4"
   }
@@ -24103,11 +24100,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "본의천교",
+    "bridge:name:ko": "본의천교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "본의천교",
-    "name:ko": "본의천교",
     "ref": "36"
   }
 },
@@ -24143,11 +24140,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "안심IC교",
+    "bridge:name:ko": "안심IC교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "안심IC교",
-    "name:ko": "안심IC교",
     "ref": "36"
   }
 },
@@ -24181,11 +24178,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "가야미교",
+    "bridge:name:ko": "가야미교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "가야미교",
-    "name:ko": "가야미교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -24217,11 +24214,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "지곡교",
+    "bridge:name:ko": "지곡교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "지곡교",
-    "name:ko": "지곡교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -24265,11 +24262,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "백곡교",
+    "bridge:name:ko": "백곡교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "백곡교",
-    "name:ko": "백곡교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -24336,11 +24333,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "역촌2교",
+    "bridge:name:ko": "역촌2교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "역촌2교",
-    "name:ko": "역촌2교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -24382,11 +24379,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "역촌1교",
+    "bridge:name:ko": "역촌1교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "역촌1교",
-    "name:ko": "역촌1교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -24400,11 +24397,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "해남1교",
+    "bridge:name:ko": "해남1교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "해남1교",
-    "name:ko": "해남1교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -24436,11 +24433,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "정산교",
+    "bridge:name:ko": "정산교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "정산교",
-    "name:ko": "정산교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -24471,11 +24468,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "해남교",
+    "bridge:name:ko": "해남교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "해남교",
-    "name:ko": "해남교",
     "ncat": "국도",
     "ref": "39",
     "review": "no",
@@ -24557,11 +24554,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "대박2교",
+    "bridge:name:ko": "대박2교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "대박2교",
-    "name:ko": "대박2교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -24600,11 +24597,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "대박1교",
+    "bridge:name:ko": "대박1교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "대박1교",
-    "name:ko": "대박1교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -24682,11 +24679,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "원마치교",
+    "bridge:name:ko": "원마치교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "원마치교",
-    "name:ko": "원마치교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -24746,11 +24743,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "형산교",
+    "bridge:name:ko": "형산교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "형산교",
-    "name:ko": "형산교",
     "ref": "36"
   }
 },
@@ -24807,11 +24804,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "이화5교",
+    "bridge:name:ko": "이화5교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "이화5교",
-    "name:ko": "이화5교",
     "ref": "36"
   }
 },
@@ -24825,11 +24822,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "이화4교",
+    "bridge:name:ko": "이화4교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "이화4교",
-    "name:ko": "이화4교",
     "ref": "36"
   }
 },
@@ -24906,11 +24903,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "시전1교",
+    "bridge:name:ko": "시전1교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "시전1교",
-    "name:ko": "시전1교",
     "ref": "36"
   }
 },
@@ -24969,11 +24966,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "대치천교",
+    "bridge:name:ko": "대치천교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "대치천교",
-    "name:ko": "대치천교",
     "ref": "36"
   }
 },
@@ -24986,11 +24983,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "탄정1교",
+    "bridge:name:ko": "탄정1교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "탄정1교",
-    "name:ko": "탄정1교",
     "ref": "36"
   }
 },
@@ -25080,11 +25077,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "송방1육교",
+    "bridge:name:ko": "송방1육교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "송방1육교",
-    "name:ko": "송방1육교",
     "oneway": "yes",
     "ref": "29"
   }
@@ -25115,11 +25112,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "송방육교",
+    "bridge:name:ko": "송방육교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "송방육교",
-    "name:ko": "송방육교",
     "oneway": "yes",
     "ref": "29"
   }
@@ -25152,11 +25149,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "중묵교",
+    "bridge:name:ko": "중묵교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "중묵교",
-    "name:ko": "중묵교",
     "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
@@ -25219,11 +25216,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "사점교",
+    "bridge:name:ko": "사점교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "사점교",
-    "name:ko": "사점교",
     "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
@@ -25265,11 +25262,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "원사점교",
+    "bridge:name:ko": "원사점교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "원사점교",
-    "name:ko": "원사점교",
     "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
@@ -25319,11 +25316,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "관산교",
+    "bridge:name:ko": "관산교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "관산교",
-    "name:ko": "관산교",
     "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
@@ -25366,11 +25363,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "하장교",
+    "bridge:name:ko": "하장교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "하장교",
-    "name:ko": "하장교",
     "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
@@ -25497,11 +25494,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "장재교",
+    "bridge:name:ko": "장재교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "장재교",
-    "name:ko": "장재교",
     "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
@@ -25607,11 +25604,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "금당1교",
+    "bridge:name:ko": "금당1교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "금당1교",
-    "name:ko": "금당1교",
     "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
@@ -25669,11 +25666,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "금당2교",
+    "bridge:name:ko": "금당2교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "금당2교",
-    "name:ko": "금당2교",
     "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
@@ -25712,11 +25709,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "금당3교",
+    "bridge:name:ko": "금당3교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "금당3교",
-    "name:ko": "금당3교",
     "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
@@ -25779,11 +25776,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "신기교",
+    "bridge:name:ko": "신기교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "신기교",
-    "name:ko": "신기교",
     "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
@@ -25855,11 +25852,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "구룡교",
+    "bridge:name:ko": "구룡교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "구룡교",
-    "name:ko": "구룡교",
     "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
@@ -26360,12 +26357,12 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "적성교",
+    "bridge:name:ko": "적성교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
     "maxspeed": "60",
-    "name": "적성교",
-    "name:ko": "적성교",
     "ncat": "국도",
     "ref": "59",
     "review": "no",
@@ -26381,11 +26378,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "벌천교",
+    "bridge:name:ko": "벌천교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "벌천교",
-    "name:ko": "벌천교",
     "ncat": "국도",
     "ref": "59",
     "review": "no",
@@ -26590,11 +26587,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "신원교",
+    "bridge:name:ko": "신원교",
     "highway": "primary",
     "layer": "1",
-    "name": "신원교",
     "name:en": "Sinwon Bridge",
-    "name:ko": "신원교",
     "name:ko-Latn": "Sinwongyo",
     "ref": "96",
     "review": "no",
@@ -26750,12 +26747,12 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "두계교",
+    "bridge:name:ko": "두계교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
     "maxspeed": "60",
-    "name": "두계교",
-    "name:ko": "두계교",
     "ncat": "지방도",
     "oneway": "no",
     "ref": "82",
@@ -27046,12 +27043,12 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "반계교",
+    "bridge:name:ko": "반계교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "반계교",
     "name:en": "Bangye Bridge",
-    "name:ko": "반계교",
     "name:ko-Latn": "Bangyegyo",
     "ref": "96",
     "review": "no",
@@ -27092,11 +27089,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "유구교",
+    "bridge:name:ko": "유구교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "유구교",
-    "name:ko": "유구교",
     "ncat": "국도",
     "ref": "39",
     "review": "no",
@@ -27113,11 +27110,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "논티교",
+    "bridge:name:ko": "논티교",
     "bridge:structure": "beam",
     "highway": "primary",
-    "layer": "1",
-    "name": "논티교",
-    "name:ko": "논티교"
+    "layer": "1"
   }
 },
 {
@@ -27405,11 +27402,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "송학1교",
+    "bridge:name:ko": "송학1교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "송학1교",
-    "name:ko": "송학1교",
     "ncat": "국도",
     "ref": "39",
     "review": "no",
@@ -27477,11 +27474,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "개화교",
+    "bridge:name:ko": "개화교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "개화교",
-    "name:ko": "개화교",
     "ncat": "국도;지방도",
     "ref": "40",
     "review": "no",
@@ -27497,11 +27494,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "송학교",
+    "bridge:name:ko": "송학교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "송학교",
-    "name:ko": "송학교",
     "ncat": "국도",
     "ref": "39",
     "review": "no",
@@ -28222,11 +28219,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "대천교",
+    "bridge:name:ko": "대천교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "대천교",
-    "name:ko": "대천교",
     "ncat": "국도;지방도",
     "ref": "40;619",
     "review": "no",
@@ -28257,11 +28254,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "만승교",
+    "bridge:name:ko": "만승교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "만승교",
-    "name:ko": "만승교",
     "ncat": "지방도",
     "ref": "82",
     "review": "no",
@@ -28361,11 +28358,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "오류교",
+    "bridge:name:ko": "오류교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "오류교",
-    "name:ko": "오류교",
     "ncat": "지방도",
     "ref": "82",
     "review": "no",
@@ -28428,11 +28425,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "단상교",
+    "bridge:name:ko": "단상교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "단상교",
-    "name:ko": "단상교",
     "ncat": "국도",
     "ref": "29",
     "review": "yes"
@@ -28472,11 +28469,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "학산교",
+    "bridge:name:ko": "학산교",
     "highway": "primary",
     "layer": "1",
-    "name": "학산교",
     "name:en": "Haksan Bridge",
-    "name:ko": "학산교",
     "name:ko-Latn": "Haksangyo",
     "ref": "5"
   }
@@ -28920,11 +28917,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "송한교",
+    "bridge:name:ko": "송한교",
     "highway": "primary",
     "layer": "1",
-    "name": "송한교",
     "name:en": "Songhan Bridge",
-    "name:ko": "송한교",
     "name:ko-Latn": "Songhangyo",
     "ncat": "지방도",
     "ref": "82",
@@ -29029,12 +29026,12 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "방미교",
+    "bridge:name:ko": "방미교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "방미교",
     "name:en": "Bangmi Bridge",
-    "name:ko": "방미교",
     "name:ko-Latn": "Bangmigyo",
     "ncat": "국도",
     "ncat:bridge": "교차로및지명",
@@ -29194,11 +29191,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "심곡교",
+    "bridge:name:ko": "심곡교",
     "highway": "primary",
     "layer": "1",
     "maxspeed": "80",
-    "name": "심곡교",
-    "name:ko": "심곡교",
     "ref": "5;59"
   }
 },
@@ -29212,10 +29209,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "하선암교",
+    "bridge:name:ko": "하선암교",
     "highway": "primary",
     "layer": "1",
-    "name": "하선암교",
-    "name:ko": "하선암교",
     "ref": "59",
     "review": "no",
     "source": "NTIC"
@@ -29675,14 +29672,14 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "소동교",
     "bridge:name:en": "Sodong Bridge",
+    "bridge:name:ko": "소동교",
     "bridge:name:ko-Latn": "Sodonggyo",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "소동교",
     "name:en": "Sodong Bridge",
-    "name:ko": "소동교",
     "ncat:bridge": "교차로및지명",
     "ref": "70",
     "source:bridge": "mp2osm"
@@ -29876,11 +29873,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "영양교",
+    "bridge:name:ko": "영양교",
     "highway": "primary",
     "layer": "1",
-    "name": "영양교",
     "name:en": "Yeongyang Bridge",
-    "name:ko": "영양교",
     "name:ko-Latn": "Yeongyanggyo",
     "ncat": "지방도",
     "ref": "70;645",
@@ -30048,11 +30045,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "오작교",
+    "bridge:name:ko": "오작교",
     "highway": "primary",
     "layer": "1",
-    "name": "오작교",
     "name:en": "Ojak Bridge",
-    "name:ko": "오작교",
     "name:ko-Latn": "Ojakgyo",
     "ref": "5"
   }
@@ -30067,14 +30064,14 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "반양교",
+    "bridge:name:ko": "반양교",
     "destination": "홍성;예산;해미나들목",
     "destination:lang:en": "Hongseong;Yesan;Haemi IC",
     "highway": "primary",
     "layer": "1",
     "maxspeed": "80",
-    "name": "반양교",
     "name:en": "Banyang Bridge",
-    "name:ko": "반양교",
     "name:ko-Latn": "Banyanggyo",
     "ncat": "국도",
     "ncat:bridge": "교차로및지명",
@@ -30094,14 +30091,14 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "반양교",
+    "bridge:name:ko": "반양교",
     "destination": "태안;대산;서산",
     "destination:lang:en": "Taean;Daesan;Seosan",
     "highway": "primary",
     "layer": "1",
     "maxspeed": "80",
-    "name": "반양교",
     "name:en": "Banyang Bridge",
-    "name:ko": "반양교",
     "name:ko-Latn": "Banyanggyo",
     "ncat": "국도",
     "ncat:bridge": "교차로및지명",
@@ -30308,11 +30305,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "옥전교",
+    "bridge:name:ko": "옥전교",
     "highway": "primary",
     "layer": "1",
-    "name": "옥전교",
     "name:en": "Okjeon Bridge",
-    "name:ko": "옥전교",
     "name:ko-Latn": "Okjeongyo",
     "ref": "5"
   }
@@ -30573,11 +30570,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "성천교",
+    "bridge:name:ko": "성천교",
     "highway": "primary",
     "layer": "1",
-    "name": "성천교",
     "name:en": "Seongcheon Bridge",
-    "name:ko": "성천교",
     "name:ko-Latn": "Seongcheongyo",
     "ref": "36;82"
   }
@@ -30966,13 +30963,13 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "동산교",
+    "bridge:name:ko": "동산교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
     "maxspeed": "60",
-    "name": "동산교",
     "name:en": "Dongsan Bridge",
-    "name:ko": "동산교",
     "name:ko-Latn": "Dongsangyo",
     "oneway": "no",
     "ref": "21",
@@ -30990,11 +30987,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "원수교",
+    "bridge:name:ko": "원수교",
     "highway": "primary",
     "layer": "1",
-    "name": "원수교",
     "name:en": "Wonsugyo Bridge",
-    "name:ko": "원수교",
     "name:ko-Latn": "Wonsugyo",
     "ncat": "지방도",
     "ref": "68",
@@ -31073,12 +31070,12 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "송면교",
+    "bridge:name:ko": "송면교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "송면교",
     "name:en": "Hwayang-ro",
-    "name:ko": "송면교",
     "ncat": "지방도",
     "ref": "32",
     "review": "no",
@@ -31119,11 +31116,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "송면2교",
+    "bridge:name:ko": "송면2교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "송면2교",
-    "name:ko": "송면2교",
     "ncat": "지방도",
     "ref": "49",
     "review": "no",
@@ -31450,11 +31447,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "입동교",
+    "bridge:name:ko": "입동교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "입동교",
-    "name:ko": "입동교",
     "ncat": "국도",
     "ref": "39;604",
     "review": "no",
@@ -31856,12 +31853,12 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "은하1교",
+    "bridge:name:ko": "은하1교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "은하1교",
     "name:en": "Chungseo-ro",
-    "name:ko": "은하1교",
     "oneway": "yes",
     "ref": "21",
     "review": "no",
@@ -31924,11 +31921,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "은하1교",
+    "bridge:name:ko": "은하1교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "은하1교",
-    "name:ko": "은하1교",
     "oneway": "yes",
     "ref": "21"
   }
@@ -32135,11 +32132,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "해창교",
+    "bridge:name:ko": "해창교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "해창교",
-    "name:ko": "해창교",
     "ref": "96",
     "review": "no",
     "source": "NTIC"
@@ -32216,11 +32213,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "산성교",
+    "bridge:name:ko": "산성교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "산성교",
-    "name:ko": "산성교",
     "ref": "96",
     "review": "no",
     "source": "NTIC"
@@ -32253,11 +32250,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "백곡1교",
+    "bridge:name:ko": "백곡1교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "백곡1교",
-    "name:ko": "백곡1교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -32568,11 +32565,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "학당교",
+    "bridge:name:ko": "학당교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "학당교",
-    "name:ko": "학당교",
     "oneway": "yes",
     "ref": "29",
     "review": "no",
@@ -32675,11 +32672,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "원마치교",
+    "bridge:name:ko": "원마치교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "원마치교",
-    "name:ko": "원마치교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -32850,11 +32847,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "저동교",
+    "bridge:name:ko": "저동교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "저동교",
-    "name:ko": "저동교",
     "oneway": "yes",
     "ref": "40"
   }
@@ -32871,11 +32868,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "저동교",
+    "bridge:name:ko": "저동교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "저동교",
-    "name:ko": "저동교",
     "oneway": "yes",
     "ref": "40"
   }
@@ -32945,11 +32942,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "제3홍산교",
+    "bridge:name:ko": "제3홍산교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "제3홍산교",
-    "name:ko": "제3홍산교",
     "oneway": "yes",
     "ref": "4"
   }
@@ -33000,11 +32997,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "탑곡교",
+    "bridge:name:ko": "탑곡교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "탑곡교",
-    "name:ko": "탑곡교",
     "ncat": "국도;지방도",
     "ref": "39;618",
     "review": "no",
@@ -33021,11 +33018,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "추계교",
+    "bridge:name:ko": "추계교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "추계교",
-    "name:ko": "추계교",
     "ncat": "국도;지방도",
     "ref": "39;618",
     "review": "no",
@@ -33277,11 +33274,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "방천교",
+    "bridge:name:ko": "방천교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "방천교",
-    "name:ko": "방천교",
     "ncat": "지방도",
     "oneway": "no",
     "ref": "68",
@@ -33338,11 +33335,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "입포교",
+    "bridge:name:ko": "입포교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "입포교",
-    "name:ko": "입포교",
     "ncat": "국도",
     "ref": "29;68",
     "review": "yes",
@@ -33358,11 +33355,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "봉황교",
+    "bridge:name:ko": "봉황교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "봉황교",
-    "name:ko": "봉황교",
     "ncat": "국도",
     "ref": "29;68",
     "review": "yes",
@@ -33967,9 +33964,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "마암교",
     "highway": "primary",
     "layer": "1",
-    "name": "마암교",
     "ref": "4"
   }
 },
@@ -34173,9 +34170,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "미봉교",
     "highway": "primary",
     "layer": "1",
-    "name": "미봉교",
     "ncat": "지방도",
     "ref": "68;505",
     "review": "no",
@@ -34472,9 +34469,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "안내천교",
     "highway": "primary",
     "layer": "1",
-    "name": "안내천교",
     "ref": "37",
     "surface": "asphalt"
   }
@@ -34555,9 +34552,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "방하목교",
     "highway": "primary",
     "layer": "1",
-    "name": "방하목교",
     "ref": "37",
     "surface": "asphalt"
   }
@@ -34590,9 +34587,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "문티교",
     "highway": "primary",
     "layer": "1",
-    "name": "문티교",
     "ref": "37",
     "surface": "asphalt"
   }
@@ -34683,9 +34680,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "거현천1교",
     "highway": "primary",
     "layer": "1",
-    "name": "거현천1교",
     "ref": "37"
   }
 },
@@ -34771,9 +34768,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "금굴1교",
     "highway": "primary",
-    "layer": "1",
-    "name": "금굴1교"
+    "layer": "1"
   }
 },
 {
@@ -34803,9 +34800,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "장계대교",
     "highway": "primary",
     "layer": "1",
-    "name": "장계대교",
     "ref": "37",
     "surface": "asphalt"
   }
@@ -34840,9 +34837,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "장계IC교",
     "highway": "primary",
     "layer": "1",
-    "name": "장계IC교",
     "ref": "37",
     "surface": "asphalt"
   }
@@ -34952,12 +34949,12 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "원산안면대교",
+    "bridge:name:ko": "원산안면대교",
     "highway": "primary",
     "layer": "1",
     "maxspeed": "60",
-    "name": "원산안면대교",
     "name:en": "Wonsananmyeondaeyo (Bridge)",
-    "name:ko": "원산안면대교",
     "ref": "77",
     "surface": "asphalt"
   }
@@ -35353,11 +35350,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "신구교",
+    "bridge:name:ko": "신구교",
     "highway": "primary",
     "layer": "1",
-    "name": "신구교",
     "name:en": "Singugyo (Bridge)",
-    "name:ko": "신구교",
     "oneway": "yes",
     "ref": "32"
   }
@@ -36580,10 +36577,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "가야미교",
+    "bridge:name:ko": "가야미교",
     "highway": "primary",
     "layer": "1",
-    "name": "가야미교",
-    "name:ko": "가야미교",
     "oneway": "yes"
   }
 },
@@ -36597,10 +36594,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "지곡교",
+    "bridge:name:ko": "지곡교",
     "highway": "primary",
     "layer": "1",
-    "name": "지곡교",
-    "name:ko": "지곡교",
     "oneway": "yes"
   }
 },
@@ -36647,10 +36644,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "백곡교",
+    "bridge:name:ko": "백곡교",
     "highway": "primary",
     "layer": "1",
-    "name": "백곡교",
-    "name:ko": "백곡교",
     "oneway": "yes"
   }
 },
@@ -36663,10 +36660,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "백곡1교",
+    "bridge:name:ko": "백곡1교",
     "highway": "primary",
     "layer": "1",
-    "name": "백곡1교",
-    "name:ko": "백곡1교",
     "oneway": "yes"
   }
 },
@@ -36679,10 +36676,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "역촌2교",
+    "bridge:name:ko": "역촌2교",
     "highway": "primary",
     "layer": "1",
-    "name": "역촌2교",
-    "name:ko": "역촌2교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -36733,10 +36730,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "역촌1교",
+    "bridge:name:ko": "역촌1교",
     "highway": "primary",
     "layer": "1",
-    "name": "역촌1교",
-    "name:ko": "역촌1교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -36795,10 +36792,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "해남1교",
+    "bridge:name:ko": "해남1교",
     "highway": "primary",
     "layer": "1",
-    "name": "해남1교",
-    "name:ko": "해남1교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -36829,10 +36826,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "정산교",
+    "bridge:name:ko": "정산교",
     "highway": "primary",
     "layer": "1",
-    "name": "정산교",
-    "name:ko": "정산교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -36870,10 +36867,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "대박2교",
+    "bridge:name:ko": "대박2교",
     "highway": "primary",
     "layer": "1",
-    "name": "대박2교",
-    "name:ko": "대박2교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -36913,10 +36910,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "대박1교",
+    "bridge:name:ko": "대박1교",
     "highway": "primary",
     "layer": "1",
-    "name": "대박1교",
-    "name:ko": "대박1교",
     "oneway": "yes",
     "ref": "36"
   }
@@ -37533,10 +37530,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "추풍령1교",
+    "bridge:name:ko": "추풍령1교",
     "highway": "primary",
     "layer": "1",
-    "name": "추풍령1교",
-    "name:ko": "추풍령1교",
     "oneway": "yes",
     "ref": "4"
   }
@@ -37569,10 +37566,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "추풍령2교",
+    "bridge:name:ko": "추풍령2교",
     "highway": "primary",
     "layer": "1",
-    "name": "추풍령2교",
-    "name:ko": "추풍령2교",
     "oneway": "yes",
     "ref": "4"
   }
@@ -37603,10 +37600,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "추풍령3교",
+    "bridge:name:ko": "추풍령3교",
     "highway": "primary",
     "layer": "1",
-    "name": "추풍령3교",
-    "name:ko": "추풍령3교",
     "oneway": "yes",
     "ref": "4"
   }
@@ -37636,10 +37633,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "추풍령4교",
+    "bridge:name:ko": "추풍령4교",
     "highway": "primary",
     "layer": "1",
-    "name": "추풍령4교",
-    "name:ko": "추풍령4교",
     "oneway": "yes",
     "ref": "4"
   }
@@ -39172,10 +39169,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "제3홍산교",
+    "bridge:name:ko": "제3홍산교",
     "highway": "primary",
     "layer": "1",
-    "name": "제3홍산교",
-    "name:ko": "제3홍산교",
     "oneway": "yes",
     "ref": "4"
   }
@@ -39312,10 +39309,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "화성1교",
+    "bridge:name:ko": "화성1교",
     "highway": "primary",
     "layer": "1",
-    "name": "화성1교",
-    "name:ko": "화성1교",
     "oneway": "yes"
   }
 },
@@ -39725,14 +39722,14 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "덕평2교",
+    "bridge:name:ko": "덕평2교",
     "bridge:structure": "beam",
     "cycleway:right": "shared_lane",
     "highway": "primary",
     "layer": "1",
     "maxspeed": "60",
-    "name": "덕평2교",
     "name:en": "Songmun-ro",
-    "name:ko": "덕평2교",
     "ncat": "지방도",
     "ref": "49",
     "review": "no",
@@ -39845,14 +39842,14 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "덕평1교",
+    "bridge:name:ko": "덕평1교",
     "bridge:structure": "beam",
     "cycleway:right": "shared_lane",
     "highway": "primary",
     "layer": "1",
     "maxspeed": "60",
-    "name": "덕평1교",
     "name:en": "Songmun-ro",
-    "name:ko": "덕평1교",
     "ncat": "지방도",
     "ref": "49",
     "review": "no",
@@ -41265,10 +41262,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "서대IC교",
+    "bridge:name:ko": "서대IC교",
     "highway": "primary",
-    "layer": "1",
-    "name": "서대IC교",
-    "name:ko": "서대IC교"
+    "layer": "1"
   }
 },
 {
@@ -41280,9 +41277,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "광촌교",
     "highway": "primary",
-    "layer": "1",
-    "name": "광촌교"
+    "layer": "1"
   }
 },
 {
@@ -41294,9 +41291,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "둔덕2교",
     "highway": "primary",
-    "layer": "1",
-    "name": "둔덕2교"
+    "layer": "1"
   }
 },
 {
@@ -41308,9 +41305,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "둔덕4교",
     "highway": "primary",
-    "layer": "1",
-    "name": "둔덕4교"
+    "layer": "1"
   }
 },
 {
@@ -41322,9 +41319,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "둔덕3교",
     "highway": "primary",
-    "layer": "1",
-    "name": "둔덕3교"
+    "layer": "1"
   }
 },
 {
@@ -41339,9 +41336,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "현리교",
     "highway": "primary",
     "layer": "1",
-    "name": "현리교",
     "surface": "asphalt"
   }
 },
@@ -42636,10 +42633,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "화양교",
+    "bridge:name:ko": "화양교",
     "highway": "primary",
-    "layer": "1",
-    "name": "화양교",
-    "name:ko": "화양교"
+    "layer": "1"
   }
 },
 {
@@ -42650,12 +42647,12 @@
     8827318657
   ],
   "tags": {
+    "bridge:name": "신양교",
+    "bridge:name:ko": "중원대로",
     "foot": "yes",
     "highway": "primary",
     "maxspeed": "70",
-    "name": "신양교",
     "name:en": "Jungwon-daero",
-    "name:ko": "중원대로",
     "oneway": "yes",
     "ref": "3;36"
   }
@@ -42688,10 +42685,10 @@
     436715566
   ],
   "tags": {
+    "bridge:name": "군간교",
+    "bridge:name:ko": "군간교",
     "highway": "primary",
     "maxspeed": "60",
-    "name": "군간교",
-    "name:ko": "군간교",
     "ncat": "국도",
     "oneway": "no",
     "ref": "59",
@@ -43904,9 +43901,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "송죽교",
     "highway": "primary",
     "layer": "1",
-    "name": "송죽교",
     "oneway": "yes",
     "ref": "19",
     "review": "no",
@@ -44318,9 +44315,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "송천교",
     "highway": "primary",
     "layer": "1",
-    "name": "송천교",
     "ncat": "국도",
     "oneway": "yes",
     "ref": "19",
@@ -46413,9 +46410,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "신대교",
     "highway": "primary",
     "layer": "1",
-    "name": "신대교",
     "oneway": "yes",
     "ref": "592",
     "review": "no",
@@ -46459,10 +46456,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "별방1교",
     "highway": "primary",
     "layer": "1",
     "maxspeed": "30",
-    "name": "별방1교",
     "ncat": "국도",
     "ref": "59",
     "review": "no",
@@ -46501,10 +46498,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "별방2교",
     "highway": "primary",
     "layer": "1",
     "maxspeed": "30",
-    "name": "별방2교",
     "ncat": "국도",
     "ref": "59",
     "review": "no",
@@ -46520,10 +46517,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "별방교",
     "highway": "primary",
     "layer": "1",
     "maxspeed": "50",
-    "name": "별방교",
     "ncat": "국도",
     "ref": "59;522",
     "review": "no",
@@ -46656,10 +46653,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "사지원교",
     "highway": "primary",
     "layer": "1",
     "maxspeed": "50",
-    "name": "사지원교",
     "ncat": "국도",
     "oneway": "no",
     "ref": "59;522",
@@ -47462,9 +47459,9 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "태생교",
     "highway": "primary",
     "layer": "1",
-    "name": "태생교",
     "name:en": "Taesaeng Bridge",
     "ncat": "지방도",
     "ref": "82",
@@ -49574,11 +49571,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "만년교",
+    "bridge:name:ko": "만년교",
     "highway": "primary",
     "layer": "1",
-    "name": "만년교",
     "name:en": "Mannyeongyo Bridge",
-    "name:ko": "만년교",
     "ncat": "국도",
     "ref": "39;604",
     "review": "no",
@@ -49648,10 +49645,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "신진교",
+    "bridge:name:ko": "신진교",
     "highway": "primary",
     "layer": "1",
-    "name": "신진교",
-    "name:ko": "신진교",
     "ref": "21",
     "review": "no",
     "source": "NTIC"
@@ -52900,10 +52897,10 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "대교",
+    "bridge:name:ko": "대교",
     "highway": "primary",
     "layer": "1",
-    "name": "대교",
-    "name:ko": "대교",
     "oneway": "yes",
     "ref": "21",
     "review": "no",
@@ -53524,12 +53521,12 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "예산대교",
+    "bridge:name:ko": "예산대교",
     "destination": "공주;아산;예산",
     "destination:lang:en": "Gongju;Asan;Yesan",
     "highway": "primary",
     "layer": "1",
-    "name": "예산대교",
-    "name:ko": "예산대교",
     "oneway": "yes",
     "ref": "21",
     "review": "no",
@@ -53735,12 +53732,12 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "신례원1교",
+    "bridge:name:ko": "신례원1교",
     "destination": "홍성;서산;예산",
     "destination:lang:en": "Hongseong;Seosan;Yesan",
     "highway": "primary",
     "layer": "1",
-    "name": "신례원1교",
-    "name:ko": "신례원1교",
     "oneway": "yes",
     "ref": "21;32;45",
     "review": "no",
@@ -53798,13 +53795,13 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "창소육교",
+    "bridge:name:ko": "창소육교",
     "bridge:structure": "beam",
     "destination": "홍성;서산;예산",
     "destination:lang:en": "Hongseong;Seosan;Yesan",
     "highway": "primary",
     "layer": "1",
-    "name": "창소육교",
-    "name:ko": "창소육교",
     "oneway": "yes",
     "ref": "21;32;45",
     "review": "no",
@@ -53841,13 +53838,13 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "임성교",
+    "bridge:name:ko": "임성교",
     "bridge:structure": "beam",
     "destination": "천안;아산;당진",
     "destination:lang:en": "Cheonan;Asan;Dangjin",
     "highway": "primary",
     "layer": "1",
-    "name": "임성교",
-    "name:ko": "임성교",
     "oneway": "yes",
     "ref": "21;32;45;70",
     "review": "no",
@@ -57657,6 +57654,63 @@
     "ref": "592",
     "review": "no",
     "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1315222436,
+  "nodes": [
+    437005202,
+    437005204,
+    437005206,
+    437005212,
+    10825708693,
+    7042102157,
+    437005214,
+    437005215,
+    437005216,
+    437005217,
+    437005218,
+    437005219,
+    437005220,
+    437005221,
+    437005222,
+    437005223,
+    437005225,
+    437005227,
+    437005228,
+    437005230,
+    437005337
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "송문로",
+    "name:en": "Songmun-ro",
+    "name:ko": "송문로",
+    "ncat": "지방도",
+    "ref": "49",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 1315222437,
+  "nodes": [
+    437005201,
+    437005202
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "layer": "1",
+    "name": "송문로",
+    "name:en": "Songmun-ro",
+    "name:ko": "송문로",
+    "ncat": "지방도",
+    "ref": "49",
+    "review": "no",
+    "source": "NTIC"
   }
 },
 {
@@ -182276,44 +182330,44 @@
 {
   "type": "node",
   "id": 437005197,
-  "lat": 36.7604000,
-  "lon": 127.8070100
+  "lat": 36.7603802,
+  "lon": 127.8069883
 },
 {
   "type": "node",
   "id": 437005199,
-  "lat": 36.7604800,
-  "lon": 127.8069000
+  "lat": 36.7604874,
+  "lon": 127.8068319
 },
 {
   "type": "node",
   "id": 437005201,
-  "lat": 36.7606200,
-  "lon": 127.8066900
+  "lat": 36.7605939,
+  "lon": 127.8066327
 },
 {
   "type": "node",
   "id": 437005202,
-  "lat": 36.7607300,
-  "lon": 127.8064700
+  "lat": 36.7607126,
+  "lon": 127.8064143
 },
 {
   "type": "node",
   "id": 437005204,
-  "lat": 36.7608010,
-  "lon": 127.8063114
+  "lat": 36.7607960,
+  "lon": 127.8062340
 },
 {
   "type": "node",
   "id": 437005206,
-  "lat": 36.7608708,
-  "lon": 127.8061438
+  "lat": 36.7608683,
+  "lon": 127.8060664
 },
 {
   "type": "node",
   "id": 437005212,
-  "lat": 36.7609482,
-  "lon": 127.8058903
+  "lat": 36.7609097,
+  "lon": 127.8059259
 },
 {
   "type": "node",
@@ -182402,8 +182456,8 @@
 {
   "type": "node",
   "id": 7042102157,
-  "lat": 36.7609724,
-  "lon": 127.8057808
+  "lat": 36.7609513,
+  "lon": 127.8057669
 },
 {
   "type": "node",
@@ -182420,8 +182474,8 @@
 {
   "type": "node",
   "id": 7042102160,
-  "lat": 36.7616175,
-  "lon": 127.8040025
+  "lat": 36.7616502,
+  "lon": 127.8039742
 },
 {
   "type": "node",
@@ -182450,14 +182504,14 @@
 {
   "type": "node",
   "id": 7042102179,
-  "lat": 36.7611488,
-  "lon": 127.8038560
+  "lat": 36.7611538,
+  "lon": 127.8038120
 },
 {
   "type": "node",
   "id": 10825708693,
-  "lat": 36.7609574,
-  "lon": 127.8058485
+  "lat": 36.7609413,
+  "lon": 127.8058392
 },
 {
   "type": "node",
