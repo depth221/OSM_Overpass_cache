@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-10-17T18:37:27Z",
-    "timestamp_areas_base": "2024-10-08T10:29:11Z",
+    "timestamp_osm_base": "2024-10-18T18:36:41Z",
+    "timestamp_areas_base": "2024-10-09T00:21:11Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -250,12 +250,15 @@
   "id": 1102263693,
   "nodes": [
     9168621140,
+    12262689552,
     10833988825,
+    12262689554,
     10833988826,
+    12262689553,
     10833988827,
     9168621142,
-    10086119613,
     7099351116,
+    10833988824,
     10086119607
   ],
   "tags": {
@@ -294,6 +297,7 @@
     "highway": "motorway",
     "maxspeed": "80",
     "maxspeed:advisory": "80",
+    "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "중부내륙고속도로",
     "name:en": "Jungbunaeryuk Expressway",
@@ -321,6 +325,7 @@
     "layer": "1",
     "maxspeed": "80",
     "maxspeed:advisory": "80",
+    "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "중부내륙고속도로",
     "name:en": "Jungbunaeryuk Expressway",
@@ -346,6 +351,8 @@
   "tags": {
     "highway": "motorway",
     "maxspeed": "80",
+    "maxspeed:advisory": "80",
+    "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "중부내륙고속도로",
     "name:en": "Jungbunaeryuk Expressway",
@@ -374,6 +381,7 @@
     "layer": "1",
     "maxspeed": "80",
     "maxspeed:advisory": "80",
+    "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "중부내륙고속도로",
     "name:en": "Jungbunaeryuk Expressway",
@@ -4177,6 +4185,7 @@
     "highway": "motorway",
     "maxspeed": "80",
     "maxspeed:advisory": "80",
+    "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "중부내륙고속도로",
     "name:en": "Jungbunaeryuk Expressway",
@@ -4208,6 +4217,7 @@
     "layer": "1",
     "maxspeed": "80",
     "maxspeed:advisory": "80",
+    "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "중부내륙고속도로",
     "name:en": "Jungbunaeryuk Expressway",
@@ -4235,8 +4245,9 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "maxspeed:advisory": "80",
+    "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "중부내륙고속도로",
     "name:en": "Jungbunaeryuk Expressway",
@@ -4266,6 +4277,7 @@
     "layer": "1",
     "maxspeed": "80",
     "maxspeed:advisory": "80",
+    "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "중부내륙고속도로",
     "name:en": "Jungbunaeryuk Expressway",
@@ -8748,50 +8760,68 @@
 {
   "type": "node",
   "id": 9168621140,
-  "lat": 37.1786479,
-  "lon": 127.0962597
+  "lat": 37.1786544,
+  "lon": 127.0962394
 },
 {
   "type": "node",
   "id": 9168621142,
-  "lat": 37.1817314,
-  "lon": 127.0961034
+  "lat": 37.1817670,
+  "lon": 127.0960546
 },
 {
   "type": "node",
   "id": 10833988825,
-  "lat": 37.1796642,
-  "lon": 127.0962345
+  "lat": 37.1796075,
+  "lon": 127.0962528
 },
 {
   "type": "node",
   "id": 10833988826,
-  "lat": 37.1804251,
-  "lon": 127.0962128
+  "lat": 37.1803020,
+  "lon": 127.0962230
 },
 {
   "type": "node",
   "id": 10833988827,
-  "lat": 37.1810719,
-  "lon": 127.0961699
+  "lat": 37.1811626,
+  "lon": 127.0961333
+},
+{
+  "type": "node",
+  "id": 12262689552,
+  "lat": 37.1792012,
+  "lon": 127.0962510
+},
+{
+  "type": "node",
+  "id": 12262689553,
+  "lat": 37.1806837,
+  "lon": 127.0961914
+},
+{
+  "type": "node",
+  "id": 12262689554,
+  "lat": 37.1799588,
+  "lon": 127.0962409
 },
 {
   "type": "node",
   "id": 7099351116,
-  "lat": 37.1828785,
-  "lon": 127.0959121
+  "lat": 37.1826348,
+  "lon": 127.0959075
 },
 {
   "type": "node",
   "id": 10086119607,
-  "lat": 37.1835118,
-  "lon": 127.0958021
+  "lat": 37.1834632,
+  "lon": 127.0957777
 },
 {
   "type": "node",
-  "id": 10086119613,
-  "lat": 37.1820356,
-  "lon": 127.0960498
+  "id": 10833988824,
+  "lat": 37.1827567,
+  "lon": 127.0958884
 },
 {
   "type": "node",
