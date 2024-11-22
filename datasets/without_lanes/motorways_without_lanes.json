@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.1 084b4234",
+  "generator": "Overpass API 0.7.62.4 2390de5a",
   "osm3s": {
-    "timestamp_osm_base": "2024-11-21T18:39:38Z",
-    "timestamp_areas_base": "2024-11-21T12:19:45Z",
+    "timestamp_osm_base": "2024-11-22T18:38:15Z",
+    "timestamp_areas_base": "2024-11-22T15:45:01Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -105,6 +105,21 @@
     "name:zh-Hant": "平澤坡州高速公路",
     "ref": "17",
     "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 892216509,
+  "nodes": [
+    8086583681,
+    9344083092,
+    8086583682,
+    8086583683,
+    8086952878
+  ],
+  "tags": {
+    "highway": "motorway",
+    "oneway": "yes"
   }
 },
 {
@@ -8906,6 +8921,36 @@
   "id": 11625385580,
   "lat": 37.3928624,
   "lon": 127.0275416
+},
+{
+  "type": "node",
+  "id": 8086583682,
+  "lat": 37.6330009,
+  "lon": 126.8496010
+},
+{
+  "type": "node",
+  "id": 8086583683,
+  "lat": 37.6324612,
+  "lon": 126.8499759
+},
+{
+  "type": "node",
+  "id": 8086952878,
+  "lat": 37.6322612,
+  "lon": 126.8501511
+},
+{
+  "type": "node",
+  "id": 9344083092,
+  "lat": 37.6337674,
+  "lon": 126.8491128
+},
+{
+  "type": "node",
+  "id": 8086583681,
+  "lat": 37.6346362,
+  "lon": 126.8486468
 },
 {
   "type": "node",
