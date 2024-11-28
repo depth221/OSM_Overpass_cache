@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.4 2390de5a",
   "osm3s": {
-    "timestamp_osm_base": "2024-11-27T18:49:46Z",
-    "timestamp_areas_base": "2024-11-27T16:04:30Z",
+    "timestamp_osm_base": "2024-11-28T18:49:13Z",
+    "timestamp_areas_base": "2024-11-28T17:05:17Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -53126,10 +53126,6 @@
   "type": "way",
   "id": 1274465272,
   "nodes": [
-    11341433675,
-    11861631736,
-    11861631737,
-    11861631738,
     11833445084,
     11861631739,
     11833445085,
@@ -53518,7 +53514,7 @@
   ],
   "tags": {
     "highway": "primary",
-    "maxspeed": "70",
+    "maxspeed": "50",
     "maxspeed:advisory": "50",
     "name": "충청대로",
     "name:en": "Chungcheong-daero",
@@ -53653,11 +53649,6 @@
   "type": "way",
   "id": 1277762627,
   "nodes": [
-    11341433702,
-    11907187025,
-    11861631721,
-    11861631730,
-    11861631722,
     11861631715,
     11833445073,
     11861631720,
@@ -53673,7 +53664,6 @@
   "tags": {
     "highway": "primary",
     "maxspeed": "50",
-    "maxspeed:advisory": "50",
     "name": "충청대로",
     "name:en": "Chungcheong-daero",
     "name:ko": "충청대로",
@@ -57444,16 +57434,12 @@
     12354195359,
     12354195360,
     12354195361,
-    12354195362,
-    12354195363,
-    12354195364,
-    11861631716
+    12354195362
   ],
   "tags": {
     "expressway": "yes",
     "highway": "primary",
-    "maxspeed": "20",
-    "maxspeed:advisory": "50",
+    "maxspeed": "50",
     "name": "충청대로",
     "name:en": "Chungcheong-daero",
     "name:ko": "충청대로",
@@ -58400,6 +58386,66 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 1338596733,
+  "nodes": [
+    12354195362,
+    12354195363,
+    12354195364,
+    11861631716
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "primary",
+    "maxspeed": "20",
+    "name": "충청대로",
+    "name:en": "Chungcheong-daero",
+    "name:ko": "충청대로",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1338596734,
+  "nodes": [
+    11341433702,
+    11907187025,
+    11861631721,
+    11861631730,
+    11861631722,
+    11861631715
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "20",
+    "name": "충청대로",
+    "name:en": "Chungcheong-daero",
+    "name:ko": "충청대로",
+    "oneway": "yes",
+    "ref": "36"
+  }
+},
+{
+  "type": "way",
+  "id": 1338596735,
+  "nodes": [
+    11341433675,
+    11861631736,
+    11861631737,
+    11861631738,
+    11833445084
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "20",
+    "name": "충청대로",
+    "name:en": "Chungcheong-daero",
+    "name:ko": "충청대로",
+    "oneway": "yes",
+    "ref": "36"
   }
 },
 {
