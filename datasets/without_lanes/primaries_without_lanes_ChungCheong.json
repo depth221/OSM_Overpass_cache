@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.4 2390de5a",
   "osm3s": {
-    "timestamp_osm_base": "2024-12-01T18:48:00Z",
-    "timestamp_areas_base": "2024-12-01T15:14:53Z",
+    "timestamp_osm_base": "2024-12-02T18:48:58Z",
+    "timestamp_areas_base": "2024-12-02T12:50:14Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -159,23 +159,6 @@
     "name": "웅진로",
     "name:en": "Ungjin-ro",
     "name:ko": "웅진로",
-    "oneway": "yes",
-    "ref": "40"
-  }
-},
-{
-  "type": "way",
-  "id": 32433873,
-  "nodes": [
-    364709161,
-    364709164
-  ],
-  "tags": {
-    "bridge": "yes",
-    "bridge:name": "금강교",
-    "bridge:name:ko": "금강교",
-    "highway": "primary",
-    "layer": "1",
     "oneway": "yes",
     "ref": "40"
   }
