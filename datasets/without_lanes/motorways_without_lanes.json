@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.4 2390de5a",
   "osm3s": {
-    "timestamp_osm_base": "2024-12-11T18:41:02Z",
-    "timestamp_areas_base": "2024-12-11T13:55:11Z",
+    "timestamp_osm_base": "2024-12-12T18:41:12Z",
+    "timestamp_areas_base": "2024-12-12T15:50:59Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -94,24 +94,27 @@
     12408848521,
     7396865507,
     12408848518,
+    12414077146,
     7396865525,
     12408848516,
+    12408894394,
     12408894316,
     7396865526,
+    12414077153,
     12408848544,
+    12414077155,
+    12414077157,
     7396865527,
+    12414077158,
+    12414077162,
     7396865544,
     12408848479,
+    12414077181,
     12408848481,
-    12408848486,
-    12408848510,
-    12408848508,
-    12408848483,
-    12408848505,
-    12408848487,
-    12408848503,
-    12408848500,
-    12154836656
+    12414077179,
+    12414077182,
+    12414077178,
+    12414077175
   ],
   "tags": {
     "highway": "motorway",
@@ -130,22 +133,22 @@
   "type": "way",
   "id": 791208182,
   "nodes": [
-    12154836657,
-    12408848501,
-    12408848502,
-    12408848504,
-    12408848488,
-    12408848506,
-    12408848484,
-    12408848507,
-    12408848509,
-    12408848485,
+    12414077176,
+    12414077177,
+    12414077180,
     12408848482,
     12408848480,
     7396865547,
+    12414077161,
+    12414077160,
+    12414077143,
+    12414077159,
+    12414077144,
+    12414077156,
+    12414077145,
+    12414077147,
     12408894349,
     7396865546,
-    12408848517,
     12408894315,
     7396865545,
     12408848519,
@@ -197,7 +200,10 @@
   "id": 791208183,
   "nodes": [
     12389291859,
+    12414389871,
     7396624155,
+    12414389872,
+    12414389873,
     12389291848,
     12395317638,
     12389291850,
@@ -214,11 +220,15 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로지선",
     "name:en": "Iksan-Pyeongtaek Expressway Branch",
     "name:ko": "익산평택고속도로지선",
     "oneway": "yes",
-    "ref": "173"
+    "ref": "173",
+    "toll": "yes"
   }
 },
 {
@@ -226,18 +236,36 @@
   "id": 791229850,
   "nodes": [
     7396865564,
+    12414056313,
+    12414045280,
+    12414045281,
     7396865570,
+    12414045282,
+    12414045283,
+    12414045284,
     7396865566,
+    12414045285,
+    12414045286,
     7396865571,
+    12414045287,
     7396865567,
+    12414045288,
+    12414045299,
     7396865569,
+    12414045295,
+    12414045289,
+    12414045293,
     7396865568,
+    12414045290,
+    12414199287,
     12154836686,
+    12414045278,
     12408848497,
-    7396865572
+    12414045277
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "40",
     "oneway": "yes"
   }
 },
@@ -249,16 +277,36 @@
     12408848496,
     12154836687,
     4647549250,
+    12414045291,
+    12414045292,
+    12414045298,
+    12414045294,
     7396865578,
+    12414056301,
+    12414045296,
+    12414045300,
+    12414045297,
+    12414056302,
     7396865577,
     7396865576,
+    12414056303,
+    12414056304,
     7396865575,
+    12414056305,
+    12414056306,
     7396865574,
+    12414056307,
+    12414056308,
+    12414056309,
     7396865573,
-    7396865565
+    12414056310,
+    12414056312,
+    12414056311,
+    8859369208
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "40",
     "oneway": "yes"
   }
 },
@@ -4467,6 +4515,9 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -4475,7 +4526,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -4496,6 +4548,9 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -4504,7 +4559,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -4513,16 +4569,30 @@
   "nodes": [
     11302794389,
     7396654561,
+    12415678858,
+    12415678857,
     11302794369,
+    12415678856,
     11302794368,
+    12415678855,
+    12415678854,
     11302794367,
+    12415678872,
+    12415678873,
     11302794366,
     7396654562,
+    12415678865,
+    12415678864,
     7396654563,
+    12415678863,
     11302794365,
+    12415678866,
     11302794361,
     11302794362,
+    12415678868,
     11302794363,
+    12415678871,
+    12415678869,
     11302794358,
     7396654564,
     11302794353,
@@ -4547,12 +4617,13 @@
     12410793535,
     11302794350,
     11302794329,
-    11302794426,
-    11302794425,
-    11302794422
+    12416326810
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -4561,16 +4632,15 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
   "type": "way",
   "id": 1219813749,
   "nodes": [
-    11302794421,
-    11302794424,
-    11302794427,
+    12416326811,
     11302794327,
     12410793537,
     12410793538,
@@ -4590,16 +4660,28 @@
     11302794355,
     11302794315,
     11302794356,
+    12415678870,
     11302794359,
     11302794313,
     11302794314,
     11302794364,
     7396654576,
+    12415678867,
     11302794360,
     11302794312,
+    12415678851,
+    12415678862,
+    12415678850,
     7396654575,
+    12415678849,
+    12415678848,
     11302794311,
+    12415678852,
+    12415678861,
     11302794310,
+    12415678860,
+    12415678853,
+    12415678859,
     7396654574,
     12410885960,
     7396654573,
@@ -4607,6 +4689,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -4615,7 +4700,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -4629,6 +4715,9 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -4637,7 +4726,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -4651,6 +4741,9 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -4659,7 +4752,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -4671,14 +4765,21 @@
     11302794331,
     11302794332,
     7396654569,
+    12414864145,
+    12414864144,
     11302794338,
     11302794337,
     11302794335,
     7396654571,
+    12416204779,
+    12416204778,
+    12416204777,
     11302794349,
     11302794348,
+    12416204775,
     11302794347,
     11302794343,
+    12416204774,
     11302794342,
     11302794341,
     11302794346,
@@ -4686,6 +4787,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -4694,7 +4798,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -4703,11 +4808,18 @@
   "nodes": [
     11302794345,
     11302794393,
+    12416204773,
     11302794344,
     11302794340,
     11302794339,
+    12416204776,
+    12416204781,
     11302794336,
+    12416204780,
+    12416204782,
+    12416204783,
     7396654583,
+    12416204784,
     11302794334,
     11302794333,
     7396654582,
@@ -4718,6 +4830,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -4726,7 +4841,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -4740,6 +4856,9 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -4748,7 +4867,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -4762,6 +4882,9 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -4770,28 +4893,28 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
   "type": "way",
   "id": 1219813756,
   "nodes": [
-    11302794390,
-    12410885978,
-    11302794305,
-    12410885977,
-    11302794298,
-    11302794301,
-    11302794300,
+    12415678874,
+    12415678844,
     7396654560,
     11302794297,
     7396654559,
     11302794294,
+    12415678883,
     11302794293,
     7396654558,
     11302794291,
     11302794292,
+    12415678877,
+    12415678876,
+    12415678878,
     11302794428,
     11302794431,
     11302794286,
@@ -4801,6 +4924,7 @@
     7396654556,
     11302794279,
     11302794280,
+    12414864142,
     7396654555,
     11235244476,
     11302794282,
@@ -4808,6 +4932,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -4816,7 +4943,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -4825,8 +4953,10 @@
   "nodes": [
     7396624181,
     11302794284,
+    12414864140,
     11235244463,
     11302794283,
+    12414864141,
     7396624182,
     7396624183,
     11302794288,
@@ -4835,24 +4965,29 @@
     7396624184,
     7396654488,
     11302794429,
+    12415678879,
+    12415678880,
+    12415678881,
+    12415678882,
     11302794289,
     7396654487,
     11302794290,
+    12415678886,
     11302794295,
+    12415678885,
+    12415678884,
     11302794296,
     7396654486,
     11302794299,
-    7396654485,
-    11302794302,
-    11302794303,
-    11302794304,
-    12410885971,
-    12410885976,
-    12410885975,
-    11302794306
+    12415678845,
+    12415678846,
+    12415678875
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -4861,7 +4996,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -4882,6 +5018,10 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -4890,7 +5030,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -4909,6 +5050,10 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -4917,7 +5062,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -5739,27 +5885,26 @@
   "type": "way",
   "id": 1313164960,
   "nodes": [
-    12154836654,
+    12415276767,
+    12415276796,
+    12415276794,
+    12415276772,
+    12415276773,
+    12415276795,
     12408848499,
     7396865548,
-    12154836623,
     7396865550,
+    12414043755,
     12154836614,
+    12414043754,
     12154836608,
-    7396865557,
-    12154836624,
-    12154836619,
-    12154836645,
-    12154836618,
-    12154836644,
-    7396865554,
-    7396865555,
-    7396865560,
-    7396865559,
-    12154836695
+    12414045268
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -5768,30 +5913,31 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
   "type": "way",
   "id": 1313164961,
   "nodes": [
-    12154836694,
-    7396865562,
-    7396865561,
-    7396865553,
-    7396865552,
-    12154836652,
-    12154836651,
-    12154836646,
-    7396865556,
+    12414045270,
+    12414043753,
+    12414043759,
     12154836605,
+    12414043760,
     7396865551,
+    12414043761,
     7396865549,
     12408848498,
-    12154836655
+    12415276771,
+    12415276765
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -5800,7 +5946,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -5808,11 +5955,23 @@
   "id": 1313164962,
   "nodes": [
     12154836656,
+    12415276790,
+    12415276791,
+    12415276792,
+    12415276793,
+    12415276776,
+    12415276798,
+    12415276797,
+    12415276775,
+    12415276774,
     12154836654
   ],
   "tags": {
     "highway": "motorway",
     "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -5822,7 +5981,10 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "tunnel": "yes"
+    "toll": "yes",
+    "tunnel": "yes",
+    "tunnel:name": "은산1터널",
+    "tunnel:name:ko": "은산1터널"
   }
 },
 {
@@ -5830,11 +5992,20 @@
   "id": 1313164963,
   "nodes": [
     12154836655,
+    12415276768,
+    12415276770,
+    12415276769,
+    12415276789,
+    12415276788,
+    12415276787,
     12154836657
   ],
   "tags": {
     "highway": "motorway",
     "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -5844,7 +6015,10 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "tunnel": "yes"
+    "toll": "yes",
+    "tunnel": "yes",
+    "tunnel:name": "은산1터널",
+    "tunnel:name:ko": "은산1터널"
   }
 },
 {
@@ -5856,6 +6030,8 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "50",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -5864,7 +6040,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -5879,6 +6056,8 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "60",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -5887,18 +6066,21 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
   "type": "way",
   "id": 1313164970,
   "nodes": [
-    7396865565,
+    8859369208,
     12154836690
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "50",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -5907,7 +6089,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -5921,6 +6104,8 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "60",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -5929,7 +6114,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -5942,6 +6128,8 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "60",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -5950,7 +6138,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -5964,6 +6153,8 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -5972,7 +6163,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -5985,6 +6177,8 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "60",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -5993,7 +6187,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -6007,6 +6202,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "80",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -6015,7 +6211,35 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1341467998,
+  "nodes": [
+    7396654493,
+    7396624168,
+    12389319874,
+    12410889001
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -6086,6 +6310,35 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17"
+  }
+},
+{
+  "type": "way",
+  "id": 1341468002,
+  "nodes": [
+    12408910546,
+    12389319853,
+    7396654542,
+    7396654491
+  ],
+  "tags": {
+    "destination": "봉담;동탄",
+    "destination:lang:en": "Bongdam;Dongtan",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -6175,15 +6428,20 @@
     12410983857,
     9107625951,
     12410970675,
+    12415742825,
     12408797043
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로지선",
     "name:en": "Iksan-Pyeongtaek Expressway Branch",
     "name:ko": "익산평택고속도로지선",
     "oneway": "yes",
-    "ref": "173"
+    "ref": "173",
+    "toll": "yes"
   }
 },
 {
@@ -6197,11 +6455,15 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로지선",
     "name:en": "Iksan-Pyeongtaek Expressway Branch",
     "name:ko": "익산평택고속도로지선",
     "oneway": "yes",
-    "ref": "173"
+    "ref": "173",
+    "toll": "yes"
   }
 },
 {
@@ -6222,11 +6484,15 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로지선",
     "name:en": "Iksan-Pyeongtaek Expressway Branch",
     "name:ko": "익산평택고속도로지선",
     "oneway": "yes",
-    "ref": "173"
+    "ref": "173",
+    "toll": "yes"
   }
 },
 {
@@ -6240,11 +6506,15 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로지선",
     "name:en": "Iksan-Pyeongtaek Expressway Branch",
     "name:ko": "익산평택고속도로지선",
     "oneway": "yes",
-    "ref": "173"
+    "ref": "173",
+    "toll": "yes"
   }
 },
 {
@@ -6267,11 +6537,15 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로지선",
     "name:en": "Iksan-Pyeongtaek Expressway Branch",
     "name:ko": "익산평택고속도로지선",
     "oneway": "yes",
-    "ref": "173"
+    "ref": "173",
+    "toll": "yes"
   }
 },
 {
@@ -6285,11 +6559,15 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로지선",
     "name:en": "Iksan-Pyeongtaek Expressway Branch",
     "name:ko": "익산평택고속도로지선",
     "oneway": "yes",
-    "ref": "173"
+    "ref": "173",
+    "toll": "yes"
   }
 },
 {
@@ -6533,6 +6811,10 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -6541,7 +6823,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -6558,6 +6841,10 @@
     "bridge:name:ko": "권관2교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -6566,7 +6853,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -6580,6 +6868,10 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -6588,7 +6880,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -6605,6 +6898,10 @@
     "bridge:name:ko": "권관2교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -6613,7 +6910,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -6779,9 +7077,7 @@
     7396865485,
     7396865495,
     7396865494,
-    7396865493,
-    12409358478,
-    12409123778
+    12414129914
   ],
   "tags": {
     "highway": "motorway",
@@ -6801,7 +7097,6 @@
   "id": 1341503361,
   "nodes": [
     12409123778,
-    12410896623,
     12409123779
   ],
   "tags": {
@@ -6823,9 +7118,12 @@
   "type": "way",
   "id": 1341503362,
   "nodes": [
-    12409123780,
-    12409123731,
-    7396865498,
+    12414129915,
+    12414129916,
+    12414129919,
+    12414129917,
+    12414129920,
+    12414129918,
     7396865497,
     7396865496,
     7396865492,
@@ -6835,6 +7133,7 @@
     12408797068,
     12408797070,
     7396865491,
+    12414129921,
     12407281127,
     12407281134
   ],
@@ -6982,20 +7281,14 @@
   "type": "way",
   "id": 1341508113,
   "nodes": [
-    12409123779,
-    12409123828,
-    12409153429,
-    7396865499,
-    12409153432,
+    12414128197,
     7396865501,
     12409153433,
-    12409153434,
-    12409153435,
-    12409153490,
-    12409153452
+    12414128199
   ],
   "tags": {
     "highway": "motorway",
+    "layer": "-1",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -7004,27 +7297,22 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "tunnel": "yes"
   }
 },
 {
   "type": "way",
   "id": 1341508114,
   "nodes": [
-    12409153491,
-    12409153449,
-    12409153448,
-    12409153447,
+    12414128200,
     12409153446,
     7396865513,
-    7396865500,
-    12409153431,
-    12409153430,
-    12409123732,
-    12409123781
+    12414128198
   ],
   "tags": {
     "highway": "motorway",
+    "layer": "-1",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -7033,7 +7321,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "tunnel": "yes"
   }
 },
 {
@@ -7274,21 +7563,24 @@
   "type": "way",
   "id": 1341526484,
   "nodes": [
-    11302794443,
-    11302794381,
-    11302794382,
-    11302794383,
-    7396624174,
-    11302794384,
     11302794379,
+    12415671518,
+    12415671519,
+    12415671520,
     7396624175,
     7396624176,
+    12415671543,
     11302794274,
     11302794375,
+    12414864139,
     12409296456
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -7297,7 +7589,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -7313,6 +7606,10 @@
     "bridge:name:ko": "Yeongin 1-gyo",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -7321,7 +7618,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -7332,18 +7630,23 @@
     11302794378,
     12398865478,
     11302794273,
+    12415671542,
+    12415671544,
+    12415671545,
     7396654550,
+    12415671541,
+    12415671540,
     7396654549,
-    7396654548,
-    11302794386,
-    11302794385,
-    11302794272,
-    11302794387,
-    11302794271,
-    11302794442
+    12415671539,
+    12415671535,
+    12415671521
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -7352,7 +7655,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -7368,6 +7672,10 @@
     "bridge:name:ko": "Yeongin 1-gyo",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -7376,7 +7684,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -7393,11 +7702,15 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로지선",
     "name:en": "Iksan-Pyeongtaek Expressway Branch",
     "name:ko": "익산평택고속도로지선",
     "oneway": "yes",
-    "ref": "173"
+    "ref": "173",
+    "toll": "yes"
   }
 },
 {
@@ -7405,36 +7718,45 @@
   "id": 1341530746,
   "nodes": [
     12409359717,
-    12409359716
+    12406112893
   ],
   "tags": {
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로지선",
     "name:en": "Iksan-Pyeongtaek Expressway Branch",
     "name:ko": "익산평택고속도로지선",
     "oneway": "yes",
-    "ref": "173"
+    "ref": "173",
+    "toll": "yes"
   }
 },
 {
   "type": "way",
   "id": 1341530749,
   "nodes": [
-    12409359716,
     12406112893,
+    12414389899,
+    12414389898,
     12406112892,
     12389295536,
     12409359721
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로지선",
     "name:en": "Iksan-Pyeongtaek Expressway Branch",
     "name:ko": "익산평택고속도로지선",
     "oneway": "yes",
-    "ref": "173"
+    "ref": "173",
+    "toll": "yes"
   }
 },
 {
@@ -7448,11 +7770,15 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로지선",
     "name:en": "Iksan-Pyeongtaek Expressway Branch",
     "name:ko": "익산평택고속도로지선",
     "oneway": "yes",
-    "ref": "173"
+    "ref": "173",
+    "toll": "yes"
   }
 },
 {
@@ -7460,33 +7786,21 @@
   "id": 1341530751,
   "nodes": [
     12409359720,
-    12409359723
-  ],
-  "tags": {
-    "highway": "motorway",
-    "name": "익산평택고속도로지선",
-    "name:en": "Iksan-Pyeongtaek Expressway Branch",
-    "name:ko": "익산평택고속도로지선",
-    "oneway": "yes",
-    "ref": "173"
-  }
-},
-{
-  "type": "way",
-  "id": 1341530752,
-  "nodes": [
-    12409359723,
+    12414389894,
+    12414389892,
     12409359722
   ],
   "tags": {
-    "bridge": "yes",
     "highway": "motorway",
-    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로지선",
     "name:en": "Iksan-Pyeongtaek Expressway Branch",
     "name:ko": "익산평택고속도로지선",
     "oneway": "yes",
-    "ref": "173"
+    "ref": "173",
+    "toll": "yes"
   }
 },
 {
@@ -7746,11 +8060,15 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로지선",
     "name:en": "Iksan-Pyeongtaek Expressway Branch",
     "name:ko": "익산평택고속도로지선",
     "oneway": "yes",
-    "ref": "173"
+    "ref": "173",
+    "toll": "yes"
   }
 },
 {
@@ -7764,11 +8082,15 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로지선",
     "name:en": "Iksan-Pyeongtaek Expressway Branch",
     "name:ko": "익산평택고속도로지선",
     "oneway": "yes",
-    "ref": "173"
+    "ref": "173",
+    "toll": "yes"
   }
 },
 {
@@ -7785,6 +8107,10 @@
     "bridge:name:ko": "평택호2대교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -7793,7 +8119,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -7810,6 +8137,10 @@
     "bridge:name:ko": "평택호2대교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -7818,7 +8149,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -7834,6 +8166,9 @@
     "bridge:name:ko": "삼원들천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -7842,7 +8177,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -7858,6 +8194,9 @@
     "bridge:name:ko": "삼원들천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -7866,7 +8205,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -8163,6 +8503,10 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -8171,7 +8515,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -8188,6 +8533,10 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -8196,7 +8545,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -8210,6 +8560,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -8218,7 +8571,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -8232,6 +8586,9 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -8240,7 +8597,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -8257,6 +8615,9 @@
     "foot": "no",
     "highway": "motorway",
     "horse": "no",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "motor_vehicle": "yes",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
@@ -8267,7 +8628,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "surface": "asphalt"
+    "surface": "asphalt",
+    "toll": "yes"
   }
 },
 {
@@ -8284,6 +8646,9 @@
     "highway": "motorway",
     "horse": "no",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "motor_vehicle": "yes",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
@@ -8294,21 +8659,14 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "surface": "asphalt"
+    "surface": "asphalt",
+    "toll": "yes"
   }
 },
 {
   "type": "way",
   "id": 1341813145,
   "nodes": [
-    12412720806,
-    7396654594,
-    11302794399,
-    11302794400,
-    11302794404,
-    7396654593,
-    11302794405,
-    11302794406,
     12407277723,
     7396654592,
     12407277776,
@@ -8326,6 +8684,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -8334,7 +8695,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -8348,6 +8710,9 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -8356,7 +8721,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -8372,16 +8738,23 @@
     7396654586,
     11302794397,
     11302794396,
+    12414864231,
     12407277747,
     11302794398,
-    11302794403,
-    11302794402,
-    12407277714,
-    11302794401,
-    7396654589,
-    11302794395,
-    7396654587,
-    7396654588,
+    12414864382,
+    12414864404,
+    12414864403,
+    12414864402,
+    12414864401,
+    12414864400,
+    12414864399,
+    12414864398,
+    12414864397,
+    12414864396,
+    12414864395,
+    12414864394,
+    12414864393,
+    12414864379,
     12412720809
   ],
   "tags": {
@@ -8389,6 +8762,9 @@
     "foot": "no",
     "highway": "motorway",
     "horse": "no",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "motor_vehicle": "yes",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
@@ -8399,7 +8775,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "surface": "asphalt"
+    "surface": "asphalt",
+    "toll": "yes"
   }
 },
 {
@@ -8416,6 +8793,9 @@
     "highway": "motorway",
     "horse": "no",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "motor_vehicle": "yes",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
@@ -8426,7 +8806,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "surface": "asphalt"
+    "surface": "asphalt",
+    "toll": "yes"
   }
 },
 {
@@ -8442,6 +8823,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -8450,7 +8834,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -8491,6 +8876,9 @@
     "foot": "no",
     "highway": "motorway",
     "horse": "no",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "motor_vehicle": "yes",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
@@ -8501,7 +8889,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "surface": "asphalt"
+    "surface": "asphalt",
+    "toll": "yes"
   }
 },
 {
@@ -8675,10 +9064,2345 @@
   }
 },
 {
+  "type": "way",
+  "id": 1341968686,
+  "nodes": [
+    7396865557,
+    12415304521,
+    12154836624,
+    12154836619,
+    12154836645,
+    12154836618,
+    12154836644,
+    7396865554,
+    12414045241,
+    12414045242,
+    12414045244,
+    7396865555,
+    12414045255,
+    12414045240,
+    12414045257,
+    12414045261,
+    12414045239,
+    12414045259,
+    7396865560,
+    12414045227,
+    12414045262,
+    12414045226,
+    12414045231,
+    12414045225,
+    12414045224,
+    7396865559,
+    12414045265,
+    12414045230,
+    12414045267,
+    12414045229,
+    12154836695
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1341968687,
+  "nodes": [
+    12414045268,
+    7396865557
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17"
+  }
+},
+{
+  "type": "way",
+  "id": 1341968688,
+  "nodes": [
+    12154836694,
+    12414045237,
+    12414045236,
+    12414045266,
+    7396865562,
+    12414045235,
+    12414045264,
+    12414045263,
+    12414045234,
+    12414045233,
+    12414045232,
+    12414045228,
+    7396865561,
+    12414045260,
+    12414045256,
+    12414045258,
+    12414045254,
+    12414045253,
+    12414045251,
+    12414045250,
+    12414045252,
+    7396865553,
+    12414045249,
+    12414045247,
+    12414045248,
+    12414045243,
+    7396865552,
+    12154836651,
+    12414045245,
+    12414045246,
+    12154836646,
+    7396865556,
+    12414045269
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1341968689,
+  "nodes": [
+    12414045269,
+    12414045270
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17"
+  }
+},
+{
+  "type": "way",
+  "id": 1341971486,
+  "nodes": [
+    12416179731,
+    12416179748,
+    12416179749,
+    12416179750,
+    12416179751,
+    12416179747,
+    12416179746,
+    12416179735,
+    12416179763,
+    12416179762,
+    12416179733
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1341971487,
+  "nodes": [
+    12416179761,
+    12416179734,
+    12416179765,
+    12416179736,
+    12416179764,
+    12416179752,
+    12416179753,
+    12416179754,
+    12416179755,
+    12416179756,
+    12416179760,
+    12416179757,
+    12416179759,
+    12416179758,
+    12416179732
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1341971488,
+  "nodes": [
+    12414077188,
+    12414077191,
+    12414077192,
+    12414077190,
+    12408848485,
+    12414077176
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1341971489,
+  "nodes": [
+    12414077175,
+    12408848486,
+    12414077194,
+    12414077193,
+    12414077189
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1341971490,
+  "nodes": [
+    12414077186,
+    12414123610,
+    12408848509
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17"
+  }
+},
+{
+  "type": "way",
+  "id": 1341971491,
+  "nodes": [
+    12408848510,
+    12414123609,
+    12414077187
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17"
+  }
+},
+{
+  "type": "way",
+  "id": 1341971492,
+  "nodes": [
+    12414077189,
+    12408848510
+  ],
+  "tags": {
+    "highway": "motorway",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17"
+  }
+},
+{
+  "type": "way",
+  "id": 1341971493,
+  "nodes": [
+    12408848509,
+    12414077188
+  ],
+  "tags": {
+    "highway": "motorway",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17"
+  }
+},
+{
+  "type": "way",
+  "id": 1341971497,
+  "nodes": [
+    12414077187,
+    12408848508,
+    12414084530
+  ],
+  "tags": {
+    "highway": "motorway",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17"
+  }
+},
+{
+  "type": "way",
+  "id": 1341971498,
+  "nodes": [
+    12414084531,
+    12408848507,
+    12414077186
+  ],
+  "tags": {
+    "highway": "motorway",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17"
+  }
+},
+{
+  "type": "way",
+  "id": 1341971499,
+  "nodes": [
+    12414084530,
+    12414084528
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17"
+  }
+},
+{
+  "type": "way",
+  "id": 1341971500,
+  "nodes": [
+    12414084529,
+    12414084531
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17"
+  }
+},
+{
+  "type": "way",
+  "id": 1341976639,
+  "nodes": [
+    12414129909,
+    12414129906,
+    7396865493,
+    12414129905,
+    12409358478,
+    12409123778
+  ],
+  "tags": {
+    "highway": "motorway",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17"
+  }
+},
+{
+  "type": "way",
+  "id": 1341976640,
+  "nodes": [
+    12409123780,
+    12409123731,
+    12414129592,
+    7396865498,
+    12414129907,
+    12414129910,
+    12414129911,
+    12414129913,
+    12414129912,
+    12414129908
+  ],
+  "tags": {
+    "highway": "motorway",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17"
+  }
+},
+{
+  "type": "way",
+  "id": 1341976641,
+  "nodes": [
+    12414129914,
+    12414129909
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1341976642,
+  "nodes": [
+    12414129908,
+    12414129915
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1341976938,
+  "nodes": [
+    12409123779,
+    12409123828,
+    12414129598,
+    12409153429,
+    7396865499,
+    12409153432,
+    12414128197
+  ],
+  "tags": {
+    "highway": "motorway",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17"
+  }
+},
+{
+  "type": "way",
+  "id": 1341976939,
+  "nodes": [
+    12414128198,
+    7396865500,
+    12409153431,
+    12409153430,
+    12409123732,
+    12409123781
+  ],
+  "tags": {
+    "highway": "motorway",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17"
+  }
+},
+{
+  "type": "way",
+  "id": 1341976940,
+  "nodes": [
+    12414128199,
+    12409153434,
+    12409153435,
+    12409153490,
+    12409153452
+  ],
+  "tags": {
+    "highway": "motorway",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17"
+  }
+},
+{
+  "type": "way",
+  "id": 1341976941,
+  "nodes": [
+    12409153491,
+    12409153449,
+    12409153448,
+    12409153447,
+    12414128200
+  ],
+  "tags": {
+    "highway": "motorway",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17"
+  }
+},
+{
+  "type": "way",
+  "id": 1342034994,
+  "nodes": [
+    12412720806,
+    12414864380,
+    12414864383,
+    12414864384,
+    12414864385,
+    12414864386,
+    12414864387,
+    12414864388,
+    12414864389,
+    12414864390,
+    12414864391,
+    12414864392,
+    12414864381,
+    12407277723
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342057927,
+  "nodes": [
+    12415276764,
+    12154836655
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342057928,
+  "nodes": [
+    12415276765,
+    12415276764
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342057929,
+  "nodes": [
+    12154836654,
+    12415276766
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342057930,
+  "nodes": [
+    12415276766,
+    12415276767
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342057931,
+  "nodes": [
+    12154836657,
+    12415304501,
+    12415304502,
+    12415304503,
+    12415276783,
+    12415304504,
+    12415276784,
+    12415276786,
+    12408848501,
+    12415304514
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342057932,
+  "nodes": [
+    12415304516,
+    12415276780,
+    12408848500,
+    12415276785,
+    12415276777,
+    12415276782,
+    12415276800,
+    12415276781,
+    12415276799,
+    12154836656
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342057933,
+  "nodes": [
+    12415304509,
+    12415304511
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "은산천1교",
+    "bridge:name:ko": "은산천1교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342057934,
+  "nodes": [
+    12415304512,
+    12415304510
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "은산천1교",
+    "bridge:name:ko": "은산천1교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342057935,
+  "nodes": [
+    12415304513,
+    12415304505,
+    12408848502,
+    12415304506,
+    12415304509
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342057936,
+  "nodes": [
+    12415304514,
+    12415276778,
+    12415304513
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "대양1교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342057937,
+  "nodes": [
+    12415304510,
+    12415304507,
+    12408848503,
+    12415304508,
+    12415304515
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342057938,
+  "nodes": [
+    12415304515,
+    12415276779,
+    12415304516
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "대양1교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342057939,
+  "nodes": [
+    12415304517,
+    12416179772
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342057940,
+  "nodes": [
+    12416179775,
+    12415304518
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342057941,
+  "nodes": [
+    12415304519,
+    12415304517
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes",
+    "tunnel": "yes",
+    "tunnel:name": "오리울 생태터널"
+  }
+},
+{
+  "type": "way",
+  "id": 1342057942,
+  "nodes": [
+    12415304518,
+    12415304520
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes",
+    "tunnel": "yes",
+    "tunnel:name": "오리울 생태터널"
+  }
+},
+{
+  "type": "way",
+  "id": 1342085563,
+  "nodes": [
+    11302794443,
+    12415671530,
+    11302794381,
+    12415671531,
+    11302794382,
+    12415671525,
+    12415671524
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342085564,
+  "nodes": [
+    11302794384,
+    11302794379
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342085565,
+  "nodes": [
+    11302794387,
+    12415671533,
+    12415671526,
+    12415671527,
+    12415671528,
+    12415671529,
+    11302794271,
+    11302794442
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342085566,
+  "nodes": [
+    12415671521,
+    7396654548
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342085567,
+  "nodes": [
+    7396654548,
+    12415671536,
+    11302794386,
+    12415671534,
+    12415671537,
+    11302794385
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342085568,
+  "nodes": [
+    12415671538,
+    12415671523,
+    7396624174,
+    12415671522,
+    12415671532,
+    11302794384
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342085569,
+  "nodes": [
+    12415671524,
+    11302794383,
+    12415671538
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342085570,
+  "nodes": [
+    11302794385,
+    11302794272,
+    11302794387
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342087260,
+  "nodes": [
+    12415678847,
+    11302794303,
+    11302794304,
+    12410885971,
+    12410885976,
+    12410885975,
+    11302794306
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342087261,
+  "nodes": [
+    11302794390,
+    12410885978,
+    11302794305,
+    12410885977,
+    11302794298,
+    12415678842,
+    11302794301,
+    12415678843
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342087262,
+  "nodes": [
+    12415678843,
+    11302794300,
+    12415678874
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342087263,
+  "nodes": [
+    12415678875,
+    7396654485,
+    11302794302,
+    12415678847
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131258,
+  "nodes": [
+    12414084528,
+    12414084522,
+    12408848483,
+    12408848505,
+    12414084518,
+    12414084517,
+    12414084527,
+    12414084516,
+    12408848487,
+    12416177258,
+    12416177257,
+    12414077196,
+    12416177256,
+    12416177255,
+    12416177254,
+    12416177259
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131259,
+  "nodes": [
+    12416177260,
+    12414077197,
+    12408848488,
+    12414084526,
+    12414084525,
+    12414084524,
+    12414084523,
+    12408848506,
+    12414084519,
+    12414084520,
+    12414084521,
+    12408848484,
+    12414084529
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131260,
+  "nodes": [
+    12416177259,
+    12416177252,
+    12416177263
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131261,
+  "nodes": [
+    12416177264,
+    12416177253,
+    12416177260
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131262,
+  "nodes": [
+    12416177263,
+    12416177261
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131263,
+  "nodes": [
+    12416177262,
+    12416177264
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131264,
+  "nodes": [
+    12416177261,
+    12416177265,
+    12416177269,
+    12416177294,
+    12416177293,
+    12416177292,
+    12416177267
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131265,
+  "nodes": [
+    12416177268,
+    12416177289,
+    12416177290,
+    12416177291,
+    12416177266,
+    12416177262
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131266,
+  "nodes": [
+    12416177267,
+    12416177270,
+    12416177287,
+    12416177288,
+    12416177276,
+    12416177286,
+    12416177281,
+    12416177282,
+    12416177277,
+    12416177283,
+    12416177271
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131267,
+  "nodes": [
+    12416177271,
+    12416177274
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131268,
+  "nodes": [
+    12408848504,
+    12416177280,
+    12416177284,
+    12416177279,
+    12416177285,
+    12416177273,
+    12416177272,
+    12416177268
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131269,
+  "nodes": [
+    12416177278,
+    12408848504
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131270,
+  "nodes": [
+    12416177274,
+    12416177296,
+    12416177297,
+    12416179721,
+    12416179703,
+    12416177298
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131271,
+  "nodes": [
+    12416177298,
+    12416179722,
+    12416179723,
+    12416177275
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131272,
+  "nodes": [
+    12416177299,
+    12416177295,
+    12416179704,
+    12416179702,
+    12416179701,
+    12416177300,
+    12416177278
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131273,
+  "nodes": [
+    12416179705,
+    12416179719,
+    12416179720,
+    12416177299
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131276,
+  "nodes": [
+    12416177275,
+    12416179707,
+    12416179724,
+    12416179708,
+    12416179716,
+    12416179706,
+    12416179713,
+    12416179715,
+    12416179730
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131277,
+  "nodes": [
+    12416179726,
+    12416179727,
+    12416179728,
+    12416179729,
+    12416179725,
+    12416179709,
+    12416179714,
+    12416179717,
+    12416179718,
+    12416179705
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131278,
+  "nodes": [
+    12416179732,
+    12416179726
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131279,
+  "nodes": [
+    12416179730,
+    12416179731
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131280,
+  "nodes": [
+    12416179766,
+    12416179768,
+    12416179769,
+    12416179770,
+    12415304519
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131281,
+  "nodes": [
+    12415304520,
+    12416179771,
+    12416179767
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131282,
+  "nodes": [
+    12416179733,
+    12416179766
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131283,
+  "nodes": [
+    12416179767,
+    12416179761
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131284,
+  "nodes": [
+    12416179773,
+    12415304512
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131285,
+  "nodes": [
+    12416179772,
+    12416179773
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131286,
+  "nodes": [
+    12415304511,
+    12416179774
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342131287,
+  "nodes": [
+    12416179774,
+    12416179775
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342155015,
+  "nodes": [
+    12416326809,
+    11302794426,
+    12416326805,
+    11302794425,
+    11302794422
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342155016,
+  "nodes": [
+    12416326810,
+    12416326809
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342155017,
+  "nodes": [
+    11302794421,
+    11302794424,
+    12416326803,
+    12416326804,
+    11302794427,
+    12416326812
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1342155018,
+  "nodes": [
+    12416326812,
+    12416326811
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
   "type": "node",
   "id": 7396865572,
-  "lat": 36.2544970,
-  "lon": 126.8376581
+  "lat": 36.2544861,
+  "lon": 126.8376244
 },
 {
   "type": "node",
@@ -8707,26 +11431,32 @@
 {
   "type": "node",
   "id": 12408848497,
-  "lat": 36.2540850,
-  "lon": 126.8380554
+  "lat": 36.2540579,
+  "lon": 126.8380406
 },
 {
   "type": "node",
-  "id": 7396865569,
-  "lat": 36.2512296,
-  "lon": 126.8406630
+  "id": 12414045277,
+  "lat": 36.2544970,
+  "lon": 126.8376714
 },
 {
   "type": "node",
-  "id": 7396865576,
-  "lat": 36.2512123,
-  "lon": 126.8412368
+  "id": 12414045278,
+  "lat": 36.2539956,
+  "lon": 126.8380914
 },
 {
   "type": "node",
-  "id": 7396865577,
-  "lat": 36.2511533,
-  "lon": 126.8406595
+  "id": 12414045297,
+  "lat": 36.2512407,
+  "lon": 126.8407341
+},
+{
+  "type": "node",
+  "id": 12414056302,
+  "lat": 36.2512415,
+  "lon": 126.8408835
 },
 {
   "type": "node",
@@ -8749,74 +11479,92 @@
 {
   "type": "node",
   "id": 7396865564,
-  "lat": 36.2524343,
-  "lon": 126.8416674
-},
-{
-  "type": "node",
-  "id": 7396865565,
-  "lat": 36.2525038,
-  "lon": 126.8418081
+  "lat": 36.2530960,
+  "lon": 126.8411423
 },
 {
   "type": "node",
   "id": 7396865566,
-  "lat": 36.2516616,
-  "lon": 126.8417338
+  "lat": 36.2516387,
+  "lon": 126.8416876
 },
 {
   "type": "node",
   "id": 7396865567,
-  "lat": 36.2512939,
-  "lon": 126.8412162
+  "lat": 36.2512796,
+  "lon": 126.8409230
 },
 {
   "type": "node",
   "id": 7396865568,
-  "lat": 36.2514231,
-  "lon": 126.8402056
+  "lat": 36.2515177,
+  "lon": 126.8401487
+},
+{
+  "type": "node",
+  "id": 7396865569,
+  "lat": 36.2513127,
+  "lon": 126.8405013
 },
 {
   "type": "node",
   "id": 7396865570,
-  "lat": 36.2521589,
-  "lon": 126.8418094
+  "lat": 36.2521216,
+  "lon": 126.8418112
 },
 {
   "type": "node",
   "id": 7396865571,
-  "lat": 36.2514131,
-  "lon": 126.8415243
+  "lat": 36.2513472,
+  "lon": 126.8413218
 },
 {
   "type": "node",
   "id": 7396865573,
-  "lat": 36.2522352,
-  "lon": 126.8419280
+  "lat": 36.2522065,
+  "lon": 126.8418906
 },
 {
   "type": "node",
   "id": 7396865574,
-  "lat": 36.2516582,
-  "lon": 126.8418223
+  "lat": 36.2517109,
+  "lon": 126.8417937
 },
 {
   "type": "node",
   "id": 7396865575,
-  "lat": 36.2513697,
-  "lon": 126.8416190
+  "lat": 36.2514232,
+  "lon": 126.8415608
+},
+{
+  "type": "node",
+  "id": 7396865576,
+  "lat": 36.2512790,
+  "lon": 126.8412062
+},
+{
+  "type": "node",
+  "id": 7396865577,
+  "lat": 36.2512545,
+  "lon": 126.8410646
 },
 {
   "type": "node",
   "id": 7396865578,
-  "lat": 36.2513762,
-  "lon": 126.8401310
+  "lat": 36.2513362,
+  "lon": 126.8403246
+},
+{
+  "type": "node",
+  "id": 8859369208,
+  "lat": 36.2531352,
+  "lon": 126.8412783
 },
 {
   "type": "node",
   "id": 12154836686,
-  "lat": 36.2530318,
-  "lon": 126.8388983
+  "lat": 36.2530261,
+  "lon": 126.8388770
 },
 {
   "type": "node",
@@ -8856,15 +11604,213 @@
 },
 {
   "type": "node",
+  "id": 12414045280,
+  "lat": 36.2522808,
+  "lon": 126.8417562
+},
+{
+  "type": "node",
+  "id": 12414045281,
+  "lat": 36.2522084,
+  "lon": 126.8417881
+},
+{
+  "type": "node",
+  "id": 12414045282,
+  "lat": 36.2520199,
+  "lon": 126.8418170
+},
+{
+  "type": "node",
+  "id": 12414045283,
+  "lat": 36.2518952,
+  "lon": 126.8418020
+},
+{
+  "type": "node",
+  "id": 12414045284,
+  "lat": 36.2517684,
+  "lon": 126.8417626
+},
+{
+  "type": "node",
+  "id": 12414045285,
+  "lat": 36.2515130,
+  "lon": 126.8415900
+},
+{
+  "type": "node",
+  "id": 12414045286,
+  "lat": 36.2514208,
+  "lon": 126.8414772
+},
+{
+  "type": "node",
+  "id": 12414045287,
+  "lat": 36.2513026,
+  "lon": 126.8411304
+},
+{
+  "type": "node",
+  "id": 12414045288,
+  "lat": 36.2512808,
+  "lon": 126.8407313
+},
+{
+  "type": "node",
+  "id": 12414045289,
+  "lat": 36.2513765,
+  "lon": 126.8403304
+},
+{
+  "type": "node",
+  "id": 12414045290,
+  "lat": 36.2517596,
+  "lon": 126.8399251
+},
+{
+  "type": "node",
+  "id": 12414045291,
+  "lat": 36.2517668,
+  "lon": 126.8398464
+},
+{
+  "type": "node",
+  "id": 12414045292,
+  "lat": 36.2514998,
+  "lon": 126.8400879
+},
+{
+  "type": "node",
+  "id": 12414045293,
+  "lat": 36.2514471,
+  "lon": 126.8402324
+},
+{
+  "type": "node",
+  "id": 12414045294,
+  "lat": 36.2513702,
+  "lon": 126.8402583
+},
+{
+  "type": "node",
+  "id": 12414045295,
+  "lat": 36.2513374,
+  "lon": 126.8404105
+},
+{
+  "type": "node",
+  "id": 12414045296,
+  "lat": 36.2512738,
+  "lon": 126.8405058
+},
+{
+  "type": "node",
+  "id": 12414045298,
+  "lat": 36.2514222,
+  "lon": 126.8401802
+},
+{
+  "type": "node",
+  "id": 12414045299,
+  "lat": 36.2512926,
+  "lon": 126.8406138
+},
+{
+  "type": "node",
+  "id": 12414045300,
+  "lat": 36.2512540,
+  "lon": 126.8406163
+},
+{
+  "type": "node",
+  "id": 12414056301,
+  "lat": 36.2513042,
+  "lon": 126.8404040
+},
+{
+  "type": "node",
+  "id": 12414056303,
+  "lat": 36.2513161,
+  "lon": 126.8413432
+},
+{
+  "type": "node",
+  "id": 12414056304,
+  "lat": 36.2513643,
+  "lon": 126.8414689
+},
+{
+  "type": "node",
+  "id": 12414056305,
+  "lat": 36.2515012,
+  "lon": 126.8416467
+},
+{
+  "type": "node",
+  "id": 12414056306,
+  "lat": 36.2516011,
+  "lon": 126.8417294
+},
+{
+  "type": "node",
+  "id": 12414056307,
+  "lat": 36.2517979,
+  "lon": 126.8418317
+},
+{
+  "type": "node",
+  "id": 12414056308,
+  "lat": 36.2519680,
+  "lon": 126.8418901
+},
+{
+  "type": "node",
+  "id": 12414056309,
+  "lat": 36.2520603,
+  "lon": 126.8419009
+},
+{
+  "type": "node",
+  "id": 12414056310,
+  "lat": 36.2523741,
+  "lon": 126.8418456
+},
+{
+  "type": "node",
+  "id": 12414056311,
+  "lat": 36.2527920,
+  "lon": 126.8415699
+},
+{
+  "type": "node",
+  "id": 12414056312,
+  "lat": 36.2525159,
+  "lon": 126.8417710
+},
+{
+  "type": "node",
+  "id": 12414056313,
+  "lat": 36.2525339,
+  "lon": 126.8415763
+},
+{
+  "type": "node",
+  "id": 12414199287,
+  "lat": 36.2528090,
+  "lon": 126.8390566
+},
+{
+  "type": "node",
   "id": 7396865559,
-  "lat": 36.2636428,
-  "lon": 126.8326596
+  "lat": 36.2627594,
+  "lon": 126.8335599
 },
 {
   "type": "node",
   "id": 7396865562,
-  "lat": 36.2636756,
-  "lon": 126.8327825
+  "lat": 36.2628917,
+  "lon": 126.8336067
 },
 {
   "type": "node",
@@ -8874,33 +11820,279 @@
 },
 {
   "type": "node",
-  "id": 7396865560,
-  "lat": 36.2680382,
-  "lon": 126.8314436
+  "id": 12414045224,
+  "lat": 36.2633961,
+  "lon": 126.8331841
+},
+{
+  "type": "node",
+  "id": 12414045225,
+  "lat": 36.2638778,
+  "lon": 126.8329186
+},
+{
+  "type": "node",
+  "id": 12414045229,
+  "lat": 36.2597582,
+  "lon": 126.8356914
+},
+{
+  "type": "node",
+  "id": 12414045230,
+  "lat": 36.2615572,
+  "lon": 126.8343376
+},
+{
+  "type": "node",
+  "id": 12414045235,
+  "lat": 36.2635316,
+  "lon": 126.8332417
+},
+{
+  "type": "node",
+  "id": 12414045236,
+  "lat": 36.2615615,
+  "lon": 126.8344726
+},
+{
+  "type": "node",
+  "id": 12414045237,
+  "lat": 36.2598407,
+  "lon": 126.8357490
+},
+{
+  "type": "node",
+  "id": 12414045264,
+  "lat": 36.2640184,
+  "lon": 126.8329769
+},
+{
+  "type": "node",
+  "id": 12414045265,
+  "lat": 36.2621409,
+  "lon": 126.8339326
+},
+{
+  "type": "node",
+  "id": 12414045266,
+  "lat": 36.2621993,
+  "lon": 126.8340362
+},
+{
+  "type": "node",
+  "id": 12414045267,
+  "lat": 36.2607218,
+  "lon": 126.8349741
 },
 {
   "type": "node",
   "id": 7396865561,
-  "lat": 36.2680786,
-  "lon": 126.8315809
+  "lat": 36.2683493,
+  "lon": 126.8318193
+},
+{
+  "type": "node",
+  "id": 12414045239,
+  "lat": 36.2686892,
+  "lon": 126.8316623
+},
+{
+  "type": "node",
+  "id": 12414045240,
+  "lat": 36.2698323,
+  "lon": 126.8316321
+},
+{
+  "type": "node",
+  "id": 12414045253,
+  "lat": 36.2707625,
+  "lon": 126.8318152
+},
+{
+  "type": "node",
+  "id": 12414045254,
+  "lat": 36.2697959,
+  "lon": 126.8317531
+},
+{
+  "type": "node",
+  "id": 12414045255,
+  "lat": 36.2707400,
+  "lon": 126.8316995
+},
+{
+  "type": "node",
+  "id": 12414045256,
+  "lat": 36.2691024,
+  "lon": 126.8317543
+},
+{
+  "type": "node",
+  "id": 12414045257,
+  "lat": 36.2693413,
+  "lon": 126.8316278
+},
+{
+  "type": "node",
+  "id": 12414045258,
+  "lat": 36.2694191,
+  "lon": 126.8317501
+},
+{
+  "type": "node",
+  "id": 12414045259,
+  "lat": 36.2680766,
+  "lon": 126.8317265
+},
+{
+  "type": "node",
+  "id": 12414045260,
+  "lat": 36.2687674,
+  "lon": 126.8317761
+},
+{
+  "type": "node",
+  "id": 12414045261,
+  "lat": 36.2690218,
+  "lon": 126.8316439
+},
+{
+  "type": "node",
+  "id": 7396865560,
+  "lat": 36.2671240,
+  "lon": 126.8318552
+},
+{
+  "type": "node",
+  "id": 12414045226,
+  "lat": 36.2650603,
+  "lon": 126.8324127
+},
+{
+  "type": "node",
+  "id": 12414045227,
+  "lat": 36.2664361,
+  "lon": 126.8320049
+},
+{
+  "type": "node",
+  "id": 12414045228,
+  "lat": 36.2673524,
+  "lon": 126.8319472
+},
+{
+  "type": "node",
+  "id": 12414045231,
+  "lat": 36.2644157,
+  "lon": 126.8326667
+},
+{
+  "type": "node",
+  "id": 12414045232,
+  "lat": 36.2663414,
+  "lon": 126.8321405
+},
+{
+  "type": "node",
+  "id": 12414045233,
+  "lat": 36.2656366,
+  "lon": 126.8323288
+},
+{
+  "type": "node",
+  "id": 12414045234,
+  "lat": 36.2648686,
+  "lon": 126.8325946
+},
+{
+  "type": "node",
+  "id": 12414045262,
+  "lat": 36.2656596,
+  "lon": 126.8322073
+},
+{
+  "type": "node",
+  "id": 12414045263,
+  "lat": 36.2644292,
+  "lon": 126.8327794
 },
 {
   "type": "node",
   "id": 7396865555,
-  "lat": 36.2720091,
-  "lon": 126.8317087
-},
-{
-  "type": "node",
-  "id": 7396865553,
-  "lat": 36.2719777,
-  "lon": 126.8318681
+  "lat": 36.2714302,
+  "lon": 126.8317742
 },
 {
   "type": "node",
   "id": 7396865552,
-  "lat": 36.2781009,
-  "lon": 126.8335426
+  "lat": 36.2773110,
+  "lon": 126.8332540
+},
+{
+  "type": "node",
+  "id": 7396865553,
+  "lat": 36.2727156,
+  "lon": 126.8320894
+},
+{
+  "type": "node",
+  "id": 12414045241,
+  "lat": 36.2755050,
+  "lon": 126.8327010
+},
+{
+  "type": "node",
+  "id": 12414045242,
+  "lat": 36.2741703,
+  "lon": 126.8323459
+},
+{
+  "type": "node",
+  "id": 12414045243,
+  "lat": 36.2746915,
+  "lon": 126.8325770
+},
+{
+  "type": "node",
+  "id": 12414045244,
+  "lat": 36.2728105,
+  "lon": 126.8320253
+},
+{
+  "type": "node",
+  "id": 12414045247,
+  "lat": 36.2738212,
+  "lon": 126.8323453
+},
+{
+  "type": "node",
+  "id": 12414045248,
+  "lat": 36.2743174,
+  "lon": 126.8324742
+},
+{
+  "type": "node",
+  "id": 12414045249,
+  "lat": 36.2733635,
+  "lon": 126.8322295
+},
+{
+  "type": "node",
+  "id": 12414045250,
+  "lat": 36.2719266,
+  "lon": 126.8319550
+},
+{
+  "type": "node",
+  "id": 12414045251,
+  "lat": 36.2715496,
+  "lon": 126.8319035
+},
+{
+  "type": "node",
+  "id": 12414045252,
+  "lat": 36.2723129,
+  "lon": 126.8320181
 },
 {
   "type": "node",
@@ -8911,32 +12103,32 @@
 {
   "type": "node",
   "id": 7396865556,
-  "lat": 36.2821965,
-  "lon": 126.8340607
+  "lat": 36.2817770,
+  "lon": 126.8339997
 },
 {
   "type": "node",
   "id": 7396865557,
-  "lat": 36.2822605,
-  "lon": 126.8339224
+  "lat": 36.2822310,
+  "lon": 126.8339143
 },
 {
   "type": "node",
   "id": 12154836618,
-  "lat": 36.2798719,
-  "lon": 126.8336830
+  "lat": 36.2797007,
+  "lon": 126.8336370
 },
 {
   "type": "node",
   "id": 12154836619,
-  "lat": 36.2805621,
-  "lon": 126.8337522
+  "lat": 36.2806670,
+  "lon": 126.8337807
 },
 {
   "type": "node",
   "id": 12154836624,
-  "lat": 36.2808365,
-  "lon": 126.8337797
+  "lat": 36.2810954,
+  "lon": 126.8338244
 },
 {
   "type": "node",
@@ -8947,62 +12139,122 @@
 {
   "type": "node",
   "id": 12154836645,
-  "lat": 36.2799362,
-  "lon": 126.8336894
+  "lat": 36.2801416,
+  "lon": 126.8337106
 },
 {
   "type": "node",
   "id": 12154836646,
-  "lat": 36.2806294,
+  "lat": 36.2807635,
   "lon": 126.8339096
 },
 {
   "type": "node",
   "id": 12154836651,
-  "lat": 36.2787797,
-  "lon": 126.8336535
+  "lat": 36.2785885,
+  "lon": 126.8335579
 },
 {
   "type": "node",
-  "id": 12154836652,
-  "lat": 36.2782557,
-  "lon": 126.8335679
+  "id": 12414045245,
+  "lat": 36.2796949,
+  "lon": 126.8337685
+},
+{
+  "type": "node",
+  "id": 12414045246,
+  "lat": 36.2801194,
+  "lon": 126.8338285
+},
+{
+  "type": "node",
+  "id": 12414045268,
+  "lat": 36.2835920,
+  "lon": 126.8339475
+},
+{
+  "type": "node",
+  "id": 12414045269,
+  "lat": 36.2822447,
+  "lon": 126.8340365
+},
+{
+  "type": "node",
+  "id": 12414045270,
+  "lat": 36.2836210,
+  "lon": 126.8340594
+},
+{
+  "type": "node",
+  "id": 12415304521,
+  "lat": 36.2816648,
+  "lon": 126.8338775
 },
 {
   "type": "node",
   "id": 7396865550,
-  "lat": 36.2874414,
-  "lon": 126.8338925
+  "lat": 36.2877571,
+  "lon": 126.8336887
 },
 {
   "type": "node",
   "id": 7396865551,
-  "lat": 36.2874642,
-  "lon": 126.8340766
+  "lat": 36.2877150,
+  "lon": 126.8338363
 },
 {
   "type": "node",
   "id": 12154836605,
-  "lat": 36.2861179,
-  "lon": 126.8340725
+  "lat": 36.2863836,
+  "lon": 126.8340324
 },
 {
   "type": "node",
   "id": 12154836608,
-  "lat": 36.2861895,
-  "lon": 126.8338997
+  "lat": 36.2854717,
+  "lon": 126.8339265
 },
 {
   "type": "node",
   "id": 12154836614,
-  "lat": 36.2865392,
-  "lon": 126.8338977
+  "lat": 36.2868376,
+  "lon": 126.8338441
 },
 {
   "type": "node",
-  "id": 12154836623,
-  "lat": 36.2881871,
-  "lon": 126.8336387
+  "id": 12414043753,
+  "lat": 36.2853897,
+  "lon": 126.8340703
+},
+{
+  "type": "node",
+  "id": 12414043754,
+  "lat": 36.2862217,
+  "lon": 126.8339014
+},
+{
+  "type": "node",
+  "id": 12414043755,
+  "lat": 36.2872973,
+  "lon": 126.8337771
+},
+{
+  "type": "node",
+  "id": 12414043759,
+  "lat": 36.2858805,
+  "lon": 126.8340591
+},
+{
+  "type": "node",
+  "id": 12414043760,
+  "lat": 36.2870233,
+  "lon": 126.8339652
+},
+{
+  "type": "node",
+  "id": 12414043761,
+  "lat": 36.2884898,
+  "lon": 126.8335942
 },
 {
   "type": "node",
@@ -9030,105 +12282,1227 @@
 },
 {
   "type": "node",
-  "id": 12154836656,
-  "lat": 36.3165259,
-  "lon": 126.8207591
+  "id": 12154836654,
+  "lat": 36.3095436,
+  "lon": 126.8250029
 },
 {
   "type": "node",
-  "id": 12154836657,
-  "lat": 36.3165746,
-  "lon": 126.8210659
+  "id": 12415276766,
+  "lat": 36.3090770,
+  "lon": 126.8252215
+},
+{
+  "type": "node",
+  "id": 12415276774,
+  "lat": 36.3102159,
+  "lon": 126.8246827
+},
+{
+  "type": "node",
+  "id": 12415276768,
+  "lat": 36.3108001,
+  "lon": 126.8247088
+},
+{
+  "type": "node",
+  "id": 12415276769,
+  "lat": 36.3133374,
+  "lon": 126.8233221
+},
+{
+  "type": "node",
+  "id": 12415276770,
+  "lat": 36.3120376,
+  "lon": 126.8240720
+},
+{
+  "type": "node",
+  "id": 12415276775,
+  "lat": 36.3111014,
+  "lon": 126.8242453
+},
+{
+  "type": "node",
+  "id": 12415276776,
+  "lat": 36.3132085,
+  "lon": 126.8230889
+},
+{
+  "type": "node",
+  "id": 12415276787,
+  "lat": 36.3165181,
+  "lon": 126.8213352
+},
+{
+  "type": "node",
+  "id": 12415276788,
+  "lat": 36.3154091,
+  "lon": 126.8221134
+},
+{
+  "type": "node",
+  "id": 12415276789,
+  "lat": 36.3142615,
+  "lon": 126.8228010
+},
+{
+  "type": "node",
+  "id": 12415276790,
+  "lat": 36.3165671,
+  "lon": 126.8208266
+},
+{
+  "type": "node",
+  "id": 12415276791,
+  "lat": 36.3158763,
+  "lon": 126.8213479
+},
+{
+  "type": "node",
+  "id": 12415276792,
+  "lat": 36.3149267,
+  "lon": 126.8220150
+},
+{
+  "type": "node",
+  "id": 12415276793,
+  "lat": 36.3139000,
+  "lon": 126.8226610
+},
+{
+  "type": "node",
+  "id": 12415276797,
+  "lat": 36.3119126,
+  "lon": 126.8238405
+},
+{
+  "type": "node",
+  "id": 12415276798,
+  "lat": 36.3126176,
+  "lon": 126.8234222
 },
 {
   "type": "node",
   "id": 12408848500,
-  "lat": 36.3215149,
-  "lon": 126.8184835
+  "lat": 36.3218178,
+  "lon": 126.8184589
 },
 {
   "type": "node",
   "id": 12408848501,
-  "lat": 36.3215682,
-  "lon": 126.8186892
+  "lat": 36.3218564,
+  "lon": 126.8185334
+},
+{
+  "type": "node",
+  "id": 12154836656,
+  "lat": 36.3167883,
+  "lon": 126.8206467
+},
+{
+  "type": "node",
+  "id": 12154836657,
+  "lat": 36.3169486,
+  "lon": 126.8209848
+},
+{
+  "type": "node",
+  "id": 12415276777,
+  "lat": 36.3192379,
+  "lon": 126.8192864
+},
+{
+  "type": "node",
+  "id": 12415276781,
+  "lat": 36.3176122,
+  "lon": 126.8200681
+},
+{
+  "type": "node",
+  "id": 12415276782,
+  "lat": 36.3184111,
+  "lon": 126.8196393
+},
+{
+  "type": "node",
+  "id": 12415276783,
+  "lat": 36.3186965,
+  "lon": 126.8196852
+},
+{
+  "type": "node",
+  "id": 12415276784,
+  "lat": 36.3198106,
+  "lon": 126.8191862
+},
+{
+  "type": "node",
+  "id": 12415276785,
+  "lat": 36.3203756,
+  "lon": 126.8188822
+},
+{
+  "type": "node",
+  "id": 12415276786,
+  "lat": 36.3207120,
+  "lon": 126.8188625
+},
+{
+  "type": "node",
+  "id": 12415276799,
+  "lat": 36.3171475,
+  "lon": 126.8203786
+},
+{
+  "type": "node",
+  "id": 12415276800,
+  "lat": 36.3180573,
+  "lon": 126.8198148
+},
+{
+  "type": "node",
+  "id": 12415304501,
+  "lat": 36.3172842,
+  "lon": 126.8207197
+},
+{
+  "type": "node",
+  "id": 12415304502,
+  "lat": 36.3178213,
+  "lon": 126.8202770
+},
+{
+  "type": "node",
+  "id": 12415304503,
+  "lat": 36.3182418,
+  "lon": 126.8199758
+},
+{
+  "type": "node",
+  "id": 12415304504,
+  "lat": 36.3191481,
+  "lon": 126.8194534
 },
 {
   "type": "node",
   "id": 12408848502,
-  "lat": 36.3283750,
-  "lon": 126.8165917
+  "lat": 36.3286501,
+  "lon": 126.8169492
 },
 {
   "type": "node",
   "id": 12408848503,
-  "lat": 36.3282897,
-  "lon": 126.8163659
+  "lat": 36.3287467,
+  "lon": 126.8168371
 },
 {
   "type": "node",
-  "id": 12154836654,
-  "lat": 36.3093164,
-  "lon": 126.8253049
+  "id": 12415276778,
+  "lat": 36.3274418,
+  "lon": 126.8173115
+},
+{
+  "type": "node",
+  "id": 12415276779,
+  "lat": 36.3274341,
+  "lon": 126.8172362
+},
+{
+  "type": "node",
+  "id": 12415276780,
+  "lat": 36.3262400,
+  "lon": 126.8175112
+},
+{
+  "type": "node",
+  "id": 12415304505,
+  "lat": 36.3280273,
+  "lon": 126.8171596
+},
+{
+  "type": "node",
+  "id": 12415304506,
+  "lat": 36.3295426,
+  "lon": 126.8165957
+},
+{
+  "type": "node",
+  "id": 12415304507,
+  "lat": 36.3295441,
+  "lon": 126.8165210
+},
+{
+  "type": "node",
+  "id": 12415304508,
+  "lat": 36.3280616,
+  "lon": 126.8170712
+},
+{
+  "type": "node",
+  "id": 12415304513,
+  "lat": 36.3277346,
+  "lon": 126.8172356
+},
+{
+  "type": "node",
+  "id": 12415304514,
+  "lat": 36.3268362,
+  "lon": 126.8174440
+},
+{
+  "type": "node",
+  "id": 12415304515,
+  "lat": 36.3277478,
+  "lon": 126.8171537
+},
+{
+  "type": "node",
+  "id": 12415304516,
+  "lat": 36.3268053,
+  "lon": 126.8173810
+},
+{
+  "type": "node",
+  "id": 12415304509,
+  "lat": 36.3304685,
+  "lon": 126.8161926
+},
+{
+  "type": "node",
+  "id": 12415304510,
+  "lat": 36.3304536,
+  "lon": 126.8161262
+},
+{
+  "type": "node",
+  "id": 12415304511,
+  "lat": 36.3320817,
+  "lon": 126.8154903
+},
+{
+  "type": "node",
+  "id": 12415304512,
+  "lat": 36.3320444,
+  "lon": 126.8154355
+},
+{
+  "type": "node",
+  "id": 12416179772,
+  "lat": 36.3340552,
+  "lon": 126.8144890
+},
+{
+  "type": "node",
+  "id": 12416179773,
+  "lat": 36.3331119,
+  "lon": 126.8149330
+},
+{
+  "type": "node",
+  "id": 12416179774,
+  "lat": 36.3331529,
+  "lon": 126.8149990
+},
+{
+  "type": "node",
+  "id": 12416179775,
+  "lat": 36.3339361,
+  "lon": 126.8146398
+},
+{
+  "type": "node",
+  "id": 12415304517,
+  "lat": 36.3391039,
+  "lon": 126.8121125
+},
+{
+  "type": "node",
+  "id": 12415304519,
+  "lat": 36.3401894,
+  "lon": 126.8116018
+},
+{
+  "type": "node",
+  "id": 12415304520,
+  "lat": 36.3402462,
+  "lon": 126.8117095
+},
+{
+  "type": "node",
+  "id": 12416179769,
+  "lat": 36.3428107,
+  "lon": 126.8101856
+},
+{
+  "type": "node",
+  "id": 12416179770,
+  "lat": 36.3415000,
+  "lon": 126.8109100
+},
+{
+  "type": "node",
+  "id": 12416179771,
+  "lat": 36.3416261,
+  "lon": 126.8109752
+},
+{
+  "type": "node",
+  "id": 12416179733,
+  "lat": 36.3492032,
+  "lon": 126.8064122
+},
+{
+  "type": "node",
+  "id": 12416179761,
+  "lat": 36.3490026,
+  "lon": 126.8067369
+},
+{
+  "type": "node",
+  "id": 12416179766,
+  "lat": 36.3463840,
+  "lon": 126.8080998
+},
+{
+  "type": "node",
+  "id": 12416179767,
+  "lat": 36.3467172,
+  "lon": 126.8080823
+},
+{
+  "type": "node",
+  "id": 12416179768,
+  "lat": 36.3452646,
+  "lon": 126.8087728
+},
+{
+  "type": "node",
+  "id": 12415304518,
+  "lat": 36.3391512,
+  "lon": 126.8122479
 },
 {
   "type": "node",
   "id": 12154836655,
-  "lat": 36.3093406,
-  "lon": 126.8254527
+  "lat": 36.3094062,
+  "lon": 126.8254138
+},
+{
+  "type": "node",
+  "id": 12415276764,
+  "lat": 36.3091250,
+  "lon": 126.8255521
+},
+{
+  "type": "node",
+  "id": 12415276765,
+  "lat": 36.3086261,
+  "lon": 126.8257821
+},
+{
+  "type": "node",
+  "id": 12415276767,
+  "lat": 36.3085637,
+  "lon": 126.8254659
+},
+{
+  "type": "node",
+  "id": 12415276771,
+  "lat": 36.3071782,
+  "lon": 126.8264496
+},
+{
+  "type": "node",
+  "id": 12415276772,
+  "lat": 36.3069039,
+  "lon": 126.8263435
+},
+{
+  "type": "node",
+  "id": 12415276773,
+  "lat": 36.3061463,
+  "lon": 126.8267693
+},
+{
+  "type": "node",
+  "id": 12415276794,
+  "lat": 36.3076397,
+  "lon": 126.8259319
+},
+{
+  "type": "node",
+  "id": 12415276795,
+  "lat": 36.3054992,
+  "lon": 126.8271108
+},
+{
+  "type": "node",
+  "id": 12415276796,
+  "lat": 36.3082258,
+  "lon": 126.8256342
+},
+{
+  "type": "node",
+  "id": 12416179706,
+  "lat": 36.3665262,
+  "lon": 126.7973969
+},
+{
+  "type": "node",
+  "id": 12416179707,
+  "lat": 36.3688490,
+  "lon": 126.7961367
+},
+{
+  "type": "node",
+  "id": 12416179708,
+  "lat": 36.3681697,
+  "lon": 126.7964973
+},
+{
+  "type": "node",
+  "id": 12416179709,
+  "lat": 36.3654730,
+  "lon": 126.7980210
+},
+{
+  "type": "node",
+  "id": 12416179713,
+  "lat": 36.3654679,
+  "lon": 126.7979327
+},
+{
+  "type": "node",
+  "id": 12416179714,
+  "lat": 36.3674225,
+  "lon": 126.7970236
+},
+{
+  "type": "node",
+  "id": 12416179715,
+  "lat": 36.3651724,
+  "lon": 126.7980921
+},
+{
+  "type": "node",
+  "id": 12416179716,
+  "lat": 36.3673940,
+  "lon": 126.7969425
+},
+{
+  "type": "node",
+  "id": 12416179717,
+  "lat": 36.3685436,
+  "lon": 126.7963936
+},
+{
+  "type": "node",
+  "id": 12416179718,
+  "lat": 36.3689955,
+  "lon": 126.7961702
+},
+{
+  "type": "node",
+  "id": 12416179724,
+  "lat": 36.3684964,
+  "lon": 126.7963170
+},
+{
+  "type": "node",
+  "id": 12416179725,
+  "lat": 36.3651171,
+  "lon": 126.7982348
+},
+{
+  "type": "node",
+  "id": 12416179727,
+  "lat": 36.3638789,
+  "lon": 126.7990425
+},
+{
+  "type": "node",
+  "id": 12416179728,
+  "lat": 36.3642837,
+  "lon": 126.7987890
+},
+{
+  "type": "node",
+  "id": 12416179729,
+  "lat": 36.3647888,
+  "lon": 126.7984550
 },
 {
   "type": "node",
   "id": 12408848504,
-  "lat": 36.3762301,
-  "lon": 126.7966152
+  "lat": 36.3741537,
+  "lon": 126.7954542
+},
+{
+  "type": "node",
+  "id": 12416177271,
+  "lat": 36.3741378,
+  "lon": 126.7953490
+},
+{
+  "type": "node",
+  "id": 12416177274,
+  "lat": 36.3725669,
+  "lon": 126.7953157
+},
+{
+  "type": "node",
+  "id": 12416177275,
+  "lat": 36.3692256,
+  "lon": 126.7959608
+},
+{
+  "type": "node",
+  "id": 12416177277,
+  "lat": 36.3747482,
+  "lon": 126.7952869
+},
+{
+  "type": "node",
+  "id": 12416177278,
+  "lat": 36.3725802,
+  "lon": 126.7954169
+},
+{
+  "type": "node",
+  "id": 12416177279,
+  "lat": 36.3752628,
+  "lon": 126.7952928
+},
+{
+  "type": "node",
+  "id": 12416177280,
+  "lat": 36.3744256,
+  "lon": 126.7954323
+},
+{
+  "type": "node",
+  "id": 12416177281,
+  "lat": 36.3754790,
+  "lon": 126.7951196
+},
+{
+  "type": "node",
+  "id": 12416177282,
+  "lat": 36.3751075,
+  "lon": 126.7952168
+},
+{
+  "type": "node",
+  "id": 12416177283,
+  "lat": 36.3744174,
+  "lon": 126.7953279
+},
+{
+  "type": "node",
+  "id": 12416177284,
+  "lat": 36.3747546,
+  "lon": 126.7953835
+},
+{
+  "type": "node",
+  "id": 12416177285,
+  "lat": 36.3757136,
+  "lon": 126.7952117
+},
+{
+  "type": "node",
+  "id": 12416177295,
+  "lat": 36.3704055,
+  "lon": 126.7956403
+},
+{
+  "type": "node",
+  "id": 12416177296,
+  "lat": 36.3717754,
+  "lon": 126.7953798
+},
+{
+  "type": "node",
+  "id": 12416177297,
+  "lat": 36.3710209,
+  "lon": 126.7954538
+},
+{
+  "type": "node",
+  "id": 12416177298,
+  "lat": 36.3701562,
+  "lon": 126.7956148
+},
+{
+  "type": "node",
+  "id": 12416177299,
+  "lat": 36.3701773,
+  "lon": 126.7957070
+},
+{
+  "type": "node",
+  "id": 12416177300,
+  "lat": 36.3718934,
+  "lon": 126.7954470
+},
+{
+  "type": "node",
+  "id": 12416179701,
+  "lat": 36.3713783,
+  "lon": 126.7954914
+},
+{
+  "type": "node",
+  "id": 12416179702,
+  "lat": 36.3710790,
+  "lon": 126.7955309
+},
+{
+  "type": "node",
+  "id": 12416179703,
+  "lat": 36.3703956,
+  "lon": 126.7955536
+},
+{
+  "type": "node",
+  "id": 12416179704,
+  "lat": 36.3706721,
+  "lon": 126.7955897
+},
+{
+  "type": "node",
+  "id": 12416179705,
+  "lat": 36.3692639,
+  "lon": 126.7960454
+},
+{
+  "type": "node",
+  "id": 12416179719,
+  "lat": 36.3695697,
+  "lon": 126.7959231
+},
+{
+  "type": "node",
+  "id": 12416179720,
+  "lat": 36.3698970,
+  "lon": 126.7958045
+},
+{
+  "type": "node",
+  "id": 12416179721,
+  "lat": 36.3706396,
+  "lon": 126.7955072
+},
+{
+  "type": "node",
+  "id": 12416179722,
+  "lat": 36.3698583,
+  "lon": 126.7957153
+},
+{
+  "type": "node",
+  "id": 12416179723,
+  "lat": 36.3695001,
+  "lon": 126.7958427
+},
+{
+  "type": "node",
+  "id": 12416179735,
+  "lat": 36.3509725,
+  "lon": 126.8054044
+},
+{
+  "type": "node",
+  "id": 12416179746,
+  "lat": 36.3514480,
+  "lon": 126.8051569
+},
+{
+  "type": "node",
+  "id": 12416179747,
+  "lat": 36.3520989,
+  "lon": 126.8048405
+},
+{
+  "type": "node",
+  "id": 12416179750,
+  "lat": 36.3557771,
+  "lon": 126.8031234
+},
+{
+  "type": "node",
+  "id": 12416179751,
+  "lat": 36.3530203,
+  "lon": 126.8044040
+},
+{
+  "type": "node",
+  "id": 12416179752,
+  "lat": 36.3517965,
+  "lon": 126.8051020
+},
+{
+  "type": "node",
+  "id": 12416179753,
+  "lat": 36.3528473,
+  "lon": 126.8045996
+},
+{
+  "type": "node",
+  "id": 12416179754,
+  "lat": 36.3540899,
+  "lon": 126.8040090
+},
+{
+  "type": "node",
+  "id": 12416179755,
+  "lat": 36.3556533,
+  "lon": 126.8032596
+},
+{
+  "type": "node",
+  "id": 12416179763,
+  "lat": 36.3506096,
+  "lon": 126.8055903
+},
+{
+  "type": "node",
+  "id": 12416179764,
+  "lat": 36.3513035,
+  "lon": 126.8053450
+},
+{
+  "type": "node",
+  "id": 12416179734,
+  "lat": 36.3496426,
+  "lon": 126.8063408
+},
+{
+  "type": "node",
+  "id": 12416179736,
+  "lat": 36.3506984,
+  "lon": 126.8056590
+},
+{
+  "type": "node",
+  "id": 12416179762,
+  "lat": 36.3501190,
+  "lon": 126.8058615
+},
+{
+  "type": "node",
+  "id": 12416179765,
+  "lat": 36.3501949,
+  "lon": 126.8059638
+},
+{
+  "type": "node",
+  "id": 12416179731,
+  "lat": 36.3586876,
+  "lon": 126.8016617
+},
+{
+  "type": "node",
+  "id": 12416179732,
+  "lat": 36.3586901,
+  "lon": 126.8019003
+},
+{
+  "type": "node",
+  "id": 12416179748,
+  "lat": 36.3578456,
+  "lon": 126.8021122
+},
+{
+  "type": "node",
+  "id": 12416179749,
+  "lat": 36.3570226,
+  "lon": 126.8025270
+},
+{
+  "type": "node",
+  "id": 12416179756,
+  "lat": 36.3567284,
+  "lon": 126.8027926
+},
+{
+  "type": "node",
+  "id": 12416179757,
+  "lat": 36.3575241,
+  "lon": 126.8024689
+},
+{
+  "type": "node",
+  "id": 12416179758,
+  "lat": 36.3583034,
+  "lon": 126.8021107
+},
+{
+  "type": "node",
+  "id": 12416179759,
+  "lat": 36.3578743,
+  "lon": 126.8023135
+},
+{
+  "type": "node",
+  "id": 12416179760,
+  "lat": 36.3570863,
+  "lon": 126.8026468
+},
+{
+  "type": "node",
+  "id": 12416179726,
+  "lat": 36.3634332,
+  "lon": 126.7993072
+},
+{
+  "type": "node",
+  "id": 12416179730,
+  "lat": 36.3633465,
+  "lon": 126.7991087
+},
+{
+  "type": "node",
+  "id": 12416177267,
+  "lat": 36.3789868,
+  "lon": 126.7940895
+},
+{
+  "type": "node",
+  "id": 12416177268,
+  "lat": 36.3789248,
+  "lon": 126.7944513
+},
+{
+  "type": "node",
+  "id": 12416177270,
+  "lat": 36.3783316,
+  "lon": 126.7942316
+},
+{
+  "type": "node",
+  "id": 12416177272,
+  "lat": 36.3775229,
+  "lon": 126.7947989
+},
+{
+  "type": "node",
+  "id": 12416177273,
+  "lat": 36.3764264,
+  "lon": 126.7950679
+},
+{
+  "type": "node",
+  "id": 12416177276,
+  "lat": 36.3765243,
+  "lon": 126.7947535
+},
+{
+  "type": "node",
+  "id": 12416177286,
+  "lat": 36.3759136,
+  "lon": 126.7949920
+},
+{
+  "type": "node",
+  "id": 12416177287,
+  "lat": 36.3775633,
+  "lon": 126.7944225
+},
+{
+  "type": "node",
+  "id": 12416177288,
+  "lat": 36.3770664,
+  "lon": 126.7945693
+},
+{
+  "type": "node",
+  "id": 12416177289,
+  "lat": 36.3798195,
+  "lon": 126.7942258
+},
+{
+  "type": "node",
+  "id": 12416177290,
+  "lat": 36.3811017,
+  "lon": 126.7938490
+},
+{
+  "type": "node",
+  "id": 12416177291,
+  "lat": 36.3822616,
+  "lon": 126.7934554
+},
+{
+  "type": "node",
+  "id": 12416177292,
+  "lat": 36.3798124,
+  "lon": 126.7939076
+},
+{
+  "type": "node",
+  "id": 12416177293,
+  "lat": 36.3807776,
+  "lon": 126.7936342
+},
+{
+  "type": "node",
+  "id": 12416177294,
+  "lat": 36.3819683,
+  "lon": 126.7932363
+},
+{
+  "type": "node",
+  "id": 12414077196,
+  "lat": 36.3882256,
+  "lon": 126.7910720
+},
+{
+  "type": "node",
+  "id": 12414077197,
+  "lat": 36.3882282,
+  "lon": 126.7911810
+},
+{
+  "type": "node",
+  "id": 12416177252,
+  "lat": 36.3852645,
+  "lon": 126.7921703
+},
+{
+  "type": "node",
+  "id": 12416177253,
+  "lat": 36.3854599,
+  "lon": 126.7923545
+},
+{
+  "type": "node",
+  "id": 12416177254,
+  "lat": 36.3861877,
+  "lon": 126.7918617
+},
+{
+  "type": "node",
+  "id": 12416177255,
+  "lat": 36.3869376,
+  "lon": 126.7915914
+},
+{
+  "type": "node",
+  "id": 12416177256,
+  "lat": 36.3874801,
+  "lon": 126.7913737
+},
+{
+  "type": "node",
+  "id": 12416177259,
+  "lat": 36.3860371,
+  "lon": 126.7919155
+},
+{
+  "type": "node",
+  "id": 12416177260,
+  "lat": 36.3860252,
+  "lon": 126.7921426
+},
+{
+  "type": "node",
+  "id": 12416177261,
+  "lat": 36.3844407,
+  "lon": 126.7924168
+},
+{
+  "type": "node",
+  "id": 12416177263,
+  "lat": 36.3848526,
+  "lon": 126.7922935
+},
+{
+  "type": "node",
+  "id": 12416177262,
+  "lat": 36.3844482,
+  "lon": 126.7927011
+},
+{
+  "type": "node",
+  "id": 12416177264,
+  "lat": 36.3849152,
+  "lon": 126.7925411
+},
+{
+  "type": "node",
+  "id": 12416177265,
+  "lat": 36.3838287,
+  "lon": 126.7926085
+},
+{
+  "type": "node",
+  "id": 12416177266,
+  "lat": 36.3833272,
+  "lon": 126.7930803
+},
+{
+  "type": "node",
+  "id": 12416177269,
+  "lat": 36.3831093,
+  "lon": 126.7928506
 },
 {
   "type": "node",
   "id": 12408848487,
-  "lat": 36.3912387,
-  "lon": 126.7899165
+  "lat": 36.3911383,
+  "lon": 126.7900025
 },
 {
   "type": "node",
   "id": 12408848488,
-  "lat": 36.3912387,
-  "lon": 126.7901301
+  "lat": 36.3911259,
+  "lon": 126.7901348
 },
 {
   "type": "node",
   "id": 12408848505,
-  "lat": 36.3937859,
-  "lon": 126.7895318
+  "lat": 36.3939025,
+  "lon": 126.7895010
 },
 {
   "type": "node",
   "id": 12408848506,
-  "lat": 36.3937358,
-  "lon": 126.7897028
+  "lat": 36.3939292,
+  "lon": 126.7896504
+},
+{
+  "type": "node",
+  "id": 12414084516,
+  "lat": 36.3916721,
+  "lon": 126.7898490
+},
+{
+  "type": "node",
+  "id": 12414084517,
+  "lat": 36.3928183,
+  "lon": 126.7895992
+},
+{
+  "type": "node",
+  "id": 12414084518,
+  "lat": 36.3933252,
+  "lon": 126.7895296
+},
+{
+  "type": "node",
+  "id": 12414084519,
+  "lat": 36.3951034,
+  "lon": 126.7896475
+},
+{
+  "type": "node",
+  "id": 12414084523,
+  "lat": 36.3933790,
+  "lon": 126.7896671
+},
+{
+  "type": "node",
+  "id": 12414084524,
+  "lat": 36.3928214,
+  "lon": 126.7897238
+},
+{
+  "type": "node",
+  "id": 12414084525,
+  "lat": 36.3923949,
+  "lon": 126.7897969
+},
+{
+  "type": "node",
+  "id": 12414084526,
+  "lat": 36.3916643,
+  "lon": 126.7899704
+},
+{
+  "type": "node",
+  "id": 12414084527,
+  "lat": 36.3924624,
+  "lon": 126.7896532
+},
+{
+  "type": "node",
+  "id": 12416177257,
+  "lat": 36.3890241,
+  "lon": 126.7907544
+},
+{
+  "type": "node",
+  "id": 12416177258,
+  "lat": 36.3906311,
+  "lon": 126.7901653
 },
 {
   "type": "node",
   "id": 12408848483,
-  "lat": 36.3967414,
-  "lon": 126.7895044
+  "lat": 36.3966496,
+  "lon": 126.7895136
 },
 {
   "type": "node",
   "id": 12408848484,
-  "lat": 36.3968453,
-  "lon": 126.7897480
+  "lat": 36.3970561,
+  "lon": 126.7897357
 },
 {
   "type": "node",
   "id": 12408848507,
-  "lat": 36.4011122,
-  "lon": 126.7907952
+  "lat": 36.4013281,
+  "lon": 126.7908703
 },
 {
   "type": "node",
   "id": 12408848508,
-  "lat": 36.4012143,
-  "lon": 126.7906289
+  "lat": 36.4013870,
+  "lon": 126.7907201
+},
+{
+  "type": "node",
+  "id": 12414084520,
+  "lat": 36.3960884,
+  "lon": 126.7896546
+},
+{
+  "type": "node",
+  "id": 12414084521,
+  "lat": 36.3966182,
+  "lon": 126.7896767
+},
+{
+  "type": "node",
+  "id": 12414084522,
+  "lat": 36.3970929,
+  "lon": 126.7895829
+},
+{
+  "type": "node",
+  "id": 12414084528,
+  "lat": 36.3979844,
+  "lon": 126.7897933
+},
+{
+  "type": "node",
+  "id": 12414084529,
+  "lat": 36.3979739,
+  "lon": 126.7899509
+},
+{
+  "type": "node",
+  "id": 12414084530,
+  "lat": 36.3987975,
+  "lon": 126.7900212
+},
+{
+  "type": "node",
+  "id": 12414084531,
+  "lat": 36.3987490,
+  "lon": 126.7901633
 },
 {
   "type": "node",
@@ -9246,39 +13620,153 @@
 },
 {
   "type": "node",
-  "id": 12408848509,
-  "lat": 36.4038707,
-  "lon": 126.7913501
-},
-{
-  "type": "node",
-  "id": 12408848510,
-  "lat": 36.4038253,
-  "lon": 126.7911450
-},
-{
-  "type": "node",
-  "id": 12408848481,
-  "lat": 36.4130553,
-  "lon": 126.7906219
-},
-{
-  "type": "node",
-  "id": 12408848482,
-  "lat": 36.4131193,
-  "lon": 126.7908090
-},
-{
-  "type": "node",
   "id": 12408848485,
-  "lat": 36.4087067,
-  "lon": 126.7916397
+  "lat": 36.4084952,
+  "lon": 126.7917577
 },
 {
   "type": "node",
   "id": 12408848486,
-  "lat": 36.4086505,
-  "lon": 126.7914125
+  "lat": 36.4083612,
+  "lon": 126.7913374
+},
+{
+  "type": "node",
+  "id": 12408848509,
+  "lat": 36.4039704,
+  "lon": 126.7914740
+},
+{
+  "type": "node",
+  "id": 12408848510,
+  "lat": 36.4039958,
+  "lon": 126.7912523
+},
+{
+  "type": "node",
+  "id": 12414077186,
+  "lat": 36.4023813,
+  "lon": 126.7911657
+},
+{
+  "type": "node",
+  "id": 12414077187,
+  "lat": 36.4023529,
+  "lon": 126.7909849
+},
+{
+  "type": "node",
+  "id": 12414077188,
+  "lat": 36.4055829,
+  "lon": 126.7916269
+},
+{
+  "type": "node",
+  "id": 12414077189,
+  "lat": 36.4055479,
+  "lon": 126.7913450
+},
+{
+  "type": "node",
+  "id": 12414077190,
+  "lat": 36.4079366,
+  "lon": 126.7917779
+},
+{
+  "type": "node",
+  "id": 12414077191,
+  "lat": 36.4065195,
+  "lon": 126.7917158
+},
+{
+  "type": "node",
+  "id": 12414077192,
+  "lat": 36.4072581,
+  "lon": 126.7917656
+},
+{
+  "type": "node",
+  "id": 12414077193,
+  "lat": 36.4060106,
+  "lon": 126.7913727
+},
+{
+  "type": "node",
+  "id": 12414077194,
+  "lat": 36.4071559,
+  "lon": 126.7913691
+},
+{
+  "type": "node",
+  "id": 12414123609,
+  "lat": 36.4036122,
+  "lon": 126.7912060
+},
+{
+  "type": "node",
+  "id": 12414123610,
+  "lat": 36.4036769,
+  "lon": 126.7914392
+},
+{
+  "type": "node",
+  "id": 12408848481,
+  "lat": 36.4126927,
+  "lon": 126.7907721
+},
+{
+  "type": "node",
+  "id": 12408848482,
+  "lat": 36.4136158,
+  "lon": 126.7907339
+},
+{
+  "type": "node",
+  "id": 12414077175,
+  "lat": 36.4093224,
+  "lon": 126.7912944
+},
+{
+  "type": "node",
+  "id": 12414077176,
+  "lat": 36.4093429,
+  "lon": 126.7916604
+},
+{
+  "type": "node",
+  "id": 12414077177,
+  "lat": 36.4108865,
+  "lon": 126.7913812
+},
+{
+  "type": "node",
+  "id": 12414077178,
+  "lat": 36.4103119,
+  "lon": 126.7912215
+},
+{
+  "type": "node",
+  "id": 12414077179,
+  "lat": 36.4115962,
+  "lon": 126.7910093
+},
+{
+  "type": "node",
+  "id": 12414077180,
+  "lat": 36.4127211,
+  "lon": 126.7909381
+},
+{
+  "type": "node",
+  "id": 12414077181,
+  "lat": 36.4135655,
+  "lon": 126.7905861
+},
+{
+  "type": "node",
+  "id": 12414077182,
+  "lat": 36.4107770,
+  "lon": 126.7911502
 },
 {
   "type": "node",
@@ -9295,74 +13783,116 @@
 {
   "type": "node",
   "id": 7396865527,
-  "lat": 36.4276106,
-  "lon": 126.7876706
+  "lat": 36.4275881,
+  "lon": 126.7878901
 },
 {
   "type": "node",
   "id": 7396865544,
-  "lat": 36.4259971,
-  "lon": 126.7884401
+  "lat": 36.4258769,
+  "lon": 126.7885101
 },
 {
   "type": "node",
   "id": 7396865547,
-  "lat": 36.4261736,
-  "lon": 126.7885862
+  "lat": 36.4258918,
+  "lon": 126.7886282
+},
+{
+  "type": "node",
+  "id": 12414077143,
+  "lat": 36.4271087,
+  "lon": 126.7882433
+},
+{
+  "type": "node",
+  "id": 12414077158,
+  "lat": 36.4267720,
+  "lon": 126.7882396
+},
+{
+  "type": "node",
+  "id": 12414077159,
+  "lat": 36.4277030,
+  "lon": 126.7879900
+},
+{
+  "type": "node",
+  "id": 12414077160,
+  "lat": 36.4267464,
+  "lon": 126.7883867
+},
+{
+  "type": "node",
+  "id": 12414077161,
+  "lat": 36.4263773,
+  "lon": 126.7885098
+},
+{
+  "type": "node",
+  "id": 12414077162,
+  "lat": 36.4263413,
+  "lon": 126.7883865
 },
 {
   "type": "node",
   "id": 7396865526,
-  "lat": 36.4322505,
-  "lon": 126.7849527
+  "lat": 36.4315697,
+  "lon": 126.7856272
 },
 {
   "type": "node",
   "id": 7396865546,
-  "lat": 36.4322469,
-  "lon": 126.7851455
+  "lat": 36.4337321,
+  "lon": 126.7846146
 },
 {
   "type": "node",
   "id": 12408848516,
-  "lat": 36.4337603,
-  "lon": 126.7842930
-},
-{
-  "type": "node",
-  "id": 12408848517,
-  "lat": 36.4337960,
-  "lon": 126.7844418
-},
-{
-  "type": "node",
-  "id": 12408848544,
-  "lat": 36.4312314,
-  "lon": 126.7855497
+  "lat": 36.4341222,
+  "lon": 126.7843023
 },
 {
   "type": "node",
   "id": 12408894316,
-  "lat": 36.4336548,
-  "lon": 126.7843391
+  "lat": 36.4325032,
+  "lon": 126.7850927
 },
 {
   "type": "node",
   "id": 12408894349,
-  "lat": 36.4316989,
-  "lon": 126.7854606
+  "lat": 36.4322765,
+  "lon": 126.7853743
+},
+{
+  "type": "node",
+  "id": 12408894394,
+  "lat": 36.4336661,
+  "lon": 126.7845228
+},
+{
+  "type": "node",
+  "id": 12414077147,
+  "lat": 36.4318490,
+  "lon": 126.7856305
+},
+{
+  "type": "node",
+  "id": 12414077153,
+  "lat": 36.4311618,
+  "lon": 126.7858715
 },
 {
   "type": "node",
   "id": 7396865525,
-  "lat": 36.4360330,
-  "lon": 126.7833410
+  "lat": 36.4356122,
+  "lon": 126.7836212
 },
 {
   "type": "node",
   "id": 7396865545,
-  "lat": 36.4360312,
-  "lon": 126.7834837
+  "lat": 36.4366774,
+  "lon": 126.7834137
 },
 {
   "type": "node",
@@ -9379,8 +13909,50 @@
 {
   "type": "node",
   "id": 12408894315,
-  "lat": 36.4356297,
-  "lon": 126.7836558
+  "lat": 36.4356372,
+  "lon": 126.7837445
+},
+{
+  "type": "node",
+  "id": 12414077146,
+  "lat": 36.4367329,
+  "lon": 126.7832765
+},
+{
+  "type": "node",
+  "id": 12408848544,
+  "lat": 36.4307048,
+  "lon": 126.7861452
+},
+{
+  "type": "node",
+  "id": 12414077144,
+  "lat": 36.4285329,
+  "lon": 126.7875689
+},
+{
+  "type": "node",
+  "id": 12414077145,
+  "lat": 36.4303922,
+  "lon": 126.7865034
+},
+{
+  "type": "node",
+  "id": 12414077155,
+  "lat": 36.4294106,
+  "lon": 126.7869202
+},
+{
+  "type": "node",
+  "id": 12414077156,
+  "lat": 36.4293657,
+  "lon": 126.7871017
+},
+{
+  "type": "node",
+  "id": 12414077157,
+  "lat": 36.4285065,
+  "lon": 126.7874354
 },
 {
   "type": "node",
@@ -10950,6 +15522,24 @@
 },
 {
   "type": "node",
+  "id": 12414128199,
+  "lat": 36.6152188,
+  "lon": 126.7783549
+},
+{
+  "type": "node",
+  "id": 12414128200,
+  "lat": 36.6152049,
+  "lon": 126.7784884
+},
+{
+  "type": "node",
+  "id": 12414128197,
+  "lat": 36.6205525,
+  "lon": 126.7793688
+},
+{
+  "type": "node",
   "id": 7396865499,
   "lat": 36.6237653,
   "lon": 126.7799584
@@ -10974,27 +15564,33 @@
 },
 {
   "type": "node",
+  "id": 12414128198,
+  "lat": 36.6205239,
+  "lon": 126.7794912
+},
+{
+  "type": "node",
   "id": 12409123731,
-  "lat": 36.6309761,
-  "lon": 126.7812427
+  "lat": 36.6309780,
+  "lon": 126.7812007
 },
 {
   "type": "node",
   "id": 12409123732,
-  "lat": 36.6283260,
-  "lon": 126.7808106
+  "lat": 36.6281723,
+  "lon": 126.7807802
 },
 {
   "type": "node",
   "id": 12409123778,
-  "lat": 36.6295642,
-  "lon": 126.7808218
+  "lat": 36.6295290,
+  "lon": 126.7809279
 },
 {
   "type": "node",
   "id": 12409123779,
-  "lat": 36.6288636,
-  "lon": 126.7807174
+  "lat": 36.6288058,
+  "lon": 126.7808182
 },
 {
   "type": "node",
@@ -11011,8 +15607,8 @@
 {
   "type": "node",
   "id": 12409123828,
-  "lat": 36.6277619,
-  "lon": 126.7805534
+  "lat": 36.6277283,
+  "lon": 126.7806552
 },
 {
   "type": "node",
@@ -11029,26 +15625,86 @@
 {
   "type": "node",
   "id": 12409358478,
-  "lat": 36.6309953,
-  "lon": 126.7810348
+  "lat": 36.6312340,
+  "lon": 126.7811798
 },
 {
   "type": "node",
-  "id": 12410896623,
-  "lat": 36.6292126,
-  "lon": 126.7807694
+  "id": 12414129598,
+  "lat": 36.6266769,
+  "lon": 126.7804759
 },
 {
   "type": "node",
   "id": 7396865493,
-  "lat": 36.6363638,
-  "lon": 126.7818342
+  "lat": 36.6363622,
+  "lon": 126.7819135
 },
 {
   "type": "node",
   "id": 7396865498,
-  "lat": 36.6363694,
-  "lon": 126.7821221
+  "lat": 36.6363834,
+  "lon": 126.7819650
+},
+{
+  "type": "node",
+  "id": 12414129592,
+  "lat": 36.6355251,
+  "lon": 126.7818223
+},
+{
+  "type": "node",
+  "id": 12414129905,
+  "lat": 36.6355653,
+  "lon": 126.7817816
+},
+{
+  "type": "node",
+  "id": 12414129906,
+  "lat": 36.6369302,
+  "lon": 126.7820197
+},
+{
+  "type": "node",
+  "id": 12414129907,
+  "lat": 36.6369123,
+  "lon": 126.7820650
+},
+{
+  "type": "node",
+  "id": 12414129908,
+  "lat": 36.6420368,
+  "lon": 126.7833812
+},
+{
+  "type": "node",
+  "id": 12414129909,
+  "lat": 36.6420374,
+  "lon": 126.7832077
+},
+{
+  "type": "node",
+  "id": 12414129910,
+  "lat": 36.6395924,
+  "lon": 126.7827266
+},
+{
+  "type": "node",
+  "id": 12414129911,
+  "lat": 36.6408949,
+  "lon": 126.7830671
+},
+{
+  "type": "node",
+  "id": 12414129912,
+  "lat": 36.6416487,
+  "lon": 126.7832959
+},
+{
+  "type": "node",
+  "id": 12414129913,
+  "lat": 36.6413043,
+  "lon": 126.7831909
 },
 {
   "type": "node",
@@ -11059,8 +15715,50 @@
 {
   "type": "node",
   "id": 7396865497,
-  "lat": 36.6499020,
-  "lon": 126.7848902
+  "lat": 36.6499069,
+  "lon": 126.7847854
+},
+{
+  "type": "node",
+  "id": 12414129914,
+  "lat": 36.6465171,
+  "lon": 126.7840832
+},
+{
+  "type": "node",
+  "id": 12414129915,
+  "lat": 36.6464876,
+  "lon": 126.7842351
+},
+{
+  "type": "node",
+  "id": 12414129916,
+  "lat": 36.6470392,
+  "lon": 126.7843410
+},
+{
+  "type": "node",
+  "id": 12414129917,
+  "lat": 36.6476293,
+  "lon": 126.7843974
+},
+{
+  "type": "node",
+  "id": 12414129918,
+  "lat": 36.6483584,
+  "lon": 126.7844882
+},
+{
+  "type": "node",
+  "id": 12414129919,
+  "lat": 36.6473256,
+  "lon": 126.7843784
+},
+{
+  "type": "node",
+  "id": 12414129920,
+  "lat": 36.6479086,
+  "lon": 126.7844228
 },
 {
   "type": "node",
@@ -11077,20 +15775,14 @@
 {
   "type": "node",
   "id": 7396865496,
-  "lat": 36.6518507,
-  "lon": 126.7852447
+  "lat": 36.6518729,
+  "lon": 126.7851523
 },
 {
   "type": "node",
   "id": 7396865492,
-  "lat": 36.6559958,
-  "lon": 126.7860468
-},
-{
-  "type": "node",
-  "id": 12410792962,
-  "lat": 36.6575031,
-  "lon": 126.7863845
+  "lat": 36.6560745,
+  "lon": 126.7859908
 },
 {
   "type": "node",
@@ -11113,8 +15805,8 @@
 {
   "type": "node",
   "id": 12408797068,
-  "lat": 36.6596607,
-  "lon": 126.7867166
+  "lat": 36.6604549,
+  "lon": 126.7867073
 },
 {
   "type": "node",
@@ -11125,20 +15817,26 @@
 {
   "type": "node",
   "id": 12408797070,
-  "lat": 36.6626278,
-  "lon": 126.7869242
+  "lat": 36.6627065,
+  "lon": 126.7868728
 },
 {
   "type": "node",
   "id": 12410792961,
-  "lat": 36.6586584,
-  "lon": 126.7866006
+  "lat": 36.6588944,
+  "lon": 126.7865632
+},
+{
+  "type": "node",
+  "id": 12410792962,
+  "lat": 36.6578178,
+  "lon": 126.7863612
 },
 {
   "type": "node",
   "id": 12410792963,
-  "lat": 36.6591237,
-  "lon": 126.7866627
+  "lat": 36.6595358,
+  "lon": 126.7866440
 },
 {
   "type": "node",
@@ -11197,14 +15895,14 @@
 {
   "type": "node",
   "id": 7396865491,
-  "lat": 36.6644003,
-  "lon": 126.7870482
+  "lat": 36.6644902,
+  "lon": 126.7870155
 },
 {
   "type": "node",
   "id": 12407281127,
-  "lat": 36.6660644,
-  "lon": 126.7871647
+  "lat": 36.6660881,
+  "lon": 126.7871271
 },
 {
   "type": "node",
@@ -11265,6 +15963,12 @@
   "id": 12408894395,
   "lat": 36.6689543,
   "lon": 126.7869145
+},
+{
+  "type": "node",
+  "id": 12414129921,
+  "lat": 36.6654516,
+  "lon": 126.7870821
 },
 {
   "type": "node",
@@ -11694,12 +16398,6 @@
 },
 {
   "type": "node",
-  "id": 7396654588,
-  "lat": 36.7422140,
-  "lon": 126.8089711
-},
-{
-  "type": "node",
   "id": 7396654590,
   "lat": 36.7371993,
   "lon": 126.8070658
@@ -11732,7 +16430,7 @@
   "type": "node",
   "id": 12412720809,
   "lat": 36.7415697,
-  "lon": 126.8087411
+  "lon": 126.8087598
 },
 {
   "type": "node",
@@ -11742,57 +16440,117 @@
 },
 {
   "type": "node",
-  "id": 7396654587,
-  "lat": 36.7433593,
-  "lon": 126.8094882
+  "id": 12414864379,
+  "lat": 36.7427230,
+  "lon": 126.8092338
 },
 {
   "type": "node",
-  "id": 7396654589,
-  "lat": 36.7463162,
-  "lon": 126.8114992
+  "id": 12414864380,
+  "lat": 36.7416763,
+  "lon": 126.8090259
 },
 {
   "type": "node",
-  "id": 7396654593,
-  "lat": 36.7467362,
-  "lon": 126.8120818
+  "id": 12414864383,
+  "lat": 36.7425557,
+  "lon": 126.8093745
 },
 {
   "type": "node",
-  "id": 7396654594,
-  "lat": 36.7432618,
-  "lon": 126.8096436
+  "id": 12414864384,
+  "lat": 36.7430834,
+  "lon": 126.8095940
 },
 {
   "type": "node",
-  "id": 11302794395,
-  "lat": 36.7449303,
-  "lon": 126.8105545
+  "id": 12414864385,
+  "lat": 36.7435492,
+  "lon": 126.8098298
 },
 {
   "type": "node",
-  "id": 11302794399,
-  "lat": 36.7448620,
-  "lon": 126.8107113
+  "id": 12414864386,
+  "lat": 36.7440672,
+  "lon": 126.8101428
 },
 {
   "type": "node",
-  "id": 11302794400,
-  "lat": 36.7458122,
-  "lon": 126.8113689
+  "id": 12414864387,
+  "lat": 36.7446341,
+  "lon": 126.8105291
 },
 {
   "type": "node",
-  "id": 11302794401,
-  "lat": 36.7468177,
-  "lon": 126.8119274
+  "id": 12414864388,
+  "lat": 36.7456602,
+  "lon": 126.8112446
 },
 {
   "type": "node",
-  "id": 11302794404,
-  "lat": 36.7462961,
-  "lon": 126.8116976
+  "id": 12414864389,
+  "lat": 36.7462922,
+  "lon": 126.8117040
+},
+{
+  "type": "node",
+  "id": 12414864390,
+  "lat": 36.7467190,
+  "lon": 126.8120780
+},
+{
+  "type": "node",
+  "id": 12414864393,
+  "lat": 36.7431555,
+  "lon": 126.8094205
+},
+{
+  "type": "node",
+  "id": 12414864394,
+  "lat": 36.7435617,
+  "lon": 126.8096243
+},
+{
+  "type": "node",
+  "id": 12414864395,
+  "lat": 36.7438647,
+  "lon": 126.8098255
+},
+{
+  "type": "node",
+  "id": 12414864396,
+  "lat": 36.7445891,
+  "lon": 126.8103163
+},
+{
+  "type": "node",
+  "id": 12414864397,
+  "lat": 36.7454973,
+  "lon": 126.8109408
+},
+{
+  "type": "node",
+  "id": 12414864398,
+  "lat": 36.7461637,
+  "lon": 126.8113974
+},
+{
+  "type": "node",
+  "id": 12414864399,
+  "lat": 36.7464161,
+  "lon": 126.8115920
+},
+{
+  "type": "node",
+  "id": 12414864400,
+  "lat": 36.7466969,
+  "lon": 126.8118327
+},
+{
+  "type": "node",
+  "id": 12414864401,
+  "lat": 36.7469578,
+  "lon": 126.8120911
 },
 {
   "type": "node",
@@ -11808,39 +16566,51 @@
 },
 {
   "type": "node",
-  "id": 11302794402,
-  "lat": 36.7477661,
-  "lon": 126.8129558
-},
-{
-  "type": "node",
-  "id": 11302794403,
-  "lat": 36.7483383,
-  "lon": 126.8136300
-},
-{
-  "type": "node",
-  "id": 11302794405,
-  "lat": 36.7472484,
-  "lon": 126.8126437
-},
-{
-  "type": "node",
-  "id": 11302794406,
-  "lat": 36.7480781,
-  "lon": 126.8136231
-},
-{
-  "type": "node",
-  "id": 12407277714,
-  "lat": 36.7472968,
-  "lon": 126.8124200
-},
-{
-  "type": "node",
   "id": 12407277723,
   "lat": 36.7483967,
   "lon": 126.8140469
+},
+{
+  "type": "node",
+  "id": 12414864381,
+  "lat": 36.7482109,
+  "lon": 126.8137998
+},
+{
+  "type": "node",
+  "id": 12414864382,
+  "lat": 36.7483906,
+  "lon": 126.8137024
+},
+{
+  "type": "node",
+  "id": 12414864391,
+  "lat": 36.7471555,
+  "lon": 126.8125374
+},
+{
+  "type": "node",
+  "id": 12414864392,
+  "lat": 36.7475953,
+  "lon": 126.8130578
+},
+{
+  "type": "node",
+  "id": 12414864402,
+  "lat": 36.7473576,
+  "lon": 126.8125052
+},
+{
+  "type": "node",
+  "id": 12414864403,
+  "lat": 36.7477206,
+  "lon": 126.8129122
+},
+{
+  "type": "node",
+  "id": 12414864404,
+  "lat": 36.7480496,
+  "lon": 126.8132944
 },
 {
   "type": "node",
@@ -11893,20 +16663,26 @@
 {
   "type": "node",
   "id": 12407277776,
-  "lat": 36.7496606,
-  "lon": 126.8157440
+  "lat": 36.7495217,
+  "lon": 126.8155753
 },
 {
   "type": "node",
   "id": 12407281011,
-  "lat": 36.7513062,
-  "lon": 126.8181772
+  "lat": 36.7513259,
+  "lon": 126.8182179
 },
 {
   "type": "node",
   "id": 12408910401,
   "lat": 36.7503651,
   "lon": 126.8167715
+},
+{
+  "type": "node",
+  "id": 12414864231,
+  "lat": 36.7494097,
+  "lon": 126.8151055
 },
 {
   "type": "node",
@@ -12043,8 +16819,8 @@
 {
   "type": "node",
   "id": 11302794340,
-  "lat": 36.7570828,
-  "lon": 126.8420964
+  "lat": 36.7571447,
+  "lon": 126.8422224
 },
 {
   "type": "node",
@@ -12061,20 +16837,20 @@
 {
   "type": "node",
   "id": 11302794343,
-  "lat": 36.7572479,
-  "lon": 126.8421194
+  "lat": 36.7572902,
+  "lon": 126.8422536
 },
 {
   "type": "node",
   "id": 11302794344,
-  "lat": 36.7568669,
-  "lon": 126.8410972
+  "lat": 36.7569744,
+  "lon": 126.8415810
 },
 {
   "type": "node",
   "id": 11302794347,
-  "lat": 36.7578135,
-  "lon": 126.8439348
+  "lat": 36.7576213,
+  "lon": 126.8433575
 },
 {
   "type": "node",
@@ -12084,39 +16860,111 @@
 },
 {
   "type": "node",
+  "id": 12416204773,
+  "lat": 36.7568169,
+  "lon": 126.8408674
+},
+{
+  "type": "node",
+  "id": 12416204774,
+  "lat": 36.7571222,
+  "lon": 126.8416561
+},
+{
+  "type": "node",
+  "id": 12416204775,
+  "lat": 36.7580941,
+  "lon": 126.8449134
+},
+{
+  "type": "node",
   "id": 7396654571,
-  "lat": 36.7600406,
-  "lon": 126.8495786
+  "lat": 36.7604217,
+  "lon": 126.8501600
 },
 {
   "type": "node",
   "id": 7396654583,
-  "lat": 36.7599924,
-  "lon": 126.8497502
+  "lat": 36.7599566,
+  "lon": 126.8494981
 },
 {
   "type": "node",
   "id": 11302794336,
-  "lat": 36.7587171,
-  "lon": 126.8470156
+  "lat": 36.7587627,
+  "lon": 126.8469099
 },
 {
   "type": "node",
   "id": 11302794339,
-  "lat": 36.7581490,
-  "lon": 126.8455714
+  "lat": 36.7580024,
+  "lon": 126.8449453
 },
 {
   "type": "node",
   "id": 11302794348,
-  "lat": 36.7581727,
-  "lon": 126.8450453
+  "lat": 36.7583551,
+  "lon": 126.8456185
 },
 {
   "type": "node",
   "id": 11302794349,
-  "lat": 36.7586535,
-  "lon": 126.8463344
+  "lat": 36.7586763,
+  "lon": 126.8464360
+},
+{
+  "type": "node",
+  "id": 12416204776,
+  "lat": 36.7581883,
+  "lon": 126.8454580
+},
+{
+  "type": "node",
+  "id": 12416204777,
+  "lat": 36.7590464,
+  "lon": 126.8473213
+},
+{
+  "type": "node",
+  "id": 12416204778,
+  "lat": 36.7594491,
+  "lon": 126.8482353
+},
+{
+  "type": "node",
+  "id": 12416204779,
+  "lat": 36.7599305,
+  "lon": 126.8492525
+},
+{
+  "type": "node",
+  "id": 12416204780,
+  "lat": 36.7590846,
+  "lon": 126.8476578
+},
+{
+  "type": "node",
+  "id": 12416204781,
+  "lat": 36.7584543,
+  "lon": 126.8461514
+},
+{
+  "type": "node",
+  "id": 12416204782,
+  "lat": 36.7594082,
+  "lon": 126.8483747
+},
+{
+  "type": "node",
+  "id": 12416204783,
+  "lat": 36.7596938,
+  "lon": 126.8489811
+},
+{
+  "type": "node",
+  "id": 12416204784,
+  "lat": 36.7603051,
+  "lon": 126.8501338
 },
 {
   "type": "node",
@@ -12127,8 +16975,8 @@
 {
   "type": "node",
   "id": 7396654569,
-  "lat": 36.7656594,
-  "lon": 126.8572227
+  "lat": 36.7657024,
+  "lon": 126.8574265
 },
 {
   "type": "node",
@@ -12162,6 +17010,18 @@
 },
 {
   "type": "node",
+  "id": 12414864144,
+  "lat": 36.7641092,
+  "lon": 126.8555804
+},
+{
+  "type": "node",
+  "id": 12414864145,
+  "lat": 36.7649144,
+  "lon": 126.8565227
+},
+{
+  "type": "node",
   "id": 7396654581,
   "lat": 36.7678762,
   "lon": 126.8603698
@@ -12169,14 +17029,14 @@
 {
   "type": "node",
   "id": 11302794331,
-  "lat": 36.7682827,
-  "lon": 126.8605858
+  "lat": 36.7682526,
+  "lon": 126.8605965
 },
 {
   "type": "node",
   "id": 11302794332,
-  "lat": 36.7664374,
-  "lon": 126.8582029
+  "lat": 36.7664417,
+  "lon": 126.8583638
 },
 {
   "type": "node",
@@ -12243,6 +17103,48 @@
   "id": 11302794427,
   "lat": 36.7737655,
   "lon": 126.8694577
+},
+{
+  "type": "node",
+  "id": 12416326803,
+  "lat": 36.7727970,
+  "lon": 126.8680162
+},
+{
+  "type": "node",
+  "id": 12416326804,
+  "lat": 36.7732254,
+  "lon": 126.8686377
+},
+{
+  "type": "node",
+  "id": 12416326805,
+  "lat": 36.7728644,
+  "lon": 126.8679577
+},
+{
+  "type": "node",
+  "id": 12416326809,
+  "lat": 36.7748844,
+  "lon": 126.8709601
+},
+{
+  "type": "node",
+  "id": 12416326812,
+  "lat": 36.7747915,
+  "lon": 126.8710269
+},
+{
+  "type": "node",
+  "id": 12416326810,
+  "lat": 36.7751340,
+  "lon": 126.8713331
+},
+{
+  "type": "node",
+  "id": 12416326811,
+  "lat": 36.7750414,
+  "lon": 126.8714089
 },
 {
   "type": "node",
@@ -12439,8 +17341,8 @@
 {
   "type": "node",
   "id": 11302794353,
-  "lat": 36.8069746,
-  "lon": 126.8925499
+  "lat": 36.8079097,
+  "lon": 126.8923906
 },
 {
   "type": "node",
@@ -12492,15 +17394,27 @@
 },
 {
   "type": "node",
+  "id": 12415678870,
+  "lat": 36.8079353,
+  "lon": 126.8925240
+},
+{
+  "type": "node",
   "id": 7396654564,
-  "lat": 36.8096539,
-  "lon": 126.8918208
+  "lat": 36.8094584,
+  "lon": 126.8919624
 },
 {
   "type": "node",
   "id": 7396654576,
-  "lat": 36.8130690,
-  "lon": 126.8914633
+  "lat": 36.8128310,
+  "lon": 126.8915058
+},
+{
+  "type": "node",
+  "id": 11302794312,
+  "lat": 36.8146308,
+  "lon": 126.8914803
 },
 {
   "type": "node",
@@ -12517,38 +17431,38 @@
 {
   "type": "node",
   "id": 11302794358,
-  "lat": 36.8108122,
-  "lon": 126.8915325
+  "lat": 36.8102710,
+  "lon": 126.8917413
 },
 {
   "type": "node",
   "id": 11302794359,
-  "lat": 36.8095210,
-  "lon": 126.8921388
+  "lat": 36.8102322,
+  "lon": 126.8919441
 },
 {
   "type": "node",
   "id": 11302794360,
-  "lat": 36.8138499,
-  "lon": 126.8914438
+  "lat": 36.8138669,
+  "lon": 126.8914473
 },
 {
   "type": "node",
   "id": 11302794361,
-  "lat": 36.8138943,
-  "lon": 126.8911846
+  "lat": 36.8135685,
+  "lon": 126.8912589
 },
 {
   "type": "node",
   "id": 11302794362,
-  "lat": 36.8128921,
-  "lon": 126.8911902
+  "lat": 36.8128128,
+  "lon": 126.8913035
 },
 {
   "type": "node",
   "id": 11302794363,
-  "lat": 36.8121010,
-  "lon": 126.8912771
+  "lat": 36.8117666,
+  "lon": 126.8914470
 },
 {
   "type": "node",
@@ -12559,80 +17473,224 @@
 {
   "type": "node",
   "id": 11302794365,
-  "lat": 36.8143598,
-  "lon": 126.8911914
+  "lat": 36.8144816,
+  "lon": 126.8912940
+},
+{
+  "type": "node",
+  "id": 12415678863,
+  "lat": 36.8147939,
+  "lon": 126.8913202
+},
+{
+  "type": "node",
+  "id": 12415678866,
+  "lat": 36.8140038,
+  "lon": 126.8912641
+},
+{
+  "type": "node",
+  "id": 12415678867,
+  "lat": 36.8133773,
+  "lon": 126.8914642
+},
+{
+  "type": "node",
+  "id": 12415678868,
+  "lat": 36.8123095,
+  "lon": 126.8913681
+},
+{
+  "type": "node",
+  "id": 12415678869,
+  "lat": 36.8108488,
+  "lon": 126.8916065
+},
+{
+  "type": "node",
+  "id": 12415678871,
+  "lat": 36.8112865,
+  "lon": 126.8915232
 },
 {
   "type": "node",
   "id": 7396654562,
-  "lat": 36.8162660,
-  "lon": 126.8914545
+  "lat": 36.8164020,
+  "lon": 126.8915819
 },
 {
   "type": "node",
   "id": 7396654563,
-  "lat": 36.8151289,
-  "lon": 126.8912755
+  "lat": 36.8151006,
+  "lon": 126.8913534
 },
 {
   "type": "node",
   "id": 7396654574,
-  "lat": 36.8205126,
-  "lon": 126.8931956
+  "lat": 36.8205013,
+  "lon": 126.8931673
 },
 {
   "type": "node",
   "id": 7396654575,
-  "lat": 36.8161737,
-  "lon": 126.8916346
+  "lat": 36.8162776,
+  "lon": 126.8916839
 },
 {
   "type": "node",
   "id": 11302794310,
-  "lat": 36.8192785,
-  "lon": 126.8925608
+  "lat": 36.8192353,
+  "lon": 126.8925506
 },
 {
   "type": "node",
   "id": 11302794311,
-  "lat": 36.8179393,
-  "lon": 126.8920439
-},
-{
-  "type": "node",
-  "id": 11302794312,
-  "lat": 36.8149449,
-  "lon": 126.8914803
+  "lat": 36.8182075,
+  "lon": 126.8921977
 },
 {
   "type": "node",
   "id": 11302794366,
-  "lat": 36.8173011,
-  "lon": 126.8917020
+  "lat": 36.8166262,
+  "lon": 126.8916316
 },
 {
   "type": "node",
   "id": 11302794367,
-  "lat": 36.8181866,
-  "lon": 126.8919767
+  "lat": 36.8178758,
+  "lon": 126.8919397
 },
 {
   "type": "node",
   "id": 11302794368,
-  "lat": 36.8192357,
-  "lon": 126.8923870
+  "lat": 36.8192329,
+  "lon": 126.8924118
 },
 {
   "type": "node",
   "id": 11302794369,
-  "lat": 36.8200442,
-  "lon": 126.8927950
+  "lat": 36.8201972,
+  "lon": 126.8928658
 },
 {
   "type": "node",
   "id": 12410885960,
-  "lat": 36.8210227,
-  "lon": 126.8934822
+  "lat": 36.8210057,
+  "lon": 126.8934503
+},
+{
+  "type": "node",
+  "id": 12415678848,
+  "lat": 36.8174535,
+  "lon": 126.8919758
+},
+{
+  "type": "node",
+  "id": 12415678849,
+  "lat": 36.8168364,
+  "lon": 126.8918071
+},
+{
+  "type": "node",
+  "id": 12415678850,
+  "lat": 36.8156730,
+  "lon": 126.8915892
+},
+{
+  "type": "node",
+  "id": 12415678851,
+  "lat": 36.8149220,
+  "lon": 126.8915048
+},
+{
+  "type": "node",
+  "id": 12415678852,
+  "lat": 36.8186773,
+  "lon": 126.8923321
+},
+{
+  "type": "node",
+  "id": 12415678853,
+  "lat": 36.8199065,
+  "lon": 126.8928591
+},
+{
+  "type": "node",
+  "id": 12415678854,
+  "lat": 36.8182975,
+  "lon": 126.8920651
+},
+{
+  "type": "node",
+  "id": 12415678855,
+  "lat": 36.8187298,
+  "lon": 126.8922189
+},
+{
+  "type": "node",
+  "id": 12415678856,
+  "lat": 36.8196782,
+  "lon": 126.8926069
+},
+{
+  "type": "node",
+  "id": 12415678857,
+  "lat": 36.8205825,
+  "lon": 126.8930687
+},
+{
+  "type": "node",
+  "id": 12415678858,
+  "lat": 36.8210533,
+  "lon": 126.8933416
+},
+{
+  "type": "node",
+  "id": 12415678859,
+  "lat": 36.8202492,
+  "lon": 126.8930309
+},
+{
+  "type": "node",
+  "id": 12415678860,
+  "lat": 36.8195893,
+  "lon": 126.8927119
+},
+{
+  "type": "node",
+  "id": 12415678861,
+  "lat": 36.8189393,
+  "lon": 126.8924237
+},
+{
+  "type": "node",
+  "id": 12415678862,
+  "lat": 36.8153485,
+  "lon": 126.8915488
+},
+{
+  "type": "node",
+  "id": 12415678864,
+  "lat": 36.8154906,
+  "lon": 126.8914004
+},
+{
+  "type": "node",
+  "id": 12415678865,
+  "lat": 36.8159421,
+  "lon": 126.8914858
+},
+{
+  "type": "node",
+  "id": 12415678872,
+  "lat": 36.8174503,
+  "lon": 126.8918301
+},
+{
+  "type": "node",
+  "id": 12415678873,
+  "lat": 36.8170383,
+  "lon": 126.8917262
 },
 {
   "type": "node",
@@ -14262,9 +19320,15 @@
 },
 {
   "type": "node",
+  "id": 11302794301,
+  "lat": 36.8279569,
+  "lon": 126.9003090
+},
+{
+  "type": "node",
   "id": 11302794303,
   "lat": 36.8278720,
-  "lon": 126.9000165
+  "lon": 126.9000288
 },
 {
   "type": "node",
@@ -14310,9 +19374,15 @@
 },
 {
   "type": "node",
+  "id": 12415678842,
+  "lat": 36.8277321,
+  "lon": 126.9000444
+},
+{
+  "type": "node",
   "id": 7396654485,
-  "lat": 36.8289988,
-  "lon": 126.9010758
+  "lat": 36.8287857,
+  "lon": 126.9009712
 },
 {
   "type": "node",
@@ -14341,8 +19411,8 @@
 {
   "type": "node",
   "id": 11302794299,
-  "lat": 36.8300867,
-  "lon": 126.9019985
+  "lat": 36.8301030,
+  "lon": 126.9020514
 },
 {
   "type": "node",
@@ -14352,63 +19422,99 @@
 },
 {
   "type": "node",
-  "id": 11302794301,
-  "lat": 36.8279862,
-  "lon": 126.9003740
+  "id": 11302794302,
+  "lat": 36.8285577,
+  "lon": 126.9007647
 },
 {
   "type": "node",
-  "id": 11302794302,
-  "lat": 36.8284073,
-  "lon": 126.9005583
+  "id": 12415678843,
+  "lat": 36.8282465,
+  "lon": 126.9006142
+},
+{
+  "type": "node",
+  "id": 12415678844,
+  "lat": 36.8293191,
+  "lon": 126.9016152
+},
+{
+  "type": "node",
+  "id": 12415678845,
+  "lat": 36.8293346,
+  "lon": 126.9014638
+},
+{
+  "type": "node",
+  "id": 12415678846,
+  "lat": 36.8290495,
+  "lon": 126.9012129
+},
+{
+  "type": "node",
+  "id": 12415678847,
+  "lat": 36.8282038,
+  "lon": 126.9004045
+},
+{
+  "type": "node",
+  "id": 12415678874,
+  "lat": 36.8290024,
+  "lon": 126.9013479
+},
+{
+  "type": "node",
+  "id": 12415678875,
+  "lat": 36.8289841,
+  "lon": 126.9011529
 },
 {
   "type": "node",
   "id": 11302794294,
-  "lat": 36.8344250,
-  "lon": 126.9048875
+  "lat": 36.8342736,
+  "lon": 126.9047731
 },
 {
   "type": "node",
   "id": 11302794296,
-  "lat": 36.8344347,
-  "lon": 126.9047454
+  "lat": 36.8342702,
+  "lon": 126.9046590
 },
 {
   "type": "node",
   "id": 7396654487,
-  "lat": 36.8361040,
-  "lon": 126.9052700
+  "lat": 36.8359543,
+  "lon": 126.9052781
 },
 {
   "type": "node",
   "id": 7396654558,
-  "lat": 36.8353060,
-  "lon": 126.9052023
+  "lat": 36.8353516,
+  "lon": 126.9052348
 },
 {
   "type": "node",
   "id": 11302794289,
-  "lat": 36.8365506,
-  "lon": 126.9053330
+  "lat": 36.8363651,
+  "lon": 126.9053777
 },
 {
   "type": "node",
   "id": 11302794290,
-  "lat": 36.8353387,
-  "lon": 126.9050809
+  "lat": 36.8354476,
+  "lon": 126.9051484
 },
 {
   "type": "node",
   "id": 11302794291,
-  "lat": 36.8361007,
-  "lon": 126.9054002
+  "lat": 36.8360844,
+  "lon": 126.9054449
 },
 {
   "type": "node",
   "id": 11302794292,
-  "lat": 36.8366046,
-  "lon": 126.9054698
+  "lat": 36.8372033,
+  "lon": 126.9056893
 },
 {
   "type": "node",
@@ -14419,8 +19525,74 @@
 {
   "type": "node",
   "id": 11302794295,
-  "lat": 36.8349336,
-  "lon": 126.9049663
+  "lat": 36.8350196,
+  "lon": 126.9050247
+},
+{
+  "type": "node",
+  "id": 12415678876,
+  "lat": 36.8388120,
+  "lon": 126.9059567
+},
+{
+  "type": "node",
+  "id": 12415678877,
+  "lat": 36.8380955,
+  "lon": 126.9058434
+},
+{
+  "type": "node",
+  "id": 12415678878,
+  "lat": 36.8390152,
+  "lon": 126.9059827
+},
+{
+  "type": "node",
+  "id": 12415678879,
+  "lat": 36.8389930,
+  "lon": 126.9058473
+},
+{
+  "type": "node",
+  "id": 12415678880,
+  "lat": 36.8387816,
+  "lon": 126.9058264
+},
+{
+  "type": "node",
+  "id": 12415678881,
+  "lat": 36.8378711,
+  "lon": 126.9056732
+},
+{
+  "type": "node",
+  "id": 12415678882,
+  "lat": 36.8370644,
+  "lon": 126.9055153
+},
+{
+  "type": "node",
+  "id": 12415678883,
+  "lat": 36.8346021,
+  "lon": 126.9049542
+},
+{
+  "type": "node",
+  "id": 12415678884,
+  "lat": 36.8345758,
+  "lon": 126.9048220
+},
+{
+  "type": "node",
+  "id": 12415678885,
+  "lat": 36.8347864,
+  "lon": 126.9049292
+},
+{
+  "type": "node",
+  "id": 12415678886,
+  "lat": 36.8352261,
+  "lon": 126.9050877
 },
 {
   "type": "node",
@@ -14463,12 +19635,6 @@
   "id": 7396624184,
   "lat": 36.8479148,
   "lon": 126.9061037
-},
-{
-  "type": "node",
-  "id": 7396654555,
-  "lat": 36.8541493,
-  "lon": 126.9092209
 },
 {
   "type": "node",
@@ -14532,6 +19698,24 @@
 },
 {
   "type": "node",
+  "id": 12414864141,
+  "lat": 36.8539453,
+  "lon": 126.9088811
+},
+{
+  "type": "node",
+  "id": 12414864142,
+  "lat": 36.8539952,
+  "lon": 126.9091004
+},
+{
+  "type": "node",
+  "id": 7396654555,
+  "lat": 36.8542306,
+  "lon": 126.9092575
+},
+{
+  "type": "node",
   "id": 11235244463,
   "lat": 36.8549437,
   "lon": 126.9096220
@@ -14550,6 +19734,12 @@
 },
 {
   "type": "node",
+  "id": 12414864140,
+  "lat": 36.8555401,
+  "lon": 126.9101569
+},
+{
+  "type": "node",
   "id": 7396624181,
   "lat": 36.8587047,
   "lon": 126.9136654
@@ -14557,14 +19747,14 @@
 {
   "type": "node",
   "id": 9042291991,
-  "lat": 36.8600049,
-  "lon": 126.9154169
+  "lat": 36.8599825,
+  "lon": 126.9154402
 },
 {
   "type": "node",
   "id": 11302794276,
-  "lat": 36.8600775,
-  "lon": 126.9152774
+  "lat": 36.8600513,
+  "lon": 126.9153241
 },
 {
   "type": "node",
@@ -14587,8 +19777,8 @@
 {
   "type": "node",
   "id": 7396624177,
-  "lat": 36.8733153,
-  "lon": 126.9218953
+  "lat": 36.8733190,
+  "lon": 126.9218813
 },
 {
   "type": "node",
@@ -14599,8 +19789,8 @@
 {
   "type": "node",
   "id": 12409296456,
-  "lat": 36.8737576,
-  "lon": 126.9218611
+  "lat": 36.8738342,
+  "lon": 126.9218704
 },
 {
   "type": "node",
@@ -14646,15 +19836,21 @@
 },
 {
   "type": "node",
+  "id": 12414864139,
+  "lat": 36.8743907,
+  "lon": 126.9218241
+},
+{
+  "type": "node",
   "id": 7396624174,
-  "lat": 36.8857264,
-  "lon": 126.9193750
+  "lat": 36.8857632,
+  "lon": 126.9193538
 },
 {
   "type": "node",
   "id": 7396624175,
-  "lat": 36.8833946,
-  "lon": 126.9206941
+  "lat": 36.8824935,
+  "lon": 126.9208497
 },
 {
   "type": "node",
@@ -14665,56 +19861,170 @@
 {
   "type": "node",
   "id": 7396654548,
-  "lat": 36.8850833,
-  "lon": 126.9200557
+  "lat": 36.8851103,
+  "lon": 126.9199322
 },
 {
   "type": "node",
   "id": 7396654549,
-  "lat": 36.8834541,
-  "lon": 126.9207920
+  "lat": 36.8829809,
+  "lon": 126.9208413
 },
 {
   "type": "node",
   "id": 7396654550,
-  "lat": 36.8819965,
-  "lon": 126.9211513
+  "lat": 36.8817279,
+  "lon": 126.9211698
 },
 {
   "type": "node",
   "id": 11302794272,
   "lat": 36.8867313,
-  "lon": 126.9188891
+  "lon": 126.9188728
 },
 {
   "type": "node",
   "id": 11302794379,
-  "lat": 36.8844565,
-  "lon": 126.9201199
+  "lat": 36.8844640,
+  "lon": 126.9200634
 },
 {
   "type": "node",
   "id": 11302794383,
-  "lat": 36.8865696,
-  "lon": 126.9187214
+  "lat": 36.8865781,
+  "lon": 126.9187568
 },
 {
   "type": "node",
   "id": 11302794384,
-  "lat": 36.8850459,
-  "lon": 126.9198003
+  "lat": 36.8850289,
+  "lon": 126.9197755
 },
 {
   "type": "node",
   "id": 11302794385,
-  "lat": 36.8862956,
-  "lon": 126.9192547
+  "lat": 36.8863611,
+  "lon": 126.9191655
 },
 {
   "type": "node",
   "id": 11302794386,
-  "lat": 36.8857220,
-  "lon": 126.9196633
+  "lat": 36.8856035,
+  "lon": 126.9196837
+},
+{
+  "type": "node",
+  "id": 12415671518,
+  "lat": 36.8840053,
+  "lon": 126.9202902
+},
+{
+  "type": "node",
+  "id": 12415671519,
+  "lat": 36.8835400,
+  "lon": 126.9204978
+},
+{
+  "type": "node",
+  "id": 12415671520,
+  "lat": 36.8830153,
+  "lon": 126.9206950
+},
+{
+  "type": "node",
+  "id": 12415671521,
+  "lat": 36.8845011,
+  "lon": 126.9202129
+},
+{
+  "type": "node",
+  "id": 12415671522,
+  "lat": 36.8854943,
+  "lon": 126.9195332
+},
+{
+  "type": "node",
+  "id": 12415671523,
+  "lat": 36.8861225,
+  "lon": 126.9191031
+},
+{
+  "type": "node",
+  "id": 12415671532,
+  "lat": 36.8852404,
+  "lon": 126.9196792
+},
+{
+  "type": "node",
+  "id": 12415671534,
+  "lat": 36.8858753,
+  "lon": 126.9195213
+},
+{
+  "type": "node",
+  "id": 12415671535,
+  "lat": 36.8840973,
+  "lon": 126.9204064
+},
+{
+  "type": "node",
+  "id": 12415671536,
+  "lat": 36.8853439,
+  "lon": 126.9198202
+},
+{
+  "type": "node",
+  "id": 12415671537,
+  "lat": 36.8861394,
+  "lon": 126.9193373
+},
+{
+  "type": "node",
+  "id": 12415671538,
+  "lat": 36.8862308,
+  "lon": 126.9190208
+},
+{
+  "type": "node",
+  "id": 12415671539,
+  "lat": 36.8835194,
+  "lon": 126.9206578
+},
+{
+  "type": "node",
+  "id": 12415671540,
+  "lat": 36.8825050,
+  "lon": 126.9209827
+},
+{
+  "type": "node",
+  "id": 12415671541,
+  "lat": 36.8820955,
+  "lon": 126.9210885
+},
+{
+  "type": "node",
+  "id": 12415671542,
+  "lat": 36.8805442,
+  "lon": 126.9213722
+},
+{
+  "type": "node",
+  "id": 12415671543,
+  "lat": 36.8805441,
+  "lon": 126.9212733
+},
+{
+  "type": "node",
+  "id": 12415671544,
+  "lat": 36.8810501,
+  "lon": 126.9212991
+},
+{
+  "type": "node",
+  "id": 12415671545,
+  "lat": 36.8813573,
+  "lon": 126.9212426
 },
 {
   "type": "node",
@@ -14749,8 +20059,8 @@
 {
   "type": "node",
   "id": 11302794381,
-  "lat": 36.8909173,
-  "lon": 126.9146098
+  "lat": 36.8905012,
+  "lon": 126.9149920
 },
 {
   "type": "node",
@@ -14767,8 +20077,44 @@
 {
   "type": "node",
   "id": 11302794443,
-  "lat": 36.8917840,
-  "lon": 126.9139450
+  "lat": 36.8917897,
+  "lon": 126.9139627
+},
+{
+  "type": "node",
+  "id": 12415671525,
+  "lat": 36.8885175,
+  "lon": 126.9169520
+},
+{
+  "type": "node",
+  "id": 12415671527,
+  "lat": 36.8892335,
+  "lon": 126.9163242
+},
+{
+  "type": "node",
+  "id": 12415671528,
+  "lat": 36.8897760,
+  "lon": 126.9157970
+},
+{
+  "type": "node",
+  "id": 12415671529,
+  "lat": 36.8903476,
+  "lon": 126.9152848
+},
+{
+  "type": "node",
+  "id": 12415671530,
+  "lat": 36.8911921,
+  "lon": 126.9144314
+},
+{
+  "type": "node",
+  "id": 12415671531,
+  "lat": 36.8899741,
+  "lon": 126.9154630
 },
 {
   "type": "node",
@@ -14821,8 +20167,26 @@
 {
   "type": "node",
   "id": 11302794387,
-  "lat": 36.8877163,
-  "lon": 126.9180054
+  "lat": 36.8875493,
+  "lon": 126.9181576
+},
+{
+  "type": "node",
+  "id": 12415671524,
+  "lat": 36.8874450,
+  "lon": 126.9180186
+},
+{
+  "type": "node",
+  "id": 12415671526,
+  "lat": 36.8883349,
+  "lon": 126.9173237
+},
+{
+  "type": "node",
+  "id": 12415671533,
+  "lat": 36.8878994,
+  "lon": 126.9178011
 },
 {
   "type": "node",
@@ -14953,8 +20317,20 @@
 {
   "type": "node",
   "id": 12389319887,
-  "lat": 36.9188716,
-  "lon": 126.9131934
+  "lat": 36.9186896,
+  "lon": 126.9131674
+},
+{
+  "type": "node",
+  "id": 12389319853,
+  "lat": 36.9228446,
+  "lon": 126.9145186
+},
+{
+  "type": "node",
+  "id": 12389319874,
+  "lat": 36.9235061,
+  "lon": 126.9146039
 },
 {
   "type": "node",
@@ -16783,8 +22159,8 @@
 {
   "type": "node",
   "id": 9107613016,
-  "lat": 36.9513443,
-  "lon": 126.8906016
+  "lat": 36.9513236,
+  "lon": 126.8906051
 },
 {
   "type": "node",
@@ -16801,20 +22177,20 @@
 {
   "type": "node",
   "id": 12408797051,
-  "lat": 36.9494657,
-  "lon": 126.8950210
+  "lat": 36.9495107,
+  "lon": 126.8948037
 },
 {
   "type": "node",
   "id": 12408797052,
-  "lat": 36.9494173,
-  "lon": 126.8951367
+  "lat": 36.9492608,
+  "lon": 126.8954264
 },
 {
   "type": "node",
   "id": 12409455020,
-  "lat": 36.9486464,
-  "lon": 126.8969540
+  "lat": 36.9486807,
+  "lon": 126.8968065
 },
 {
   "type": "node",
@@ -16837,8 +22213,14 @@
 {
   "type": "node",
   "id": 12409455021,
-  "lat": 36.9483272,
-  "lon": 126.8976640
+  "lat": 36.9482586,
+  "lon": 126.8978223
+},
+{
+  "type": "node",
+  "id": 7396624168,
+  "lat": 36.9273785,
+  "lon": 126.9158129
 },
 {
   "type": "node",
@@ -16851,6 +22233,12 @@
   "id": 7396654493,
   "lat": 36.9289911,
   "lon": 126.9162655
+},
+{
+  "type": "node",
+  "id": 7396654542,
+  "lat": 36.9273142,
+  "lon": 126.9159727
 },
 {
   "type": "node",
@@ -16879,8 +22267,8 @@
 {
   "type": "node",
   "id": 7396624155,
-  "lat": 36.9393121,
-  "lon": 126.9149499
+  "lat": 36.9392318,
+  "lon": 126.9150270
 },
 {
   "type": "node",
@@ -16962,6 +22350,12 @@
 },
 {
   "type": "node",
+  "id": 12414389871,
+  "lat": 36.9387325,
+  "lon": 126.9153520
+},
+{
+  "type": "node",
   "id": 7396654506,
   "lat": 36.9326386,
   "lon": 126.9198794
@@ -16975,8 +22369,8 @@
 {
   "type": "node",
   "id": 12389291845,
-  "lat": 36.9322475,
-  "lon": 126.9171322
+  "lat": 36.9322452,
+  "lon": 126.9171209
 },
 {
   "type": "node",
@@ -16987,8 +22381,8 @@
 {
   "type": "node",
   "id": 12395317636,
-  "lat": 36.9325572,
-  "lon": 126.9171636
+  "lat": 36.9325595,
+  "lon": 126.9171409
 },
 {
   "type": "node",
@@ -17047,8 +22441,8 @@
 {
   "type": "node",
   "id": 12395317633,
-  "lat": 36.9329842,
-  "lon": 126.9171783
+  "lat": 36.9329140,
+  "lon": 126.9171556
 },
 {
   "type": "node",
@@ -17197,8 +22591,8 @@
 {
   "type": "node",
   "id": 12389291848,
-  "lat": 36.9405999,
-  "lon": 126.9137724
+  "lat": 36.9406503,
+  "lon": 126.9137467
 },
 {
   "type": "node",
@@ -17238,6 +22632,18 @@
 },
 {
   "type": "node",
+  "id": 12414389872,
+  "lat": 36.9396193,
+  "lon": 126.9147412
+},
+{
+  "type": "node",
+  "id": 12414389873,
+  "lat": 36.9401619,
+  "lon": 126.9142218
+},
+{
+  "type": "node",
   "id": 9107625951,
   "lat": 36.9529107,
   "lon": 126.8877423
@@ -17251,8 +22657,8 @@
 {
   "type": "node",
   "id": 12410970675,
-  "lat": 36.9532425,
-  "lon": 126.8872644
+  "lat": 36.9532339,
+  "lon": 126.8872730
 },
 {
   "type": "node",
@@ -17262,9 +22668,15 @@
 },
 {
   "type": "node",
+  "id": 12415742825,
+  "lat": 36.9532457,
+  "lon": 126.8872566
+},
+{
+  "type": "node",
   "id": 12389295536,
-  "lat": 36.9612920,
-  "lon": 126.8799862
+  "lat": 36.9613542,
+  "lon": 126.8799632
 },
 {
   "type": "node",
@@ -17275,44 +22687,56 @@
 {
   "type": "node",
   "id": 12406112893,
-  "lat": 36.9630470,
-  "lon": 126.8784035
-},
-{
-  "type": "node",
-  "id": 12409359716,
-  "lat": 36.9633149,
-  "lon": 126.8781677
+  "lat": 36.9632645,
+  "lon": 126.8782361
 },
 {
   "type": "node",
   "id": 12409359717,
-  "lat": 36.9634021,
-  "lon": 126.8780909
+  "lat": 36.9634342,
+  "lon": 126.8780802
 },
 {
   "type": "node",
   "id": 12409359720,
-  "lat": 36.9610957,
-  "lon": 126.8801085
+  "lat": 36.9610250,
+  "lon": 126.8802306
 },
 {
   "type": "node",
   "id": 12409359721,
-  "lat": 36.9611935,
-  "lon": 126.8800476
+  "lat": 36.9612105,
+  "lon": 126.8800865
 },
 {
   "type": "node",
   "id": 12409359722,
-  "lat": 36.9597720,
-  "lon": 126.8809335
+  "lat": 36.9599890,
+  "lon": 126.8808520
 },
 {
   "type": "node",
-  "id": 12409359723,
-  "lat": 36.9598688,
-  "lon": 126.8808732
+  "id": 12414389892,
+  "lat": 36.9603437,
+  "lon": 126.8806551
+},
+{
+  "type": "node",
+  "id": 12414389894,
+  "lat": 36.9609058,
+  "lon": 126.8803119
+},
+{
+  "type": "node",
+  "id": 12414389898,
+  "lat": 36.9624789,
+  "lon": 126.8789766
+},
+{
+  "type": "node",
+  "id": 12414389899,
+  "lat": 36.9629666,
+  "lon": 126.8785157
 },
 {
   "type": "node",
@@ -17701,8 +23125,8 @@
 {
   "type": "node",
   "id": 9107625335,
-  "lat": 36.9659094,
-  "lon": 126.9641879
+  "lat": 36.9658854,
+  "lon": 126.9641815
 },
 {
   "type": "node",
