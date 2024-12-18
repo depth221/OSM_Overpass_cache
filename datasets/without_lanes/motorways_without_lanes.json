@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.4 2390de5a",
   "osm3s": {
-    "timestamp_osm_base": "2024-12-17T18:40:59Z",
-    "timestamp_areas_base": "2024-12-15T03:51:59Z",
+    "timestamp_osm_base": "2024-12-18T18:39:00Z",
+    "timestamp_areas_base": "2024-12-18T13:56:26Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -4981,6 +4981,24 @@
 },
 {
   "type": "way",
+  "id": 1226914116,
+  "nodes": [
+    6715339784,
+    6715339786
+  ],
+  "tags": {
+    "access": "no",
+    "highway": "motorway",
+    "layer": "-1",
+    "name": "그루고개로371번길",
+    "name:en": "Geurugogae-ro 371beon-gil",
+    "name:ko": "그루고개로371번길",
+    "start_date": "2024-12-19",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
   "id": 1228592125,
   "nodes": [
     9599218338,
@@ -6848,7 +6866,7 @@
   "nodes": [
     11302794449,
     7396654543,
-    12389314800,
+    12430405807,
     12408910547
   ],
   "tags": {
@@ -17466,8 +17484,8 @@
 {
   "type": "node",
   "id": 12407281133,
-  "lat": 36.6699599,
-  "lon": 126.7869811
+  "lat": 36.6699723,
+  "lon": 126.7869565
 },
 {
   "type": "node",
@@ -21905,15 +21923,15 @@
 },
 {
   "type": "node",
-  "id": 12389314800,
-  "lat": 36.9192869,
-  "lon": 126.9134459
-},
-{
-  "type": "node",
   "id": 12389319887,
   "lat": 36.9186896,
   "lon": 126.9131674
+},
+{
+  "type": "node",
+  "id": 12430405807,
+  "lat": 36.9190285,
+  "lon": 126.9133605
 },
 {
   "type": "node",
@@ -25238,6 +25256,18 @@
   "id": 11628652578,
   "lat": 37.4649695,
   "lon": 127.0928162
+},
+{
+  "type": "node",
+  "id": 6715339784,
+  "lat": 37.8503325,
+  "lon": 127.0019049
+},
+{
+  "type": "node",
+  "id": 6715339786,
+  "lat": 37.8506671,
+  "lon": 127.0016797
 },
 {
   "type": "node",
