@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.4 2390de5a",
   "osm3s": {
-    "timestamp_osm_base": "2024-12-15T03:51:59Z",
-    "timestamp_areas_base": "2024-12-15T03:51:59Z",
+    "timestamp_osm_base": "2024-12-18T18:49:04Z",
+    "timestamp_areas_base": "2024-12-18T13:56:26Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -56904,11 +56904,7 @@
   "id": 1332149182,
   "nodes": [
     437058043,
-    571352941,
-    10209788619,
-    571352959,
-    437066701,
-    437066702
+    571352941
   ],
   "tags": {
     "highway": "primary",
@@ -58582,6 +58578,47 @@
     "highway": "primary",
     "ncat": "국도",
     "oneway": "yes",
+    "ref": "40",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 1343522834,
+  "nodes": [
+    10209788619,
+    437066701,
+    437066702
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "예덕로",
+    "name:en": "Yedeok-ro",
+    "name:ko": "예덕로",
+    "name:zh": "夜德路",
+    "ncat": "국도",
+    "ref": "40",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 1343522835,
+  "nodes": [
+    571352941,
+    12431227674,
+    571352959,
+    10209788619
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "예덕로",
+    "name:en": "Yedeok-ro",
+    "name:ko": "예덕로",
+    "name:zh": "夜德路",
+    "ncat": "국도",
     "ref": "40",
     "review": "no",
     "source": "NTIC"
@@ -152460,8 +152497,8 @@
 {
   "type": "node",
   "id": 437058043,
-  "lat": 36.7524437,
-  "lon": 126.7022172
+  "lat": 36.7524512,
+  "lon": 126.7021854
 },
 {
   "type": "node",
@@ -152490,8 +152527,8 @@
 {
   "type": "node",
   "id": 437066699,
-  "lat": 36.7514572,
-  "lon": 126.7017466
+  "lat": 36.7514632,
+  "lon": 126.7016924
 },
 {
   "type": "node",
@@ -152508,8 +152545,8 @@
 {
   "type": "node",
   "id": 571352941,
-  "lat": 36.7531812,
-  "lon": 126.7026140
+  "lat": 36.7532005,
+  "lon": 126.7025630
 },
 {
   "type": "node",
@@ -152526,8 +152563,14 @@
 {
   "type": "node",
   "id": 10209788619,
-  "lat": 36.7541629,
-  "lon": 126.7031028
+  "lat": 36.7543066,
+  "lon": 126.7031743
+},
+{
+  "type": "node",
+  "id": 12431227674,
+  "lat": 36.7541605,
+  "lon": 126.7031016
 },
 {
   "type": "node",
