@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.4 2390de5a",
   "osm3s": {
-    "timestamp_osm_base": "2024-12-26T18:35:10Z",
-    "timestamp_areas_base": "2024-12-26T13:54:03Z",
+    "timestamp_osm_base": "2024-12-27T18:35:26Z",
+    "timestamp_areas_base": "2024-12-27T15:05:51Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -6791,7 +6791,13 @@
     12412720817
   ],
   "tags": {
+    "bicycle": "no",
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "motor_vehicle": "yes",
+    "motorcycle": "no",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -6800,7 +6806,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -8046,6 +8053,7 @@
     12407281140
   ],
   "tags": {
+    "bicycle": "no",
     "highway": "motorway",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
@@ -8072,6 +8080,7 @@
     12409368648
   ],
   "tags": {
+    "bicycle": "no",
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
@@ -8188,6 +8197,7 @@
     12407281153
   ],
   "tags": {
+    "bicycle": "no",
     "highway": "motorway",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
@@ -8214,6 +8224,7 @@
     12409368652
   ],
   "tags": {
+    "bicycle": "no",
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
@@ -8250,6 +8261,7 @@
     12409368655
   ],
   "tags": {
+    "bicycle": "no",
     "highway": "motorway",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
@@ -8280,6 +8292,7 @@
     12409368654
   ],
   "tags": {
+    "bicycle": "no",
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
@@ -8308,6 +8321,7 @@
     12407281162
   ],
   "tags": {
+    "bicycle": "no",
     "highway": "motorway",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
