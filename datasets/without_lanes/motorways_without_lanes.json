@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.4 2390de5a",
   "osm3s": {
-    "timestamp_osm_base": "2025-01-01T18:34:29Z",
+    "timestamp_osm_base": "2025-01-02T18:36:24Z",
     "timestamp_areas_base": "2024-12-31T00:49:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -52,6 +52,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -97,6 +100,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -126,6 +132,9 @@
   "tags": {
     "highway": "motorway",
     "layer": "-3",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -156,6 +165,9 @@
   "tags": {
     "highway": "motorway",
     "layer": "-3",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -313,15 +325,23 @@
     12466861987,
     12466861991,
     12466861986,
+    12469294145,
+    12469294131,
     7099901191,
     7099901204,
+    12469294143,
+    12469294142,
     7099901202,
     7099901192,
+    12469294139,
     7099901199,
     8026658871
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -332,6 +352,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -340,16 +361,26 @@
   "id": 861225016,
   "nodes": [
     8026658871,
-    7099901200,
-    7099901198,
+    12469294138,
+    12469294128,
+    12468078655,
     7099901201,
-    7099901212,
-    7099901210,
+    12469359137,
+    12469294136,
+    12469294135,
+    12469359133,
+    12469294132,
+    12469359138,
+    12468078658,
+    12468078659,
     8685773996,
     7099901211
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -360,6 +391,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -369,10 +401,15 @@
   "nodes": [
     8026658872,
     7099901206,
+    12469294140,
     7099901197,
+    12469294141,
     7099901203,
+    12469294144,
     7099901205,
+    12469294130,
     7099901196,
+    12469294146,
     12466861985,
     12466861992,
     12466861984,
@@ -381,6 +418,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -391,6 +431,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -400,15 +441,26 @@
   "nodes": [
     7099901214,
     9704716852,
-    8685773997,
-    7099901213,
     7099901209,
+    12469359134,
+    12469294133,
+    12469359135,
+    12468078652,
+    12469359132,
+    12469294134,
+    12469294127,
+    12469359136,
     7099901208,
     7099901207,
+    12469294129,
+    12469294137,
     8026658872
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -419,6 +471,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -490,12 +543,24 @@
   "id": 995764152,
   "nodes": [
     11854265350,
+    12468065991,
+    12468065992,
+    12468065993,
     7099901333,
+    12468065994,
+    12468065999,
+    12468065995,
+    12468065996,
+    12468065998,
+    12468065997,
     7099901334
   ],
   "tags": {
     "highway": "motorway",
     "layer": "-1",
+    "maxspeed": "80",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -506,6 +571,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -522,29 +588,8 @@
     "bridge:name:ko": "장죽2교",
     "highway": "motorway",
     "layer": "1",
-    "name": "세종포천고속도로",
-    "name:en": "Sejong-Pocheon Expressway",
-    "name:ja": "世宗抱川高速道路",
-    "name:ko": "세종포천고속도로",
-    "name:ko-Hani": "世宗抱川高速道路",
-    "name:zh": "世宗抱川高速公路",
-    "name:zh-Hant": "世宗抱川高速公路",
-    "oneway": "yes",
-    "ref": "29",
-    "start_date": "2025-01-01"
-  }
-},
-{
-  "type": "way",
-  "id": 995764154,
-  "nodes": [
-    7099901341,
-    7099901340,
-    11854265349
-  ],
-  "tags": {
-    "highway": "motorway",
-    "layer": "-1",
+    "maxspeed": "60",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -555,6 +600,42 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 995764154,
+  "nodes": [
+    7099901341,
+    12468065989,
+    12468065990,
+    12468065988,
+    12468065987,
+    12468065986,
+    7099901340,
+    12468065985,
+    12468065984,
+    12468065983,
+    11854265349
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "80",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "세종포천고속도로",
+    "name:en": "Sejong-Pocheon Expressway",
+    "name:ja": "世宗抱川高速道路",
+    "name:ko": "세종포천고속도로",
+    "name:ko-Hani": "世宗抱川高速道路",
+    "name:zh": "世宗抱川高速公路",
+    "name:zh-Hant": "世宗抱川高速公路",
+    "oneway": "yes",
+    "ref": "29",
+    "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -571,6 +652,8 @@
     "bridge:name:ko": "장죽2교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "60",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -580,7 +663,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -709,6 +793,9 @@
     "bridge:name:ko": "고덕토평대교",
     "highway": "motorway",
     "layer": "2",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -737,6 +824,9 @@
     "bridge:name:ko": "고덕1교",
     "highway": "motorway",
     "layer": "2",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -764,6 +854,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -788,6 +881,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -815,6 +911,9 @@
   "tags": {
     "highway": "motorway",
     "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -842,6 +941,9 @@
   "tags": {
     "highway": "motorway",
     "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -860,13 +962,15 @@
   "id": 1056163928,
   "nodes": [
     7099897969,
-    7099897970,
     11854209963,
     11854209961,
     7756566529
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -892,6 +996,9 @@
     "bridge:name:ko": "초이교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -910,11 +1017,13 @@
   "nodes": [
     7756566528,
     11854209933,
-    7099897962,
     7099897964
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -932,7 +1041,6 @@
   "id": 1056163931,
   "nodes": [
     7099897964,
-    9704716850,
     7099897965
   ],
   "tags": {
@@ -941,6 +1049,9 @@
     "bridge:name:ko": "초이교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -968,6 +1079,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -977,7 +1091,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -996,6 +1111,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1005,7 +1123,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -1017,6 +1136,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1026,7 +1148,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -1034,11 +1157,13 @@
   "id": 1056163935,
   "nodes": [
     7099901211,
-    8685773995,
     7099901216
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1048,7 +1173,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -1060,6 +1186,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1069,7 +1198,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -1081,6 +1211,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1090,7 +1223,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -1102,6 +1236,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1112,6 +1249,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -1124,6 +1262,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1134,6 +1275,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -1146,6 +1288,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1155,7 +1300,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -1167,6 +1313,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1176,7 +1325,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -1194,6 +1344,9 @@
     "bridge:name:ko": "삼동교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1203,7 +1356,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -1223,6 +1377,9 @@
     "bridge:name:ko": "삼동교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1232,7 +1389,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -1245,6 +1403,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1254,7 +1415,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -1267,6 +1429,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1276,7 +1441,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -1288,6 +1454,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1298,6 +1467,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -1310,6 +1480,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1320,6 +1493,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -1338,6 +1512,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1347,7 +1524,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -1359,6 +1537,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1369,6 +1550,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -1388,6 +1570,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1397,7 +1582,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -1409,6 +1595,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1419,6 +1608,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -1427,7 +1617,6 @@
   "id": 1056163952,
   "nodes": [
     11854210001,
-    7099901256,
     11854210004
   ],
   "tags": {
@@ -1436,6 +1625,9 @@
     "bridge:name:ko": "고산천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1445,7 +1637,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -1461,6 +1654,9 @@
     "bridge:name:ko": "고산천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1470,7 +1666,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -1482,6 +1679,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1491,7 +1691,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -1503,6 +1704,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1512,7 +1716,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -1524,6 +1729,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1534,6 +1742,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -1546,6 +1755,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1556,6 +1768,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -1570,6 +1783,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1580,6 +1796,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -1594,6 +1811,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -1604,6 +1824,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -7052,6 +7273,9 @@
     "bridge:name:ko": "고덕1교",
     "highway": "motorway",
     "layer": "2",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7078,6 +7302,9 @@
     "bridge:name:ko": "고덕1교",
     "highway": "motorway",
     "layer": "2",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7094,14 +7321,14 @@
   "type": "way",
   "id": 1276769709,
   "nodes": [
-    11854209869,
     11854209877,
-    11198936027,
-    11854207260,
     11854207239
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7111,7 +7338,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7120,13 +7348,13 @@
   "nodes": [
     11854207240,
     11854207261,
-    11854207259,
-    11198958490,
-    11854209872,
-    11854207268
+    11854209872
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7136,7 +7364,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7152,6 +7381,9 @@
     "bridge:name:ko": "광암교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7161,7 +7393,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7177,6 +7410,9 @@
     "bridge:name:ko": "광암교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7186,7 +7422,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7202,6 +7439,9 @@
     "bridge:name:ko": "감북교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7227,6 +7467,9 @@
     "bridge:name:ko": "감북교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7244,11 +7487,13 @@
   "id": 1276769725,
   "nodes": [
     7099897965,
-    11854209878,
     11854209870
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7257,6 +7502,7 @@
     "name:zh": "世宗抱川高速公路",
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
+    "ref": "29",
     "start_date": "2025-01-01"
   }
 },
@@ -7269,6 +7515,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7292,6 +7541,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7301,7 +7553,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7317,6 +7570,9 @@
     "bridge:name:ko": "감이교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7326,7 +7582,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7341,6 +7598,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7350,7 +7610,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7366,6 +7627,9 @@
     "bridge:name:ko": "감이교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7375,7 +7639,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7392,6 +7657,9 @@
     "bridge:name:ko": "직동2교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7401,7 +7669,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7417,6 +7686,9 @@
     "bridge:name:ko": "직동2교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7426,7 +7698,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7434,7 +7707,6 @@
   "id": 1276769768,
   "nodes": [
     11854209986,
-    12465943050,
     11854209987
   ],
   "tags": {
@@ -7443,6 +7715,9 @@
     "bridge:name:ko": "직동3교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7452,7 +7727,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7460,7 +7736,6 @@
   "id": 1276769769,
   "nodes": [
     11854209988,
-    12465943049,
     8515826290
   ],
   "tags": {
@@ -7469,6 +7744,9 @@
     "bridge:name:ko": "직동3교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7478,7 +7756,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7490,6 +7769,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7499,7 +7781,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7511,6 +7794,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7520,7 +7806,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7532,6 +7819,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7541,7 +7831,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7553,6 +7844,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7562,7 +7856,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7574,6 +7869,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7583,7 +7881,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7595,6 +7894,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7604,7 +7906,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7624,6 +7927,9 @@
     "bridge:name:ko": "직동1교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7633,7 +7939,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7653,6 +7960,9 @@
     "bridge:name:ko": "직동1교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7662,7 +7972,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7670,7 +7981,6 @@
   "id": 1276769780,
   "nodes": [
     11854209999,
-    7099901255,
     11854209997
   ],
   "tags": {
@@ -7679,6 +7989,9 @@
     "bridge:name:ko": "목동교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7688,7 +8001,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7696,7 +8010,6 @@
   "id": 1276769781,
   "nodes": [
     11854209998,
-    7099901229,
     11854210000
   ],
   "tags": {
@@ -7705,6 +8018,9 @@
     "bridge:name:ko": "목동교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7714,7 +8030,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7730,6 +8047,9 @@
     "bridge:name:ko": "목리천교",
     "highway": "motorway",
     "layer": "2",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7739,7 +8059,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7756,6 +8077,9 @@
     "bridge:name:ko": "목리천교",
     "highway": "motorway",
     "layer": "2",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7765,7 +8089,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7773,11 +8098,13 @@
   "id": 1276769784,
   "nodes": [
     11854209997,
-    7099901254,
     11854209994
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7787,7 +8114,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7795,12 +8123,13 @@
   "id": 1276769785,
   "nodes": [
     11854209995,
-    7099901227,
-    7099901228,
     11854209998
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7810,7 +8139,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7822,6 +8152,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7831,7 +8164,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7843,6 +8177,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7852,7 +8189,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7864,6 +8202,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7873,7 +8214,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7881,11 +8223,13 @@
   "id": 1276769789,
   "nodes": [
     11854210002,
-    7099901230,
     8515826314
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7895,7 +8239,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7907,6 +8252,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7916,7 +8264,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7928,6 +8277,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7937,7 +8289,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7949,6 +8302,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7958,7 +8314,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7975,6 +8332,9 @@
     "bridge:name:ko": "고산교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -7984,7 +8344,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -7996,6 +8357,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8005,7 +8369,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8021,6 +8386,9 @@
     "bridge:name:ko": "고산교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8030,7 +8398,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8042,6 +8411,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8051,7 +8423,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8067,6 +8440,9 @@
     "bridge:name:ko": "추자2교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8076,7 +8452,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8088,6 +8465,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8097,7 +8477,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8113,6 +8494,9 @@
     "bridge:name:ko": "추자2교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8122,7 +8506,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8138,6 +8523,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8147,7 +8535,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8163,6 +8552,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8172,7 +8564,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8188,6 +8581,9 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8197,7 +8593,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8212,6 +8609,9 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8221,7 +8621,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8236,6 +8637,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8245,7 +8649,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8260,6 +8665,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8269,7 +8677,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8286,6 +8695,9 @@
     "bridge:name:ko": "오산천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8295,7 +8707,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8312,6 +8725,9 @@
     "bridge:name:ko": "오산천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8321,7 +8737,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8333,6 +8750,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8342,7 +8762,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8354,6 +8775,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8363,7 +8787,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8379,6 +8804,9 @@
     "bridge:name:ko": "매산2교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8388,7 +8816,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8404,6 +8833,9 @@
     "bridge:name:ko": "매산2교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8413,7 +8845,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8430,6 +8863,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8439,7 +8875,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8455,6 +8892,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8464,7 +8904,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8480,6 +8921,9 @@
     "bridge:name:ko": "매산1교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8489,7 +8933,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8505,6 +8950,9 @@
     "bridge:name:ko": "매산1교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8514,7 +8962,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8530,6 +8979,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8539,7 +8991,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8555,6 +9008,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8564,7 +9020,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8573,6 +9030,7 @@
   "nodes": [
     11854210042,
     7730960980,
+    12468286431,
     7730977603,
     11854210041
   ],
@@ -8582,6 +9040,9 @@
     "bridge:name:ko": "매산1교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8591,7 +9052,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8600,6 +9062,7 @@
   "nodes": [
     11854210040,
     7730977604,
+    12468286430,
     7099901245,
     11854210043
   ],
@@ -8608,7 +9071,10 @@
     "bridge:name": "경안천교",
     "bridge:name:ko": "매산1교",
     "highway": "motorway",
-    "layer": "1",
+    "layer": "2",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8618,7 +9084,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8630,6 +9097,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8639,7 +9109,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8651,6 +9122,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8660,7 +9134,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8669,11 +9144,17 @@
   "nodes": [
     11854210046,
     7099901269,
+    12468078664,
+    12468078666,
+    12468078665,
     11854210045
   ],
   "tags": {
     "highway": "motorway",
     "layer": "-1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8684,6 +9165,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -8692,12 +9174,19 @@
   "id": 1276769839,
   "nodes": [
     11854210044,
+    12468078663,
+    12468286432,
     7099901246,
+    12468286429,
+    12468078662,
     11854210047
   ],
   "tags": {
     "highway": "motorway",
     "layer": "-1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8708,6 +9197,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -8720,6 +9210,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8729,7 +9222,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8737,11 +9231,13 @@
   "id": 1276769841,
   "nodes": [
     11854210049,
-    11861993598,
     11854210046
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8751,7 +9247,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8767,6 +9264,9 @@
     "bridge:name:ko": "초하천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8776,7 +9276,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8792,6 +9293,9 @@
     "bridge:name:ko": "초하천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8801,7 +9305,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8809,10 +9314,15 @@
   "id": 1276769844,
   "nodes": [
     11854210051,
+    12468286435,
+    12468286434,
     7099901247
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8822,7 +9332,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8830,10 +9341,15 @@
   "id": 1276769845,
   "nodes": [
     7099901270,
+    12468286433,
+    12468286436,
     11854210050
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8843,7 +9359,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8858,6 +9375,9 @@
   "tags": {
     "highway": "motorway",
     "layer": "-1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8868,6 +9388,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -8883,6 +9404,9 @@
   "tags": {
     "highway": "motorway",
     "layer": "-1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8893,6 +9417,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -8906,6 +9431,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8915,7 +9443,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8931,6 +9460,9 @@
     "bridge:name:ko": "금어천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8940,7 +9472,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8956,6 +9489,9 @@
     "bridge:name:ko": "금어천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8965,7 +9501,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -8974,11 +9511,13 @@
   "nodes": [
     9038158594,
     11854210054,
-    11854210052,
     7099901271
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -8988,7 +9527,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9000,6 +9540,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9009,7 +9552,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9021,6 +9565,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9030,7 +9577,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9043,6 +9591,9 @@
   "tags": {
     "highway": "motorway",
     "layer": "-1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9053,6 +9604,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -9066,6 +9618,9 @@
   "tags": {
     "highway": "motorway",
     "layer": "-1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9076,6 +9631,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -9088,6 +9644,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9097,7 +9656,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9109,6 +9669,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9118,7 +9681,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9134,6 +9698,9 @@
     "bridge:name:ko": "대대천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9143,7 +9710,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9159,6 +9727,9 @@
     "bridge:name:ko": "대대천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9168,7 +9739,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9182,6 +9754,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9191,7 +9766,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9205,6 +9781,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9214,7 +9793,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9233,6 +9813,9 @@
     "bridge:name:ko": "주북천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9242,7 +9825,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9262,6 +9846,9 @@
     "bridge:name:ko": "주북천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9271,7 +9858,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9290,6 +9878,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9299,7 +9890,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9318,6 +9910,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9327,7 +9922,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9344,6 +9940,9 @@
     "bridge:name:ko": "양지천교",
     "highway": "motorway",
     "layer": "2",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9353,7 +9952,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9366,6 +9966,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9375,7 +9978,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9388,6 +9992,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9397,7 +10004,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9406,14 +10014,28 @@
   "nodes": [
     7099901290,
     9023166627,
+    12468863874,
     12361446595,
+    12468863884,
+    12468863883,
+    12468863882,
+    12468863881,
+    12468863880,
     12361446596,
+    12468863879,
     7099901289,
+    12468863878,
+    12468863877,
+    12468863876,
+    12468863875,
     7099901288
   ],
   "tags": {
     "highway": "motorway",
     "layer": "-1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9424,6 +10046,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -9432,13 +10055,27 @@
   "id": 1276777675,
   "nodes": [
     7099901277,
+    12468863893,
+    12468863894,
     7099901278,
+    12468863892,
     12361446597,
+    12468863895,
+    12468863891,
+    12468863890,
+    12468863889,
+    12468863888,
+    12468863887,
+    12468863886,
+    12468863885,
     9023166626
   ],
   "tags": {
     "highway": "motorway",
     "layer": "-1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9449,6 +10086,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -9457,10 +10095,16 @@
   "id": 1276777676,
   "nodes": [
     9023166626,
+    12468863873,
+    12468863872,
+    12468863871,
     7099901279
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9470,7 +10114,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9482,29 +10127,9 @@
   ],
   "tags": {
     "highway": "motorway",
-    "name": "세종포천고속도로",
-    "name:en": "Sejong-Pocheon Expressway",
-    "name:ja": "世宗抱川高速道路",
-    "name:ko": "세종포천고속도로",
-    "name:ko-Hani": "世宗抱川高速道路",
-    "name:zh": "世宗抱川高速公路",
-    "name:zh-Hant": "世宗抱川高速公路",
-    "oneway": "yes",
-    "ref": "29",
-    "start_date": "2025-01-01"
-  }
-},
-{
-  "type": "way",
-  "id": 1276777678,
-  "nodes": [
-    7099901279,
-    11854265292,
-    9023166623
-  ],
-  "tags": {
-    "highway": "motorway",
-    "layer": "-1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9515,6 +10140,38 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1276777678,
+  "nodes": [
+    7099901279,
+    12468863869,
+    12468863870,
+    12468863868,
+    12468863867,
+    11854265292,
+    9023166623
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "세종포천고속도로",
+    "name:en": "Sejong-Pocheon Expressway",
+    "name:ja": "世宗抱川高速道路",
+    "name:ko": "세종포천고속도로",
+    "name:ko-Hani": "世宗抱川高速道路",
+    "name:zh": "世宗抱川高速公路",
+    "name:zh-Hant": "世宗抱川高速公路",
+    "oneway": "yes",
+    "ref": "29",
+    "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -9523,11 +10180,18 @@
   "id": 1276777679,
   "nodes": [
     9023166624,
+    12468863863,
+    12468863864,
+    12468863865,
+    12468863866,
     9023166625
   ],
   "tags": {
     "highway": "motorway",
     "layer": "-1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9538,6 +10202,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -9550,6 +10215,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9559,7 +10227,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9571,6 +10240,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9580,7 +10252,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9588,7 +10261,6 @@
   "id": 1276777682,
   "nodes": [
     11854265291,
-    7099901280,
     11854265293
   ],
   "tags": {
@@ -9597,6 +10269,9 @@
     "bridge:name:ko": "해곡교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9606,7 +10281,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9614,7 +10290,6 @@
   "id": 1276777683,
   "nodes": [
     11854265294,
-    7099901291,
     11854265290
   ],
   "tags": {
@@ -9623,6 +10298,9 @@
     "bridge:name:ko": "해곡교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9632,7 +10310,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9644,51 +10323,9 @@
   ],
   "tags": {
     "highway": "motorway",
-    "name": "세종포천고속도로",
-    "name:en": "Sejong-Pocheon Expressway",
-    "name:ja": "世宗抱川高速道路",
-    "name:ko": "세종포천고속도로",
-    "name:ko-Hani": "世宗抱川高速道路",
-    "name:zh": "世宗抱川高速公路",
-    "name:zh-Hant": "世宗抱川高速公路",
-    "oneway": "yes",
-    "ref": "29",
-    "start_date": "2025-01-01"
-  }
-},
-{
-  "type": "way",
-  "id": 1276777685,
-  "nodes": [
-    9023166620,
-    9023166622,
-    11854265294
-  ],
-  "tags": {
-    "highway": "motorway",
-    "name": "세종포천고속도로",
-    "name:en": "Sejong-Pocheon Expressway",
-    "name:ja": "世宗抱川高速道路",
-    "name:ko": "세종포천고속도로",
-    "name:ko-Hani": "世宗抱川高速道路",
-    "name:zh": "世宗抱川高速公路",
-    "name:zh-Hant": "世宗抱川高速公路",
-    "oneway": "yes",
-    "ref": "29",
-    "start_date": "2025-01-01"
-  }
-},
-{
-  "type": "way",
-  "id": 1276777686,
-  "nodes": [
-    9023166619,
-    9023166621,
-    7099901281
-  ],
-  "tags": {
-    "highway": "motorway",
-    "layer": "-1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9699,6 +10336,64 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1276777685,
+  "nodes": [
+    9023166620,
+    11854265294
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "세종포천고속도로",
+    "name:en": "Sejong-Pocheon Expressway",
+    "name:ja": "世宗抱川高速道路",
+    "name:ko": "세종포천고속도로",
+    "name:ko-Hani": "世宗抱川高速道路",
+    "name:zh": "世宗抱川高速公路",
+    "name:zh-Hant": "世宗抱川高速公路",
+    "oneway": "yes",
+    "ref": "29",
+    "start_date": "2025-01-01",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1276777686,
+  "nodes": [
+    9023166619,
+    9023166621,
+    12468863858,
+    12468863857,
+    12468863856,
+    12468863855,
+    12468863854,
+    7099901281
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "세종포천고속도로",
+    "name:en": "Sejong-Pocheon Expressway",
+    "name:ja": "世宗抱川高速道路",
+    "name:ko": "세종포천고속도로",
+    "name:ko-Hani": "世宗抱川高速道路",
+    "name:zh": "世宗抱川高速公路",
+    "name:zh-Hant": "世宗抱川高速公路",
+    "oneway": "yes",
+    "ref": "29",
+    "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -9708,11 +10403,18 @@
   "nodes": [
     7099901292,
     11854265298,
+    12468863859,
+    12468863860,
+    12468863861,
+    12468863862,
     9023166620
   ],
   "tags": {
     "highway": "motorway",
     "layer": "-1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9723,6 +10425,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -9735,6 +10438,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9744,7 +10450,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9756,29 +10463,9 @@
   ],
   "tags": {
     "highway": "motorway",
-    "name": "세종포천고속도로",
-    "name:en": "Sejong-Pocheon Expressway",
-    "name:ja": "世宗抱川高速道路",
-    "name:ko": "세종포천고속도로",
-    "name:ko-Hani": "世宗抱川高速道路",
-    "name:zh": "世宗抱川高速公路",
-    "name:zh-Hant": "世宗抱川高速公路",
-    "oneway": "yes",
-    "ref": "29",
-    "start_date": "2025-01-01"
-  }
-},
-{
-  "type": "way",
-  "id": 1276777690,
-  "nodes": [
-    11854265296,
-    11854265301,
-    11854265299
-  ],
-  "tags": {
-    "highway": "motorway",
-    "layer": "-1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9789,6 +10476,33 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1276777690,
+  "nodes": [
+    11854265296,
+    11854265299
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "세종포천고속도로",
+    "name:en": "Sejong-Pocheon Expressway",
+    "name:ja": "世宗抱川高速道路",
+    "name:ko": "세종포천고속도로",
+    "name:ko-Hani": "世宗抱川高速道路",
+    "name:zh": "世宗抱川高速公路",
+    "name:zh-Hant": "世宗抱川高速公路",
+    "oneway": "yes",
+    "ref": "29",
+    "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -9802,6 +10516,9 @@
   "tags": {
     "highway": "motorway",
     "layer": "-1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9812,6 +10529,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -9824,51 +10542,9 @@
   ],
   "tags": {
     "highway": "motorway",
-    "name": "세종포천고속도로",
-    "name:en": "Sejong-Pocheon Expressway",
-    "name:ja": "世宗抱川高速道路",
-    "name:ko": "세종포천고속도로",
-    "name:ko-Hani": "世宗抱川高速道路",
-    "name:zh": "世宗抱川高速公路",
-    "name:zh-Hant": "世宗抱川高速公路",
-    "oneway": "yes",
-    "ref": "29",
-    "start_date": "2025-01-01"
-  }
-},
-{
-  "type": "way",
-  "id": 1276777693,
-  "nodes": [
-    11854265303,
-    7099901293,
-    11854265300
-  ],
-  "tags": {
-    "highway": "motorway",
-    "name": "세종포천고속도로",
-    "name:en": "Sejong-Pocheon Expressway",
-    "name:ja": "世宗抱川高速道路",
-    "name:ko": "세종포천고속도로",
-    "name:ko-Hani": "世宗抱川高速道路",
-    "name:zh": "世宗抱川高速公路",
-    "name:zh-Hant": "世宗抱川高速公路",
-    "oneway": "yes",
-    "ref": "29",
-    "start_date": "2025-01-01"
-  }
-},
-{
-  "type": "way",
-  "id": 1276777694,
-  "nodes": [
-    7099901282,
-    11854265304,
-    11854265305
-  ],
-  "tags": {
-    "highway": "motorway",
-    "layer": "-1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9879,6 +10555,58 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1276777693,
+  "nodes": [
+    11854265303,
+    11854265300
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "세종포천고속도로",
+    "name:en": "Sejong-Pocheon Expressway",
+    "name:ja": "世宗抱川高速道路",
+    "name:ko": "세종포천고속도로",
+    "name:ko-Hani": "世宗抱川高速道路",
+    "name:zh": "世宗抱川高速公路",
+    "name:zh-Hant": "世宗抱川高速公路",
+    "oneway": "yes",
+    "ref": "29",
+    "start_date": "2025-01-01",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1276777694,
+  "nodes": [
+    7099901282,
+    11854265305
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "세종포천고속도로",
+    "name:en": "Sejong-Pocheon Expressway",
+    "name:ja": "世宗抱川高速道路",
+    "name:ko": "세종포천고속도로",
+    "name:ko-Hani": "世宗抱川高速道路",
+    "name:zh": "世宗抱川高速公路",
+    "name:zh-Hant": "世宗抱川高速公路",
+    "oneway": "yes",
+    "ref": "29",
+    "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -9892,6 +10620,9 @@
   "tags": {
     "highway": "motorway",
     "layer": "-1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9902,6 +10633,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -9914,6 +10646,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9923,7 +10658,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9931,11 +10667,13 @@
   "id": 1276777697,
   "nodes": [
     11854265305,
-    12361411029,
     7099901283
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9945,7 +10683,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9961,6 +10700,9 @@
     "bridge:name:ko": "학일3교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9970,7 +10712,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -9978,7 +10721,6 @@
   "id": 1276777699,
   "nodes": [
     11854265310,
-    7099901294,
     11854265307
   ],
   "tags": {
@@ -9987,6 +10729,9 @@
     "bridge:name:ko": "학일3교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -9996,7 +10741,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10010,6 +10756,9 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10019,7 +10768,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10036,6 +10786,9 @@
     "bridge:name:ko": "학일2교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10045,7 +10798,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10061,6 +10815,9 @@
     "bridge:name:ko": "학일2교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10070,7 +10827,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10085,6 +10843,9 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10094,7 +10855,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10110,6 +10872,9 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10119,7 +10884,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10135,6 +10901,9 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10144,7 +10913,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10162,6 +10932,9 @@
     "bridge:name:ko": "학일1교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10171,7 +10944,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10188,6 +10962,9 @@
     "bridge:name:ko": "학일1교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10197,7 +10974,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10211,6 +10989,9 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10220,7 +11001,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10234,6 +11016,9 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10243,7 +11028,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10256,6 +11042,9 @@
   "tags": {
     "highway": "motorway",
     "layer": "-1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10266,6 +11055,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -10279,6 +11069,9 @@
   "tags": {
     "highway": "motorway",
     "layer": "-1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10289,6 +11082,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -10302,6 +11096,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10311,7 +11108,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10323,6 +11121,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10332,7 +11133,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10348,6 +11150,9 @@
   "tags": {
     "highway": "motorway",
     "layer": "-1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10358,6 +11163,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -10376,6 +11182,9 @@
   "tags": {
     "highway": "motorway",
     "layer": "-1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10386,6 +11195,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -10400,6 +11210,9 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10409,7 +11222,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10423,6 +11237,9 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10432,7 +11249,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10448,6 +11266,9 @@
     "bridge:name:ko": "복가천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10457,7 +11278,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10473,6 +11295,9 @@
     "bridge:name:ko": "복가천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10482,7 +11307,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10496,6 +11322,9 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10505,7 +11334,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10519,6 +11349,9 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10528,7 +11361,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10546,6 +11380,9 @@
     "bridge:name:ko": "고삼교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10555,7 +11392,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10573,6 +11411,9 @@
     "bridge:name:ko": "고삼교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10582,7 +11423,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10604,6 +11446,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10613,7 +11458,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10635,6 +11481,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10644,7 +11493,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10661,6 +11511,9 @@
     "bridge:name:ko": "가율천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10670,7 +11523,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10686,6 +11540,9 @@
     "bridge:name:ko": "가율천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10695,7 +11552,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10711,6 +11569,9 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10720,7 +11581,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10735,6 +11597,9 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10744,7 +11609,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10760,6 +11626,9 @@
     "bridge:name:ko": "적가2교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10769,7 +11638,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10785,6 +11655,9 @@
     "bridge:name:ko": "적가2교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10794,7 +11667,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10810,6 +11684,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10819,7 +11696,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10835,6 +11713,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10844,7 +11725,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10861,6 +11743,9 @@
     "bridge:name:ko": "곡천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10870,7 +11755,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10887,6 +11773,9 @@
     "bridge:name:ko": "곡천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10896,7 +11785,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10913,6 +11803,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10922,7 +11815,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10931,7 +11825,6 @@
   "nodes": [
     12361464871,
     9061389571,
-    12361464874,
     9061389570,
     12361464868,
     9061389521,
@@ -10939,6 +11832,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10948,7 +11844,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10963,6 +11860,9 @@
     "bridge:name": "안성천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10972,7 +11872,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -10989,6 +11890,9 @@
     "bridge:name": "안성천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -10998,7 +11902,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -11014,6 +11919,9 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -11023,7 +11931,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -11039,6 +11948,9 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -11048,7 +11960,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -11065,6 +11978,9 @@
     "bridge:name:ko": "조령천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "80",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -11074,7 +11990,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -11092,6 +12009,9 @@
     "bridge:name:ko": "조령천교",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "80",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -11101,7 +12021,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -11113,6 +12034,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "80",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -11122,7 +12046,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -11134,6 +12059,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "80",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -11143,7 +12071,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -11156,6 +12085,8 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "60",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -11165,7 +12096,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -11177,6 +12109,8 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "60",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -11186,7 +12120,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -11198,6 +12133,8 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "60",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -11207,7 +12144,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -11221,6 +12159,8 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "60",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -11230,7 +12170,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -11248,6 +12189,9 @@
     "bridge:name:ko": "양지천교",
     "highway": "motorway",
     "layer": "2",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -11257,7 +12201,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -11809,6 +12754,9 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -11818,7 +12766,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -11831,6 +12780,9 @@
   "tags": {
     "highway": "motorway",
     "layer": "-1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -11841,6 +12793,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -11854,6 +12807,9 @@
   "tags": {
     "embankment": "yes",
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -11863,7 +12819,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -11876,6 +12833,9 @@
   "tags": {
     "highway": "motorway",
     "layer": "-1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -11886,6 +12846,7 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes",
     "tunnel": "yes"
   }
 },
@@ -11898,6 +12859,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -11907,7 +12871,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -11921,6 +12886,9 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -11930,7 +12898,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -11943,6 +12912,9 @@
   ],
   "tags": {
     "highway": "motorway",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -11952,7 +12924,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -11966,6 +12939,9 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "120",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -11975,7 +12951,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -13059,8 +14036,8 @@
     12409153452,
     12409153436,
     12409153437,
+    12468149426,
     7396865502,
-    12409153459,
     12409153470,
     12409153438,
     12409153471,
@@ -13137,8 +14114,8 @@
     12409153462,
     12409153463,
     12409153454,
-    12409153458,
     12409153453,
+    12468149427,
     12409153451,
     7396865514,
     12409153450,
@@ -13171,7 +14148,10 @@
   "nodes": [
     12414128197,
     7396865501,
+    12468902924,
+    12468902923,
     12409153433,
+    12468902922,
     12414128199
   ],
   "tags": {
@@ -13199,6 +14179,7 @@
   "nodes": [
     12414128200,
     12409153446,
+    12468149433,
     7396865513,
     12414128198
   ],
@@ -13239,13 +14220,29 @@
     12409305678,
     12409305688,
     12409305690,
+    12468149439,
     12409305694,
     12409305695,
+    12468149438,
+    12468149437,
     12409305696,
+    12468149436,
+    12468149440,
+    12468149463,
+    12468149441,
+    12468149464,
     7396865509,
+    12468149460,
+    12468149442,
+    12468149443,
+    12468149445,
+    12468149444,
     12409305693,
+    12468149452,
     12409326704,
     12409326701,
+    12468149451,
+    12468149450,
     7396865510,
     12409326702,
     12409326706,
@@ -13293,11 +14290,30 @@
     7396865521,
     12409326703,
     12409305700,
+    12468149449,
     12409305699,
+    12468149448,
     12409305692,
+    12468149447,
+    12468149446,
+    12468149453,
+    12468149454,
+    12468149455,
+    12468149456,
+    12468149461,
+    12468149465,
+    12468149457,
+    12468149459,
+    12468149458,
     7396865520,
+    12468149462,
+    12468149466,
+    12468149467,
+    12468149468,
     12409305697,
+    12468149434,
     12409305698,
+    12468149435,
     12409305691,
     12409305689,
     12409305679,
@@ -13336,6 +14352,9 @@
   "id": 1341525404,
   "nodes": [
     12128731552,
+    12468075647,
+    12468075639,
+    12468075638,
     12409326719
   ],
   "tags": {
@@ -13362,6 +14381,8 @@
   "id": 1341525405,
   "nodes": [
     12409326720,
+    12468075651,
+    12468075652,
     12128731551
   ],
   "tags": {
@@ -13414,7 +14435,6 @@
   "id": 1341525407,
   "nodes": [
     12128731551,
-    12409326729,
     12409326730,
     12409326722
   ],
@@ -13440,6 +14460,7 @@
   "id": 1341525408,
   "nodes": [
     12409326724,
+    12468075644,
     12409326721
   ],
   "tags": {
@@ -13466,6 +14487,9 @@
   "id": 1341525409,
   "nodes": [
     12409326722,
+    12468075653,
+    12468075645,
+    12468075646,
     12409326723
   ],
   "tags": {
@@ -15644,16 +16668,16 @@
   "type": "way",
   "id": 1341976938,
   "nodes": [
-    12409123779,
-    12409123828,
-    12414129598,
+    12468149415,
     12409153429,
     7396865499,
-    12409153432,
-    12414128197
+    12468149412,
+    12468149417
   ],
   "tags": {
+    "bridge": "yes",
     "highway": "motorway",
+    "layer": "1",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
     "minspeed": "50",
@@ -15673,15 +16697,15 @@
   "type": "way",
   "id": 1341976939,
   "nodes": [
-    12414128198,
-    7396865500,
+    12468149418,
     12409153431,
     12409153430,
-    12409123732,
-    12409123781
+    12468149416
   ],
   "tags": {
+    "bridge": "yes",
     "highway": "motorway",
+    "layer": "1",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
     "minspeed": "50",
@@ -15702,8 +16726,11 @@
   "id": 1341976940,
   "nodes": [
     12414128199,
+    12468149423,
     12409153434,
+    12468149424,
     12409153435,
+    12468149425,
     12409153490,
     12409153452
   ],
@@ -15730,7 +16757,11 @@
   "nodes": [
     12409153491,
     12409153449,
+    12468149428,
+    12468149429,
     12409153448,
+    12468149430,
+    12468149431,
     12409153447,
     12414128200
   ],
@@ -17479,52 +18510,18 @@
   "type": "way",
   "id": 1342292904,
   "nodes": [
-    12409326719,
-    12409326738,
-    12409326737,
-    12128731554,
+    12468075637,
     12409326736,
     12409326746,
     12409326745,
     12409326735,
+    12468075630,
     12409326744,
+    12468075629,
     12409326734,
-    12128731550,
-    12128731543,
-    12128731544,
-    12128731545,
-    12466890997,
-    12128731547,
-    12417934728,
-    12417934729,
-    12466890996,
-    12466890948,
-    12417934727,
-    12466890947,
-    12417934726,
-    7396865512,
-    12466890946,
-    12417934725,
-    12417934724,
-    12417934723,
-    12417934722,
-    12466890945,
-    12417934715,
-    12417934717,
-    12417934716,
-    12417934713,
-    12128742714,
-    12417934714,
-    12417934709,
-    12417934708,
-    12466890942,
-    12466890943,
-    12466890944,
-    12466890941,
-    12466890940,
-    12466890939,
-    12466890938,
-    12417934704
+    12468075628,
+    12468075626,
+    12468075633
   ],
   "tags": {
     "highway": "motorway",
@@ -17547,47 +18544,19 @@
   "type": "way",
   "id": 1342292905,
   "nodes": [
-    12417934703,
-    12417927974,
-    12466891000,
-    12466891001,
-    12466891002,
-    12466891003,
-    12466891004,
-    12417927973,
-    12128742715,
-    12417934711,
-    12417934712,
-    12417927972,
-    12417927971,
-    12417934719,
-    12417927970,
-    12417934718,
-    12417927967,
-    12417934720,
-    12417927968,
-    12417934721,
-    7396865523,
-    12417927966,
-    12417927969,
-    12417927965,
-    12417927964,
-    12466890998,
-    12128731548,
-    12466890999,
-    12128731546,
-    12128731542,
-    12128731549,
+    12468075627,
+    12468075634,
     12409326733,
+    12468075635,
+    12468075636,
     12409326743,
+    12468075648,
     12409326732,
     12409326742,
     12409326741,
     12409326731,
-    12128731553,
-    12409326740,
-    12409326739,
-    12409326720
+    12468075649,
+    12128731553
   ],
   "tags": {
     "highway": "motorway",
@@ -17704,8 +18673,8 @@
     12417934706,
     12417927976,
     12417934702,
-    12417927979,
-    12417934703
+    12468044191,
+    12417927979
   ],
   "tags": {
     "bridge": "yes",
@@ -19425,6 +20394,9 @@
     "bridge:name": "고덕토평대교",
     "bridge:name:ko": "고덕토평대교",
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -19455,6 +20427,9 @@
     "bridge:name": "고덕1교",
     "bridge:name:ko": "고덕1교",
     "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "name": "세종포천고속도로",
     "name:en": "Sejong-Pocheon Expressway",
     "name:ja": "世宗抱川高速道路",
@@ -20257,6 +21232,842 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347887154,
+  "nodes": [
+    12417927979,
+    12417927974,
+    12466891000,
+    12466891001,
+    12466891002,
+    12466891003,
+    12466891004,
+    12417927973,
+    12128742715,
+    12417934711,
+    12417934712,
+    12417927972,
+    12417927971,
+    12417934719,
+    12417927970,
+    12417934718,
+    12417927967,
+    12417934720,
+    12417927968,
+    12417934721,
+    7396865523,
+    12417927966,
+    12417927969,
+    12417927965,
+    12417927964,
+    12466890998,
+    12128731548,
+    12466890999,
+    12468075603,
+    12468075606
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347887155,
+  "nodes": [
+    12468075605,
+    12468029599,
+    12466890997,
+    12468029600,
+    12128731547,
+    12417934728,
+    12417934729,
+    12466890996,
+    12466890948,
+    12417934727,
+    12466890947,
+    12417934726,
+    7396865512,
+    12466890946,
+    12417934725,
+    12417934724,
+    12417934723,
+    12417934722,
+    12466890945,
+    12417934715,
+    12417934717,
+    12417934716,
+    12417934713,
+    12128742714,
+    12417934714,
+    12417934709,
+    12417934708,
+    12466890942,
+    12466890943,
+    12466890944,
+    12466890941,
+    12466890940,
+    12466890939,
+    12466890938,
+    12417934704
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347887156,
+  "nodes": [
+    12468075604,
+    12468029598,
+    12468075605
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347887157,
+  "nodes": [
+    12468075606,
+    12128731546
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347887160,
+  "nodes": [
+    12468075616,
+    12468075614,
+    12468075611,
+    12468075602,
+    12468075601,
+    12128731544,
+    12128731545,
+    12468075604
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347887161,
+  "nodes": [
+    12468075615,
+    12128731543,
+    12468075616
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347887162,
+  "nodes": [
+    12128731546,
+    12468075607,
+    12468075608,
+    12468075610,
+    12468075612,
+    12468075613,
+    12468075617
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347887163,
+  "nodes": [
+    12468075617,
+    12128731542
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347887164,
+  "nodes": [
+    12468075618,
+    12468075623,
+    12468075615
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347887165,
+  "nodes": [
+    12468075619,
+    12468075618
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347887166,
+  "nodes": [
+    12468075621,
+    12468075620
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347887167,
+  "nodes": [
+    12128731542,
+    12468075622,
+    12468075621
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347887168,
+  "nodes": [
+    12468075631,
+    12468075625,
+    12128731550,
+    12468075619
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347887169,
+  "nodes": [
+    12468075620,
+    12128731549,
+    12468075624,
+    12468075632
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347887170,
+  "nodes": [
+    12468075632,
+    12468075627
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347887171,
+  "nodes": [
+    12468075633,
+    12468075631
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347887172,
+  "nodes": [
+    12409326719,
+    12409326738,
+    12409326737,
+    12128731554
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347887173,
+  "nodes": [
+    12128731554,
+    12468075637
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347887174,
+  "nodes": [
+    12468075650,
+    12409326740,
+    12409326739,
+    12409326720
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347887175,
+  "nodes": [
+    12128731553,
+    12468075650
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347889076,
+  "nodes": [
+    11854209869,
+    11854209877
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "세종포천고속도로",
+    "name:en": "Sejong-Pocheon Expressway",
+    "name:ja": "世宗抱川高速道路",
+    "name:ko": "세종포천고속도로",
+    "name:ko-Hani": "世宗抱川高速道路",
+    "name:zh": "世宗抱川高速公路",
+    "name:zh-Hant": "世宗抱川高速公路",
+    "oneway": "yes",
+    "ref": "29",
+    "start_date": "2025-01-01"
+  }
+},
+{
+  "type": "way",
+  "id": 1347889077,
+  "nodes": [
+    11854209872,
+    11854207268
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "세종포천고속도로",
+    "name:en": "Sejong-Pocheon Expressway",
+    "name:ja": "世宗抱川高速道路",
+    "name:ko": "세종포천고속도로",
+    "name:ko-Hani": "世宗抱川高速道路",
+    "name:zh": "世宗抱川高速公路",
+    "name:zh-Hant": "世宗抱川高速公路",
+    "oneway": "yes",
+    "ref": "29",
+    "start_date": "2025-01-01"
+  }
+},
+{
+  "type": "way",
+  "id": 1347894433,
+  "nodes": [
+    12409123779,
+    12409123828,
+    12414129598,
+    12468149415
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347894434,
+  "nodes": [
+    12468149416,
+    12409123732,
+    12409123781
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347894435,
+  "nodes": [
+    12468149419,
+    12409153432,
+    12468149421
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347894436,
+  "nodes": [
+    12468149422,
+    12468149432,
+    7396865500,
+    12468149420
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347894437,
+  "nodes": [
+    12468149417,
+    12468149413,
+    12468149419
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347894438,
+  "nodes": [
+    12468149420,
+    12468149414,
+    12468149418
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347894439,
+  "nodes": [
+    12414128198,
+    12468149422
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1347894440,
+  "nodes": [
+    12468149421,
+    12414128197
+  ],
+  "tags": {
+    "highway": "motorway",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
     "minspeed": "50",
@@ -22465,8 +24276,8 @@
 {
   "type": "node",
   "id": 12417927974,
-  "lat": 36.4841753,
-  "lon": 126.7665865
+  "lat": 36.4842659,
+  "lon": 126.7665275
 },
 {
   "type": "node",
@@ -22495,8 +24306,8 @@
 {
   "type": "node",
   "id": 12417927979,
-  "lat": 36.4833719,
-  "lon": 126.7670414
+  "lat": 36.4836415,
+  "lon": 126.7668644
 },
 {
   "type": "node",
@@ -22533,12 +24344,6 @@
   "id": 12417934702,
   "lat": 36.4829495,
   "lon": 126.7672597
-},
-{
-  "type": "node",
-  "id": 12417934703,
-  "lat": 36.4836622,
-  "lon": 126.7668766
 },
 {
   "type": "node",
@@ -22581,6 +24386,12 @@
   "id": 12466890939,
   "lat": 36.4843328,
   "lon": 126.7662994
+},
+{
+  "type": "node",
+  "id": 12468044191,
+  "lat": 36.4832103,
+  "lon": 126.7671184
 },
 {
   "type": "node",
@@ -22813,98 +24624,326 @@
 {
   "type": "node",
   "id": 12128731544,
-  "lat": 36.4974506,
-  "lon": 126.7658151
+  "lat": 36.4972366,
+  "lon": 126.7658431
 },
 {
   "type": "node",
   "id": 12128731545,
-  "lat": 36.4960058,
-  "lon": 126.7654196
+  "lat": 36.4963887,
+  "lon": 126.7655363
 },
 {
   "type": "node",
   "id": 12128731546,
-  "lat": 36.4959857,
-  "lon": 126.7655677
+  "lat": 36.4962635,
+  "lon": 126.7655817
 },
 {
   "type": "node",
   "id": 12128731547,
-  "lat": 36.4942054,
-  "lon": 126.7649165
+  "lat": 36.4941772,
+  "lon": 126.7649025
 },
 {
   "type": "node",
   "id": 12128731548,
-  "lat": 36.4941110,
+  "lat": 36.4941561,
   "lon": 126.7649914
 },
 {
   "type": "node",
   "id": 12417934728,
-  "lat": 36.4938535,
-  "lon": 126.7648489
+  "lat": 36.4938704,
+  "lon": 126.7648372
 },
 {
   "type": "node",
   "id": 12466890997,
-  "lat": 36.4949085,
-  "lon": 126.7651068
+  "lat": 36.4949288,
+  "lon": 126.7650886
 },
 {
   "type": "node",
   "id": 12466890999,
-  "lat": 36.4944975,
-  "lon": 126.7650846
+  "lat": 36.4947321,
+  "lon": 126.7651196
+},
+{
+  "type": "node",
+  "id": 12468029598,
+  "lat": 36.4957114,
+  "lon": 126.7653133
+},
+{
+  "type": "node",
+  "id": 12468029599,
+  "lat": 36.4953124,
+  "lon": 126.7651942
+},
+{
+  "type": "node",
+  "id": 12468029600,
+  "lat": 36.4945417,
+  "lon": 126.7649862
+},
+{
+  "type": "node",
+  "id": 12468075601,
+  "lat": 36.4980224,
+  "lon": 126.7661244
+},
+{
+  "type": "node",
+  "id": 12468075603,
+  "lat": 36.4953383,
+  "lon": 126.7652900
+},
+{
+  "type": "node",
+  "id": 12468075604,
+  "lat": 36.4962740,
+  "lon": 126.7654986
+},
+{
+  "type": "node",
+  "id": 12468075605,
+  "lat": 36.4956433,
+  "lon": 126.7652930
+},
+{
+  "type": "node",
+  "id": 12468075606,
+  "lat": 36.4956186,
+  "lon": 126.7653784
+},
+{
+  "type": "node",
+  "id": 12468075607,
+  "lat": 36.4968173,
+  "lon": 126.7657671
+},
+{
+  "type": "node",
+  "id": 12468075608,
+  "lat": 36.4978304,
+  "lon": 126.7661306
+},
+{
+  "type": "node",
+  "id": 12468075602,
+  "lat": 36.4986805,
+  "lon": 126.7663473
+},
+{
+  "type": "node",
+  "id": 12468075610,
+  "lat": 36.4987260,
+  "lon": 126.7664253
+},
+{
+  "type": "node",
+  "id": 12468075611,
+  "lat": 36.4994191,
+  "lon": 126.7665704
+},
+{
+  "type": "node",
+  "id": 12468075612,
+  "lat": 36.4994950,
+  "lon": 126.7666585
+},
+{
+  "type": "node",
+  "id": 12468075613,
+  "lat": 36.5002585,
+  "lon": 126.7668733
+},
+{
+  "type": "node",
+  "id": 12468075614,
+  "lat": 36.5001965,
+  "lon": 126.7667732
 },
 {
   "type": "node",
   "id": 12128731542,
-  "lat": 36.5010182,
-  "lon": 126.7671675
+  "lat": 36.5010595,
+  "lon": 126.7670531
 },
 {
   "type": "node",
   "id": 12128731543,
-  "lat": 36.5009701,
-  "lon": 126.7670133
+  "lat": 36.5008350,
+  "lon": 126.7669222
 },
 {
   "type": "node",
   "id": 12128731549,
-  "lat": 36.5023742,
-  "lon": 126.7674088
+  "lat": 36.5026314,
+  "lon": 126.7672655
 },
 {
   "type": "node",
   "id": 12128731550,
-  "lat": 36.5024680,
-  "lon": 126.7672559
+  "lat": 36.5026798,
+  "lon": 126.7671804
 },
 {
   "type": "node",
   "id": 12409326733,
-  "lat": 36.5050197,
-  "lon": 126.7674362
+  "lat": 36.5051076,
+  "lon": 126.7672899
 },
 {
   "type": "node",
   "id": 12409326734,
-  "lat": 36.5050373,
-  "lon": 126.7672973
+  "lat": 36.5053592,
+  "lon": 126.7671855
 },
 {
   "type": "node",
   "id": 12409326743,
-  "lat": 36.5063712,
-  "lon": 126.7674370
+  "lat": 36.5065978,
+  "lon": 126.7671258
 },
 {
   "type": "node",
   "id": 12409326744,
-  "lat": 36.5063469,
-  "lon": 126.7673254
+  "lat": 36.5062521,
+  "lon": 126.7670876
+},
+{
+  "type": "node",
+  "id": 12468075615,
+  "lat": 36.5010544,
+  "lon": 126.7669671
+},
+{
+  "type": "node",
+  "id": 12468075616,
+  "lat": 36.5005273,
+  "lon": 126.7668549
+},
+{
+  "type": "node",
+  "id": 12468075617,
+  "lat": 36.5005295,
+  "lon": 126.7669363
+},
+{
+  "type": "node",
+  "id": 12468075618,
+  "lat": 36.5016204,
+  "lon": 126.7670601
+},
+{
+  "type": "node",
+  "id": 12468075619,
+  "lat": 36.5021850,
+  "lon": 126.7671347
+},
+{
+  "type": "node",
+  "id": 12468075620,
+  "lat": 36.5021719,
+  "lon": 126.7672224
+},
+{
+  "type": "node",
+  "id": 12468075621,
+  "lat": 36.5016201,
+  "lon": 126.7671471
+},
+{
+  "type": "node",
+  "id": 12468075622,
+  "lat": 36.5013255,
+  "lon": 126.7670960
+},
+{
+  "type": "node",
+  "id": 12468075623,
+  "lat": 36.5013355,
+  "lon": 126.7670159
+},
+{
+  "type": "node",
+  "id": 12468075624,
+  "lat": 36.5033928,
+  "lon": 126.7673066
+},
+{
+  "type": "node",
+  "id": 12468075625,
+  "lat": 36.5034165,
+  "lon": 126.7672201
+},
+{
+  "type": "node",
+  "id": 12468075626,
+  "lat": 36.5042493,
+  "lon": 126.7672319
+},
+{
+  "type": "node",
+  "id": 12468075627,
+  "lat": 36.5042038,
+  "lon": 126.7673217
+},
+{
+  "type": "node",
+  "id": 12468075628,
+  "lat": 36.5048557,
+  "lon": 126.7672178
+},
+{
+  "type": "node",
+  "id": 12468075629,
+  "lat": 36.5058048,
+  "lon": 126.7671447
+},
+{
+  "type": "node",
+  "id": 12468075630,
+  "lat": 36.5068057,
+  "lon": 126.7670081
+},
+{
+  "type": "node",
+  "id": 12468075631,
+  "lat": 36.5037655,
+  "lon": 126.7672250
+},
+{
+  "type": "node",
+  "id": 12468075632,
+  "lat": 36.5037619,
+  "lon": 126.7673177
+},
+{
+  "type": "node",
+  "id": 12468075633,
+  "lat": 36.5042008,
+  "lon": 126.7672312
+},
+{
+  "type": "node",
+  "id": 12468075634,
+  "lat": 36.5046316,
+  "lon": 126.7673158
+},
+{
+  "type": "node",
+  "id": 12468075635,
+  "lat": 36.5055821,
+  "lon": 126.7672540
+},
+{
+  "type": "node",
+  "id": 12468075636,
+  "lat": 36.5059593,
+  "lon": 126.7672115
 },
 {
   "type": "node",
@@ -24684,99 +26723,153 @@
 },
 {
   "type": "node",
+  "id": 12128731554,
+  "lat": 36.5097322,
+  "lon": 126.7661996
+},
+{
+  "type": "node",
   "id": 12409326719,
-  "lat": 36.5113023,
-  "lon": 126.7657066
+  "lat": 36.5114047,
+  "lon": 126.7655443
 },
 {
   "type": "node",
   "id": 12409326720,
-  "lat": 36.5113465,
-  "lon": 126.7658323
+  "lat": 36.5114187,
+  "lon": 126.7656159
 },
 {
   "type": "node",
   "id": 12409326737,
-  "lat": 36.5100941,
-  "lon": 126.7661709
+  "lat": 36.5104002,
+  "lon": 126.7659456
 },
 {
   "type": "node",
   "id": 12409326738,
-  "lat": 36.5107407,
-  "lon": 126.7659062
+  "lat": 36.5111104,
+  "lon": 126.7656675
 },
 {
   "type": "node",
   "id": 12409326739,
-  "lat": 36.5107881,
-  "lon": 126.7660379
+  "lat": 36.5110407,
+  "lon": 126.7657612
 },
 {
   "type": "node",
   "id": 12409326740,
-  "lat": 36.5101859,
-  "lon": 126.7662785
+  "lat": 36.5104064,
+  "lon": 126.7660112
+},
+{
+  "type": "node",
+  "id": 12468075638,
+  "lat": 36.5120860,
+  "lon": 126.7652725
+},
+{
+  "type": "node",
+  "id": 12468075639,
+  "lat": 36.5129044,
+  "lon": 126.7649641
+},
+{
+  "type": "node",
+  "id": 12468075647,
+  "lat": 36.5133346,
+  "lon": 126.7648152
+},
+{
+  "type": "node",
+  "id": 12468075650,
+  "lat": 36.5097501,
+  "lon": 126.7662661
+},
+{
+  "type": "node",
+  "id": 12468075651,
+  "lat": 36.5125397,
+  "lon": 126.7651779
+},
+{
+  "type": "node",
+  "id": 12468075652,
+  "lat": 36.5133328,
+  "lon": 126.7648928
 },
 {
   "type": "node",
   "id": 12128731553,
-  "lat": 36.5095771,
-  "lon": 126.7665597
-},
-{
-  "type": "node",
-  "id": 12128731554,
-  "lat": 36.5095544,
-  "lon": 126.7664226
+  "lat": 36.5092464,
+  "lon": 126.7664385
 },
 {
   "type": "node",
   "id": 12409326731,
-  "lat": 36.5087592,
-  "lon": 126.7669384
+  "lat": 36.5086995,
+  "lon": 126.7666216
 },
 {
   "type": "node",
   "id": 12409326732,
-  "lat": 36.5072600,
-  "lon": 126.7673661
+  "lat": 36.5074790,
+  "lon": 126.7669609
 },
 {
   "type": "node",
   "id": 12409326735,
-  "lat": 36.5072383,
-  "lon": 126.7672539
+  "lat": 36.5073224,
+  "lon": 126.7669106
 },
 {
   "type": "node",
   "id": 12409326736,
-  "lat": 36.5087371,
-  "lon": 126.7668213
+  "lat": 36.5089163,
+  "lon": 126.7664922
 },
 {
   "type": "node",
   "id": 12409326741,
-  "lat": 36.5081849,
-  "lon": 126.7671448
+  "lat": 36.5083143,
+  "lon": 126.7667396
 },
 {
   "type": "node",
   "id": 12409326742,
-  "lat": 36.5077076,
-  "lon": 126.7672801
+  "lat": 36.5078356,
+  "lon": 126.7668713
 },
 {
   "type": "node",
   "id": 12409326745,
-  "lat": 36.5077499,
-  "lon": 126.7671547
+  "lat": 36.5077582,
+  "lon": 126.7668039
 },
 {
   "type": "node",
   "id": 12409326746,
-  "lat": 36.5081816,
-  "lon": 126.7670373
+  "lat": 36.5084376,
+  "lon": 126.7666338
+},
+{
+  "type": "node",
+  "id": 12468075637,
+  "lat": 36.5092425,
+  "lon": 126.7663795
+},
+{
+  "type": "node",
+  "id": 12468075648,
+  "lat": 36.5070207,
+  "lon": 126.7670536
+},
+{
+  "type": "node",
+  "id": 12468075649,
+  "lat": 36.5089729,
+  "lon": 126.7665336
 },
 {
   "type": "node",
@@ -24793,14 +26886,14 @@
 {
   "type": "node",
   "id": 12128731551,
-  "lat": 36.5136121,
-  "lon": 126.7649705
+  "lat": 36.5137459,
+  "lon": 126.7647685
 },
 {
   "type": "node",
   "id": 12128731552,
-  "lat": 36.5135804,
-  "lon": 126.7648515
+  "lat": 36.5137364,
+  "lon": 126.7646911
 },
 {
   "type": "node",
@@ -24817,32 +26910,32 @@
 {
   "type": "node",
   "id": 12409326721,
-  "lat": 36.5149502,
-  "lon": 126.7644636
+  "lat": 36.5147241,
+  "lon": 126.7644264
 },
 {
   "type": "node",
   "id": 12409326722,
-  "lat": 36.5150576,
-  "lon": 126.7645793
+  "lat": 36.5147349,
+  "lon": 126.7645137
 },
 {
   "type": "node",
   "id": 12409326723,
-  "lat": 36.5161463,
-  "lon": 126.7643263
+  "lat": 36.5162066,
+  "lon": 126.7642294
 },
 {
   "type": "node",
   "id": 12409326724,
-  "lat": 36.5161240,
-  "lon": 126.7641929
+  "lat": 36.5162008,
+  "lon": 126.7641363
 },
 {
   "type": "node",
   "id": 12409326725,
-  "lat": 36.5166820,
-  "lon": 126.7642320
+  "lat": 36.5166657,
+  "lon": 126.7641934
 },
 {
   "type": "node",
@@ -24853,26 +26946,44 @@
 {
   "type": "node",
   "id": 12409326727,
-  "lat": 36.5143744,
-  "lon": 126.7645969
+  "lat": 36.5146133,
+  "lon": 126.7644518
 },
 {
   "type": "node",
   "id": 12409326728,
-  "lat": 36.5139888,
-  "lon": 126.7647101
-},
-{
-  "type": "node",
-  "id": 12409326729,
-  "lat": 36.5139827,
-  "lon": 126.7648371
+  "lat": 36.5141077,
+  "lon": 126.7645869
 },
 {
   "type": "node",
   "id": 12409326730,
-  "lat": 36.5144194,
-  "lon": 126.7647180
+  "lat": 36.5143143,
+  "lon": 126.7646141
+},
+{
+  "type": "node",
+  "id": 12468075644,
+  "lat": 36.5155316,
+  "lon": 126.7642652
+},
+{
+  "type": "node",
+  "id": 12468075645,
+  "lat": 36.5156989,
+  "lon": 126.7643165
+},
+{
+  "type": "node",
+  "id": 12468075646,
+  "lat": 36.5160285,
+  "lon": 126.7642568
+},
+{
+  "type": "node",
+  "id": 12468075653,
+  "lat": 36.5153398,
+  "lon": 126.7643870
 },
 {
   "type": "node",
@@ -24967,32 +27078,32 @@
 {
   "type": "node",
   "id": 12409305692,
-  "lat": 36.5381461,
-  "lon": 126.7681404
+  "lat": 36.5381189,
+  "lon": 126.7681959
 },
 {
   "type": "node",
   "id": 12409305693,
-  "lat": 36.5381733,
-  "lon": 126.7680406
+  "lat": 36.5381832,
+  "lon": 126.7680899
 },
 {
   "type": "node",
   "id": 12409305699,
-  "lat": 36.5365512,
-  "lon": 126.7681886
+  "lat": 36.5364794,
+  "lon": 126.7682903
 },
 {
   "type": "node",
   "id": 12409305700,
   "lat": 36.5350837,
-  "lon": 126.7681648
+  "lon": 126.7681956
 },
 {
   "type": "node",
   "id": 12409326701,
-  "lat": 36.5350892,
-  "lon": 126.7680472
+  "lat": 36.5359235,
+  "lon": 126.7681704
 },
 {
   "type": "node",
@@ -25003,152 +27114,362 @@
 {
   "type": "node",
   "id": 12409326704,
-  "lat": 36.5364991,
-  "lon": 126.7680693
+  "lat": 36.5364842,
+  "lon": 126.7681895
+},
+{
+  "type": "node",
+  "id": 12468149444,
+  "lat": 36.5387653,
+  "lon": 126.7680320
+},
+{
+  "type": "node",
+  "id": 12468149447,
+  "lat": 36.5388135,
+  "lon": 126.7681049
+},
+{
+  "type": "node",
+  "id": 12468149448,
+  "lat": 36.5373326,
+  "lon": 126.7682508
+},
+{
+  "type": "node",
+  "id": 12468149449,
+  "lat": 36.5357717,
+  "lon": 126.7682553
+},
+{
+  "type": "node",
+  "id": 12468149450,
+  "lat": 36.5345689,
+  "lon": 126.7680276
+},
+{
+  "type": "node",
+  "id": 12468149451,
+  "lat": 36.5351732,
+  "lon": 126.7681052
+},
+{
+  "type": "node",
+  "id": 12468149452,
+  "lat": 36.5372322,
+  "lon": 126.7681674
 },
 {
   "type": "node",
   "id": 7396865509,
-  "lat": 36.5475716,
-  "lon": 126.7673861
+  "lat": 36.5459373,
+  "lon": 126.7668190
+},
+{
+  "type": "node",
+  "id": 12468149442,
+  "lat": 36.5450044,
+  "lon": 126.7668925
+},
+{
+  "type": "node",
+  "id": 12468149443,
+  "lat": 36.5436073,
+  "lon": 126.7670840
+},
+{
+  "type": "node",
+  "id": 12468149445,
+  "lat": 36.5399031,
+  "lon": 126.7678202
+},
+{
+  "type": "node",
+  "id": 12468149446,
+  "lat": 36.5399835,
+  "lon": 126.7678969
+},
+{
+  "type": "node",
+  "id": 12468149453,
+  "lat": 36.5418320,
+  "lon": 126.7675360
+},
+{
+  "type": "node",
+  "id": 12468149454,
+  "lat": 36.5431895,
+  "lon": 126.7672758
+},
+{
+  "type": "node",
+  "id": 12468149455,
+  "lat": 36.5441877,
+  "lon": 126.7671027
+},
+{
+  "type": "node",
+  "id": 12468149456,
+  "lat": 36.5449862,
+  "lon": 126.7669755
+},
+{
+  "type": "node",
+  "id": 12468149460,
+  "lat": 36.5455142,
+  "lon": 126.7668480
+},
+{
+  "type": "node",
+  "id": 12468149461,
+  "lat": 36.5455007,
+  "lon": 126.7669291
+},
+{
+  "type": "node",
+  "id": 12468149465,
+  "lat": 36.5458994,
+  "lon": 126.7668959
 },
 {
   "type": "node",
   "id": 7396865520,
-  "lat": 36.5475263,
-  "lon": 126.7674879
+  "lat": 36.5477887,
+  "lon": 126.7668863
 },
 {
   "type": "node",
   "id": 12409305696,
-  "lat": 36.5512113,
-  "lon": 126.7674191
+  "lat": 36.5511917,
+  "lon": 126.7672158
 },
 {
   "type": "node",
   "id": 12409305697,
-  "lat": 36.5512009,
-  "lon": 126.7675173
+  "lat": 36.5513544,
+  "lon": 126.7673262
+},
+{
+  "type": "node",
+  "id": 12468149434,
+  "lat": 36.5520105,
+  "lon": 126.7674624
+},
+{
+  "type": "node",
+  "id": 12468149436,
+  "lat": 36.5499228,
+  "lon": 126.7669753
+},
+{
+  "type": "node",
+  "id": 12468149437,
+  "lat": 36.5521173,
+  "lon": 126.7674037
+},
+{
+  "type": "node",
+  "id": 12468149440,
+  "lat": 36.5484067,
+  "lon": 126.7668535
+},
+{
+  "type": "node",
+  "id": 12468149441,
+  "lat": 36.5468152,
+  "lon": 126.7667956
+},
+{
+  "type": "node",
+  "id": 12468149457,
+  "lat": 36.5463650,
+  "lon": 126.7668790
+},
+{
+  "type": "node",
+  "id": 12468149458,
+  "lat": 36.5472550,
+  "lon": 126.7668683
+},
+{
+  "type": "node",
+  "id": 12468149459,
+  "lat": 36.5468585,
+  "lon": 126.7668706
+},
+{
+  "type": "node",
+  "id": 12468149462,
+  "lat": 36.5485418,
+  "lon": 126.7669418
+},
+{
+  "type": "node",
+  "id": 12468149463,
+  "lat": 36.5475274,
+  "lon": 126.7668025
+},
+{
+  "type": "node",
+  "id": 12468149464,
+  "lat": 36.5463298,
+  "lon": 126.7668039
+},
+{
+  "type": "node",
+  "id": 12468149466,
+  "lat": 36.5494296,
+  "lon": 126.7670145
+},
+{
+  "type": "node",
+  "id": 12468149467,
+  "lat": 36.5500009,
+  "lon": 126.7670674
+},
+{
+  "type": "node",
+  "id": 12468149468,
+  "lat": 36.5508484,
+  "lon": 126.7672272
 },
 {
   "type": "node",
   "id": 12409305678,
-  "lat": 36.5587140,
-  "lon": 126.7680911
+  "lat": 36.5576622,
+  "lon": 126.7695700
 },
 {
   "type": "node",
   "id": 12409305679,
-  "lat": 36.5587086,
-  "lon": 126.7681517
-},
-{
-  "type": "node",
-  "id": 12409305688,
-  "lat": 36.5575808,
-  "lon": 126.7678419
-},
-{
-  "type": "node",
-  "id": 12409305689,
-  "lat": 36.5576028,
-  "lon": 126.7679118
-},
-{
-  "type": "node",
-  "id": 12409305690,
-  "lat": 36.5562420,
-  "lon": 126.7676256
-},
-{
-  "type": "node",
-  "id": 12409305691,
-  "lat": 36.5562760,
-  "lon": 126.7677112
-},
-{
-  "type": "node",
-  "id": 12409305694,
-  "lat": 36.5549133,
-  "lon": 126.7675250
-},
-{
-  "type": "node",
-  "id": 12409305695,
-  "lat": 36.5535079,
-  "lon": 126.7674400
-},
-{
-  "type": "node",
-  "id": 12409305698,
-  "lat": 36.5535445,
-  "lon": 126.7675231
-},
-{
-  "type": "node",
-  "id": 12409305667,
-  "lat": 36.5648820,
-  "lon": 126.7720857
-},
-{
-  "type": "node",
-  "id": 12409305677,
-  "lat": 36.5648345,
-  "lon": 126.7721508
-},
-{
-  "type": "node",
-  "id": 12409305680,
-  "lat": 36.5635254,
-  "lon": 126.7708860
-},
-{
-  "type": "node",
-  "id": 12409305681,
-  "lat": 36.5614655,
-  "lon": 126.7693156
-},
-{
-  "type": "node",
-  "id": 12409305682,
-  "lat": 36.5599380,
-  "lon": 126.7684637
+  "lat": 36.5563386,
+  "lon": 126.7689725
 },
 {
   "type": "node",
   "id": 12409305683,
-  "lat": 36.5599119,
-  "lon": 126.7685176
+  "lat": 36.5576195,
+  "lon": 126.7696227
+},
+{
+  "type": "node",
+  "id": 12409305688,
+  "lat": 36.5567814,
+  "lon": 126.7691175
+},
+{
+  "type": "node",
+  "id": 12409305689,
+  "lat": 36.5553772,
+  "lon": 126.7685341
+},
+{
+  "type": "node",
+  "id": 12409305690,
+  "lat": 36.5559599,
+  "lon": 126.7686978
+},
+{
+  "type": "node",
+  "id": 12409305691,
+  "lat": 36.5545739,
+  "lon": 126.7682155
+},
+{
+  "type": "node",
+  "id": 12409305694,
+  "lat": 36.5546455,
+  "lon": 126.7681551
+},
+{
+  "type": "node",
+  "id": 12409305695,
+  "lat": 36.5537986,
+  "lon": 126.7678831
+},
+{
+  "type": "node",
+  "id": 12409305698,
+  "lat": 36.5530938,
+  "lon": 126.7677711
+},
+{
+  "type": "node",
+  "id": 12468149435,
+  "lat": 36.5539286,
+  "lon": 126.7680136
+},
+{
+  "type": "node",
+  "id": 12468149438,
+  "lat": 36.5529563,
+  "lon": 126.7676332
+},
+{
+  "type": "node",
+  "id": 12468149439,
+  "lat": 36.5553523,
+  "lon": 126.7684270
+},
+{
+  "type": "node",
+  "id": 12409305681,
+  "lat": 36.5627425,
+  "lon": 126.7725877
+},
+{
+  "type": "node",
+  "id": 12409305682,
+  "lat": 36.5594381,
+  "lon": 126.7705711
 },
 {
   "type": "node",
   "id": 12409305684,
-  "lat": 36.5614574,
-  "lon": 126.7693836
+  "lat": 36.5604491,
+  "lon": 126.7712772
 },
 {
   "type": "node",
   "id": 12409305685,
-  "lat": 36.5634476,
-  "lon": 126.7709067
+  "lat": 36.5619740,
+  "lon": 126.7722210
 },
 {
   "type": "node",
   "id": 12409305686,
-  "lat": 36.5607344,
-  "lon": 126.7688653
+  "lat": 36.5612195,
+  "lon": 126.7716629
 },
 {
   "type": "node",
   "id": 12409305687,
-  "lat": 36.5607028,
-  "lon": 126.7689053
+  "lat": 36.5593714,
+  "lon": 126.7706058
+},
+{
+  "type": "node",
+  "id": 12409305667,
+  "lat": 36.5658235,
+  "lon": 126.7744581
+},
+{
+  "type": "node",
+  "id": 12409305677,
+  "lat": 36.5642957,
+  "lon": 126.7736510
+},
+{
+  "type": "node",
+  "id": 12409305680,
+  "lat": 36.5645153,
+  "lon": 126.7736405
 },
 {
   "type": "node",
   "id": 12409305650,
-  "lat": 36.5692313,
-  "lon": 126.7764246
+  "lat": 36.5689575,
+  "lon": 126.7763265
 },
 {
   "type": "node",
@@ -25159,68 +27480,68 @@
 {
   "type": "node",
   "id": 12409305668,
-  "lat": 36.5712161,
-  "lon": 126.7780778
+  "lat": 36.5714349,
+  "lon": 126.7780493
 },
 {
   "type": "node",
   "id": 12409305669,
-  "lat": 36.5664969,
-  "lon": 126.7738086
+  "lat": 36.5660234,
+  "lon": 126.7746827
 },
 {
   "type": "node",
   "id": 12409305670,
-  "lat": 36.5681200,
-  "lon": 126.7754013
+  "lat": 36.5674017,
+  "lon": 126.7755029
 },
 {
   "type": "node",
   "id": 12409305671,
-  "lat": 36.5665440,
-  "lon": 126.7737509
+  "lat": 36.5673204,
+  "lon": 126.7753153
 },
 {
   "type": "node",
   "id": 12409305672,
-  "lat": 36.5712313,
-  "lon": 126.7779699
+  "lat": 36.5715154,
+  "lon": 126.7778683
 },
 {
   "type": "node",
   "id": 12409305673,
-  "lat": 36.5705654,
-  "lon": 126.7775057
+  "lat": 36.5704315,
+  "lon": 126.7772008
 },
 {
   "type": "node",
   "id": 12409305674,
-  "lat": 36.5698941,
-  "lon": 126.7769846
+  "lat": 36.5698778,
+  "lon": 126.7768830
 },
 {
   "type": "node",
   "id": 12409305675,
-  "lat": 36.5704975,
-  "lon": 126.7775941
+  "lat": 36.5701971,
+  "lon": 126.7772485
 },
 {
   "type": "node",
   "id": 12409305676,
-  "lat": 36.5691829,
-  "lon": 126.7764638
+  "lat": 36.5688009,
+  "lon": 126.7763988
 },
 {
   "type": "node",
   "id": 12409153443,
-  "lat": 36.5727506,
-  "lon": 126.7788207
+  "lat": 36.5729008,
+  "lon": 126.7787150
 },
 {
   "type": "node",
   "id": 12409153486,
-  "lat": 36.5727201,
-  "lon": 126.7789882
+  "lat": 36.5728540,
+  "lon": 126.7788947
 },
 {
   "type": "node",
@@ -25440,6 +27761,12 @@
 },
 {
   "type": "node",
+  "id": 7396865502,
+  "lat": 36.6046892,
+  "lon": 126.7787176
+},
+{
+  "type": "node",
   "id": 12409153438,
   "lat": 36.6028445,
   "lon": 126.7792851
@@ -25447,14 +27774,8 @@
 {
   "type": "node",
   "id": 12409153454,
-  "lat": 36.6044208,
-  "lon": 126.7789857
-},
-{
-  "type": "node",
-  "id": 12409153459,
-  "lat": 36.6042885,
-  "lon": 126.7788655
+  "lat": 36.6048777,
+  "lon": 126.7788190
 },
 {
   "type": "node",
@@ -25518,171 +27839,297 @@
 },
 {
   "type": "node",
-  "id": 7396865502,
-  "lat": 36.6055168,
-  "lon": 126.7785934
-},
-{
-  "type": "node",
   "id": 7396865514,
-  "lat": 36.6087440,
-  "lon": 126.7783617
+  "lat": 36.6093249,
+  "lon": 126.7780243
 },
 {
   "type": "node",
   "id": 12409153436,
-  "lat": 36.6095761,
-  "lon": 126.7781411
+  "lat": 36.6095948,
+  "lon": 126.7778656
 },
 {
   "type": "node",
   "id": 12409153437,
-  "lat": 36.6077085,
-  "lon": 126.7782564
+  "lat": 36.6080271,
+  "lon": 126.7780416
 },
 {
   "type": "node",
   "id": 12409153449,
-  "lat": 36.6113596,
-  "lon": 126.7782834
+  "lat": 36.6114379,
+  "lon": 126.7780435
 },
 {
   "type": "node",
   "id": 12409153450,
-  "lat": 36.6099145,
-  "lon": 126.7782996
+  "lat": 36.6101658,
+  "lon": 126.7780110
 },
 {
   "type": "node",
   "id": 12409153451,
-  "lat": 36.6076197,
-  "lon": 126.7784484
+  "lat": 36.6082528,
+  "lon": 126.7781435
 },
 {
   "type": "node",
   "id": 12409153452,
-  "lat": 36.6112452,
-  "lon": 126.7781004
+  "lat": 36.6106042,
+  "lon": 126.7778716
 },
 {
   "type": "node",
   "id": 12409153453,
-  "lat": 36.6060502,
-  "lon": 126.7786633
-},
-{
-  "type": "node",
-  "id": 12409153458,
-  "lat": 36.6055056,
-  "lon": 126.7787416
-},
-{
-  "type": "node",
-  "id": 12409153491,
-  "lat": 36.6112578,
-  "lon": 126.7782846
-},
-{
-  "type": "node",
-  "id": 7396865501,
-  "lat": 36.6181547,
-  "lon": 126.7788089
-},
-{
-  "type": "node",
-  "id": 7396865513,
-  "lat": 36.6181011,
-  "lon": 126.7789153
-},
-{
-  "type": "node",
-  "id": 12409153433,
-  "lat": 36.6164380,
-  "lon": 126.7785243
-},
-{
-  "type": "node",
-  "id": 12409153434,
-  "lat": 36.6149332,
-  "lon": 126.7783152
-},
-{
-  "type": "node",
-  "id": 12409153435,
-  "lat": 36.6131022,
-  "lon": 126.7781606
-},
-{
-  "type": "node",
-  "id": 12409153446,
-  "lat": 36.6164784,
-  "lon": 126.7786460
-},
-{
-  "type": "node",
-  "id": 12409153447,
-  "lat": 36.6148956,
-  "lon": 126.7784501
-},
-{
-  "type": "node",
-  "id": 12409153448,
-  "lat": 36.6130472,
-  "lon": 126.7783381
+  "lat": 36.6061289,
+  "lon": 126.7785383
 },
 {
   "type": "node",
   "id": 12409153490,
-  "lat": 36.6119370,
-  "lon": 126.7781229
+  "lat": 36.6113972,
+  "lon": 126.7779081
+},
+{
+  "type": "node",
+  "id": 12409153491,
+  "lat": 36.6106247,
+  "lon": 126.7780163
+},
+{
+  "type": "node",
+  "id": 12468149426,
+  "lat": 36.6067984,
+  "lon": 126.7782351
+},
+{
+  "type": "node",
+  "id": 12468149427,
+  "lat": 36.6072594,
+  "lon": 126.7783023
+},
+{
+  "type": "node",
+  "id": 7396865501,
+  "lat": 36.6180310,
+  "lon": 126.7790036
+},
+{
+  "type": "node",
+  "id": 12409153433,
+  "lat": 36.6166042,
+  "lon": 126.7787979
+},
+{
+  "type": "node",
+  "id": 12409153434,
+  "lat": 36.6142847,
+  "lon": 126.7782825
+},
+{
+  "type": "node",
+  "id": 12409153435,
+  "lat": 36.6128773,
+  "lon": 126.7780532
+},
+{
+  "type": "node",
+  "id": 12409153446,
+  "lat": 36.6164717,
+  "lon": 126.7788884
+},
+{
+  "type": "node",
+  "id": 12409153447,
+  "lat": 36.6151433,
+  "lon": 126.7786060
+},
+{
+  "type": "node",
+  "id": 12409153448,
+  "lat": 36.6134127,
+  "lon": 126.7782731
 },
 {
   "type": "node",
   "id": 12414128199,
-  "lat": 36.6152188,
-  "lon": 126.7783549
+  "lat": 36.6156761,
+  "lon": 126.7786117
 },
 {
   "type": "node",
   "id": 12414128200,
-  "lat": 36.6152049,
-  "lon": 126.7784884
+  "lat": 36.6156183,
+  "lon": 126.7787349
+},
+{
+  "type": "node",
+  "id": 12468149423,
+  "lat": 36.6149553,
+  "lon": 126.7784258
+},
+{
+  "type": "node",
+  "id": 12468149424,
+  "lat": 36.6135698,
+  "lon": 126.7781655
+},
+{
+  "type": "node",
+  "id": 12468149425,
+  "lat": 36.6120135,
+  "lon": 126.7779620
+},
+{
+  "type": "node",
+  "id": 12468149428,
+  "lat": 36.6121105,
+  "lon": 126.7781009
+},
+{
+  "type": "node",
+  "id": 12468149429,
+  "lat": 36.6128105,
+  "lon": 126.7781788
+},
+{
+  "type": "node",
+  "id": 12468149430,
+  "lat": 36.6140757,
+  "lon": 126.7783806
+},
+{
+  "type": "node",
+  "id": 12468149431,
+  "lat": 36.6146683,
+  "lon": 126.7785035
+},
+{
+  "type": "node",
+  "id": 12468149433,
+  "lat": 36.6172077,
+  "lon": 126.7790017
+},
+{
+  "type": "node",
+  "id": 12468902922,
+  "lat": 36.6161154,
+  "lon": 126.7787035
+},
+{
+  "type": "node",
+  "id": 12468902923,
+  "lat": 36.6171153,
+  "lon": 126.7788820
+},
+{
+  "type": "node",
+  "id": 12468902924,
+  "lat": 36.6175387,
+  "lon": 126.7789428
+},
+{
+  "type": "node",
+  "id": 7396865513,
+  "lat": 36.6183185,
+  "lon": 126.7791336
 },
 {
   "type": "node",
   "id": 12414128197,
-  "lat": 36.6205525,
-  "lon": 126.7793688
-},
-{
-  "type": "node",
-  "id": 7396865499,
-  "lat": 36.6237653,
-  "lon": 126.7799584
-},
-{
-  "type": "node",
-  "id": 7396865500,
-  "lat": 36.6213029,
-  "lon": 126.7796764
-},
-{
-  "type": "node",
-  "id": 12409153431,
-  "lat": 36.6232658,
-  "lon": 126.7800064
-},
-{
-  "type": "node",
-  "id": 12409153432,
-  "lat": 36.6212922,
-  "lon": 126.7795415
+  "lat": 36.6197594,
+  "lon": 126.7792038
 },
 {
   "type": "node",
   "id": 12414128198,
-  "lat": 36.6205239,
-  "lon": 126.7794912
+  "lat": 36.6197071,
+  "lon": 126.7792752
+},
+{
+  "type": "node",
+  "id": 12468149421,
+  "lat": 36.6201969,
+  "lon": 126.7792550
+},
+{
+  "type": "node",
+  "id": 12468149422,
+  "lat": 36.6201149,
+  "lon": 126.7793272
+},
+{
+  "type": "node",
+  "id": 7396865499,
+  "lat": 36.6238761,
+  "lon": 126.7799973
+},
+{
+  "type": "node",
+  "id": 7396865500,
+  "lat": 36.6213213,
+  "lon": 126.7795483
+},
+{
+  "type": "node",
+  "id": 12409153431,
+  "lat": 36.6232814,
+  "lon": 126.7799657
+},
+{
+  "type": "node",
+  "id": 12409153432,
+  "lat": 36.6214058,
+  "lon": 126.7794849
+},
+{
+  "type": "node",
+  "id": 12468149412,
+  "lat": 36.6229227,
+  "lon": 126.7797987
+},
+{
+  "type": "node",
+  "id": 12468149413,
+  "lat": 36.6223477,
+  "lon": 126.7796791
+},
+{
+  "type": "node",
+  "id": 12468149414,
+  "lat": 36.6223630,
+  "lon": 126.7797739
+},
+{
+  "type": "node",
+  "id": 12468149417,
+  "lat": 36.6226352,
+  "lon": 126.7797389
+},
+{
+  "type": "node",
+  "id": 12468149418,
+  "lat": 36.6226295,
+  "lon": 126.7798296
+},
+{
+  "type": "node",
+  "id": 12468149419,
+  "lat": 36.6218034,
+  "lon": 126.7795669
+},
+{
+  "type": "node",
+  "id": 12468149420,
+  "lat": 36.6217289,
+  "lon": 126.7796380
+},
+{
+  "type": "node",
+  "id": 12468149432,
+  "lat": 36.6207687,
+  "lon": 126.7794431
 },
 {
   "type": "node",
@@ -25693,56 +28140,68 @@
 {
   "type": "node",
   "id": 12409123732,
-  "lat": 36.6276478,
-  "lon": 126.7807625
+  "lat": 36.6276797,
+  "lon": 126.7807812
 },
 {
   "type": "node",
   "id": 12409123778,
-  "lat": 36.6295290,
-  "lon": 126.7809279
+  "lat": 36.6295265,
+  "lon": 126.7809680
 },
 {
   "type": "node",
   "id": 12409123779,
-  "lat": 36.6288058,
-  "lon": 126.7808182
+  "lat": 36.6288021,
+  "lon": 126.7808602
 },
 {
   "type": "node",
   "id": 12409123780,
   "lat": 36.6295149,
-  "lon": 126.7810712
+  "lon": 126.7810897
 },
 {
   "type": "node",
   "id": 12409123781,
   "lat": 36.6288078,
-  "lon": 126.7809461
+  "lon": 126.7809881
 },
 {
   "type": "node",
   "id": 12409123828,
-  "lat": 36.6279780,
-  "lon": 126.7806851
+  "lat": 36.6277887,
+  "lon": 126.7807061
 },
 {
   "type": "node",
   "id": 12409153429,
-  "lat": 36.6253286,
-  "lon": 126.7801911
+  "lat": 36.6251693,
+  "lon": 126.7802314
 },
 {
   "type": "node",
   "id": 12409153430,
-  "lat": 36.6253235,
-  "lon": 126.7803211
+  "lat": 36.6253362,
+  "lon": 126.7803803
 },
 {
   "type": "node",
   "id": 12414129598,
-  "lat": 36.6266769,
-  "lon": 126.7804759
+  "lat": 36.6266750,
+  "lon": 126.7805039
+},
+{
+  "type": "node",
+  "id": 12468149415,
+  "lat": 36.6258332,
+  "lon": 126.7803583
+},
+{
+  "type": "node",
+  "id": 12468149416,
+  "lat": 36.6258380,
+  "lon": 126.7804662
 },
 {
   "type": "node",
@@ -35718,15 +38177,93 @@
 },
 {
   "type": "node",
+  "id": 12468065988,
+  "lat": 36.9842734,
+  "lon": 127.3231064
+},
+{
+  "type": "node",
+  "id": 12468065989,
+  "lat": 36.9811796,
+  "lon": 127.3227331
+},
+{
+  "type": "node",
+  "id": 12468065990,
+  "lat": 36.9828435,
+  "lon": 127.3230133
+},
+{
+  "type": "node",
+  "id": 12468065995,
+  "lat": 36.9852111,
+  "lon": 127.3227865
+},
+{
+  "type": "node",
+  "id": 12468065996,
+  "lat": 36.9836976,
+  "lon": 127.3227126
+},
+{
+  "type": "node",
+  "id": 12468065997,
+  "lat": 36.9811072,
+  "lon": 127.3223348
+},
+{
+  "type": "node",
+  "id": 12468065998,
+  "lat": 36.9824511,
+  "lon": 127.3225725
+},
+{
+  "type": "node",
   "id": 7099901333,
-  "lat": 36.9905721,
-  "lon": 127.3217070
+  "lat": 36.9898317,
+  "lon": 127.3225851
 },
 {
   "type": "node",
   "id": 7099901340,
-  "lat": 36.9905831,
-  "lon": 127.3219764
+  "lat": 36.9898232,
+  "lon": 127.3228871
+},
+{
+  "type": "node",
+  "id": 12468065985,
+  "lat": 36.9910652,
+  "lon": 127.3227332
+},
+{
+  "type": "node",
+  "id": 12468065986,
+  "lat": 36.9882826,
+  "lon": 127.3230065
+},
+{
+  "type": "node",
+  "id": 12468065987,
+  "lat": 36.9865538,
+  "lon": 127.3231194
+},
+{
+  "type": "node",
+  "id": 12468065993,
+  "lat": 36.9910353,
+  "lon": 127.3224211
+},
+{
+  "type": "node",
+  "id": 12468065994,
+  "lat": 36.9883943,
+  "lon": 127.3227016
+},
+{
+  "type": "node",
+  "id": 12468065999,
+  "lat": 36.9867605,
+  "lon": 127.3227725
 },
 {
   "type": "node",
@@ -35766,6 +38303,30 @@
 },
 {
   "type": "node",
+  "id": 12468065983,
+  "lat": 36.9942106,
+  "lon": 127.3217939
+},
+{
+  "type": "node",
+  "id": 12468065984,
+  "lat": 36.9924565,
+  "lon": 127.3223680
+},
+{
+  "type": "node",
+  "id": 12468065991,
+  "lat": 36.9935800,
+  "lon": 127.3216603
+},
+{
+  "type": "node",
+  "id": 12468065992,
+  "lat": 36.9922649,
+  "lon": 127.3221188
+},
+{
+  "type": "node",
   "id": 7099901326,
   "lat": 37.0038671,
   "lon": 127.3179475
@@ -35779,8 +38340,8 @@
 {
   "type": "node",
   "id": 7099901331,
-  "lat": 37.0019148,
-  "lon": 127.3187148
+  "lat": 37.0002911,
+  "lon": 127.3192620
 },
 {
   "type": "node",
@@ -35857,62 +38418,56 @@
 {
   "type": "node",
   "id": 7099901324,
-  "lat": 37.0225548,
-  "lon": 127.3077683
+  "lat": 37.0225773,
+  "lon": 127.3078288
 },
 {
   "type": "node",
   "id": 9061389520,
-  "lat": 37.0213865,
-  "lon": 127.3084523
+  "lat": 37.0214082,
+  "lon": 127.3085106
 },
 {
   "type": "node",
   "id": 9061389570,
-  "lat": 37.0244624,
-  "lon": 127.3071905
+  "lat": 37.0244018,
+  "lon": 127.3070268
 },
 {
   "type": "node",
   "id": 9061389571,
-  "lat": 37.0219937,
-  "lon": 127.3083672
+  "lat": 37.0220112,
+  "lon": 127.3084145
 },
 {
   "type": "node",
   "id": 9061389651,
-  "lat": 37.0188480,
-  "lon": 127.3099664
+  "lat": 37.0188593,
+  "lon": 127.3099969
 },
 {
   "type": "node",
   "id": 9061389652,
-  "lat": 37.0241032,
-  "lon": 127.3070189
+  "lat": 37.0240788,
+  "lon": 127.3069532
 },
 {
   "type": "node",
   "id": 12361464871,
-  "lat": 37.0214852,
-  "lon": 127.3086836
+  "lat": 37.0214962,
+  "lon": 127.3087134
 },
 {
   "type": "node",
   "id": 12361464872,
-  "lat": 37.0212596,
-  "lon": 127.3088218
+  "lat": 37.0212684,
+  "lon": 127.3088457
 },
 {
   "type": "node",
   "id": 12361464873,
-  "lat": 37.0211345,
-  "lon": 127.3086229
-},
-{
-  "type": "node",
-  "id": 12361464874,
-  "lat": 37.0227244,
-  "lon": 127.3079251
+  "lat": 37.0211489,
+  "lon": 127.3086617
 },
 {
   "type": "node",
@@ -36559,38 +39114,26 @@
 {
   "type": "node",
   "id": 7099901283,
-  "lat": 37.1564311,
-  "lon": 127.2744317
-},
-{
-  "type": "node",
-  "id": 7099901294,
-  "lat": 37.1562082,
-  "lon": 127.2748953
+  "lat": 37.1564584,
+  "lon": 127.2745213
 },
 {
   "type": "node",
   "id": 11854265305,
-  "lat": 37.1582774,
-  "lon": 127.2735981
+  "lat": 37.1588446,
+  "lon": 127.2734071
 },
 {
   "type": "node",
   "id": 11854265306,
-  "lat": 37.1583982,
-  "lon": 127.2739156
+  "lat": 37.1587690,
+  "lon": 127.2737924
 },
 {
   "type": "node",
   "id": 11854265307,
-  "lat": 37.1575006,
-  "lon": 127.2743589
-},
-{
-  "type": "node",
-  "id": 12361411029,
-  "lat": 37.1569458,
-  "lon": 127.2741895
+  "lat": 37.1575051,
+  "lon": 127.2743747
 },
 {
   "type": "node",
@@ -36600,21 +39143,9 @@
 },
 {
   "type": "node",
-  "id": 7099901293,
-  "lat": 37.1750525,
-  "lon": 127.2678277
-},
-{
-  "type": "node",
   "id": 11854265303,
   "lat": 37.1740856,
   "lon": 127.2681838
-},
-{
-  "type": "node",
-  "id": 11854265304,
-  "lat": 37.1734621,
-  "lon": 127.2677116
 },
 {
   "type": "node",
@@ -36625,56 +39156,56 @@
 {
   "type": "node",
   "id": 7099901292,
-  "lat": 37.1786946,
-  "lon": 127.2665851
+  "lat": 37.1790280,
+  "lon": 127.2664349
 },
 {
   "type": "node",
   "id": 11854265296,
-  "lat": 37.1777548,
-  "lon": 127.2662585
+  "lat": 37.1777659,
+  "lon": 127.2663095
 },
 {
   "type": "node",
   "id": 11854265297,
-  "lat": 37.1777106,
-  "lon": 127.2669150
+  "lat": 37.1777077,
+  "lon": 127.2669021
 },
 {
   "type": "node",
   "id": 11854265298,
-  "lat": 37.1798353,
-  "lon": 127.2662179
+  "lat": 37.1803410,
+  "lon": 127.2659653
 },
 {
   "type": "node",
   "id": 11854265299,
-  "lat": 37.1761290,
-  "lon": 127.2667636
+  "lat": 37.1761502,
+  "lon": 127.2668613
 },
 {
   "type": "node",
   "id": 11854265300,
-  "lat": 37.1765678,
-  "lon": 127.2672645
+  "lat": 37.1765763,
+  "lon": 127.2673024
 },
 {
   "type": "node",
-  "id": 11854265301,
-  "lat": 37.1771453,
-  "lon": 127.2664702
+  "id": 12468863854,
+  "lat": 37.1799127,
+  "lon": 127.2655881
 },
 {
   "type": "node",
-  "id": 7099901280,
-  "lat": 37.1880536,
-  "lon": 127.2653711
+  "id": 12468863855,
+  "lat": 37.1814333,
+  "lon": 127.2651815
 },
 {
   "type": "node",
-  "id": 7099901291,
-  "lat": 37.1880051,
-  "lon": 127.2658072
+  "id": 12468863859,
+  "lat": 37.1812830,
+  "lon": 127.2656759
 },
 {
   "type": "node",
@@ -36691,128 +39222,356 @@
 {
   "type": "node",
   "id": 9023166621,
-  "lat": 37.1853410,
-  "lon": 127.2649820
-},
-{
-  "type": "node",
-  "id": 9023166622,
-  "lat": 37.1861527,
-  "lon": 127.2654911
+  "lat": 37.1854539,
+  "lon": 127.2649327
 },
 {
   "type": "node",
   "id": 11854265293,
-  "lat": 37.1870432,
-  "lon": 127.2652343
+  "lat": 37.1870115,
+  "lon": 127.2651849
 },
 {
   "type": "node",
   "id": 11854265294,
-  "lat": 37.1870499,
-  "lon": 127.2656442
+  "lat": 37.1868867,
+  "lon": 127.2656685
+},
+{
+  "type": "node",
+  "id": 12468863856,
+  "lat": 37.1826032,
+  "lon": 127.2649935
+},
+{
+  "type": "node",
+  "id": 12468863857,
+  "lat": 37.1838445,
+  "lon": 127.2648984
+},
+{
+  "type": "node",
+  "id": 12468863858,
+  "lat": 37.1846811,
+  "lon": 127.2648816
+},
+{
+  "type": "node",
+  "id": 12468863860,
+  "lat": 37.1824259,
+  "lon": 127.2654178
+},
+{
+  "type": "node",
+  "id": 12468863861,
+  "lat": 37.1834620,
+  "lon": 127.2653376
+},
+{
+  "type": "node",
+  "id": 12468863862,
+  "lat": 37.1843610,
+  "lon": 127.2653479
 },
 {
   "type": "node",
   "id": 7099901279,
-  "lat": 37.1932850,
-  "lon": 127.2667660
+  "lat": 37.1933576,
+  "lon": 127.2667445
 },
 {
   "type": "node",
   "id": 7099901290,
-  "lat": 37.1944309,
-  "lon": 127.2680051
+  "lat": 37.1949123,
+  "lon": 127.2680514
 },
 {
   "type": "node",
   "id": 9023166623,
-  "lat": 37.1910592,
-  "lon": 127.2659207
+  "lat": 37.1910648,
+  "lon": 127.2658535
 },
 {
   "type": "node",
   "id": 9023166624,
-  "lat": 37.1908730,
-  "lon": 127.2663272
+  "lat": 37.1907884,
+  "lon": 127.2662458
 },
 {
   "type": "node",
   "id": 9023166625,
-  "lat": 37.1926830,
-  "lon": 127.2670541
+  "lat": 37.1926483,
+  "lon": 127.2670093
 },
 {
   "type": "node",
   "id": 11854265290,
-  "lat": 37.1904462,
-  "lon": 127.2662045
+  "lat": 37.1904471,
+  "lon": 127.2661953
 },
 {
   "type": "node",
   "id": 11854265291,
-  "lat": 37.1905290,
-  "lon": 127.2657844
+  "lat": 37.1905310,
+  "lon": 127.2657654
 },
 {
   "type": "node",
   "id": 11854265292,
-  "lat": 37.1917145,
-  "lon": 127.2661357
+  "lat": 37.1914429,
+  "lon": 127.2659302
+},
+{
+  "type": "node",
+  "id": 12468863863,
+  "lat": 37.1909716,
+  "lon": 127.2662865
+},
+{
+  "type": "node",
+  "id": 12468863864,
+  "lat": 37.1913245,
+  "lon": 127.2663794
+},
+{
+  "type": "node",
+  "id": 12468863865,
+  "lat": 37.1917836,
+  "lon": 127.2665566
+},
+{
+  "type": "node",
+  "id": 12468863866,
+  "lat": 37.1923368,
+  "lon": 127.2668320
+},
+{
+  "type": "node",
+  "id": 12468863867,
+  "lat": 37.1918748,
+  "lon": 127.2660560
+},
+{
+  "type": "node",
+  "id": 12468863868,
+  "lat": 37.1922632,
+  "lon": 127.2662062
+},
+{
+  "type": "node",
+  "id": 12468863869,
+  "lat": 37.1929592,
+  "lon": 127.2665197
+},
+{
+  "type": "node",
+  "id": 12468863870,
+  "lat": 37.1926112,
+  "lon": 127.2663513
+},
+{
+  "type": "node",
+  "id": 12468863871,
+  "lat": 37.1937199,
+  "lon": 127.2669252
+},
+{
+  "type": "node",
+  "id": 12468863872,
+  "lat": 37.1941155,
+  "lon": 127.2670844
+},
+{
+  "type": "node",
+  "id": 12468863873,
+  "lat": 37.1947208,
+  "lon": 127.2672867
 },
 {
   "type": "node",
   "id": 9023166626,
-  "lat": 37.1955517,
-  "lon": 127.2677311
+  "lat": 37.1959064,
+  "lon": 127.2676292
 },
 {
   "type": "node",
   "id": 9023166627,
-  "lat": 37.1957250,
-  "lon": 127.2684818
+  "lat": 37.1972858,
+  "lon": 127.2690974
 },
 {
   "type": "node",
   "id": 12361446595,
-  "lat": 37.1995574,
-  "lon": 127.2690359
+  "lat": 37.1997551,
+  "lon": 127.2696716
+},
+{
+  "type": "node",
+  "id": 12468863874,
+  "lat": 37.1984138,
+  "lon": 127.2694186
+},
+{
+  "type": "node",
+  "id": 12468863885,
+  "lat": 37.1974942,
+  "lon": 127.2680341
+},
+{
+  "type": "node",
+  "id": 12468863886,
+  "lat": 37.1991256,
+  "lon": 127.2684237
+},
+{
+  "type": "node",
+  "id": 12468863887,
+  "lat": 37.2007776,
+  "lon": 127.2687537
+},
+{
+  "type": "node",
+  "id": 12468863882,
+  "lat": 37.2071784,
+  "lon": 127.2707696
+},
+{
+  "type": "node",
+  "id": 12468863883,
+  "lat": 37.2050072,
+  "lon": 127.2704362
+},
+{
+  "type": "node",
+  "id": 12468863884,
+  "lat": 37.2015401,
+  "lon": 127.2699746
+},
+{
+  "type": "node",
+  "id": 12468863888,
+  "lat": 37.2026817,
+  "lon": 127.2690872
+},
+{
+  "type": "node",
+  "id": 12468863889,
+  "lat": 37.2069443,
+  "lon": 127.2697852
 },
 {
   "type": "node",
   "id": 7099901278,
-  "lat": 37.2136998,
-  "lon": 127.2699717
+  "lat": 37.2141163,
+  "lon": 127.2697195
 },
 {
   "type": "node",
   "id": 7099901289,
-  "lat": 37.2136903,
-  "lon": 127.2702517
-},
-{
-  "type": "node",
-  "id": 12361446596,
-  "lat": 37.2113946,
-  "lon": 127.2706391
+  "lat": 37.2131250,
+  "lon": 127.2706160
 },
 {
   "type": "node",
   "id": 12361446597,
-  "lat": 37.2114817,
-  "lon": 127.2701767
+  "lat": 37.2117495,
+  "lon": 127.2702514
+},
+{
+  "type": "node",
+  "id": 12468863878,
+  "lat": 37.2145068,
+  "lon": 127.2701129
+},
+{
+  "type": "node",
+  "id": 12468863890,
+  "lat": 37.2088671,
+  "lon": 127.2701304
+},
+{
+  "type": "node",
+  "id": 12468863891,
+  "lat": 37.2100368,
+  "lon": 127.2702890
+},
+{
+  "type": "node",
+  "id": 12468863892,
+  "lat": 37.2129106,
+  "lon": 127.2700322
+},
+{
+  "type": "node",
+  "id": 12468863895,
+  "lat": 37.2109527,
+  "lon": 127.2703122
+},
+{
+  "type": "node",
+  "id": 12361446596,
+  "lat": 37.2109676,
+  "lon": 127.2710335
+},
+{
+  "type": "node",
+  "id": 12468863879,
+  "lat": 37.2119997,
+  "lon": 127.2709233
+},
+{
+  "type": "node",
+  "id": 12468863880,
+  "lat": 37.2097694,
+  "lon": 127.2710452
+},
+{
+  "type": "node",
+  "id": 12468863881,
+  "lat": 37.2085570,
+  "lon": 127.2709590
 },
 {
   "type": "node",
   "id": 7099901277,
-  "lat": 37.2201390,
-  "lon": 127.2669140
+  "lat": 37.2201278,
+  "lon": 127.2669373
 },
 {
   "type": "node",
   "id": 7099901288,
-  "lat": 37.2201509,
-  "lon": 127.2672591
+  "lat": 37.2202253,
+  "lon": 127.2672871
+},
+{
+  "type": "node",
+  "id": 12468863875,
+  "lat": 37.2193231,
+  "lon": 127.2678115
+},
+{
+  "type": "node",
+  "id": 12468863876,
+  "lat": 37.2178670,
+  "lon": 127.2686232
+},
+{
+  "type": "node",
+  "id": 12468863877,
+  "lat": 37.2159110,
+  "lon": 127.2695257
+},
+{
+  "type": "node",
+  "id": 12468863893,
+  "lat": 37.2168899,
+  "lon": 127.2685767
+},
+{
+  "type": "node",
+  "id": 12468863894,
+  "lat": 37.2153246,
+  "lon": 127.2692789
 },
 {
   "type": "node",
@@ -37081,26 +39840,26 @@
 {
   "type": "node",
   "id": 9038158594,
-  "lat": 37.2800212,
-  "lon": 127.2507602
+  "lat": 37.2800190,
+  "lon": 127.2507078
 },
 {
   "type": "node",
   "id": 9038158595,
-  "lat": 37.2799052,
-  "lon": 127.2504114
+  "lat": 37.2799028,
+  "lon": 127.2503344
 },
 {
   "type": "node",
   "id": 11854210055,
-  "lat": 37.2784443,
-  "lon": 127.2505488
+  "lat": 37.2784399,
+  "lon": 127.2504055
 },
 {
   "type": "node",
   "id": 11854210056,
-  "lat": 37.2784954,
-  "lon": 127.2508886
+  "lat": 37.2784921,
+  "lon": 127.2508112
 },
 {
   "type": "node",
@@ -37128,21 +39887,15 @@
 },
 {
   "type": "node",
-  "id": 11854210052,
-  "lat": 37.2811928,
-  "lon": 127.2506286
-},
-{
-  "type": "node",
   "id": 11854210053,
-  "lat": 37.2806611,
-  "lon": 127.2503144
+  "lat": 37.2806606,
+  "lon": 127.2502976
 },
 {
   "type": "node",
   "id": 11854210054,
-  "lat": 37.2807324,
-  "lon": 127.2506695
+  "lat": 37.2807320,
+  "lon": 127.2506595
 },
 {
   "type": "node",
@@ -37159,74 +39912,110 @@
 {
   "type": "node",
   "id": 7099901245,
-  "lat": 37.3058441,
-  "lon": 127.2382141
+  "lat": 37.3058825,
+  "lon": 127.2379781
 },
 {
   "type": "node",
   "id": 7099901246,
-  "lat": 37.3034331,
-  "lon": 127.2425006
+  "lat": 37.3033963,
+  "lon": 127.2424002
 },
 {
   "type": "node",
   "id": 7099901269,
-  "lat": 37.3034108,
-  "lon": 127.2428852
+  "lat": 37.3031177,
+  "lon": 127.2432690
 },
 {
   "type": "node",
   "id": 11854210042,
-  "lat": 37.3052531,
-  "lon": 127.2399384
+  "lat": 37.3052062,
+  "lon": 127.2397238
 },
 {
   "type": "node",
   "id": 11854210043,
-  "lat": 37.3050770,
-  "lon": 127.2397901
+  "lat": 37.3050599,
+  "lon": 127.2396077
 },
 {
   "type": "node",
   "id": 11854210044,
-  "lat": 37.3043549,
-  "lon": 127.2408632
+  "lat": 37.3043189,
+  "lon": 127.2408581
 },
 {
   "type": "node",
   "id": 11854210045,
-  "lat": 37.3044819,
-  "lon": 127.2410232
+  "lat": 37.3045394,
+  "lon": 127.2410800
 },
 {
   "type": "node",
   "id": 11854210046,
-  "lat": 37.3027126,
-  "lon": 127.2435539
+  "lat": 37.3028874,
+  "lon": 127.2435458
 },
 {
   "type": "node",
   "id": 11854210047,
-  "lat": 37.3026560,
-  "lon": 127.2433052
+  "lat": 37.3028024,
+  "lon": 127.2432094
 },
 {
   "type": "node",
   "id": 11854210048,
-  "lat": 37.3019479,
-  "lon": 127.2439667
+  "lat": 37.3023417,
+  "lon": 127.2436925
 },
 {
   "type": "node",
   "id": 11854210049,
-  "lat": 37.3019909,
-  "lon": 127.2442734
+  "lat": 37.3024216,
+  "lon": 127.2440584
 },
 {
   "type": "node",
-  "id": 11861993598,
-  "lat": 37.3023750,
-  "lon": 127.2439234
+  "id": 12468078662,
+  "lat": 37.3028861,
+  "lon": 127.2431086
+},
+{
+  "type": "node",
+  "id": 12468078663,
+  "lat": 37.3039899,
+  "lon": 127.2413990
+},
+{
+  "type": "node",
+  "id": 12468078664,
+  "lat": 37.3035008,
+  "lon": 127.2427516
+},
+{
+  "type": "node",
+  "id": 12468078665,
+  "lat": 37.3041628,
+  "lon": 127.2417175
+},
+{
+  "type": "node",
+  "id": 12468078666,
+  "lat": 37.3037611,
+  "lon": 127.2423560
+},
+{
+  "type": "node",
+  "id": 12468286429,
+  "lat": 37.3031296,
+  "lon": 127.2428093
+},
+{
+  "type": "node",
+  "id": 12468286432,
+  "lat": 37.3036541,
+  "lon": 127.2419767
 },
 {
   "type": "node",
@@ -37243,14 +40032,14 @@
 {
   "type": "node",
   "id": 11854210040,
-  "lat": 37.3090710,
-  "lon": 127.2311625
+  "lat": 37.3089217,
+  "lon": 127.2309640
 },
 {
   "type": "node",
   "id": 11854210041,
-  "lat": 37.3092281,
-  "lon": 127.2312871
+  "lat": 37.3090446,
+  "lon": 127.2310511
 },
 {
   "type": "node",
@@ -37279,20 +40068,32 @@
 {
   "type": "node",
   "id": 7730960980,
-  "lat": 37.3072517,
-  "lon": 127.2355741
+  "lat": 37.3068890,
+  "lon": 127.2359389
 },
 {
   "type": "node",
   "id": 7730977603,
-  "lat": 37.3087326,
-  "lon": 127.2323619
+  "lat": 37.3083870,
+  "lon": 127.2323351
 },
 {
   "type": "node",
   "id": 7730977604,
-  "lat": 37.3085742,
-  "lon": 127.2322481
+  "lat": 37.3082755,
+  "lon": 127.2323017
+},
+{
+  "type": "node",
+  "id": 12468286430,
+  "lat": 37.3069211,
+  "lon": 127.2356173
+},
+{
+  "type": "node",
+  "id": 12468286431,
+  "lat": 37.3077212,
+  "lon": 127.2338956
 },
 {
   "type": "node",
@@ -37447,14 +40248,38 @@
 {
   "type": "node",
   "id": 11854210050,
-  "lat": 37.3010005,
-  "lon": 127.2452516
+  "lat": 37.3008779,
+  "lon": 127.2456672
 },
 {
   "type": "node",
   "id": 11854210051,
-  "lat": 37.3008834,
-  "lon": 127.2450148
+  "lat": 37.3008723,
+  "lon": 127.2451782
+},
+{
+  "type": "node",
+  "id": 12468286433,
+  "lat": 37.3000376,
+  "lon": 127.2463782
+},
+{
+  "type": "node",
+  "id": 12468286434,
+  "lat": 37.3000299,
+  "lon": 127.2458806
+},
+{
+  "type": "node",
+  "id": 12468286435,
+  "lat": 37.3004511,
+  "lon": 127.2455538
+},
+{
+  "type": "node",
+  "id": 12468286436,
+  "lat": 37.3004642,
+  "lon": 127.2460390
 },
 {
   "type": "node",
@@ -37609,8 +40434,8 @@
 {
   "type": "node",
   "id": 8515826299,
-  "lat": 37.3970855,
-  "lon": 127.1915478
+  "lat": 37.3974370,
+  "lon": 127.1914876
 },
 {
   "type": "node",
@@ -37646,7 +40471,7 @@
   "type": "node",
   "id": 11198935997,
   "lat": 37.3969765,
-  "lon": 127.1915594
+  "lon": 127.1915417
 },
 {
   "type": "node",
@@ -37657,8 +40482,8 @@
 {
   "type": "node",
   "id": 11854209991,
-  "lat": 37.3977420,
-  "lon": 127.1914500
+  "lat": 37.3978432,
+  "lon": 127.1914606
 },
 {
   "type": "node",
@@ -37669,8 +40494,8 @@
 {
   "type": "node",
   "id": 8515826287,
-  "lat": 37.3985113,
-  "lon": 127.1911812
+  "lat": 37.3984607,
+  "lon": 127.1911954
 },
 {
   "type": "node",
@@ -37687,8 +40512,8 @@
 {
   "type": "node",
   "id": 8515826290,
-  "lat": 37.4034134,
-  "lon": 127.1917434
+  "lat": 37.4034130,
+  "lon": 127.1917512
 },
 {
   "type": "node",
@@ -37699,8 +40524,8 @@
 {
   "type": "node",
   "id": 11854209984,
-  "lat": 37.4024518,
-  "lon": 127.1913126
+  "lat": 37.4024688,
+  "lon": 127.1913341
 },
 {
   "type": "node",
@@ -37711,20 +40536,20 @@
 {
   "type": "node",
   "id": 11854209986,
-  "lat": 37.4034494,
-  "lon": 127.1914187
+  "lat": 37.4034467,
+  "lon": 127.1914494
 },
 {
   "type": "node",
   "id": 11854209987,
-  "lat": 37.4028395,
-  "lon": 127.1913198
+  "lat": 37.4028355,
+  "lon": 127.1913653
 },
 {
   "type": "node",
   "id": 11854209988,
-  "lat": 37.4027655,
-  "lon": 127.1916571
+  "lat": 37.4027634,
+  "lon": 127.1916824
 },
 {
   "type": "node",
@@ -37734,27 +40559,15 @@
 },
 {
   "type": "node",
-  "id": 12465943049,
-  "lat": 37.4030863,
-  "lon": 127.1916734
-},
-{
-  "type": "node",
-  "id": 12465943050,
-  "lat": 37.4031541,
-  "lon": 127.1913638
-},
-{
-  "type": "node",
   "id": 7099901215,
-  "lat": 37.4302325,
-  "lon": 127.1907584
+  "lat": 37.4302312,
+  "lon": 127.1907471
 },
 {
   "type": "node",
   "id": 7099901216,
-  "lat": 37.4301665,
-  "lon": 127.1904498
+  "lat": 37.4301622,
+  "lon": 127.1904143
 },
 {
   "type": "node",
@@ -37782,21 +40595,9 @@
 },
 {
   "type": "node",
-  "id": 8685773995,
-  "lat": 37.4312153,
-  "lon": 127.1901969
-},
-{
-  "type": "node",
   "id": 8685773996,
   "lat": 37.4322958,
   "lon": 127.1900015
-},
-{
-  "type": "node",
-  "id": 8685773997,
-  "lat": 37.4322895,
-  "lon": 127.1903732
 },
 {
   "type": "node",
@@ -37806,39 +40607,105 @@
 },
 {
   "type": "node",
-  "id": 7099901210,
-  "lat": 37.4392335,
-  "lon": 127.1892950
-},
-{
-  "type": "node",
-  "id": 7099901213,
-  "lat": 37.4393395,
-  "lon": 127.1898089
-},
-{
-  "type": "node",
-  "id": 7099901201,
-  "lat": 37.4490518,
-  "lon": 127.1853401
-},
-{
-  "type": "node",
-  "id": 7099901208,
-  "lat": 37.4491827,
-  "lon": 127.1857759
+  "id": 12469359137,
+  "lat": 37.4501800,
+  "lon": 127.1854871
 },
 {
   "type": "node",
   "id": 7099901209,
-  "lat": 37.4453327,
-  "lon": 127.1886512
+  "lat": 37.4451460,
+  "lon": 127.1878782
 },
 {
   "type": "node",
-  "id": 7099901212,
-  "lat": 37.4452171,
-  "lon": 127.1881781
+  "id": 12468078652,
+  "lat": 37.4477283,
+  "lon": 127.1871788
+},
+{
+  "type": "node",
+  "id": 12468078658,
+  "lat": 37.4461457,
+  "lon": 127.1872764
+},
+{
+  "type": "node",
+  "id": 12468078659,
+  "lat": 37.4451208,
+  "lon": 127.1874944
+},
+{
+  "type": "node",
+  "id": 12469294127,
+  "lat": 37.4496268,
+  "lon": 127.1862376
+},
+{
+  "type": "node",
+  "id": 12469294132,
+  "lat": 37.4475180,
+  "lon": 127.1868789
+},
+{
+  "type": "node",
+  "id": 12469294133,
+  "lat": 37.4466142,
+  "lon": 127.1875251
+},
+{
+  "type": "node",
+  "id": 12469294134,
+  "lat": 37.4489083,
+  "lon": 127.1866493
+},
+{
+  "type": "node",
+  "id": 12469294135,
+  "lat": 37.4486927,
+  "lon": 127.1863634
+},
+{
+  "type": "node",
+  "id": 12469294136,
+  "lat": 37.4495755,
+  "lon": 127.1858563
+},
+{
+  "type": "node",
+  "id": 12469359132,
+  "lat": 37.4483978,
+  "lon": 127.1869166
+},
+{
+  "type": "node",
+  "id": 12469359133,
+  "lat": 37.4481671,
+  "lon": 127.1866217
+},
+{
+  "type": "node",
+  "id": 12469359134,
+  "lat": 37.4460325,
+  "lon": 127.1876787
+},
+{
+  "type": "node",
+  "id": 12469359135,
+  "lat": 37.4471767,
+  "lon": 127.1873588
+},
+{
+  "type": "node",
+  "id": 12469359136,
+  "lat": 37.4503599,
+  "lon": 127.1857993
+},
+{
+  "type": "node",
+  "id": 12469359138,
+  "lat": 37.4469982,
+  "lon": 127.1870556
 },
 {
   "type": "node",
@@ -38036,7 +40903,7 @@
   "type": "node",
   "id": 8515844019,
   "lat": 37.3636374,
-  "lon": 127.2194731
+  "lon": 127.2195101
 },
 {
   "type": "node",
@@ -38100,51 +40967,15 @@
 },
 {
   "type": "node",
-  "id": 11854210000,
-  "lat": 37.3784579,
-  "lon": 127.2050542
-},
-{
-  "type": "node",
   "id": 7099901226,
   "lat": 37.3842181,
   "lon": 127.1987796
 },
 {
   "type": "node",
-  "id": 7099901227,
-  "lat": 37.3815344,
-  "lon": 127.2016460
-},
-{
-  "type": "node",
-  "id": 7099901228,
-  "lat": 37.3805558,
-  "lon": 127.2027978
-},
-{
-  "type": "node",
-  "id": 7099901229,
-  "lat": 37.3787637,
-  "lon": 127.2047295
-},
-{
-  "type": "node",
   "id": 7099901253,
   "lat": 37.3841498,
   "lon": 127.1991082
-},
-{
-  "type": "node",
-  "id": 7099901254,
-  "lat": 37.3816640,
-  "lon": 127.2017771
-},
-{
-  "type": "node",
-  "id": 7099901255,
-  "lat": 37.3787020,
-  "lon": 127.2051712
 },
 {
   "type": "node",
@@ -38167,44 +40998,38 @@
 {
   "type": "node",
   "id": 11854209997,
-  "lat": 37.3803669,
-  "lon": 127.2032715
+  "lat": 37.3803636,
+  "lon": 127.2032669
 },
 {
   "type": "node",
   "id": 11854209998,
-  "lat": 37.3802605,
-  "lon": 127.2031361
+  "lat": 37.3802355,
+  "lon": 127.2031008
 },
 {
   "type": "node",
   "id": 11854209999,
-  "lat": 37.3785956,
-  "lon": 127.2052943
+  "lat": 37.3785867,
+  "lon": 127.2052818
 },
 {
   "type": "node",
-  "id": 7099901230,
-  "lat": 37.3732429,
-  "lon": 127.2107636
-},
-{
-  "type": "node",
-  "id": 7099901256,
-  "lat": 37.3738220,
-  "lon": 127.2106216
+  "id": 11854210000,
+  "lat": 37.3784730,
+  "lon": 127.2050763
 },
 {
   "type": "node",
   "id": 8515826312,
-  "lat": 37.3751830,
-  "lon": 127.2085757
+  "lat": 37.3752111,
+  "lon": 127.2086168
 },
 {
   "type": "node",
   "id": 8515826313,
-  "lat": 37.3755256,
-  "lon": 127.2087320
+  "lat": 37.3755282,
+  "lon": 127.2087357
 },
 {
   "type": "node",
@@ -38215,38 +41040,38 @@
 {
   "type": "node",
   "id": 9704716870,
-  "lat": 37.3775971,
-  "lon": 127.2059705
+  "lat": 37.3776193,
+  "lon": 127.2060029
 },
 {
   "type": "node",
   "id": 9704716871,
-  "lat": 37.3777346,
-  "lon": 127.2062131
+  "lat": 37.3777468,
+  "lon": 127.2062303
 },
 {
   "type": "node",
   "id": 11854210001,
-  "lat": 37.3736357,
-  "lon": 127.2108867
+  "lat": 37.3736397,
+  "lon": 127.2108922
 },
 {
   "type": "node",
   "id": 11854210002,
-  "lat": 37.3736783,
-  "lon": 127.2102807
+  "lat": 37.3736782,
+  "lon": 127.2102806
 },
 {
   "type": "node",
   "id": 11854210003,
-  "lat": 37.3749107,
-  "lon": 127.2088472
+  "lat": 37.3749487,
+  "lon": 127.2089017
 },
 {
   "type": "node",
   "id": 11854210004,
-  "lat": 37.3750953,
-  "lon": 127.2091655
+  "lat": 37.3751188,
+  "lon": 127.2091980
 },
 {
   "type": "node",
@@ -38396,7 +41221,7 @@
   "type": "node",
   "id": 9704716865,
   "lat": 37.4134864,
-  "lon": 127.1929299
+  "lon": 127.1928945
 },
 {
   "type": "node",
@@ -38706,117 +41531,207 @@
 },
 {
   "type": "node",
-  "id": 7099901198,
-  "lat": 37.4592976,
-  "lon": 127.1774099
+  "id": 7099901201,
+  "lat": 37.4510912,
+  "lon": 127.1848906
 },
 {
   "type": "node",
-  "id": 7099901200,
-  "lat": 37.4628746,
-  "lon": 127.1748780
-},
-{
-  "type": "node",
-  "id": 7099901207,
-  "lat": 37.4629458,
-  "lon": 127.1753260
+  "id": 7099901208,
+  "lat": 37.4511888,
+  "lon": 127.1852405
 },
 {
   "type": "node",
   "id": 8026658871,
-  "lat": 37.4698459,
-  "lon": 127.1717096
+  "lat": 37.4699225,
+  "lon": 127.1717208
+},
+{
+  "type": "node",
+  "id": 12469294137,
+  "lat": 37.4690811,
+  "lon": 127.1725353
+},
+{
+  "type": "node",
+  "id": 12469294138,
+  "lat": 37.4688937,
+  "lon": 127.1722790
+},
+{
+  "type": "node",
+  "id": 7099901207,
+  "lat": 37.4664642,
+  "lon": 127.1742915
+},
+{
+  "type": "node",
+  "id": 12468078655,
+  "lat": 37.4664061,
+  "lon": 127.1739699
+},
+{
+  "type": "node",
+  "id": 12469294128,
+  "lat": 37.4678795,
+  "lon": 127.1729036
+},
+{
+  "type": "node",
+  "id": 12469294129,
+  "lat": 37.4681087,
+  "lon": 127.1731113
 },
 {
   "type": "node",
   "id": 7099901192,
-  "lat": 37.4745633,
-  "lon": 127.1697384
+  "lat": 37.4744045,
+  "lon": 127.1697015
 },
 {
   "type": "node",
   "id": 7099901197,
-  "lat": 37.4747842,
-  "lon": 127.1702174
+  "lat": 37.4745619,
+  "lon": 127.1700224
 },
 {
   "type": "node",
   "id": 7099901199,
-  "lat": 37.4726444,
-  "lon": 127.1704853
+  "lat": 37.4718105,
+  "lon": 127.1707624
 },
 {
   "type": "node",
   "id": 7099901202,
-  "lat": 37.4766184,
-  "lon": 127.1691235
+  "lat": 37.4757262,
+  "lon": 127.1693203
 },
 {
   "type": "node",
   "id": 7099901206,
-  "lat": 37.4728419,
-  "lon": 127.1709711
+  "lat": 37.4719901,
+  "lon": 127.1710509
 },
 {
   "type": "node",
   "id": 8026658872,
-  "lat": 37.4702626,
-  "lon": 127.1719052
+  "lat": 37.4702671,
+  "lon": 127.1719024
+},
+{
+  "type": "node",
+  "id": 12469294139,
+  "lat": 37.4732226,
+  "lon": 127.1701591
+},
+{
+  "type": "node",
+  "id": 12469294140,
+  "lat": 37.4733136,
+  "lon": 127.1705045
+},
+{
+  "type": "node",
+  "id": 12469294141,
+  "lat": 37.4758503,
+  "lon": 127.1696182
 },
 {
   "type": "node",
   "id": 7099901191,
-  "lat": 37.4824421,
-  "lon": 127.1684976
-},
-{
-  "type": "node",
-  "id": 7099901196,
-  "lat": 37.4833278,
-  "lon": 127.1688803
+  "lat": 37.4816319,
+  "lon": 127.1685311
 },
 {
   "type": "node",
   "id": 7099901203,
-  "lat": 37.4767769,
-  "lon": 127.1696880
+  "lat": 37.4771100,
+  "lon": 127.1693001
 },
 {
   "type": "node",
   "id": 7099901204,
-  "lat": 37.4796136,
-  "lon": 127.1687011
+  "lat": 37.4798334,
+  "lon": 127.1686348
 },
 {
   "type": "node",
   "id": 7099901205,
-  "lat": 37.4797848,
-  "lon": 127.1690182
+  "lat": 37.4797820,
+  "lon": 127.1689449
+},
+{
+  "type": "node",
+  "id": 12469294130,
+  "lat": 37.4816783,
+  "lon": 127.1688365
+},
+{
+  "type": "node",
+  "id": 12469294131,
+  "lat": 37.4833269,
+  "lon": 127.1685164
+},
+{
+  "type": "node",
+  "id": 12469294142,
+  "lat": 37.4770240,
+  "lon": 127.1689965
+},
+{
+  "type": "node",
+  "id": 12469294143,
+  "lat": 37.4784167,
+  "lon": 127.1687332
+},
+{
+  "type": "node",
+  "id": 12469294144,
+  "lat": 37.4786069,
+  "lon": 127.1690608
+},
+{
+  "type": "node",
+  "id": 7099901196,
+  "lat": 37.4833681,
+  "lon": 127.1688663
 },
 {
   "type": "node",
   "id": 12466861985,
-  "lat": 37.4853213,
-  "lon": 127.1689876
+  "lat": 37.4854770,
+  "lon": 127.1690249
 },
 {
   "type": "node",
   "id": 12466861986,
-  "lat": 37.4854656,
-  "lon": 127.1685878
+  "lat": 37.4854515,
+  "lon": 127.1686660
 },
 {
   "type": "node",
   "id": 12466861991,
-  "lat": 37.4870230,
-  "lon": 127.1687834
+  "lat": 37.4870113,
+  "lon": 127.1689052
 },
 {
   "type": "node",
   "id": 12466861992,
-  "lat": 37.4869145,
-  "lon": 127.1691912
+  "lat": 37.4868901,
+  "lon": 127.1692425
+},
+{
+  "type": "node",
+  "id": 12469294145,
+  "lat": 37.4844555,
+  "lon": 127.1685626
+},
+{
+  "type": "node",
+  "id": 12469294146,
+  "lat": 37.4845322,
+  "lon": 127.1689255
 },
 {
   "type": "node",
@@ -38856,12 +41771,6 @@
 },
 {
   "type": "node",
-  "id": 7099897962,
-  "lat": 37.5288985,
-  "lon": 127.1620350
-},
-{
-  "type": "node",
   "id": 7099897964,
   "lat": 37.5268551,
   "lon": 127.1630601
@@ -38869,14 +41778,14 @@
 {
   "type": "node",
   "id": 7099897965,
-  "lat": 37.5256718,
-  "lon": 127.1636204
+  "lat": 37.5256814,
+  "lon": 127.1636509
 },
 {
   "type": "node",
   "id": 7099897968,
-  "lat": 37.5259081,
-  "lon": 127.1638055
+  "lat": 37.5259054,
+  "lon": 127.1637971
 },
 {
   "type": "node",
@@ -38886,27 +41795,15 @@
 },
 {
   "type": "node",
-  "id": 7099897970,
-  "lat": 37.5291189,
-  "lon": 127.1621503
-},
-{
-  "type": "node",
-  "id": 9704716850,
-  "lat": 37.5262520,
-  "lon": 127.1633578
-},
-{
-  "type": "node",
   "id": 11854207268,
-  "lat": 37.5239099,
-  "lon": 127.1648913
+  "lat": 37.5238918,
+  "lon": 127.1648371
 },
 {
   "type": "node",
   "id": 11854209869,
-  "lat": 37.5238399,
-  "lon": 127.1646061
+  "lat": 37.5238405,
+  "lon": 127.1646078
 },
 {
   "type": "node",
@@ -38923,20 +41820,14 @@
 {
   "type": "node",
   "id": 11854209872,
-  "lat": 37.5235690,
-  "lon": 127.1650609
+  "lat": 37.5235540,
+  "lon": 127.1650160
 },
 {
   "type": "node",
   "id": 11854209877,
-  "lat": 37.5237254,
-  "lon": 127.1646649
-},
-{
-  "type": "node",
-  "id": 11854209878,
-  "lat": 37.5254478,
-  "lon": 127.1637404
+  "lat": 37.5237266,
+  "lon": 127.1646686
 },
 {
   "type": "node",
@@ -39084,18 +41975,6 @@
 },
 {
   "type": "node",
-  "id": 11198936027,
-  "lat": 37.5203772,
-  "lon": 127.1663838
-},
-{
-  "type": "node",
-  "id": 11198958490,
-  "lat": 37.5204477,
-  "lon": 127.1666254
-},
-{
-  "type": "node",
   "id": 11854207239,
   "lat": 37.5165629,
   "lon": 127.1684919
@@ -39108,21 +41987,9 @@
 },
 {
   "type": "node",
-  "id": 11854207259,
-  "lat": 37.5196966,
-  "lon": 127.1670240
-},
-{
-  "type": "node",
-  "id": 11854207260,
-  "lat": 37.5195922,
-  "lon": 127.1668132
-},
-{
-  "type": "node",
   "id": 11854207261,
-  "lat": 37.5179068,
-  "lon": 127.1679868
+  "lat": 37.5179125,
+  "lon": 127.1680038
 },
 {
   "type": "node",
@@ -39151,20 +42018,20 @@
 {
   "type": "node",
   "id": 11854209933,
-  "lat": 37.5307557,
-  "lon": 127.1610769
+  "lat": 37.5307631,
+  "lon": 127.1611004
 },
 {
   "type": "node",
   "id": 11854209961,
-  "lat": 37.5310066,
-  "lon": 127.1612262
+  "lat": 37.5310108,
+  "lon": 127.1612396
 },
 {
   "type": "node",
   "id": 11854209963,
-  "lat": 37.5300961,
-  "lon": 127.1616719
+  "lat": 37.5301030,
+  "lon": 127.1616939
 },
 {
   "type": "node",
