@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.4 2390de5a",
   "osm3s": {
-    "timestamp_osm_base": "2025-01-12T18:33:30Z",
-    "timestamp_areas_base": "2025-01-12T16:55:35Z",
+    "timestamp_osm_base": "2025-01-13T18:39:29Z",
+    "timestamp_areas_base": "2024-12-31T00:49:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -6815,7 +6815,9 @@
   ],
   "tags": {
     "bicycle": "no",
+    "foot": "no",
     "highway": "motorway",
+    "horse": "no",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
     "minspeed": "50",
@@ -9230,10 +9232,15 @@
     12412720807
   ],
   "tags": {
+    "bicycle": "no",
+    "foot": "no",
     "highway": "motorway",
+    "horse": "no",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
     "minspeed": "50",
+    "motor_vehicle": "yes",
+    "motorcycle": "no",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -9255,9 +9262,17 @@
     12412720812
   ],
   "tags": {
+    "bicycle": "no",
     "bridge": "yes",
+    "foot": "no",
     "highway": "motorway",
+    "horse": "no",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "motor_vehicle": "yes",
+    "motorcycle": "no",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -9266,7 +9281,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -9291,6 +9307,7 @@
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "motor_vehicle": "yes",
+    "motorcycle": "no",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -9318,7 +9335,11 @@
     "highway": "motorway",
     "horse": "no",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "motor_vehicle": "yes",
+    "motorcycle": "no",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -9328,7 +9349,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "surface": "asphalt"
+    "surface": "asphalt",
+    "toll": "yes"
   }
 },
 {
@@ -9345,7 +9367,15 @@
     12412720811
   ],
   "tags": {
+    "bicycle": "no",
+    "foot": "no",
     "highway": "motorway",
+    "horse": "no",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "motor_vehicle": "yes",
+    "motorcycle": "no",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -9354,7 +9384,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -9365,9 +9396,17 @@
     12412720818
   ],
   "tags": {
+    "bicycle": "no",
     "bridge": "yes",
+    "foot": "no",
     "highway": "motorway",
+    "horse": "no",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "motor_vehicle": "yes",
+    "motorcycle": "no",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -9376,7 +9415,8 @@
     "name:zh-Hans": "益山平泽高速公路",
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "toll": "yes"
   }
 },
 {
@@ -9398,7 +9438,11 @@
     "foot": "no",
     "highway": "motorway",
     "horse": "no",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "motor_vehicle": "yes",
+    "motorcycle": "no",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -9408,7 +9452,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "surface": "asphalt"
+    "surface": "asphalt",
+    "toll": "yes"
   }
 },
 {
@@ -9425,7 +9470,11 @@
     "highway": "motorway",
     "horse": "no",
     "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
     "motor_vehicle": "yes",
+    "motorcycle": "no",
     "name": "익산평택고속도로",
     "name:en": "Iksan-Pyeongtaek Expressway",
     "name:ko": "익산평택고속도로",
@@ -9435,7 +9484,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "surface": "asphalt"
+    "surface": "asphalt",
+    "toll": "yes"
   }
 },
 {
