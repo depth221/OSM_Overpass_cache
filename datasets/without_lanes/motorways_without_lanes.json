@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.5 1bd436f1",
   "osm3s": {
-    "timestamp_osm_base": "2025-03-16T18:37:02Z",
+    "timestamp_osm_base": "2025-03-17T18:38:25Z",
     "timestamp_areas_base": "2025-02-06T02:17:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -317,14 +317,7 @@
     10992191925,
     10992191926,
     10992191927,
-    10992191928,
-    10992191929,
-    10992191930,
-    10992191931,
-    11071309547,
-    11071309548,
-    11071309549,
-    436315172
+    12671006499
   ],
   "tags": {
     "highway": "motorway",
@@ -15384,6 +15377,68 @@
   }
 },
 {
+  "type": "way",
+  "id": 1368193724,
+  "nodes": [
+    10992191928,
+    10992191929,
+    10992191930,
+    10992191931,
+    11071309547,
+    11071309548,
+    11071309549,
+    436315172
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "maxspeed:advisory": "80",
+    "minspeed": "50",
+    "name": "중부내륙고속도로",
+    "name:en": "Jungbunaeryuk Expressway",
+    "name:ko": "중부내륙고속도로",
+    "name:ko-Hani": "中部內陸高速道路",
+    "name:ko-Latn": "Jungbunaeryukgosokdoro",
+    "name:zh": "中部內陸高速公路",
+    "name:zh-Hans": "中部内陆高速公路",
+    "name:zh-Hant": "中部內陸高速公路",
+    "oneway": "yes",
+    "ref": "45",
+    "review": "no",
+    "source": "NTIC",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1368193725,
+  "nodes": [
+    12671006499,
+    10992191928
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "maxspeed:advisory": "80",
+    "minspeed": "50",
+    "name": "중부내륙고속도로",
+    "name:en": "Jungbunaeryuk Expressway",
+    "name:ko": "중부내륙고속도로",
+    "name:ko-Hani": "中部內陸高速道路",
+    "name:ko-Latn": "Jungbunaeryukgosokdoro",
+    "name:zh": "中部內陸高速公路",
+    "name:zh-Hans": "中部内陆高速公路",
+    "name:zh-Hant": "中部內陸高速公路",
+    "oneway": "yes",
+    "ref": "45",
+    "review": "no",
+    "source": "NTIC",
+    "toll": "yes"
+  }
+},
+{
   "type": "node",
   "id": 12154836693,
   "lat": 36.2569162,
@@ -19988,8 +20043,8 @@
 {
   "type": "node",
   "id": 10992191928,
-  "lat": 35.4728958,
-  "lon": 128.5082189
+  "lat": 35.4729599,
+  "lon": 128.5082386
 },
 {
   "type": "node",
@@ -20026,6 +20081,12 @@
   "id": 11071309549,
   "lat": 35.4754809,
   "lon": 128.5091719
+},
+{
+  "type": "node",
+  "id": 12671006499,
+  "lat": 35.4725763,
+  "lon": 128.5081744
 },
 {
   "type": "node",
