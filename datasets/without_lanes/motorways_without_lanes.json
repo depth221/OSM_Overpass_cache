@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.5 1bd436f1",
   "osm3s": {
-    "timestamp_osm_base": "2025-03-30T18:35:36Z",
-    "timestamp_areas_base": "2025-02-06T02:17:44Z",
+    "timestamp_osm_base": "2025-03-31T18:40:15Z",
+    "timestamp_areas_base": "2024-12-31T00:49:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -160,18 +160,6 @@
   "type": "way",
   "id": 791208183,
   "nodes": [
-    12389291859,
-    12414389871,
-    7396624155,
-    12414389872,
-    12414389873,
-    12389291848,
-    12395317638,
-    12389291850,
-    12395317640,
-    12395317642,
-    12389291849,
-    12395317643,
     12389291851,
     7396624158,
     7396624159,
@@ -15515,6 +15503,60 @@
     "review": "no",
     "source": "NTIC",
     "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1373334540,
+  "nodes": [
+    12389291859,
+    12414389871,
+    7396624155,
+    12414389872,
+    12414389873,
+    12389291848,
+    12395317638,
+    12389291850,
+    12395317640,
+    12395317642,
+    12389291849,
+    12395317643
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로지선",
+    "name:en": "Iksan-Pyeongtaek Expressway Branch",
+    "name:ko": "익산평택고속도로지선",
+    "oneway": "yes",
+    "ref": "173",
+    "start_date": "2024-12-10",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1373334541,
+  "nodes": [
+    12395317643,
+    12389291851
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로지선",
+    "name:en": "Iksan-Pyeongtaek Expressway Branch",
+    "name:ko": "익산평택고속도로지선",
+    "oneway": "yes",
+    "ref": "173",
+    "start_date": "2024-12-10",
+    "toll": "yes",
+    "tunnel": "yes"
   }
 },
 {
@@ -31096,8 +31138,8 @@
 {
   "type": "node",
   "id": 12389291851,
-  "lat": 36.9433773,
-  "lon": 126.9096539
+  "lat": 36.9433183,
+  "lon": 126.9097934
 },
 {
   "type": "node",
