@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.5 1bd436f1",
   "osm3s": {
-    "timestamp_osm_base": "2025-04-01T18:50:14Z",
-    "timestamp_areas_base": "2025-02-06T02:17:44Z",
+    "timestamp_osm_base": "2025-04-02T18:50:15Z",
+    "timestamp_areas_base": "2024-12-31T00:49:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -44303,10 +44303,7 @@
     6502902758,
     828469881,
     4759641848,
-    1458566791,
-    11332359152,
-    11332359100,
-    828469733
+    12722763729
   ],
   "tags": {
     "highway": "primary",
@@ -60022,6 +60019,45 @@
   }
 },
 {
+  "type": "way",
+  "id": 1374094861,
+  "nodes": [
+    1458566791,
+    12722763727,
+    11332359152,
+    11332359100,
+    828469733
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "장산로",
+    "name:en": "Jangsan-ro",
+    "name:ko": "장산로",
+    "ncat": "국도",
+    "ref": "29",
+    "review": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1374094862,
+  "nodes": [
+    12722763729,
+    1458566791
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "장산로",
+    "name:en": "Jangsan-ro",
+    "name:ko": "장산로",
+    "ncat": "국도",
+    "ref": "29",
+    "review": "yes",
+    "surface": "asphalt"
+  }
+},
+{
   "type": "node",
   "id": 437087479,
   "lat": 36.0102013,
@@ -75180,8 +75216,8 @@
 {
   "type": "node",
   "id": 1458566791,
-  "lat": 36.0697553,
-  "lon": 126.7861272
+  "lat": 36.0697596,
+  "lon": 126.7861326
 },
 {
   "type": "node",
@@ -75194,6 +75230,18 @@
   "id": 6502902757,
   "lat": 36.0738908,
   "lon": 126.7862338
+},
+{
+  "type": "node",
+  "id": 12722763727,
+  "lat": 36.0694710,
+  "lon": 126.7862044
+},
+{
+  "type": "node",
+  "id": 12722763729,
+  "lat": 36.0700801,
+  "lon": 126.7860562
 },
 {
   "type": "node",
