@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.5 1bd436f1",
   "osm3s": {
-    "timestamp_osm_base": "2025-04-05T18:46:15Z",
-    "timestamp_areas_base": "2024-12-31T00:49:33Z",
+    "timestamp_osm_base": "2025-04-06T18:46:30Z",
+    "timestamp_areas_base": "2025-02-06T02:17:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -5153,29 +5153,6 @@
 },
 {
   "type": "way",
-  "id": 90563976,
-  "nodes": [
-    1050928255,
-    4734553757,
-    4734553758,
-    4734553756,
-    1050928308
-  ],
-  "tags": {
-    "bridge": "yes",
-    "highway": "primary",
-    "layer": "1",
-    "maxspeed": "80",
-    "name": "삼사로",
-    "name:en": "Samsa-ro",
-    "name:ko": "삼사로",
-    "oneway": "yes",
-    "ref": "34",
-    "source": "Yahoo"
-  }
-},
-{
-  "type": "way",
   "id": 97337998,
   "nodes": [
     436402898,
@@ -10127,8 +10104,7 @@
     10175277485,
     5681883558,
     10174605092,
-    1844294799,
-    1844294745
+    1844294799
   ],
   "tags": {
     "highway": "primary",
@@ -59626,6 +59602,25 @@
     "ref": "29",
     "review": "yes",
     "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1375150152,
+  "nodes": [
+    1844294799,
+    1844294745
+  ],
+  "tags": {
+    "destination": "안성;남안성IC",
+    "destination:lang:en": "Anseong;S. Anseong IC",
+    "highway": "primary",
+    "maxspeed": "80",
+    "name": "망향로",
+    "name:en": "Manghyang-ro",
+    "name:ko": "망향로",
+    "oneway": "yes",
+    "ref": "23"
   }
 },
 {
@@ -162086,36 +162081,6 @@
 },
 {
   "type": "node",
-  "id": 1050928255,
-  "lat": 36.9221037,
-  "lon": 127.1943751
-},
-{
-  "type": "node",
-  "id": 1050928308,
-  "lat": 36.9215159,
-  "lon": 127.1924464
-},
-{
-  "type": "node",
-  "id": 4734553756,
-  "lat": 36.9217877,
-  "lon": 127.1932438
-},
-{
-  "type": "node",
-  "id": 4734553757,
-  "lat": 36.9219630,
-  "lon": 127.1938310
-},
-{
-  "type": "node",
-  "id": 4734553758,
-  "lat": 36.9218820,
-  "lon": 127.1935519
-},
-{
-  "type": "node",
   "id": 1811445452,
   "lat": 36.9148518,
   "lon": 127.2310744
@@ -162177,8 +162142,8 @@
 {
   "type": "node",
   "id": 1844294745,
-  "lat": 36.9229205,
-  "lon": 127.2358778
+  "lat": 36.9229219,
+  "lon": 127.2358745
 },
 {
   "type": "node",
