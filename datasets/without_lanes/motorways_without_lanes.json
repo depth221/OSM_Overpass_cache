@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.5 1bd436f1",
   "osm3s": {
-    "timestamp_osm_base": "2025-04-08T18:40:29Z",
+    "timestamp_osm_base": "2025-04-09T18:40:45Z",
     "timestamp_areas_base": "2024-12-31T00:49:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -373,7 +373,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -4417,7 +4418,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -4449,7 +4451,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -5818,7 +5821,8 @@
     "name:zh-Hant": "世宗抱川高速公路",
     "oneway": "yes",
     "ref": "29",
-    "start_date": "2025-01-01"
+    "start_date": "2025-01-01",
+    "toll": "yes"
   }
 },
 {
@@ -6323,7 +6327,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -6349,7 +6354,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -6376,7 +6382,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -6435,7 +6442,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -6462,7 +6470,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -6491,7 +6500,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -7088,7 +7098,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -7112,7 +7123,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -7151,7 +7163,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -7175,7 +7188,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -7214,7 +7228,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -7238,7 +7253,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -8606,7 +8622,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -8630,7 +8647,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -8654,7 +8672,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -8679,7 +8698,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -8702,7 +8722,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -8724,7 +8745,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -8747,7 +8769,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -8771,7 +8794,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -8795,7 +8819,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -8819,7 +8844,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -8849,7 +8875,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
@@ -8878,7 +8905,8 @@
     "name:zh-Hant": "益山平澤高速公路",
     "oneway": "yes",
     "ref": "17",
-    "start_date": "2024-12-10"
+    "start_date": "2024-12-10",
+    "toll": "yes"
   }
 },
 {
