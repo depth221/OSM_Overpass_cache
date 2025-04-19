@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.5 1bd436f1",
   "osm3s": {
-    "timestamp_osm_base": "2025-04-17T18:49:24Z",
+    "timestamp_osm_base": "2025-04-19T18:46:15Z",
     "timestamp_areas_base": "2025-02-06T02:17:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -8603,6 +8603,8 @@
     "bridge:name:ko": "해미과도교",
     "bridge:name:ko-Latn": "Haemigwadogyo",
     "bridge:structure": "beam",
+    "destination": "예산;덕산;해미IC",
+    "destination:lang:en": "Yesan;Deoksan;Haemi IC",
     "highway": "primary",
     "lanes": "2",
     "layer": "1",
@@ -8628,6 +8630,8 @@
     436683241
   ],
   "tags": {
+    "destination": "예산;덕산;해미IC",
+    "destination:lang:en": "Yesan;Deoksan;Haemi IC",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
@@ -11342,6 +11346,7 @@
     5336698761,
     8016724885,
     10225687088,
+    12768628866,
     4264775389,
     10225687120,
     8016724877,
@@ -11361,6 +11366,8 @@
     414926720
   ],
   "tags": {
+    "destination": "대산;서산;해미",
+    "destination:lang:en": "Daesan;Seosan;Haemi",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
@@ -11382,6 +11389,8 @@
     437291583
   ],
   "tags": {
+    "destination": "태안;안면;간월도",
+    "destination:lang:en": "Taean;Anmyeon;Galwol Island",
     "highway": "primary",
     "lanes": "2",
     "layer": "-1",
@@ -11403,6 +11412,8 @@
     437291584
   ],
   "tags": {
+    "destination": "태안;안면;간월도",
+    "destination:lang:en": "Taean;Anmyeon;Galwol Island",
     "highway": "primary",
     "lanes": "2",
     "layer": "1",
@@ -25884,6 +25895,8 @@
     10225687047
   ],
   "tags": {
+    "destination": "청양;홍성;고북",
+    "destination:lang:en": "Cheongyang;Hongseong;Gobuk",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
@@ -25898,40 +25911,6 @@
   "type": "way",
   "id": 427211186,
   "nodes": [
-    9378018342,
-    9378018445,
-    10227831353,
-    10227831352,
-    10227831351,
-    10227831350,
-    10227831349,
-    10227831348,
-    10227831347,
-    10227831346,
-    10227831345,
-    10227831344,
-    10227831343,
-    10227831342,
-    10227831341,
-    10227831340,
-    10227831339,
-    10227831338,
-    10227831431,
-    9378018523,
-    9378018524,
-    10227831448,
-    9378177593,
-    9378018527,
-    9378018528,
-    9378018529,
-    9378018530,
-    9378018533,
-    9378018534,
-    9378018535,
-    9378018536,
-    9378018537,
-    9378018538,
-    9378018539,
     10227831529,
     5336503396,
     10227831478,
@@ -26115,6 +26094,8 @@
   "tags": {
     "bridge": "yes",
     "bridge:structure": "beam",
+    "destination": "태안;안면;간월도",
+    "destination:lang:en": "Taean;Anmyeon;Galwol Island",
     "highway": "primary",
     "lanes": "2",
     "layer": "1",
@@ -26140,6 +26121,8 @@
     4264774853
   ],
   "tags": {
+    "destination": "태안;안면;간월도",
+    "destination:lang:en": "Taean;Anmyeon;Galwol Island",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
@@ -26162,6 +26145,8 @@
   "tags": {
     "bridge": "yes",
     "bridge:structure": "beam",
+    "destination": "홍성;홍성IC;갈산",
+    "destination:lang:en": "Hongseong;Hongseong IC;Galsan",
     "highway": "primary",
     "lanes": "2",
     "layer": "1",
@@ -26183,9 +26168,12 @@
     437291582,
     5336507220,
     5336521318,
+    5336521319,
     5383022947
   ],
   "tags": {
+    "destination": "홍성;홍성IC;갈산",
+    "destination:lang:en": "Hongseong;Hongseong IC;Galsan",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
@@ -26213,6 +26201,8 @@
     5336507193
   ],
   "tags": {
+    "destination": "태안;안면;간월도",
+    "destination:lang:en": "Taean;Anmyeon;Galwol Island",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
@@ -35311,6 +35301,8 @@
     "bridge:name": "상촌교",
     "bridge:name:ko": "상촌교",
     "bridge:structure": "beam",
+    "destination": "태안;안면;간월도",
+    "destination:lang:en": "Taean;Anmyeon;Galwol Island",
     "highway": "primary",
     "lanes": "2",
     "layer": "1",
@@ -35347,7 +35339,8 @@
     437291586
   ],
   "tags": {
-    "destination": "안면;간월도",
+    "destination": "안면;천북;남당리",
+    "destination:lang:en": "Anmyeon;Cheonbuk;Namdang-ri",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
@@ -35369,6 +35362,8 @@
     5383022946
   ],
   "tags": {
+    "destination": "태안;안면;간월도",
+    "destination:lang:en": "Taean;Anmyeon;Galwol Island",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
@@ -35391,6 +35386,8 @@
     5336508727
   ],
   "tags": {
+    "destination": "홍성;홍성IC;갈산",
+    "destination:lang:en": "Hongseong;Hongseong IC;Galsan",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
@@ -35416,6 +35413,8 @@
     "bridge:name": "상촌교",
     "bridge:name:ko": "상촌교",
     "bridge:structure": "beam",
+    "destination": "홍성;홍성IC;갈산",
+    "destination:lang:en": "Hongseong;Hongseong IC;Galsan",
     "highway": "primary",
     "lanes": "2",
     "layer": "1",
@@ -35449,7 +35448,8 @@
     10227831492
   ],
   "tags": {
-    "destination": "서산;예산;홍성",
+    "destination": "홍성;홍성IC;갈산",
+    "destination:lang:en": "Hongseong;Hongseong IC;Galsan",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
@@ -35470,6 +35470,8 @@
     5336508724
   ],
   "tags": {
+    "destination": "홍성;홍성IC;갈산",
+    "destination:lang:en": "Hongseong;Hongseong IC;Galsan",
     "highway": "primary",
     "lanes": "2",
     "layer": "-1",
@@ -35569,7 +35571,7 @@
     10225435793,
     4262553789,
     10225629008,
-    8955757640,
+    12768628842,
     8955757625,
     4262553827,
     10780923834,
@@ -35582,6 +35584,7 @@
   ],
   "tags": {
     "destination": "대산;서산;해미",
+    "destination:lang:en": "Daesan;Seosan;Haemi",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
@@ -35608,14 +35611,11 @@
     9378018318,
     9378010912,
     10225687127,
-    9378010913,
-    10225687147,
-    9378010914,
-    9378018317,
-    9378010916,
-    9378010915
+    9378010913
   ],
   "tags": {
+    "destination": "청양;홍성;고북",
+    "destination:lang:en": "Cheongyang;Hongseong;Gobuk",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
@@ -35640,6 +35640,8 @@
     "bridge:name": "독간천교",
     "bridge:name:ko": "독간천교",
     "bridge:structure": "beam",
+    "destination": "대산;서산;해미",
+    "destination:lang:en": "Daesan;Seosan;Haemi",
     "highway": "primary",
     "lanes": "2",
     "layer": "1",
@@ -36315,6 +36317,8 @@
     "bridge:name": "오두교",
     "bridge:name:ko": "오두교",
     "bridge:structure": "beam",
+    "destination": "태안;안면;간월도",
+    "destination:lang:en": "Taean;Anmyeon;Galwol Island",
     "highway": "primary",
     "lanes": "2",
     "layer": "1",
@@ -36337,6 +36341,8 @@
     "bridge:name": "오두교",
     "bridge:name:ko": "오두교",
     "bridge:structure": "beam",
+    "destination": "홍성;홍성IC;갈산",
+    "destination:lang:en": "Hongseong;Hongseong IC;Galsan",
     "highway": "primary",
     "lanes": "2",
     "layer": "1",
@@ -36358,6 +36364,8 @@
     5336508723
   ],
   "tags": {
+    "destination": "홍성;홍성IC;갈산",
+    "destination:lang:en": "Hongseong;Hongseong IC;Galsan",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
@@ -36386,6 +36394,8 @@
     4264774849
   ],
   "tags": {
+    "destination": "홍성;홍성IC;갈산",
+    "destination:lang:en": "Hongseong;Hongseong IC;Galsan",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
@@ -41341,6 +41351,8 @@
     "bridge:name:en": "Yongam Bridge",
     "bridge:name:ko-Latn": "Yongamgyo",
     "bridge:structure": "beam",
+    "destination": "대산;서산;해미",
+    "destination:lang:en": "Daesan;Seosan;Haemi",
     "highway": "primary",
     "layer": "1",
     "name": "내포로",
@@ -45600,6 +45612,8 @@
     9378018487
   ],
   "tags": {
+    "destination": "청양;홍성;갈산",
+    "destination:lang:en": "Cheongyang;Hongseong;Galsan",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
@@ -45621,12 +45635,21 @@
     10227831528,
     5336503408,
     5336503395,
-    4770959867,
-    6359916685,
-    436535400,
-    9378018532,
-    9378018531,
-    436535401,
+    12768179103,
+    12768179104,
+    12768179105,
+    12768179106,
+    12768179107,
+    12768179108,
+    12768179109,
+    12768179110,
+    12768179111,
+    12768179112,
+    12768179113,
+    12768179114,
+    12768179115,
+    12768179116,
+    12768179117,
     12116633018,
     6425043122,
     436535402,
@@ -45664,6 +45687,8 @@
     5336542168
   ],
   "tags": {
+    "destination": "서산;해미;고북",
+    "destination:lang:en": "Seosan;Haemi;Gobuk",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
@@ -50267,55 +50292,6 @@
 },
 {
   "type": "way",
-  "id": 775170343,
-  "nodes": [
-    436400558,
-    6082744717,
-    6082744712,
-    6082744728,
-    7252772550,
-    6082744729,
-    6082744730,
-    6082744731,
-    6082744732,
-    6082744733,
-    6082744734,
-    8001716749,
-    4671031422
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "세종로",
-    "name:en": "Sejong-ro",
-    "name:ko": "세종로",
-    "oneway": "yes",
-    "ref": "1",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 775170344,
-  "nodes": [
-    6082744727,
-    4685331226,
-    8001717503,
-    7461666387,
-    5135458484
-  ],
-  "tags": {
-    "highway": "primary",
-    "layer": "1",
-    "name": "세종로",
-    "name:en": "Sejong-ro",
-    "name:ko": "세종로",
-    "oneway": "yes",
-    "ref": "1"
-  }
-},
-{
-  "type": "way",
   "id": 775170346,
   "nodes": [
     4671031422,
@@ -50346,28 +50322,6 @@
     "ref": "1",
     "review": "no",
     "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 775170347,
-  "nodes": [
-    6082744755,
-    7992967641,
-    8001716750,
-    7252772548,
-    6082744726,
-    6082744725,
-    6082744727
-  ],
-  "tags": {
-    "highway": "primary",
-    "layer": "1",
-    "name": "세종로",
-    "name:en": "Sejong-ro",
-    "name:ko": "세종로",
-    "oneway": "yes",
-    "ref": "1"
   }
 },
 {
@@ -53226,6 +53180,10 @@
     437291577
   ],
   "tags": {
+    "destination:backward": "홍성일반산업단지",
+    "destination:forward": "보령;홍성;서부",
+    "destination:lang:en:backward": "Hongseong General Industrial Complex",
+    "destination:lang:en:forward": "Boryeong;Hongseong;Seobu",
     "highway": "primary",
     "name": "산단로",
     "name:en": "Sandan-ro",
@@ -55549,26 +55507,6 @@
 },
 {
   "type": "way",
-  "id": 846852032,
-  "nodes": [
-    5135458503,
-    6082744721,
-    8001717502,
-    436400558
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "세종로",
-    "name:en": "Sejong-ro",
-    "name:ko": "세종로",
-    "oneway": "yes",
-    "ref": "1",
-    "review": "no",
-    "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
   "id": 856199113,
   "nodes": [
     7983457094,
@@ -55706,6 +55644,8 @@
     4264523453
   ],
   "tags": {
+    "destination": "청양;홍성;갈산",
+    "destination:lang:en": "Cheongyang;Hongseong;Galsan",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
@@ -62388,6 +62328,8 @@
     "bridge:name": "용암교",
     "bridge:name:en": "Yongam Bridge",
     "bridge:name:ko-Latn": "Yongamgyo",
+    "destination": "청양;홍성;고북",
+    "destination:lang:en": "Cheongyang;Hongseong;Gobuk",
     "highway": "primary",
     "layer": "1",
     "name": "내포로",
@@ -62409,6 +62351,8 @@
   ],
   "tags": {
     "bridge": "yes",
+    "destination": "청양;홍성;갈산",
+    "destination:lang:en": "Cheongyang;Hongseong;Galsan",
     "highway": "primary",
     "lanes": "2",
     "layer": "1",
@@ -62433,6 +62377,8 @@
   ],
   "tags": {
     "bridge": "yes",
+    "destination": "청양;홍성;갈산",
+    "destination:lang:en": "Cheongyang;Hongseong;Galsan",
     "highway": "primary",
     "lanes": "2",
     "layer": "1",
@@ -65851,6 +65797,8 @@
     571371114
   ],
   "tags": {
+    "destination": "예산;덕산;해미IC",
+    "destination:lang:en": "Yesan;Deoksan;Haemi IC",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
@@ -65912,35 +65860,19 @@
   "type": "way",
   "id": 1105519618,
   "nodes": [
-    10116511925,
-    10116511926,
-    10116543833,
-    10116511927,
-    11726703776,
-    10116511928,
-    11726703775,
-    10116511929,
-    11726703774,
-    10116511930,
-    11726703773,
-    10116511931,
-    11726703770,
-    10116511932,
-    11726703771,
-    10116511933,
-    11726703772,
     8955757644,
     10116511935,
     10116511938,
     10116511939,
     10116511940,
     10116511949,
+    12768628867,
     10116511941,
     10116511950
   ],
   "tags": {
-    "destination": "홍성;태안;서산",
-    "destination:lang:en": "Hongseong;Taean;Seosan",
+    "destination": "대산;태안;서산",
+    "destination:lang:en": "Daesan;Taean;Seosan",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
@@ -65966,6 +65898,8 @@
     10116511947
   ],
   "tags": {
+    "destination": "대산;태안;서산",
+    "destination:lang:en": "Daesan;Taean;Seosan",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
@@ -65994,6 +65928,8 @@
     "bridge:name:ko": "해미과도교",
     "bridge:name:ko-Latn": "Haemigwadogyo",
     "bridge:structure": "beam",
+    "destination": "대산;태안;서산",
+    "destination:lang:en": "Daesan;Taean;Seosan",
     "highway": "primary",
     "lanes": "2",
     "layer": "1",
@@ -66046,6 +65982,7 @@
     10116512064,
     10116512065,
     10116512066,
+    12768628868,
     10116512067,
     10116512068,
     10116512060,
@@ -70691,7 +70628,7 @@
   ],
   "tags": {
     "destination": "예산;덕산;충남도청 (내포)",
-    "destination:lang:en": "Yesan;Deoksan;Chungnam Provincal Office (Naepo)",
+    "destination:lang:en": "Yesan;Deoksan;Chungnam Provincial Office (Naepo)",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "60",
@@ -70858,6 +70795,8 @@
     10227831479
   ],
   "tags": {
+    "destination": "서산;해미;고북",
+    "destination:lang:en": "Seosan;Haemi;Gobuk",
     "highway": "primary",
     "lanes": "4",
     "maxspeed": "80",
@@ -77754,8 +77693,8 @@
     436683721
   ],
   "tags": {
-    "destination": "예산;덕산;충남도청",
-    "destination:lang:en": "Yesan;Deoksan;Chungnam Provincal Office",
+    "destination": "예산;덕산;충남도청 (내포)",
+    "destination:lang:en": "Yesan;Deoksan;Chungnam Provincial Office (Naepo)",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
@@ -77843,7 +77782,7 @@
   "tags": {
     "access": "yes",
     "destination": "예산;덕산;충남도청 (내포)",
-    "destination:lang:en": "Yesan;Deoksan;Chungnam Provincal Office (Naepo)",
+    "destination:lang:en": "Yesan;Deoksan;Chungnam Provincial Office (Naepo)",
     "expressway": "yes",
     "highway": "primary",
     "lanes": "2",
@@ -82439,6 +82378,8 @@
     9378018340
   ],
   "tags": {
+    "destination": "청양;홍성;고북",
+    "destination:lang:en": "Cheongyang;Hongseong;Gobuk",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
@@ -82458,6 +82399,8 @@
   ],
   "tags": {
     "bridge": "yes",
+    "destination": "청양;홍성;고북",
+    "destination:lang:en": "Cheongyang;Hongseong;Gobuk",
     "highway": "primary",
     "lanes": "2",
     "layer": "1",
@@ -82483,6 +82426,7 @@
   ],
   "tags": {
     "destination": "대산;서산;해미",
+    "destination:lang:en": "Daesan;Seosan;Haemi",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
@@ -82506,6 +82450,7 @@
   "tags": {
     "bridge": "yes",
     "destination": "대산;서산;해미",
+    "destination:lang:en": "Daesan;Seosan;Haemi",
     "highway": "primary",
     "lanes": "2",
     "layer": "1",
@@ -89644,6 +89589,137 @@
   ],
   "tags": {
     "highway": "primary"
+  }
+},
+{
+  "type": "way",
+  "id": 1378860168,
+  "nodes": [
+    9378018342,
+    9378018445,
+    10227831353,
+    10227831352,
+    10227831351,
+    10227831350,
+    10227831349,
+    10227831348,
+    10227831347,
+    10227831346,
+    10227831345,
+    10227831344,
+    10227831343,
+    10227831342,
+    10227831341,
+    10227831340,
+    10227831339,
+    10227831338,
+    10227831431,
+    9378018523,
+    9378018524,
+    12768179079,
+    10227831448,
+    9378177593,
+    12768179080,
+    12768179081,
+    12768179082,
+    12768179083,
+    12768179084,
+    12768179085,
+    12768179086,
+    12768179087,
+    12768179088,
+    12768179089,
+    12768179090,
+    12768179091,
+    12768179092,
+    12768179093,
+    12768179094,
+    12768179095,
+    12768179096,
+    12768179097,
+    12768179098,
+    12768179099,
+    12768179100,
+    12768179101,
+    12768179102,
+    10227831529
+  ],
+  "tags": {
+    "destination": "청양;홍성;갈산",
+    "destination:lang:en": "Cheongyang;Hongseong;Galsan",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "80",
+    "name": "내포로",
+    "name:en": "Naepo-ro",
+    "name:ko": "내포로",
+    "ncat": "국도",
+    "oneway": "yes",
+    "ref": "29"
+  }
+},
+{
+  "type": "way",
+  "id": 1378916590,
+  "nodes": [
+    9378010913,
+    10225687147,
+    9378010914,
+    9378018317,
+    9378010916,
+    9378010915
+  ],
+  "tags": {
+    "destination": "청양;홍성;갈산",
+    "destination:lang:en": "Cheongyang;Hongseong;Galsan",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "80",
+    "name": "내포로",
+    "name:en": "Naepo-ro",
+    "name:ko": "내포로",
+    "oneway": "yes",
+    "ref": "29",
+    "review": "no",
+    "source": "gpx"
+  }
+},
+{
+  "type": "way",
+  "id": 1378916598,
+  "nodes": [
+    10116511925,
+    10116511926,
+    10116543833,
+    10116511927,
+    11726703776,
+    10116511928,
+    11726703775,
+    10116511929,
+    11726703774,
+    10116511930,
+    11726703773,
+    10116511931,
+    11726703770,
+    10116511932,
+    11726703771,
+    10116511933,
+    11726703772,
+    8955757644
+  ],
+  "tags": {
+    "destination": "홍성;태안;서산",
+    "destination:lang:en": "Hongseong;Taean;Seosan",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "80",
+    "name": "중앙로",
+    "name:en": "Jungang-ro",
+    "name:ko": "중앙로",
+    "oneway": "yes",
+    "ref": "45;70",
+    "review": "no",
+    "source": "NTIC"
   }
 },
 {
@@ -183260,6 +183336,12 @@
 },
 {
   "type": "node",
+  "id": 5336521319,
+  "lat": 36.5989992,
+  "lon": 126.5251720
+},
+{
+  "type": "node",
   "id": 5336523122,
   "lat": 36.5989858,
   "lon": 126.5278838
@@ -183488,27 +183570,15 @@
 },
 {
   "type": "node",
-  "id": 436535400,
-  "lat": 36.6046739,
-  "lon": 126.5464239
-},
-{
-  "type": "node",
   "id": 436671138,
   "lat": 36.6027909,
   "lon": 126.5476234
 },
 {
   "type": "node",
-  "id": 4770959867,
-  "lat": 36.6038395,
-  "lon": 126.5467976
-},
-{
-  "type": "node",
   "id": 5336503395,
-  "lat": 36.6033383,
-  "lon": 126.5471115
+  "lat": 36.6033454,
+  "lon": 126.5471168
 },
 {
   "type": "node",
@@ -183521,36 +183591,6 @@
   "id": 5336503408,
   "lat": 36.6031277,
   "lon": 126.5472976
-},
-{
-  "type": "node",
-  "id": 6359916685,
-  "lat": 36.6041979,
-  "lon": 126.5465951
-},
-{
-  "type": "node",
-  "id": 9378018536,
-  "lat": 36.6044617,
-  "lon": 126.5464126
-},
-{
-  "type": "node",
-  "id": 9378018537,
-  "lat": 36.6042293,
-  "lon": 126.5464733
-},
-{
-  "type": "node",
-  "id": 9378018538,
-  "lat": 36.6037397,
-  "lon": 126.5467541
-},
-{
-  "type": "node",
-  "id": 9378018539,
-  "lat": 36.6032374,
-  "lon": 126.5471044
 },
 {
   "type": "node",
@@ -183686,9 +183726,93 @@
 },
 {
   "type": "node",
-  "id": 436535401,
-  "lat": 36.6072990,
-  "lon": 126.5455427
+  "id": 12768179095,
+  "lat": 36.6046632,
+  "lon": 126.5463447
+},
+{
+  "type": "node",
+  "id": 12768179096,
+  "lat": 36.6044942,
+  "lon": 126.5463889
+},
+{
+  "type": "node",
+  "id": 12768179097,
+  "lat": 36.6042669,
+  "lon": 126.5464650
+},
+{
+  "type": "node",
+  "id": 12768179098,
+  "lat": 36.6040836,
+  "lon": 126.5465517
+},
+{
+  "type": "node",
+  "id": 12768179099,
+  "lat": 36.6039003,
+  "lon": 126.5466544
+},
+{
+  "type": "node",
+  "id": 12768179100,
+  "lat": 36.6037114,
+  "lon": 126.5467800
+},
+{
+  "type": "node",
+  "id": 12768179101,
+  "lat": 36.6035324,
+  "lon": 126.5468932
+},
+{
+  "type": "node",
+  "id": 12768179102,
+  "lat": 36.6033492,
+  "lon": 126.5470136
+},
+{
+  "type": "node",
+  "id": 12768179103,
+  "lat": 36.6036419,
+  "lon": 126.5469044
+},
+{
+  "type": "node",
+  "id": 12768179104,
+  "lat": 36.6039473,
+  "lon": 126.5467102
+},
+{
+  "type": "node",
+  "id": 12768179105,
+  "lat": 36.6041316,
+  "lon": 126.5466086
+},
+{
+  "type": "node",
+  "id": 12768179106,
+  "lat": 36.6042973,
+  "lon": 126.5465423
+},
+{
+  "type": "node",
+  "id": 12768179107,
+  "lat": 36.6044989,
+  "lon": 126.5464730
+},
+{
+  "type": "node",
+  "id": 12768179108,
+  "lat": 36.6047005,
+  "lon": 126.5464114
+},
+{
+  "type": "node",
+  "id": 12768179109,
+  "lat": 36.6049367,
+  "lon": 126.5463590
 },
 {
   "type": "node",
@@ -183734,60 +183858,6 @@
 },
 {
   "type": "node",
-  "id": 9378018527,
-  "lat": 36.6103424,
-  "lon": 126.5446938
-},
-{
-  "type": "node",
-  "id": 9378018528,
-  "lat": 36.6097912,
-  "lon": 126.5447610
-},
-{
-  "type": "node",
-  "id": 9378018529,
-  "lat": 36.6089827,
-  "lon": 126.5449554
-},
-{
-  "type": "node",
-  "id": 9378018530,
-  "lat": 36.6073521,
-  "lon": 126.5454459
-},
-{
-  "type": "node",
-  "id": 9378018531,
-  "lat": 36.6068399,
-  "lon": 126.5457701
-},
-{
-  "type": "node",
-  "id": 9378018532,
-  "lat": 36.6060372,
-  "lon": 126.5461068
-},
-{
-  "type": "node",
-  "id": 9378018533,
-  "lat": 36.6070034,
-  "lon": 126.5455860
-},
-{
-  "type": "node",
-  "id": 9378018534,
-  "lat": 36.6061712,
-  "lon": 126.5459596
-},
-{
-  "type": "node",
-  "id": 9378018535,
-  "lat": 36.6056763,
-  "lon": 126.5461091
-},
-{
-  "type": "node",
   "id": 9378177593,
   "lat": 36.6114992,
   "lon": 126.5446913
@@ -183814,7 +183884,145 @@
   "type": "node",
   "id": 12116633018,
   "lat": 36.6073847,
-  "lon": 126.5455139
+  "lon": 126.5455077
+},
+{
+  "type": "node",
+  "id": 12768179080,
+  "lat": 36.6102587,
+  "lon": 126.5447202
+},
+{
+  "type": "node",
+  "id": 12768179081,
+  "lat": 36.6100513,
+  "lon": 126.5447343
+},
+{
+  "type": "node",
+  "id": 12768179082,
+  "lat": 36.6098240,
+  "lon": 126.5447627
+},
+{
+  "type": "node",
+  "id": 12768179083,
+  "lat": 36.6095896,
+  "lon": 126.5448016
+},
+{
+  "type": "node",
+  "id": 12768179084,
+  "lat": 36.6091365,
+  "lon": 126.5449060
+},
+{
+  "type": "node",
+  "id": 12768179085,
+  "lat": 36.6086450,
+  "lon": 126.5450405
+},
+{
+  "type": "node",
+  "id": 12768179086,
+  "lat": 36.6082160,
+  "lon": 126.5451732
+},
+{
+  "type": "node",
+  "id": 12768179087,
+  "lat": 36.6075895,
+  "lon": 126.5453643
+},
+{
+  "type": "node",
+  "id": 12768179088,
+  "lat": 36.6073012,
+  "lon": 126.5454599
+},
+{
+  "type": "node",
+  "id": 12768179089,
+  "lat": 36.6070071,
+  "lon": 126.5455908
+},
+{
+  "type": "node",
+  "id": 12768179090,
+  "lat": 36.6066065,
+  "lon": 126.5457713
+},
+{
+  "type": "node",
+  "id": 12768179091,
+  "lat": 36.6061775,
+  "lon": 126.5459465
+},
+{
+  "type": "node",
+  "id": 12768179092,
+  "lat": 36.6059545,
+  "lon": 126.5460297
+},
+{
+  "type": "node",
+  "id": 12768179093,
+  "lat": 36.6057272,
+  "lon": 126.5461022
+},
+{
+  "type": "node",
+  "id": 12768179094,
+  "lat": 36.6053508,
+  "lon": 126.5461854
+},
+{
+  "type": "node",
+  "id": 12768179110,
+  "lat": 36.6054301,
+  "lon": 126.5462558
+},
+{
+  "type": "node",
+  "id": 12768179111,
+  "lat": 36.6056935,
+  "lon": 126.5461972
+},
+{
+  "type": "node",
+  "id": 12768179112,
+  "lat": 36.6058765,
+  "lon": 126.5461403
+},
+{
+  "type": "node",
+  "id": 12768179113,
+  "lat": 36.6062302,
+  "lon": 126.5460139
+},
+{
+  "type": "node",
+  "id": 12768179114,
+  "lat": 36.6064986,
+  "lon": 126.5459123
+},
+{
+  "type": "node",
+  "id": 12768179115,
+  "lat": 36.6067237,
+  "lon": 126.5458013
+},
+{
+  "type": "node",
+  "id": 12768179116,
+  "lat": 36.6070810,
+  "lon": 126.5456350
+},
+{
+  "type": "node",
+  "id": 12768179117,
+  "lat": 36.6072233,
+  "lon": 126.5455703
 },
 {
   "type": "node",
@@ -186566,6 +186774,12 @@
 },
 {
   "type": "node",
+  "id": 12768179079,
+  "lat": 36.6117197,
+  "lon": 126.5446908
+},
+{
+  "type": "node",
   "id": 5336542168,
   "lat": 36.6199990,
   "lon": 126.5452585
@@ -187109,6 +187323,12 @@
   "id": 10780860787,
   "lat": 36.6819011,
   "lon": 126.5348472
+},
+{
+  "type": "node",
+  "id": 12768628866,
+  "lat": 36.6785780,
+  "lon": 126.5325860
 },
 {
   "type": "node",
@@ -187952,7 +188172,7 @@
 },
 {
   "type": "node",
-  "id": 8955757640,
+  "id": 12768628842,
   "lat": 36.7021182,
   "lon": 126.5434677
 },
@@ -188057,6 +188277,12 @@
   "id": 10116512090,
   "lat": 36.7027431,
   "lon": 126.5623054
+},
+{
+  "type": "node",
+  "id": 12768628868,
+  "lat": 36.7026589,
+  "lon": 126.5620260
 },
 {
   "type": "node",
@@ -188531,6 +188757,12 @@
   "id": 11726703782,
   "lat": 36.7072470,
   "lon": 126.5498283
+},
+{
+  "type": "node",
+  "id": 12768628867,
+  "lat": 36.7069944,
+  "lon": 126.5455195
 },
 {
   "type": "node",
@@ -229670,99 +229902,9 @@
 },
 {
   "type": "node",
-  "id": 436400558,
-  "lat": 36.6295410,
-  "lon": 127.2887809
-},
-{
-  "type": "node",
   "id": 4671031422,
   "lat": 36.6257357,
   "lon": 127.2899247
-},
-{
-  "type": "node",
-  "id": 4685331226,
-  "lat": 36.6296051,
-  "lon": 127.2888797
-},
-{
-  "type": "node",
-  "id": 6082744712,
-  "lat": 36.6290309,
-  "lon": 127.2889253
-},
-{
-  "type": "node",
-  "id": 6082744717,
-  "lat": 36.6291720,
-  "lon": 127.2888790
-},
-{
-  "type": "node",
-  "id": 6082744721,
-  "lat": 36.6299054,
-  "lon": 127.2886653
-},
-{
-  "type": "node",
-  "id": 6082744725,
-  "lat": 36.6289275,
-  "lon": 127.2891231
-},
-{
-  "type": "node",
-  "id": 6082744726,
-  "lat": 36.6287854,
-  "lon": 127.2891755
-},
-{
-  "type": "node",
-  "id": 6082744727,
-  "lat": 36.6290475,
-  "lon": 127.2890648
-},
-{
-  "type": "node",
-  "id": 6082744728,
-  "lat": 36.6287933,
-  "lon": 127.2890124
-},
-{
-  "type": "node",
-  "id": 6082744729,
-  "lat": 36.6284990,
-  "lon": 127.2891087
-},
-{
-  "type": "node",
-  "id": 6082744730,
-  "lat": 36.6283103,
-  "lon": 127.2891785
-},
-{
-  "type": "node",
-  "id": 6082744731,
-  "lat": 36.6277894,
-  "lon": 127.2893490
-},
-{
-  "type": "node",
-  "id": 6082744732,
-  "lat": 36.6272449,
-  "lon": 127.2895228
-},
-{
-  "type": "node",
-  "id": 6082744733,
-  "lat": 36.6266688,
-  "lon": 127.2896965
-},
-{
-  "type": "node",
-  "id": 6082744734,
-  "lat": 36.6260219,
-  "lon": 127.2898680
 },
 {
   "type": "node",
@@ -229787,66 +229929,6 @@
   "id": 6082744756,
   "lat": 36.6251341,
   "lon": 127.2901940
-},
-{
-  "type": "node",
-  "id": 7252772548,
-  "lat": 36.6276249,
-  "lon": 127.2894950
-},
-{
-  "type": "node",
-  "id": 7252772550,
-  "lat": 36.6287685,
-  "lon": 127.2890205
-},
-{
-  "type": "node",
-  "id": 7461666387,
-  "lat": 36.6302194,
-  "lon": 127.2886758
-},
-{
-  "type": "node",
-  "id": 7992967641,
-  "lat": 36.6258223,
-  "lon": 127.2900359
-},
-{
-  "type": "node",
-  "id": 8001716749,
-  "lat": 36.6259421,
-  "lon": 127.2898838
-},
-{
-  "type": "node",
-  "id": 8001716750,
-  "lat": 36.6259521,
-  "lon": 127.2899970
-},
-{
-  "type": "node",
-  "id": 8001717502,
-  "lat": 36.6296248,
-  "lon": 127.2887543
-},
-{
-  "type": "node",
-  "id": 8001717503,
-  "lat": 36.6296781,
-  "lon": 127.2888555
-},
-{
-  "type": "node",
-  "id": 5135458484,
-  "lat": 36.6315612,
-  "lon": 127.2882303
-},
-{
-  "type": "node",
-  "id": 5135458503,
-  "lat": 36.6314997,
-  "lon": 127.2881596
 },
 {
   "type": "node",
