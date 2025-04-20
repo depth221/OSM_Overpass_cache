@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.5 1bd436f1",
   "osm3s": {
-    "timestamp_osm_base": "2025-04-18T18:49:24Z",
+    "timestamp_osm_base": "2025-04-20T18:48:30Z",
     "timestamp_areas_base": "2025-02-06T02:17:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -730,13 +730,7 @@
     10696625533,
     6419910104,
     436653584,
-    436653585,
-    436653586,
-    4628230754,
-    436653587,
-    436653588,
-    10696625493,
-    10221680526
+    12769422937
   ],
   "tags": {
     "destination:backward": "서산;대산;대로리",
@@ -17280,6 +17274,7 @@
     8234414011,
     4743480868,
     4743480869,
+    12770809671,
     4743480870,
     6236925508,
     275898563
@@ -26630,6 +26625,8 @@
     "bridge:name:en": "Yongam Bridge",
     "bridge:name:ko-Latn": "Yongamgyo",
     "bridge:structure": "beam",
+    "destination": "대산;서산;해미",
+    "destination:lang:en": "Daesan;Seosan;Haemi",
     "highway": "primary",
     "layer": "1",
     "name": "내포로",
@@ -33698,7 +33695,8 @@
     "oneway": "yes",
     "ref": "1",
     "review": "no",
-    "source": "Bing (adjusted)"
+    "source": "Bing (adjusted)",
+    "surface": "asphalt"
   }
 },
 {
@@ -33718,7 +33716,8 @@
     "name:en": "Sejong-ro",
     "name:ko": "세종로",
     "oneway": "yes",
-    "ref": "1"
+    "ref": "1",
+    "surface": "asphalt"
   }
 },
 {
@@ -33774,7 +33773,8 @@
     "name:en": "Sejong-ro",
     "name:ko": "세종로",
     "oneway": "yes",
-    "ref": "1"
+    "ref": "1",
+    "surface": "asphalt"
   }
 },
 {
@@ -36021,6 +36021,10 @@
     437291577
   ],
   "tags": {
+    "destination:backward": "홍성일반산업단지",
+    "destination:forward": "보령;홍성;서부",
+    "destination:lang:en:backward": "Hongseong General Industrial Complex",
+    "destination:lang:en:forward": "Boryeong;Hongseong;Seobu",
     "highway": "primary",
     "name": "산단로",
     "name:en": "Sandan-ro",
@@ -38233,7 +38237,8 @@
     "oneway": "yes",
     "ref": "1",
     "review": "no",
-    "source": "Bing (adjusted)"
+    "source": "Bing (adjusted)",
+    "surface": "asphalt"
   }
 },
 {
@@ -39711,6 +39716,7 @@
   "nodes": [
     8571253388,
     8998251269,
+    12770809682,
     8571253554,
     8571253389,
     8571253553
@@ -42292,6 +42298,8 @@
     "bridge:name": "용암교",
     "bridge:name:en": "Yongam Bridge",
     "bridge:name:ko-Latn": "Yongamgyo",
+    "destination": "청양;홍성;고북",
+    "destination:lang:en": "Cheongyang;Hongseong;Gobuk",
     "highway": "primary",
     "layer": "1",
     "name": "내포로",
@@ -59498,6 +59506,57 @@
   ],
   "tags": {
     "highway": "primary"
+  }
+},
+{
+  "type": "way",
+  "id": 1379001883,
+  "nodes": [
+    4628230754,
+    436653587,
+    436653588,
+    10696625493,
+    10221680526
+  ],
+  "tags": {
+    "destination:backward": "서산;대산;대로리",
+    "destination:forward": "독곶리;대산석유화학단지;기은리",
+    "destination:lang:en:backward": "Seosan;Daesan;Daero-ri",
+    "destination:lang:en:forward": "Dokgot-ri;Daesan Petrochemical Complex;Gieun-ri",
+    "highway": "primary",
+    "maxspeed": "40",
+    "name": "명지1로",
+    "name:en": "Myeongji 1-ro",
+    "name:ko": "명지1로",
+    "ncat": "국도",
+    "ref": "38",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 1379001884,
+  "nodes": [
+    12769422937,
+    436653585,
+    436653586,
+    4628230754
+  ],
+  "tags": {
+    "destination:backward": "서산;대산;대로리",
+    "destination:forward": "독곶리;대산석유화학단지;기은리",
+    "destination:lang:en:backward": "Seosan;Daesan;Daero-ri",
+    "destination:lang:en:forward": "Dokgot-ri;Daesan Petrochemical Complex;Gieun-ri",
+    "highway": "primary",
+    "maxspeed": "40",
+    "name": "명지1로",
+    "name:en": "Myeongji 1-ro",
+    "name:ko": "명지1로",
+    "ncat": "국도",
+    "ref": "38",
+    "review": "no",
+    "source": "NTIC"
   }
 },
 {
@@ -109489,25 +109548,25 @@
 {
   "type": "node",
   "id": 10033376390,
-  "lat": 36.3599696,
+  "lat": 36.3599707,
   "lon": 127.3794274
 },
 {
   "type": "node",
   "id": 10033376391,
-  "lat": 36.3599748,
+  "lat": 36.3599753,
   "lon": 127.3795901
 },
 {
   "type": "node",
   "id": 10033376409,
-  "lat": 36.3621081,
+  "lat": 36.3621037,
   "lon": 127.3794429
 },
 {
   "type": "node",
   "id": 10033376410,
-  "lat": 36.3621055,
+  "lat": 36.3621039,
   "lon": 127.3796048
 },
 {
@@ -109555,14 +109614,20 @@
 {
   "type": "node",
   "id": 8571253555,
-  "lat": 36.3651500,
-  "lon": 127.3796519
+  "lat": 36.3651086,
+  "lon": 127.3796523
 },
 {
   "type": "node",
   "id": 9065210710,
   "lat": 36.3650871,
   "lon": 127.3796524
+},
+{
+  "type": "node",
+  "id": 12770809682,
+  "lat": 36.3645583,
+  "lon": 127.3796516
 },
 {
   "type": "node",
@@ -110929,14 +110994,14 @@
 {
   "type": "node",
   "id": 4743480869,
-  "lat": 36.4099501,
-  "lon": 127.3774392
+  "lat": 36.4099533,
+  "lon": 127.3774313
 },
 {
   "type": "node",
   "id": 4743480870,
-  "lat": 36.4104437,
-  "lon": 127.3776108
+  "lat": 36.4104058,
+  "lon": 127.3775709
 },
 {
   "type": "node",
@@ -111033,6 +111098,12 @@
   "id": 11841551502,
   "lat": 36.4123478,
   "lon": 127.3781062
+},
+{
+  "type": "node",
+  "id": 12770809671,
+  "lat": 36.4102261,
+  "lon": 127.3774955
 },
 {
   "type": "node",
@@ -144168,9 +144239,15 @@
 },
 {
   "type": "node",
+  "id": 12769422937,
+  "lat": 36.9753085,
+  "lon": 126.3891628
+},
+{
+  "type": "node",
   "id": 436653563,
-  "lat": 36.9690900,
-  "lon": 126.3989700
+  "lat": 36.9691097,
+  "lon": 126.3989762
 },
 {
   "type": "node",
@@ -144247,8 +144324,8 @@
 {
   "type": "node",
   "id": 6419910107,
-  "lat": 36.9690631,
-  "lon": 126.3983113
+  "lat": 36.9690926,
+  "lon": 126.3983021
 },
 {
   "type": "node",
@@ -144295,7 +144372,7 @@
 {
   "type": "node",
   "id": 436653562,
-  "lat": 36.9691300,
+  "lat": 36.9691522,
   "lon": 126.3996400
 },
 {
