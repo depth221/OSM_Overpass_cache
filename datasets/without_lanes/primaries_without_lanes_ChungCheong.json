@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.5 1bd436f1",
   "osm3s": {
-    "timestamp_osm_base": "2025-05-02T18:50:22Z",
+    "timestamp_osm_base": "2025-05-04T18:49:14Z",
     "timestamp_areas_base": "2025-02-06T02:17:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -46083,6 +46083,19 @@
     "name:ko": "안면대로",
     "oneway": "yes",
     "ref": "77"
+  }
+},
+{
+  "type": "way",
+  "id": 1118355518,
+  "nodes": [
+    10228394633,
+    9945470844,
+    10228394636
+  ],
+  "tags": {
+    "highway": "primary",
+    "oneway": "yes"
   }
 },
 {
@@ -135063,6 +135076,24 @@
   "id": 10228210723,
   "lat": 36.5921078,
   "lon": 126.3259474
+},
+{
+  "type": "node",
+  "id": 10228394636,
+  "lat": 36.6192398,
+  "lon": 126.3986650
+},
+{
+  "type": "node",
+  "id": 9945470844,
+  "lat": 36.6192314,
+  "lon": 126.3993606
+},
+{
+  "type": "node",
+  "id": 10228394633,
+  "lat": 36.6190391,
+  "lon": 126.3997168
 },
 {
   "type": "node",
