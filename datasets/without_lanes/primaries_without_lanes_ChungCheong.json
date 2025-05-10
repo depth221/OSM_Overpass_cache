@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.5 1bd436f1",
   "osm3s": {
-    "timestamp_osm_base": "2025-05-09T18:49:56Z",
+    "timestamp_osm_base": "2025-05-10T18:47:41Z",
     "timestamp_areas_base": "2025-02-06T02:17:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -5176,6 +5176,27 @@
     "ref": "40",
     "review": "no",
     "source": "Yahoo"
+  }
+},
+{
+  "type": "way",
+  "id": 99810133,
+  "nodes": [
+    436750430,
+    436750431
+  ],
+  "tags": {
+    "bridge:structure": "beam",
+    "destination:backward": "보령;안면;남면",
+    "destination:forward": "이원;원북;태안",
+    "destination:lang:en:backward": "Iwon;Wonbuk;Taean",
+    "destination:lang:en:forward": "Boryeong;Anmyeon;Nam-myeon",
+    "highway": "primary",
+    "name": "남문IC지하차도교",
+    "name:ko": "남문IC지하차도교",
+    "ref": "77",
+    "review": "no",
+    "source": "NTIC"
   }
 },
 {
@@ -45873,6 +45894,38 @@
     "name:ko": "천수만로",
     "oneway": "yes",
     "ref": "40",
+    "review": "no",
+    "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 1118299311,
+  "nodes": [
+    10227927754,
+    436750430
+  ],
+  "tags": {
+    "highway": "primary",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1118299312,
+  "nodes": [
+    436750430,
+    10227927755
+  ],
+  "tags": {
+    "destination": "보령;안면;남면",
+    "destination:lang:en": "Boryeong;Anmyeon;Nam-myeon",
+    "highway": "primary",
+    "name": "안면대로",
+    "name:en": "Anmyeon-daero",
+    "name:ko": "안면대로",
+    "oneway": "yes",
+    "ref": "77",
     "review": "no",
     "source": "NTIC"
   }
@@ -143540,6 +143593,30 @@
   "id": 10259723431,
   "lat": 36.7591668,
   "lon": 126.2656771
+},
+{
+  "type": "node",
+  "id": 436750430,
+  "lat": 36.7468062,
+  "lon": 126.2928820
+},
+{
+  "type": "node",
+  "id": 436750431,
+  "lat": 36.7472504,
+  "lon": 126.2928447
+},
+{
+  "type": "node",
+  "id": 10227927754,
+  "lat": 36.7462266,
+  "lon": 126.2930028
+},
+{
+  "type": "node",
+  "id": 10227927755,
+  "lat": 36.7463145,
+  "lon": 126.2928586
 },
 {
   "type": "node",
