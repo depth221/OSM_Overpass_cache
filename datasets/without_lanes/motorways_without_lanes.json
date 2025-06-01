@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.5 1bd436f1",
   "osm3s": {
-    "timestamp_osm_base": "2025-05-31T18:39:33Z",
+    "timestamp_osm_base": "2025-06-01T18:40:06Z",
     "timestamp_areas_base": "2025-05-25T01:55:35Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -12481,10 +12481,7 @@
   "type": "way",
   "id": 1342427849,
   "nodes": [
-    12414077176,
-    12414077177,
-    12414077180,
-    12408848482,
+    12878496542,
     12408848480,
     7396865547,
     12414077161,
@@ -12546,12 +12543,7 @@
     12414077162,
     7396865544,
     12408848479,
-    12414077181,
-    12408848481,
-    12414077179,
-    12414077182,
-    12414077178,
-    12414077175
+    12878496541
   ],
   "tags": {
     "highway": "motorway",
@@ -15751,6 +15743,209 @@
   ],
   "tags": {
     "highway": "motorway"
+  }
+},
+{
+  "type": "way",
+  "id": 1391306106,
+  "nodes": [
+    12414077181,
+    12408848481,
+    12414077179,
+    12414077182
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1391306107,
+  "nodes": [
+    12878496541,
+    12414077181
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1391306108,
+  "nodes": [
+    12414077177,
+    12414077180,
+    12408848482
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1391306109,
+  "nodes": [
+    12408848482,
+    12878496542
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1391306110,
+  "nodes": [
+    12414077178,
+    12414077175
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1391306111,
+  "nodes": [
+    12414077182,
+    12414077178
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1391306112,
+  "nodes": [
+    12414077176,
+    12878496543
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1391306113,
+  "nodes": [
+    12878496543,
+    12414077177
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "ref": "17",
+    "toll": "yes",
+    "tunnel": "yes"
   }
 },
 {
@@ -19062,14 +19257,14 @@
 {
   "type": "node",
   "id": 12414077177,
-  "lat": 36.4108865,
-  "lon": 126.7913812
+  "lat": 36.4109146,
+  "lon": 126.7913919
 },
 {
   "type": "node",
   "id": 12414077178,
-  "lat": 36.4103119,
-  "lon": 126.7912215
+  "lat": 36.4103551,
+  "lon": 126.7912403
 },
 {
   "type": "node",
@@ -19086,14 +19281,32 @@
 {
   "type": "node",
   "id": 12414077181,
-  "lat": 36.4135655,
+  "lat": 36.4135245,
   "lon": 126.7905861
 },
 {
   "type": "node",
   "id": 12414077182,
-  "lat": 36.4107770,
-  "lon": 126.7911502
+  "lat": 36.4108763,
+  "lon": 126.7912065
+},
+{
+  "type": "node",
+  "id": 12878496541,
+  "lat": 36.4140421,
+  "lon": 126.7905077
+},
+{
+  "type": "node",
+  "id": 12878496542,
+  "lat": 36.4140955,
+  "lon": 126.7906602
+},
+{
+  "type": "node",
+  "id": 12878496543,
+  "lat": 36.4104095,
+  "lon": 126.7914681
 },
 {
   "type": "node",
