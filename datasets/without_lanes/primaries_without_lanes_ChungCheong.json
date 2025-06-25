@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-06-24T18:53:44Z",
-    "timestamp_areas_base": "2025-06-24T15:14:27Z",
+    "timestamp_osm_base": "2025-06-25T18:53:49Z",
+    "timestamp_areas_base": "2025-06-25T12:29:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -38314,7 +38314,7 @@
   "type": "way",
   "id": 823066033,
   "nodes": [
-    6328194483,
+    437004894,
     437004908
   ],
   "tags": {
@@ -38327,26 +38327,6 @@
     "layer": "1",
     "maxspeed": "60",
     "name:en": "Songmun-ro",
-    "ncat": "지방도",
-    "ref": "49",
-    "review": "no",
-    "source": "NTIC"
-  }
-},
-{
-  "type": "way",
-  "id": 823066034,
-  "nodes": [
-    437004894,
-    6328194483
-  ],
-  "tags": {
-    "cycleway:right": "shared_lane",
-    "highway": "primary",
-    "maxspeed": "60",
-    "name": "송문로",
-    "name:en": "Songmun-ro",
-    "name:ko": "송문로",
     "ncat": "지방도",
     "ref": "49",
     "review": "no",
@@ -102144,14 +102124,14 @@
 {
   "type": "node",
   "id": 12523270572,
-  "lat": 36.4530111,
-  "lon": 127.0363688
+  "lat": 36.4530275,
+  "lon": 127.0363838
 },
 {
   "type": "node",
   "id": 12523270574,
-  "lat": 36.4529643,
-  "lon": 127.0364427
+  "lat": 36.4529985,
+  "lon": 127.0364772
 },
 {
   "type": "node",
@@ -184836,8 +184816,8 @@
 {
   "type": "node",
   "id": 437004894,
-  "lat": 36.7275741,
-  "lon": 127.8095394
+  "lat": 36.7276022,
+  "lon": 127.8095417
 },
 {
   "type": "node",
@@ -184862,12 +184842,6 @@
   "id": 6234549682,
   "lat": 36.7291319,
   "lon": 127.8103557
-},
-{
-  "type": "node",
-  "id": 6328194483,
-  "lat": 36.7283285,
-  "lon": 127.8099349
 },
 {
   "type": "node",
