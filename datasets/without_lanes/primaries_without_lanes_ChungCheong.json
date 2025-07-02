@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-01T18:52:15Z",
+    "timestamp_osm_base": "2025-07-02T18:53:36Z",
     "timestamp_areas_base": "2025-06-25T21:32:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -3338,8 +3338,7 @@
     436474129,
     436474130,
     6429539939,
-    12526295347,
-    436474131
+    12526295347
   ],
   "tags": {
     "highway": "primary",
@@ -60612,6 +60611,24 @@
     "name:en": "Okcheon-ro",
     "name:ko": "옥천로",
     "ref": "4"
+  }
+},
+{
+  "type": "way",
+  "id": 1411457465,
+  "nodes": [
+    12526295347,
+    436474131
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "충서로",
+    "name:en": "Chungseo-ro",
+    "name:ko": "충서로",
+    "oneway": "yes",
+    "ref": "21",
+    "review": "no",
+    "source": "NTIC"
   }
 },
 {
