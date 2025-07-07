@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-06T18:41:19Z",
-    "timestamp_areas_base": "2025-07-06T12:18:46Z",
+    "timestamp_osm_base": "2025-07-07T18:44:12Z",
+    "timestamp_areas_base": "2025-07-07T15:06:26Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -517,6 +517,7 @@
     10086119607
   ],
   "tags": {
+    "bus:lanes:conditional": "(designated|yes|yes|yes|yes) @ (07:00-21:00; 21:00-25:00 \"설날 및 추석연휴\")",
     "highway": "motorway",
     "maxspeed": "80",
     "maxspeed:hgv": "80",
