@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-12T18:42:02Z",
-    "timestamp_areas_base": "2025-07-12T13:54:03Z",
+    "timestamp_osm_base": "2025-07-13T18:41:10Z",
+    "timestamp_areas_base": "2025-07-09T01:47:14Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -308,18 +308,19 @@
     8086463188
   ],
   "tags": {
+    "alt_name": "평택파주고속도로",
     "highway": "motorway",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
     "minspeed": "50",
-    "name": "평택파주고속도로",
+    "name": "수원문산고속도로",
     "name:el": "Αυτοκινητόδρομος Πιόνγκτεκ–Πάτζου",
-    "name:en": "Pyeongtaek-Paju Expressway",
-    "name:ko": "평택파주고속도로",
-    "name:ko-Hani": "平澤坡州高速道路",
-    "name:zh": "平澤坡州高速公路",
-    "name:zh-Hans": "平泽坡州高速公路",
-    "name:zh-Hant": "平澤坡州高速公路",
+    "name:en": "Suwon-Munsan Expressway",
+    "name:ko": "수원문산고속도로",
+    "name:ko-Hani": "水原文山高速道路",
+    "name:zh": "水原文山高速公路",
+    "name:zh-Hans": "水原文山高速公路",
+    "name:zh-Hant": "水原文山高速公路",
     "ref": "17",
     "toll": "yes"
   }
@@ -332,18 +333,19 @@
     8086530253
   ],
   "tags": {
+    "alt_name": "평택파주고속도로",
     "highway": "motorway",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
     "minspeed": "50",
-    "name": "평택파주고속도로",
+    "name": "수원문산고속도로",
     "name:el": "Αυτοκινητόδρομος Πιόνγκτεκ–Πάτζου",
-    "name:en": "Pyeongtaek-Paju Expressway",
-    "name:ko": "평택파주고속도로",
-    "name:ko-Hani": "平澤坡州高速道路",
-    "name:zh": "平澤坡州高速公路",
-    "name:zh-Hans": "平泽坡州高速公路",
-    "name:zh-Hant": "平澤坡州高速公路",
+    "name:en": "Suwon-Munsan Expressway",
+    "name:ko": "수원문산고속도로",
+    "name:ko-Hani": "水原文山高速道路",
+    "name:zh": "水原文山高速公路",
+    "name:zh-Hans": "水原文山高速公路",
+    "name:zh-Hant": "水原文山高速公路",
     "ref": "17",
     "toll": "yes"
   }
@@ -5895,6 +5897,7 @@
     8086463103
   ],
   "tags": {
+    "alt_name": "평택파주고속도로",
     "bridge:name": "대원1교",
     "bridge:name:ko": "대원1교",
     "highway": "motorway",
@@ -5902,12 +5905,14 @@
     "maxspeed": "100",
     "maxspeed:hgv": "80",
     "minspeed": "50",
+    "name": "수원문산고속도로",
     "name:el": "Αυτοκινητόδρομος Πιόνγκτεκ–Πάτζου",
-    "name:en": "Pyeongtaek-Paju Expressway",
-    "name:ko-Hani": "平澤坡州高速道路",
-    "name:zh": "平澤坡州高速公路",
-    "name:zh-Hans": "平泽坡州高速公路",
-    "name:zh-Hant": "平澤坡州高速公路",
+    "name:en": "Suwon-Munsan Expressway",
+    "name:ko": "수원문산고속도로",
+    "name:ko-Hani": "水原文山高速道路",
+    "name:zh": "水原文山高速公路",
+    "name:zh-Hans": "水原文山高速公路",
+    "name:zh-Hant": "水原文山高速公路",
     "ref": "17",
     "toll": "yes"
   }
@@ -5922,19 +5927,20 @@
     8086530298
   ],
   "tags": {
+    "alt_name": "평택파주고속도로",
     "highway": "motorway",
     "layer": "1",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
     "minspeed": "50",
-    "name": "평택파주고속도로",
+    "name": "수원문산고속도로",
     "name:el": "Αυτοκινητόδρομος Πιόνγκτεκ–Πάτζου",
-    "name:en": "Pyeongtaek-Paju Expressway",
-    "name:ko": "평택파주고속도로",
-    "name:ko-Hani": "平澤坡州高速道路",
-    "name:zh": "平澤坡州高速公路",
-    "name:zh-Hans": "平泽坡州高速公路",
-    "name:zh-Hant": "平澤坡州高速公路",
+    "name:en": "Suwon-Munsan Expressway",
+    "name:ko": "수원문산고속도로",
+    "name:ko-Hani": "水原文山高速道路",
+    "name:zh": "水原文山高速公路",
+    "name:zh-Hans": "水原文山高速公路",
+    "name:zh-Hant": "水原文山高速公路",
     "ref": "17",
     "toll": "yes"
   }
@@ -5948,19 +5954,20 @@
     12074594917
   ],
   "tags": {
+    "alt_name": "평택파주고속도로",
     "highway": "motorway",
     "layer": "1",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
     "minspeed": "50",
-    "name": "평택파주고속도로",
+    "name": "수원문산고속도로",
     "name:el": "Αυτοκινητόδρομος Πιόνγκτεκ–Πάτζου",
-    "name:en": "Pyeongtaek-Paju Expressway",
-    "name:ko": "평택파주고속도로",
-    "name:ko-Hani": "平澤坡州高速道路",
-    "name:zh": "平澤坡州高速公路",
-    "name:zh-Hans": "平泽坡州高速公路",
-    "name:zh-Hant": "平澤坡州高速公路",
+    "name:en": "Suwon-Munsan Expressway",
+    "name:ko": "수원문산고속도로",
+    "name:ko-Hani": "水原文山高速道路",
+    "name:zh": "水原文山高速公路",
+    "name:zh-Hans": "水原文山高速公路",
+    "name:zh-Hant": "水原文山高速公路",
     "ref": "17",
     "toll": "yes"
   }
