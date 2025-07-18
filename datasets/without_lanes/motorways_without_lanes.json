@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-17T18:46:12Z",
-    "timestamp_areas_base": "2025-07-09T01:47:14Z",
+    "timestamp_osm_base": "2025-07-18T18:45:39Z",
+    "timestamp_areas_base": "2025-07-17T01:38:52Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -476,7 +476,6 @@
   "type": "way",
   "id": 1056163925,
   "nodes": [
-    9704716846,
     8374023883,
     12470869263,
     8374023889,
@@ -485,6 +484,8 @@
     7099897977
   ],
   "tags": {
+    "alt_name": "제2경부고속도로",
+    "alt_name:ko": "제2경부고속도로",
     "highway": "motorway",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
@@ -5868,6 +5869,8 @@
     8374023891
   ],
   "tags": {
+    "alt_name": "제2경부고속도로",
+    "alt_name:ko": "제2경부고속도로",
     "bridge": "yes",
     "bridge:name": "고덕1교",
     "bridge:name:ko": "고덕1교",
@@ -34225,20 +34228,14 @@
 {
   "type": "node",
   "id": 8374023883,
-  "lat": 37.5649235,
-  "lon": 127.1561618
+  "lat": 37.5647554,
+  "lon": 127.1562336
 },
 {
   "type": "node",
   "id": 8374023889,
-  "lat": 37.5658411,
-  "lon": 127.1555958
-},
-{
-  "type": "node",
-  "id": 9704716846,
-  "lat": 37.5647635,
-  "lon": 127.1562336
+  "lat": 37.5657541,
+  "lon": 127.1556365
 },
 {
   "type": "node",
@@ -34255,8 +34252,8 @@
 {
   "type": "node",
   "id": 12470869263,
-  "lat": 37.5655909,
-  "lon": 127.1557684
+  "lat": 37.5653621,
+  "lon": 127.1558721
 },
 {
   "type": "node",
@@ -34267,8 +34264,8 @@
 {
   "type": "node",
   "id": 12786288772,
-  "lat": 37.5659955,
-  "lon": 127.1554893
+  "lat": 37.5660738,
+  "lon": 127.1554300
 },
 {
   "type": "node",
