@@ -2,12 +2,63 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-27T18:44:15Z",
-    "timestamp_areas_base": "2025-07-27T12:34:00Z",
+    "timestamp_osm_base": "2025-07-28T18:47:45Z",
+    "timestamp_areas_base": "2025-07-28T15:40:01Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
 
+{
+  "type": "way",
+  "id": 111875504,
+  "nodes": [
+    600644068,
+    4737140725,
+    4737140726,
+    4737140724,
+    13031050394,
+    1273797409
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "name": "순천완주고속도로",
+    "name:en": "Suncheonwanju Expressway",
+    "name:ko": "순천완주고속도로",
+    "name:ko-Hani": "順天完州高速道路",
+    "name:ko-Latn": "Suncheonwanju Gosokdoro",
+    "name:zh": "順天完州高速公路",
+    "name:zh-Hans": "顺天完州高速公路",
+    "name:zh-Hant": "順天完州高速公路",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 184954290,
+  "nodes": [
+    1955179187,
+    13031050395,
+    4737140723,
+    4737140722,
+    600644069
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "name": "순천완주고속도로",
+    "name:en": "Suncheonwanju Expressway",
+    "name:ko": "순천완주고속도로",
+    "name:ko-Hani": "順天完州高速道路",
+    "name:ko-Latn": "Suncheonwanju Gosokdoro",
+    "name:zh": "順天完州高速公路",
+    "name:zh-Hans": "顺天完州高速公路",
+    "name:zh-Hant": "順天完州高速公路",
+    "oneway": "yes"
+  }
+},
 {
   "type": "way",
   "id": 206398795,
@@ -176,6 +227,175 @@
     "name:ko": "당진청주고속도로",
     "oneway": "yes",
     "ref": "32"
+  }
+},
+{
+  "type": "way",
+  "id": 625107239,
+  "nodes": [
+    5902206587,
+    1955179178
+  ],
+  "tags": {
+    "highway": "motorway",
+    "name": "순천완주고속도로",
+    "name:en": "Suncheonwanju Expressway",
+    "name:ko": "순천완주고속도로",
+    "name:ko-Hani": "順天完州高速道路",
+    "name:ko-Latn": "Suncheonwanju Gosokdoro",
+    "name:zh": "順天完州高速公路",
+    "name:zh-Hans": "顺天完州高速公路",
+    "name:zh-Hant": "順天完州高速公路",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 625107240,
+  "nodes": [
+    5902206586,
+    1955179179,
+    1273797339
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "name": "순천완주고속도로",
+    "name:en": "Suncheonwanju Expressway",
+    "name:ko": "순천완주고속도로",
+    "name:ko-Hani": "順天完州高速道路",
+    "name:ko-Latn": "Suncheonwanju Gosokdoro",
+    "name:zh": "順天完州高速公路",
+    "name:zh-Hans": "顺天完州高速公路",
+    "name:zh-Hant": "順天完州高速公路",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 625107241,
+  "nodes": [
+    1955179154,
+    1955179174,
+    5902206587
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "name": "순천완주고속도로",
+    "name:en": "Suncheonwanju Expressway",
+    "name:ko": "순천완주고속도로",
+    "name:ko-Hani": "順天完州高速道路",
+    "name:ko-Latn": "Suncheonwanju Gosokdoro",
+    "name:zh": "順天完州高速公路",
+    "name:zh-Hans": "顺天完州高速公路",
+    "name:zh-Hant": "順天完州高速公路",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 625107242,
+  "nodes": [
+    4737032060,
+    13031050388,
+    13031050393,
+    5902206586
+  ],
+  "tags": {
+    "highway": "motorway",
+    "name": "순천완주고속도로",
+    "name:en": "Suncheonwanju Expressway",
+    "name:ko": "순천완주고속도로",
+    "name:ko-Hani": "順天完州高速道路",
+    "name:ko-Latn": "Suncheonwanju Gosokdoro",
+    "name:zh": "順天完州高速公路",
+    "name:zh-Hans": "顺天完州高速公路",
+    "name:zh-Hant": "順天完州高速公路",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 625107246,
+  "nodes": [
+    1955179178,
+    13031050392,
+    1955179187
+  ],
+  "tags": {
+    "highway": "motorway",
+    "name": "순천완주고속도로",
+    "name:en": "Suncheonwanju Expressway",
+    "name:ko": "순천완주고속도로",
+    "name:ko-Hani": "順天完州高速道路",
+    "name:ko-Latn": "Suncheonwanju Gosokdoro",
+    "name:zh": "順天完州高速公路",
+    "name:zh-Hans": "顺天完州高速公路",
+    "name:zh-Hant": "順天完州高速公路",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 625107247,
+  "nodes": [
+    1273797409,
+    4737032060
+  ],
+  "tags": {
+    "highway": "motorway",
+    "name": "순천완주고속도로",
+    "name:en": "Suncheonwanju Expressway",
+    "name:ko": "순천완주고속도로",
+    "name:ko-Hani": "順天完州高速道路",
+    "name:ko-Latn": "Suncheonwanju Gosokdoro",
+    "name:zh": "順天完州高速公路",
+    "name:zh-Hans": "顺天完州高速公路",
+    "name:zh-Hant": "順天完州高速公路",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 771043353,
+  "nodes": [
+    1955179219,
+    600644068
+  ],
+  "tags": {
+    "highway": "motorway",
+    "name": "순천완주고속도로",
+    "name:en": "Suncheonwanju Expressway",
+    "name:ko": "순천완주고속도로",
+    "name:ko-Hani": "順天完州高速道路",
+    "name:ko-Latn": "Suncheonwanju Gosokdoro",
+    "name:zh": "順天完州高速公路",
+    "name:zh-Hans": "顺天完州高速公路",
+    "name:zh-Hant": "順天完州高速公路",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 771043377,
+  "nodes": [
+    600644069,
+    1955179216
+  ],
+  "tags": {
+    "highway": "motorway",
+    "name": "순천완주고속도로",
+    "name:en": "Suncheonwanju Expressway",
+    "name:ko": "순천완주고속도로",
+    "name:ko-Hani": "順天完州高速道路",
+    "name:ko-Latn": "Suncheonwanju Gosokdoro",
+    "name:zh": "順天完州高速公路",
+    "name:zh-Hans": "顺天完州高速公路",
+    "name:zh-Hant": "順天完州高速公路",
+    "oneway": "yes"
   }
 },
 {
@@ -16852,6 +17072,55 @@
   }
 },
 {
+  "type": "way",
+  "id": 1418010556,
+  "nodes": [
+    1273797339,
+    1273797386,
+    4737032045,
+    1273797372,
+    4737032044,
+    13031050389
+  ],
+  "tags": {
+    "highway": "motorway",
+    "name": "순천완주고속도로",
+    "name:en": "Suncheonwanju Expressway",
+    "name:ko": "순천완주고속도로",
+    "name:ko-Hani": "順天完州高速道路",
+    "name:ko-Latn": "Suncheonwanju Gosokdoro",
+    "name:zh": "順天完州高速公路",
+    "name:zh-Hans": "顺天完州高速公路",
+    "name:zh-Hant": "順天完州高速公路",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1418010557,
+  "nodes": [
+    13031050390,
+    13031050391,
+    4737032043,
+    4737032042,
+    1955179143,
+    4737032046,
+    1955179154
+  ],
+  "tags": {
+    "highway": "motorway",
+    "name": "순천완주고속도로",
+    "name:en": "Suncheonwanju Expressway",
+    "name:ko": "순천완주고속도로",
+    "name:ko-Hani": "順天完州高速道路",
+    "name:ko-Latn": "Suncheonwanju Gosokdoro",
+    "name:zh": "順天完州高速公路",
+    "name:zh-Hans": "顺天完州高速公路",
+    "name:zh-Hant": "順天完州高速公路",
+    "oneway": "yes"
+  }
+},
+{
   "type": "node",
   "id": 12154836693,
   "lat": 36.2571296,
@@ -21380,6 +21649,216 @@
   "id": 12466891008,
   "lat": 36.4714661,
   "lon": 126.7733035
+},
+{
+  "type": "node",
+  "id": 1273797339,
+  "lat": 34.9468956,
+  "lon": 127.5506670
+},
+{
+  "type": "node",
+  "id": 1273797372,
+  "lat": 34.9459769,
+  "lon": 127.5492012
+},
+{
+  "type": "node",
+  "id": 1273797386,
+  "lat": 34.9465108,
+  "lon": 127.5501284
+},
+{
+  "type": "node",
+  "id": 1955179143,
+  "lat": 34.9461323,
+  "lon": 127.5496726
+},
+{
+  "type": "node",
+  "id": 1955179154,
+  "lat": 34.9468377,
+  "lon": 127.5507312
+},
+{
+  "type": "node",
+  "id": 4737032042,
+  "lat": 34.9458644,
+  "lon": 127.5491390
+},
+{
+  "type": "node",
+  "id": 4737032043,
+  "lat": 34.9456401,
+  "lon": 127.5485704
+},
+{
+  "type": "node",
+  "id": 4737032044,
+  "lat": 34.9457039,
+  "lon": 127.5485355
+},
+{
+  "type": "node",
+  "id": 4737032045,
+  "lat": 34.9462491,
+  "lon": 127.5497077
+},
+{
+  "type": "node",
+  "id": 4737032046,
+  "lat": 34.9463921,
+  "lon": 127.5501154
+},
+{
+  "type": "node",
+  "id": 13031050389,
+  "lat": 34.9455324,
+  "lon": 127.5480323
+},
+{
+  "type": "node",
+  "id": 13031050390,
+  "lat": 34.9454701,
+  "lon": 127.5480578
+},
+{
+  "type": "node",
+  "id": 13031050391,
+  "lat": 34.9454922,
+  "lon": 127.5481246
+},
+{
+  "type": "node",
+  "id": 600644068,
+  "lat": 34.9492090,
+  "lon": 127.5525033
+},
+{
+  "type": "node",
+  "id": 600644069,
+  "lat": 34.9488097,
+  "lon": 127.5524231
+},
+{
+  "type": "node",
+  "id": 1273797409,
+  "lat": 34.9480558,
+  "lon": 127.5518209
+},
+{
+  "type": "node",
+  "id": 1955179174,
+  "lat": 34.9471961,
+  "lon": 127.5511466
+},
+{
+  "type": "node",
+  "id": 1955179178,
+  "lat": 34.9477102,
+  "lon": 127.5516565
+},
+{
+  "type": "node",
+  "id": 1955179179,
+  "lat": 34.9471239,
+  "lon": 127.5509353
+},
+{
+  "type": "node",
+  "id": 1955179187,
+  "lat": 34.9480177,
+  "lon": 127.5519115
+},
+{
+  "type": "node",
+  "id": 1955179216,
+  "lat": 34.9490109,
+  "lon": 127.5525161
+},
+{
+  "type": "node",
+  "id": 1955179219,
+  "lat": 34.9495156,
+  "lon": 127.5526460
+},
+{
+  "type": "node",
+  "id": 4737032060,
+  "lat": 34.9477472,
+  "lon": 127.5515845
+},
+{
+  "type": "node",
+  "id": 4737140722,
+  "lat": 34.9485928,
+  "lon": 127.5522933
+},
+{
+  "type": "node",
+  "id": 4737140723,
+  "lat": 34.9483070,
+  "lon": 127.5521082
+},
+{
+  "type": "node",
+  "id": 4737140724,
+  "lat": 34.9483312,
+  "lon": 127.5520036
+},
+{
+  "type": "node",
+  "id": 4737140725,
+  "lat": 34.9489028,
+  "lon": 127.5523470
+},
+{
+  "type": "node",
+  "id": 4737140726,
+  "lat": 34.9486346,
+  "lon": 127.5521941
+},
+{
+  "type": "node",
+  "id": 5902206586,
+  "lat": 34.9474759,
+  "lon": 127.5513124
+},
+{
+  "type": "node",
+  "id": 5902206587,
+  "lat": 34.9474342,
+  "lon": 127.5513956
+},
+{
+  "type": "node",
+  "id": 13031050388,
+  "lat": 34.9476462,
+  "lon": 127.5514832
+},
+{
+  "type": "node",
+  "id": 13031050392,
+  "lat": 34.9478933,
+  "lon": 127.5518083
+},
+{
+  "type": "node",
+  "id": 13031050393,
+  "lat": 34.9476377,
+  "lon": 127.5514746
+},
+{
+  "type": "node",
+  "id": 13031050394,
+  "lat": 34.9481928,
+  "lon": 127.5519118
+},
+{
+  "type": "node",
+  "id": 13031050395,
+  "lat": 34.9481560,
+  "lon": 127.5520055
 },
 {
   "type": "node",
