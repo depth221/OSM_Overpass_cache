@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-02T18:44:14Z",
-    "timestamp_areas_base": "2025-08-02T16:37:15Z",
+    "timestamp_osm_base": "2025-08-03T18:44:30Z",
+    "timestamp_areas_base": "2025-08-03T13:56:59Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -706,8 +706,8 @@
     7099897977
   ],
   "tags": {
-    "alt_name": "제2경부고속도로",
-    "alt_name:ko": "제2경부고속도로",
+    "alt_name": "서울안성고속도로;제2경부고속도로",
+    "alt_name:ko": "서울안성고속도로;제2경부고속도로",
     "highway": "motorway",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
@@ -6092,8 +6092,8 @@
     8374023891
   ],
   "tags": {
-    "alt_name": "제2경부고속도로",
-    "alt_name:ko": "제2경부고속도로",
+    "alt_name": "서울안성고속도로;제2경부고속도로",
+    "alt_name:ko": "서울안성고속도로;제2경부고속도로",
     "bridge": "yes",
     "bridge:name": "고덕1교",
     "bridge:name:ko": "고덕1교",
