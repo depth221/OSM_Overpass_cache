@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-18T18:55:15Z",
-    "timestamp_areas_base": "2025-08-18T12:52:02Z",
+    "timestamp_osm_base": "2025-08-19T18:51:42Z",
+    "timestamp_areas_base": "2025-08-19T11:27:35Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -54109,6 +54109,75 @@
 },
 {
   "type": "way",
+  "id": 1282143203,
+  "nodes": [
+    11898493669,
+    436606354,
+    11898493665,
+    11898493664,
+    436646888
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "70",
+    "name": "충청대로",
+    "name:en": "Chungcheong-daero",
+    "name:ko": "충청대로",
+    "oneway": "yes",
+    "ref": "36",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1282143204,
+  "nodes": [
+    11898493670,
+    11898493669
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "충청대로",
+    "name:en": "Chungcheong-daero",
+    "name:ko": "충청대로",
+    "oneway": "yes",
+    "ref": "36",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1282143210,
+  "nodes": [
+    436646888,
+    436606356,
+    436606358,
+    11898493660,
+    11898493662,
+    436606360,
+    11898493659,
+    11898493658,
+    11898493657,
+    436606362,
+    9044673999,
+    3960233457
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "70",
+    "name": "충청대로",
+    "name:en": "Chungcheong-daero",
+    "name:ko": "충청대로",
+    "oneway": "yes",
+    "ref": "36",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
   "id": 1282143218,
   "nodes": [
     11898493577,
@@ -57081,6 +57150,26 @@
     "name:ko": "공수원로",
     "oneway": "yes",
     "ref": "36"
+  }
+},
+{
+  "type": "way",
+  "id": 1335377441,
+  "nodes": [
+    11907424536,
+    11898493694,
+    6172370481,
+    11898493670
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "70",
+    "name": "충청대로",
+    "name:en": "Chungcheong-daero",
+    "name:ko": "충청대로",
+    "oneway": "yes",
+    "ref": "36",
+    "surface": "asphalt"
   }
 },
 {
@@ -189765,6 +189854,114 @@
 },
 {
   "type": "node",
+  "id": 6172370481,
+  "lat": 36.9063446,
+  "lon": 127.6844227
+},
+{
+  "type": "node",
+  "id": 11898493694,
+  "lat": 36.9052438,
+  "lon": 127.6840844
+},
+{
+  "type": "node",
+  "id": 11907424536,
+  "lat": 36.9047010,
+  "lon": 127.6839165
+},
+{
+  "type": "node",
+  "id": 436606354,
+  "lat": 36.9105872,
+  "lon": 127.6857299
+},
+{
+  "type": "node",
+  "id": 436606356,
+  "lat": 36.9111249,
+  "lon": 127.6859765
+},
+{
+  "type": "node",
+  "id": 436606358,
+  "lat": 36.9112515,
+  "lon": 127.6860616
+},
+{
+  "type": "node",
+  "id": 436606360,
+  "lat": 36.9116879,
+  "lon": 127.6864069
+},
+{
+  "type": "node",
+  "id": 436606362,
+  "lat": 36.9126400,
+  "lon": 127.6875800
+},
+{
+  "type": "node",
+  "id": 436646888,
+  "lat": 36.9110907,
+  "lon": 127.6859534
+},
+{
+  "type": "node",
+  "id": 11898493657,
+  "lat": 36.9122056,
+  "lon": 127.6870078
+},
+{
+  "type": "node",
+  "id": 11898493658,
+  "lat": 36.9120165,
+  "lon": 127.6867807
+},
+{
+  "type": "node",
+  "id": 11898493659,
+  "lat": 36.9118466,
+  "lon": 127.6865708
+},
+{
+  "type": "node",
+  "id": 11898493660,
+  "lat": 36.9113919,
+  "lon": 127.6861635
+},
+{
+  "type": "node",
+  "id": 11898493662,
+  "lat": 36.9115343,
+  "lon": 127.6862719
+},
+{
+  "type": "node",
+  "id": 11898493664,
+  "lat": 36.9109370,
+  "lon": 127.6858704
+},
+{
+  "type": "node",
+  "id": 11898493665,
+  "lat": 36.9108034,
+  "lon": 127.6858094
+},
+{
+  "type": "node",
+  "id": 11898493669,
+  "lat": 36.9086889,
+  "lon": 127.6851397
+},
+{
+  "type": "node",
+  "id": 11898493670,
+  "lat": 36.9083234,
+  "lon": 127.6850270
+},
+{
+  "type": "node",
   "id": 436606366,
   "lat": 36.9139996,
   "lon": 127.6893181
@@ -189774,6 +189971,12 @@
   "id": 3960233457,
   "lat": 36.9135473,
   "lon": 127.6887795
+},
+{
+  "type": "node",
+  "id": 9044673999,
+  "lat": 36.9132055,
+  "lon": 127.6883064
 },
 {
   "type": "node",
