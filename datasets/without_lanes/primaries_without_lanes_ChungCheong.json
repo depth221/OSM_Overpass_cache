@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-25T18:52:06Z",
-    "timestamp_areas_base": "2025-08-25T11:50:14Z",
+    "timestamp_osm_base": "2025-08-29T18:48:12Z",
+    "timestamp_areas_base": "2025-08-29T12:44:43Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -20738,27 +20738,6 @@
     "maxspeed": "70",
     "oneway": "yes",
     "ref": "19"
-  }
-},
-{
-  "type": "way",
-  "id": 550234602,
-  "nodes": [
-    436548693,
-    436548694,
-    436548696,
-    9102678843,
-    436548697
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "중원대로",
-    "name:en": "Jungwon-daero",
-    "name:ko": "중원대로",
-    "oneway": "yes",
-    "ref": "3",
-    "review": "no",
-    "source": "NTIC"
   }
 },
 {
@@ -195023,36 +195002,6 @@
   "id": 5285886966,
   "lat": 36.8613965,
   "lon": 127.9277804
-},
-{
-  "type": "node",
-  "id": 436548693,
-  "lat": 36.8815234,
-  "lon": 127.9753811
-},
-{
-  "type": "node",
-  "id": 436548694,
-  "lat": 36.8815390,
-  "lon": 127.9761512
-},
-{
-  "type": "node",
-  "id": 436548696,
-  "lat": 36.8815632,
-  "lon": 127.9769412
-},
-{
-  "type": "node",
-  "id": 436548697,
-  "lat": 36.8815669,
-  "lon": 127.9774931
-},
-{
-  "type": "node",
-  "id": 9102678843,
-  "lat": 36.8815634,
-  "lon": 127.9769666
 },
 {
   "type": "node",
