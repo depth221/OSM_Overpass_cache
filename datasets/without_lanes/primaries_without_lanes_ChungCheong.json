@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-09-12T18:46:29Z",
-    "timestamp_areas_base": "2025-09-12T12:24:01Z",
+    "timestamp_osm_base": "2025-09-13T18:45:15Z",
+    "timestamp_areas_base": "2025-09-13T15:14:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1741,9 +1741,7 @@
   "tags": {
     "highway": "primary",
     "layer": "-1",
-    "name": "충의로",
-    "name:en": "Chungui-ro",
-    "name:ko": "충의로",
+    "name": "솔티터널",
     "ncat": "국도",
     "ref": "39",
     "review": "no",
@@ -1761,9 +1759,12 @@
     436662630,
     436662631,
     436662632,
+    13140514471,
     436662633,
     436662634,
     436662635,
+    13140514493,
+    13140514512,
     436662636,
     436662637,
     436662638,
@@ -35989,9 +35990,7 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "name": "충의로",
-    "name:en": "Chungui-ro",
-    "name:ko": "충의로",
+    "name": "삼청교",
     "ncat": "국도",
     "ref": "39",
     "review": "no",
@@ -103114,6 +103113,24 @@
   "id": 436662637,
   "lat": 36.4738319,
   "lon": 126.9434413
+},
+{
+  "type": "node",
+  "id": 13140514471,
+  "lat": 36.4699955,
+  "lon": 126.9446357
+},
+{
+  "type": "node",
+  "id": 13140514493,
+  "lat": 36.4717165,
+  "lon": 126.9439420
+},
+{
+  "type": "node",
+  "id": 13140514512,
+  "lat": 36.4729400,
+  "lon": 126.9436714
 },
 {
   "type": "node",
