@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-09-24T18:38:34Z",
-    "timestamp_areas_base": "2025-09-24T15:00:21Z",
+    "timestamp_osm_base": "2025-09-25T18:41:02Z",
+    "timestamp_areas_base": "2025-09-25T15:07:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -6096,6 +6096,7 @@
   ],
   "tags": {
     "alt_name": "평택파주고속도로",
+    "bridge": "yes",
     "bridge:name": "대원1교",
     "bridge:name:ko": "대원1교",
     "highway": "motorway",
@@ -34517,50 +34518,50 @@
 {
   "type": "node",
   "id": 8086463103,
-  "lat": 37.7402667,
-  "lon": 126.7958601
+  "lat": 37.7402207,
+  "lon": 126.7958847
 },
 {
   "type": "node",
   "id": 8086463105,
-  "lat": 37.7394929,
-  "lon": 126.7962459
+  "lat": 37.7393852,
+  "lon": 126.7962884
 },
 {
   "type": "node",
   "id": 8086530295,
-  "lat": 37.7396981,
-  "lon": 126.7960227
+  "lat": 37.7396821,
+  "lon": 126.7960489
 },
 {
   "type": "node",
   "id": 8086530298,
-  "lat": 37.7391500,
-  "lon": 126.7962630
+  "lat": 37.7390999,
+  "lon": 126.7962929
 },
 {
   "type": "node",
   "id": 11662267740,
-  "lat": 37.7390118,
-  "lon": 126.7964464
+  "lat": 37.7389847,
+  "lon": 126.7964448
 },
 {
   "type": "node",
   "id": 11662267748,
-  "lat": 37.7394653,
-  "lon": 126.7961281
+  "lat": 37.7393692,
+  "lon": 126.7961965
 },
 {
   "type": "node",
   "id": 12074594917,
-  "lat": 37.7398624,
-  "lon": 126.7960617
+  "lat": 37.7398518,
+  "lon": 126.7960782
 },
 {
   "type": "node",
   "id": 12074594918,
-  "lat": 37.7398721,
-  "lon": 126.7959381
+  "lat": 37.7398653,
+  "lon": 126.7959606
 },
 {
   "type": "node",
