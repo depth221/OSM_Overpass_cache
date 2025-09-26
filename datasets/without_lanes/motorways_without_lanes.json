@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-09-25T18:41:02Z",
-    "timestamp_areas_base": "2025-09-25T15:07:44Z",
+    "timestamp_osm_base": "2025-09-26T18:39:29Z",
+    "timestamp_areas_base": "2025-09-26T14:21:47Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -14667,7 +14667,7 @@
   "type": "way",
   "id": 1347764403,
   "nodes": [
-    12466891005,
+    12466890993,
     12417934734
   ],
   "tags": {
@@ -14725,13 +14725,7 @@
     "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
-    "name": "익산평택고속도로",
-    "name:en": "Iksan-Pyeongtaek Expressway",
-    "name:ko": "익산평택고속도로",
-    "name:ko-Hani": "益山平澤高速道路",
-    "name:zh": "益山平澤高速公路",
-    "name:zh-Hans": "益山平泽高速公路",
-    "name:zh-Hant": "益山平澤高速公路",
+    "name": "오류골천교",
     "oneway": "yes",
     "ref": "17",
     "toll": "yes"
@@ -14741,10 +14735,8 @@
   "type": "way",
   "id": 1347764406,
   "nodes": [
-    12466891008,
     12466890994,
-    12466890993,
-    12466891005
+    12466890993
   ],
   "tags": {
     "bridge": "yes",
@@ -14753,13 +14745,7 @@
     "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
-    "name": "익산평택고속도로",
-    "name:en": "Iksan-Pyeongtaek Expressway",
-    "name:ko": "익산평택고속도로",
-    "name:ko-Hani": "益山平澤高速道路",
-    "name:zh": "益山平澤高速公路",
-    "name:zh-Hans": "益山平泽高速公路",
-    "name:zh-Hant": "益山平澤高速公路",
+    "name": "오류골천교",
     "oneway": "yes",
     "ref": "17",
     "toll": "yes"
@@ -14807,8 +14793,7 @@
     12466890991,
     12466890992,
     12408848471,
-    12466890995,
-    12466891008
+    12466890994
   ],
   "tags": {
     "highway": "motorway",
@@ -19536,14 +19521,8 @@
 {
   "type": "node",
   "id": 12466890993,
-  "lat": 36.4730324,
-  "lon": 126.7724845
-},
-{
-  "type": "node",
-  "id": 12466891005,
-  "lat": 36.4734249,
-  "lon": 126.7722726
+  "lat": 36.4735198,
+  "lon": 126.7722029
 },
 {
   "type": "node",
@@ -21696,8 +21675,8 @@
 {
   "type": "node",
   "id": 12408848471,
-  "lat": 36.4702052,
-  "lon": 126.7739530
+  "lat": 36.4702390,
+  "lon": 126.7739242
 },
 {
   "type": "node",
@@ -21726,44 +21705,32 @@
 {
   "type": "node",
   "id": 12466890990,
-  "lat": 36.4684141,
-  "lon": 126.7748443
+  "lat": 36.4683967,
+  "lon": 126.7748844
 },
 {
   "type": "node",
   "id": 12466890991,
-  "lat": 36.4690403,
-  "lon": 126.7745508
+  "lat": 36.4689862,
+  "lon": 126.7745893
 },
 {
   "type": "node",
   "id": 12466890992,
-  "lat": 36.4695983,
-  "lon": 126.7742729
+  "lat": 36.4696299,
+  "lon": 126.7742407
 },
 {
   "type": "node",
   "id": 12466890994,
-  "lat": 36.4717949,
-  "lon": 126.7731390
-},
-{
-  "type": "node",
-  "id": 12466890995,
-  "lat": 36.4709947,
-  "lon": 126.7735392
+  "lat": 36.4709315,
+  "lon": 126.7736928
 },
 {
   "type": "node",
   "id": 12466891007,
-  "lat": 36.4714079,
-  "lon": 126.7731316
-},
-{
-  "type": "node",
-  "id": 12466891008,
-  "lat": 36.4714661,
-  "lon": 126.7733035
+  "lat": 36.4708546,
+  "lon": 126.7734647
 },
 {
   "type": "node",
