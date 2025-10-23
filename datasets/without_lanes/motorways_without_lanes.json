@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-10-22T18:44:02Z",
-    "timestamp_areas_base": "2025-10-22T12:59:44Z",
+    "timestamp_osm_base": "2025-10-23T18:42:01Z",
+    "timestamp_areas_base": "2025-10-23T12:46:58Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -6944,7 +6944,7 @@
     "foot": "no",
     "highway": "motorway",
     "horse": "no",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "motor_vehicle": "yes",
@@ -6973,7 +6973,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -7004,7 +7004,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -7032,7 +7032,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -7066,7 +7066,7 @@
     "foot": "no",
     "highway": "motorway",
     "horse": "no",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "motor_vehicle": "yes",
@@ -7095,7 +7095,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -7124,7 +7124,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -7150,7 +7150,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -7180,7 +7180,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -7206,7 +7206,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -7547,7 +7547,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -7571,7 +7571,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -7618,7 +7618,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -7642,7 +7642,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -7694,7 +7694,7 @@
   "tags": {
     "highway": "motorway",
     "layer": "-1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -7752,7 +7752,7 @@
   "tags": {
     "highway": "motorway",
     "layer": "-1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -7785,7 +7785,7 @@
   "tags": {
     "highway": "motorway",
     "layer": "-1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -7814,7 +7814,7 @@
   "tags": {
     "highway": "motorway",
     "layer": "-1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -7834,7 +7834,6 @@
   "type": "way",
   "id": 1341525402,
   "nodes": [
-    12949289978,
     12949289976,
     12409305680,
     12409305681,
@@ -7863,7 +7862,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -7911,12 +7910,11 @@
     12409305684,
     12409305685,
     12409305677,
-    12949289980,
-    12949289982
+    12949289980
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -7945,7 +7943,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -7973,7 +7971,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -7999,7 +7997,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -8024,7 +8022,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -8051,7 +8049,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -8080,7 +8078,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -8359,7 +8357,7 @@
   "tags": {
     "bicycle": "no",
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "motor_vehicle": "yes",
@@ -8388,7 +8386,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "motor_vehicle": "yes",
@@ -8423,7 +8421,7 @@
     "foot": "no",
     "highway": "motorway",
     "horse": "no",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "motor_vehicle": "yes",
@@ -8459,7 +8457,7 @@
     "highway": "motorway",
     "horse": "no",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "motor_vehicle": "yes",
@@ -8498,7 +8496,7 @@
   "tags": {
     "bicycle": "no",
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "motor_vehicle": "yes",
@@ -8527,7 +8525,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "motor_vehicle": "yes",
@@ -8562,7 +8560,7 @@
   "tags": {
     "bicycle": "no",
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "motor_vehicle": "yes",
@@ -8595,7 +8593,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "motor_vehicle": "yes",
@@ -8622,7 +8620,7 @@
   "tags": {
     "bicycle": "no",
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "motor_vehicle": "yes",
@@ -9508,7 +9506,7 @@
     "highway": "motorway",
     "horse": "no",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "motor_vehicle": "yes",
@@ -9575,7 +9573,7 @@
     "highway": "motorway",
     "horse": "no",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "motor_vehicle": "yes",
@@ -9611,7 +9609,7 @@
     "foot": "no",
     "highway": "motorway",
     "horse": "no",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "motor_vehicle": "yes",
@@ -9642,7 +9640,7 @@
     "highway": "motorway",
     "horse": "no",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "motor_vehicle": "yes",
@@ -9678,7 +9676,7 @@
     "foot": "no",
     "highway": "motorway",
     "horse": "no",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "motor_vehicle": "yes",
@@ -9710,7 +9708,7 @@
     "highway": "motorway",
     "horse": "no",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "motor_vehicle": "yes",
@@ -9739,7 +9737,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -9765,7 +9763,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -10259,7 +10257,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -10288,7 +10286,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -10313,7 +10311,7 @@
   "tags": {
     "highway": "motorway",
     "layer": "-1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -10341,7 +10339,7 @@
   "tags": {
     "highway": "motorway",
     "layer": "-1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -10371,7 +10369,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -10399,7 +10397,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -10429,7 +10427,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -10460,7 +10458,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -12593,7 +12591,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -12619,7 +12617,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -12645,7 +12643,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -12671,7 +12669,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -13364,7 +13362,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -15464,7 +15462,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -15489,7 +15487,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -15516,7 +15514,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -15544,7 +15542,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -15569,7 +15567,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -15594,7 +15592,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -15618,7 +15616,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -15642,7 +15640,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -16127,7 +16125,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -16153,7 +16151,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -16192,7 +16190,7 @@
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -16218,7 +16216,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -16238,12 +16236,11 @@
   "id": 1409182108,
   "nodes": [
     12949170987,
-    2613334643,
     12409153486
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -16262,14 +16259,14 @@
   "type": "way",
   "id": 1409182109,
   "nodes": [
-    12949170988,
+    12409305651,
     12949170987
   ],
   "tags": {
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -16289,12 +16286,11 @@
   "id": 1409182110,
   "nodes": [
     12409153443,
-    12949170992,
     12949170991
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -16314,13 +16310,13 @@
   "id": 1409182111,
   "nodes": [
     12949170991,
-    12949170990
+    12409305672
   ],
   "tags": {
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -16460,20 +16456,15 @@
   "type": "way",
   "id": 1409193124,
   "nodes": [
-    12949170990,
     12409305672,
-    12949170989,
-    12409305673,
     12409305674,
     12409305650,
     12409305671,
-    12949289977,
-    12409305667,
-    12949289979
+    12409305667
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -16492,8 +16483,10 @@
   "type": "way",
   "id": 1409193125,
   "nodes": [
-    12949289979,
-    12949289978
+    12409305667,
+    13251379401,
+    13251379402,
+    12949289976
   ],
   "tags": {
     "bridge": "yes",
@@ -16518,20 +16511,14 @@
   "type": "way",
   "id": 1409193126,
   "nodes": [
-    12949289981,
-    11063881262,
     12409305669,
     12409305670,
     12409305676,
-    12409305651,
-    12409305675,
-    12949170986,
-    12409305668,
-    12949170988
+    12409305651
   ],
   "tags": {
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -16550,8 +16537,10 @@
   "type": "way",
   "id": 1409193127,
   "nodes": [
-    12949289982,
-    12949289981
+    12949289980,
+    13251379404,
+    13251379403,
+    12409305669
   ],
   "tags": {
     "bridge": "yes",
@@ -16814,7 +16803,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -16840,7 +16829,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -16869,7 +16858,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -16895,7 +16884,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "name": "익산평택고속도로",
@@ -16924,7 +16913,7 @@
   "tags": {
     "bicycle": "no",
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "motor_vehicle": "yes",
@@ -16953,7 +16942,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "motor_vehicle": "yes",
@@ -16982,7 +16971,7 @@
     "bridge": "yes",
     "highway": "motorway",
     "layer": "1",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "motor_vehicle": "yes",
@@ -17013,7 +17002,7 @@
   "tags": {
     "bicycle": "no",
     "highway": "motorway",
-    "maxspeed": "100",
+    "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
     "motor_vehicle": "yes",
@@ -23102,12 +23091,6 @@
 },
 {
   "type": "node",
-  "id": 12409305667,
-  "lat": 36.5658235,
-  "lon": 126.7744581
-},
-{
-  "type": "node",
   "id": 12409305677,
   "lat": 36.5642957,
   "lon": 126.7736510
@@ -23115,56 +23098,44 @@
 {
   "type": "node",
   "id": 12409305680,
-  "lat": 36.5645153,
-  "lon": 126.7736405
+  "lat": 36.5644371,
+  "lon": 126.7736175
 },
 {
   "type": "node",
   "id": 12949289976,
-  "lat": 36.5648595,
-  "lon": 126.7738556
-},
-{
-  "type": "node",
-  "id": 12949289978,
-  "lat": 36.5653794,
-  "lon": 126.7741806
-},
-{
-  "type": "node",
-  "id": 12949289979,
-  "lat": 36.5654536,
-  "lon": 126.7742269
+  "lat": 36.5648209,
+  "lon": 126.7738533
 },
 {
   "type": "node",
   "id": 12949289980,
-  "lat": 36.5649765,
-  "lon": 126.7740576
+  "lat": 36.5648299,
+  "lon": 126.7739939
 },
 {
   "type": "node",
-  "id": 12949289981,
-  "lat": 36.5654382,
-  "lon": 126.7743333
+  "id": 13251379401,
+  "lat": 36.5658032,
+  "lon": 126.7744518
 },
 {
   "type": "node",
-  "id": 12949289982,
-  "lat": 36.5653636,
-  "lon": 126.7742887
+  "id": 13251379402,
+  "lat": 36.5656147,
+  "lon": 126.7743393
 },
 {
   "type": "node",
-  "id": 2613334643,
-  "lat": 36.5717990,
-  "lon": 126.7782662
+  "id": 13251379403,
+  "lat": 36.5657839,
+  "lon": 126.7745477
 },
 {
   "type": "node",
-  "id": 11063881262,
-  "lat": 36.5659077,
-  "lon": 126.7746136
+  "id": 13251379404,
+  "lat": 36.5655729,
+  "lon": 126.7744238
 },
 {
   "type": "node",
@@ -23175,20 +23146,20 @@
 {
   "type": "node",
   "id": 12409305651,
-  "lat": 36.5698756,
-  "lon": 126.7770890
+  "lat": 36.5700916,
+  "lon": 126.7772023
 },
 {
   "type": "node",
-  "id": 12409305668,
-  "lat": 36.5714349,
-  "lon": 126.7780493
+  "id": 12409305667,
+  "lat": 36.5660015,
+  "lon": 126.7745688
 },
 {
   "type": "node",
   "id": 12409305669,
-  "lat": 36.5660234,
-  "lon": 126.7746827
+  "lat": 36.5659921,
+  "lon": 126.7746615
 },
 {
   "type": "node",
@@ -23205,14 +23176,8 @@
 {
   "type": "node",
   "id": 12409305672,
-  "lat": 36.5715154,
-  "lon": 126.7778683
-},
-{
-  "type": "node",
-  "id": 12409305673,
-  "lat": 36.5704315,
-  "lon": 126.7772008
+  "lat": 36.5701728,
+  "lon": 126.7770663
 },
 {
   "type": "node",
@@ -23222,63 +23187,21 @@
 },
 {
   "type": "node",
-  "id": 12409305675,
-  "lat": 36.5701971,
-  "lon": 126.7772485
-},
-{
-  "type": "node",
   "id": 12409305676,
   "lat": 36.5688009,
   "lon": 126.7763988
 },
 {
   "type": "node",
-  "id": 12949170986,
-  "lat": 36.5704911,
-  "lon": 126.7774387
-},
-{
-  "type": "node",
   "id": 12949170987,
-  "lat": 36.5717242,
-  "lon": 126.7782217
-},
-{
-  "type": "node",
-  "id": 12949170988,
-  "lat": 36.5716455,
-  "lon": 126.7781748
-},
-{
-  "type": "node",
-  "id": 12949170989,
-  "lat": 36.5706039,
-  "lon": 126.7773070
-},
-{
-  "type": "node",
-  "id": 12949170990,
-  "lat": 36.5716359,
-  "lon": 126.7779420
+  "lat": 36.5722173,
+  "lon": 126.7785201
 },
 {
   "type": "node",
   "id": 12949170991,
-  "lat": 36.5717146,
-  "lon": 126.7779900
-},
-{
-  "type": "node",
-  "id": 12949170992,
-  "lat": 36.5717946,
-  "lon": 126.7780389
-},
-{
-  "type": "node",
-  "id": 12949289977,
-  "lat": 36.5659148,
-  "lon": 126.7745104
+  "lat": 36.5722891,
+  "lon": 126.7783619
 },
 {
   "type": "node",
