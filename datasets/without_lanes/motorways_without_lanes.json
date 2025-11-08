@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-07T18:40:01Z",
-    "timestamp_areas_base": "2025-11-07T15:22:42Z",
+    "timestamp_osm_base": "2025-11-08T18:39:01Z",
+    "timestamp_areas_base": "2025-11-08T14:16:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -583,6 +583,57 @@
     "highway": "motorway",
     "layer": "1",
     "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 976245495,
+  "nodes": [
+    9034389898,
+    9034389899,
+    13232048345
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 976245496,
+  "nodes": [
+    13288476608,
+    9034404861,
+    9034404862,
+    9034404863,
+    9034404864,
+    9034404865,
+    13232041999
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
   }
 },
 {
@@ -17198,6 +17249,1242 @@
   }
 },
 {
+  "type": "way",
+  "id": 1442053302,
+  "nodes": [
+    13232041997,
+    9034404872,
+    13232041996
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053304,
+  "nodes": [
+    13232041999,
+    9034404866,
+    9034404867,
+    9034404868,
+    9034404869,
+    9034404870,
+    9034404871,
+    13232041997
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053306,
+  "nodes": [
+    13232048302,
+    13232042000,
+    13232067015,
+    9034404848,
+    9034404849,
+    13232067026,
+    13232067027,
+    9034404850,
+    9034404851,
+    13232067025,
+    9034404852,
+    9034404853,
+    13288903163,
+    9034404854
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053307,
+  "nodes": [
+    9034404845,
+    9034404846,
+    9034404847,
+    13232048302
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053311,
+  "nodes": [
+    13232060718,
+    9034404844,
+    13232060720
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053312,
+  "nodes": [
+    13232048308,
+    9034404835,
+    13232048309,
+    9034404836,
+    13232048311
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053314,
+  "nodes": [
+    13232048313,
+    13232048308
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053316,
+  "nodes": [
+    13232048315,
+    9034404834,
+    13232048313
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053318,
+  "nodes": [
+    13232048316,
+    13288476613
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053320,
+  "nodes": [
+    9034404828,
+    9034404829,
+    9034404830,
+    9034404831,
+    9034404832,
+    9034404833,
+    13232048316
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053322,
+  "nodes": [
+    13232048319,
+    9034404827,
+    9034404828
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053324,
+  "nodes": [
+    13232048320,
+    9034404824,
+    9034404825,
+    9034404826,
+    13232048319
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053326,
+  "nodes": [
+    13288476609,
+    13288476611
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053328,
+  "nodes": [
+    13232048324,
+    9034404817,
+    9034404818,
+    9034404819,
+    13288903166,
+    13232048322
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053330,
+  "nodes": [
+    13232048326,
+    13232048324
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053332,
+  "nodes": [
+    13232048328,
+    9034389914,
+    9034389915,
+    9034389916,
+    13232048326
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053334,
+  "nodes": [
+    13232048330,
+    9034389913,
+    13232048328
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053336,
+  "nodes": [
+    13232048332,
+    9034389911,
+    9034389912,
+    13232048330
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053338,
+  "nodes": [
+    13232048334,
+    13232048332
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053340,
+  "nodes": [
+    13232048336,
+    9034389910,
+    13232048334
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053342,
+  "nodes": [
+    13232048338,
+    13232048336
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053344,
+  "nodes": [
+    13232048340,
+    9034389903,
+    9034389904,
+    9034389905,
+    9034389906,
+    9034389907,
+    9034389908,
+    9034389909,
+    13232048338
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053346,
+  "nodes": [
+    13232048342,
+    9034389901,
+    9034389902,
+    13232048340
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053348,
+  "nodes": [
+    13232048344,
+    13232048342
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442053349,
+  "nodes": [
+    13232048345,
+    9034389900,
+    13232048344
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442055443,
+  "nodes": [
+    13232048311,
+    13232048310,
+    9034404837,
+    13232060779,
+    9034404838,
+    9034404839,
+    9034404840,
+    13288476752,
+    13288476750,
+    13288476754
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442055444,
+  "nodes": [
+    13232060711,
+    9034404842,
+    9034404843,
+    13232060712
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442055447,
+  "nodes": [
+    13232060712,
+    13232060715
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442055449,
+  "nodes": [
+    13232060715,
+    13288903164,
+    13232060717
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442055450,
+  "nodes": [
+    13232060717,
+    13232060718
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1442055452,
+  "nodes": [
+    13232060720,
+    9034404845
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1448342277,
+  "nodes": [
+    13288476598,
+    13288476597
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1448342279,
+  "nodes": [
+    9034389891,
+    13288476598
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1448342281,
+  "nodes": [
+    13288476597,
+    13288476601
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "60",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1448342283,
+  "nodes": [
+    13288476601,
+    9034389895,
+    9034389896,
+    9034389897,
+    13288476604
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1448342284,
+  "nodes": [
+    13288476604,
+    13288476605
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1448342286,
+  "nodes": [
+    13288476605,
+    13288903168,
+    9034389898
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1448342288,
+  "nodes": [
+    9034404854,
+    9034404855,
+    9034404856,
+    13288476618
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1448342291,
+  "nodes": [
+    9034404858,
+    9034404859,
+    9034404860,
+    13288476608
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1448342292,
+  "nodes": [
+    13232048322,
+    13288476609
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1448342294,
+  "nodes": [
+    13288476611,
+    9034404822,
+    9034404823,
+    13232048320
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1448342296,
+  "nodes": [
+    13288476613,
+    13288476615
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1448342298,
+  "nodes": [
+    13288476615,
+    13232048315
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1448342301,
+  "nodes": [
+    13288476618,
+    9034404857,
+    13288476620
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1448342303,
+  "nodes": [
+    13288476620,
+    9034404858
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1448342435,
+  "nodes": [
+    13288476754,
+    9034404841,
+    13288476751,
+    13288476755
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1448342436,
+  "nodes": [
+    13288476755,
+    13232060711
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "동해고속도로",
+    "name:en": "Donghae Expressway",
+    "name:ko": "동해고속도로",
+    "name:ko-Hani": "東海高速道路",
+    "name:zh": "浦項盈德高速公路",
+    "name:zh-Hans": "浦項盈德高速公路",
+    "name:zh-Hant": "浦項盈德高速公路",
+    "oneway": "yes",
+    "ref": "65",
+    "toll": "yes"
+  }
+},
+{
   "type": "node",
   "id": 7396865558,
   "lat": 36.2561141,
@@ -22302,6 +23589,822 @@
   "id": 13098071376,
   "lat": 35.4717753,
   "lon": 128.5083072
+},
+{
+  "type": "node",
+  "id": 9034404870,
+  "lat": 36.2308954,
+  "lon": 129.3647913
+},
+{
+  "type": "node",
+  "id": 9034404871,
+  "lat": 36.2299509,
+  "lon": 129.3650514
+},
+{
+  "type": "node",
+  "id": 9034404872,
+  "lat": 36.2285342,
+  "lon": 129.3655230
+},
+{
+  "type": "node",
+  "id": 13232041996,
+  "lat": 36.2284372,
+  "lon": 129.3655571
+},
+{
+  "type": "node",
+  "id": 13232041997,
+  "lat": 36.2297223,
+  "lon": 129.3651275
+},
+{
+  "type": "node",
+  "id": 9034404864,
+  "lat": 36.2364570,
+  "lon": 129.3649783
+},
+{
+  "type": "node",
+  "id": 9034404865,
+  "lat": 36.2354601,
+  "lon": 129.3646937
+},
+{
+  "type": "node",
+  "id": 9034404866,
+  "lat": 36.2344501,
+  "lon": 129.3645555
+},
+{
+  "type": "node",
+  "id": 9034404867,
+  "lat": 36.2335123,
+  "lon": 129.3645067
+},
+{
+  "type": "node",
+  "id": 9034404868,
+  "lat": 36.2326596,
+  "lon": 129.3645798
+},
+{
+  "type": "node",
+  "id": 9034404869,
+  "lat": 36.2321153,
+  "lon": 129.3646042
+},
+{
+  "type": "node",
+  "id": 13232041999,
+  "lat": 36.2347424,
+  "lon": 129.3645955
+},
+{
+  "type": "node",
+  "id": 9034404861,
+  "lat": 36.2437495,
+  "lon": 129.3674419
+},
+{
+  "type": "node",
+  "id": 9034404862,
+  "lat": 36.2414215,
+  "lon": 129.3666532
+},
+{
+  "type": "node",
+  "id": 9034404863,
+  "lat": 36.2389097,
+  "lon": 129.3658076
+},
+{
+  "type": "node",
+  "id": 13288476608,
+  "lat": 36.2439753,
+  "lon": 129.3675180
+},
+{
+  "type": "node",
+  "id": 9034404860,
+  "lat": 36.2450282,
+  "lon": 129.3678729
+},
+{
+  "type": "node",
+  "id": 9034404856,
+  "lat": 36.2507593,
+  "lon": 129.3692470
+},
+{
+  "type": "node",
+  "id": 9034404857,
+  "lat": 36.2497495,
+  "lon": 129.3689624
+},
+{
+  "type": "node",
+  "id": 9034404858,
+  "lat": 36.2474086,
+  "lon": 129.3684990
+},
+{
+  "type": "node",
+  "id": 9034404859,
+  "lat": 36.2462151,
+  "lon": 129.3682388
+},
+{
+  "type": "node",
+  "id": 13288476618,
+  "lat": 36.2502251,
+  "lon": 129.3690964
+},
+{
+  "type": "node",
+  "id": 13288476620,
+  "lat": 36.2488094,
+  "lon": 129.3687763
+},
+{
+  "type": "node",
+  "id": 9034404853,
+  "lat": 36.2551504,
+  "lon": 129.3713496
+},
+{
+  "type": "node",
+  "id": 9034404854,
+  "lat": 36.2531826,
+  "lon": 129.3703760
+},
+{
+  "type": "node",
+  "id": 9034404855,
+  "lat": 36.2516445,
+  "lon": 129.3696454
+},
+{
+  "type": "node",
+  "id": 13288903163,
+  "lat": 36.2551399,
+  "lon": 129.3713444
+},
+{
+  "type": "node",
+  "id": 9034404850,
+  "lat": 36.2621564,
+  "lon": 129.3724960
+},
+{
+  "type": "node",
+  "id": 9034404851,
+  "lat": 36.2605863,
+  "lon": 129.3725450
+},
+{
+  "type": "node",
+  "id": 9034404852,
+  "lat": 36.2582411,
+  "lon": 129.3724588
+},
+{
+  "type": "node",
+  "id": 13232067025,
+  "lat": 36.2604230,
+  "lon": 129.3725390
+},
+{
+  "type": "node",
+  "id": 13232067026,
+  "lat": 36.2636506,
+  "lon": 129.3722146
+},
+{
+  "type": "node",
+  "id": 13232067027,
+  "lat": 36.2629140,
+  "lon": 129.3723800
+},
+{
+  "type": "node",
+  "id": 9034404845,
+  "lat": 36.2700721,
+  "lon": 129.3688918
+},
+{
+  "type": "node",
+  "id": 9034404846,
+  "lat": 36.2683968,
+  "lon": 129.3699816
+},
+{
+  "type": "node",
+  "id": 9034404847,
+  "lat": 36.2666877,
+  "lon": 129.3710908
+},
+{
+  "type": "node",
+  "id": 9034404848,
+  "lat": 36.2654449,
+  "lon": 129.3717394
+},
+{
+  "type": "node",
+  "id": 9034404849,
+  "lat": 36.2647500,
+  "lon": 129.3719288
+},
+{
+  "type": "node",
+  "id": 13232042000,
+  "lat": 36.2661958,
+  "lon": 129.3713927
+},
+{
+  "type": "node",
+  "id": 13232048302,
+  "lat": 36.2666621,
+  "lon": 129.3711065
+},
+{
+  "type": "node",
+  "id": 13232060720,
+  "lat": 36.2705392,
+  "lon": 129.3685947
+},
+{
+  "type": "node",
+  "id": 13232067015,
+  "lat": 36.2659741,
+  "lon": 129.3714951
+},
+{
+  "type": "node",
+  "id": 9034404843,
+  "lat": 36.2765442,
+  "lon": 129.3648917
+},
+{
+  "type": "node",
+  "id": 9034404844,
+  "lat": 36.2726793,
+  "lon": 129.3672333
+},
+{
+  "type": "node",
+  "id": 13232060712,
+  "lat": 36.2759050,
+  "lon": 129.3652790
+},
+{
+  "type": "node",
+  "id": 13232060715,
+  "lat": 36.2752636,
+  "lon": 129.3656676
+},
+{
+  "type": "node",
+  "id": 13232060717,
+  "lat": 36.2735384,
+  "lon": 129.3667128
+},
+{
+  "type": "node",
+  "id": 13232060718,
+  "lat": 36.2731417,
+  "lon": 129.3669531
+},
+{
+  "type": "node",
+  "id": 13288903164,
+  "lat": 36.2741220,
+  "lon": 129.3663593
+},
+{
+  "type": "node",
+  "id": 9034404837,
+  "lat": 36.2830758,
+  "lon": 129.3624120
+},
+{
+  "type": "node",
+  "id": 9034404838,
+  "lat": 36.2820085,
+  "lon": 129.3625871
+},
+{
+  "type": "node",
+  "id": 9034404839,
+  "lat": 36.2806772,
+  "lon": 129.3629198
+},
+{
+  "type": "node",
+  "id": 9034404840,
+  "lat": 36.2802103,
+  "lon": 129.3630308
+},
+{
+  "type": "node",
+  "id": 9034404841,
+  "lat": 36.2788989,
+  "lon": 129.3635617
+},
+{
+  "type": "node",
+  "id": 9034404842,
+  "lat": 36.2777861,
+  "lon": 129.3642016
+},
+{
+  "type": "node",
+  "id": 13232048310,
+  "lat": 36.2836220,
+  "lon": 129.3623387
+},
+{
+  "type": "node",
+  "id": 13232048311,
+  "lat": 36.2838653,
+  "lon": 129.3623293
+},
+{
+  "type": "node",
+  "id": 13232060711,
+  "lat": 36.2780804,
+  "lon": 129.3640256
+},
+{
+  "type": "node",
+  "id": 13232060779,
+  "lat": 36.2821349,
+  "lon": 129.3625664
+},
+{
+  "type": "node",
+  "id": 13288476750,
+  "lat": 36.2792737,
+  "lon": 129.3633846
+},
+{
+  "type": "node",
+  "id": 13288476751,
+  "lat": 36.2784897,
+  "lon": 129.3637808
+},
+{
+  "type": "node",
+  "id": 13288476752,
+  "lat": 36.2797420,
+  "lon": 129.3631844
+},
+{
+  "type": "node",
+  "id": 13288476754,
+  "lat": 36.2789611,
+  "lon": 129.3635323
+},
+{
+  "type": "node",
+  "id": 13288476755,
+  "lat": 36.2782408,
+  "lon": 129.3639296
+},
+{
+  "type": "node",
+  "id": 9034404834,
+  "lat": 36.2876909,
+  "lon": 129.3634744
+},
+{
+  "type": "node",
+  "id": 9034404835,
+  "lat": 36.2856311,
+  "lon": 129.3625391
+},
+{
+  "type": "node",
+  "id": 9034404836,
+  "lat": 36.2842011,
+  "lon": 129.3623164
+},
+{
+  "type": "node",
+  "id": 13232048308,
+  "lat": 36.2862822,
+  "lon": 129.3627867
+},
+{
+  "type": "node",
+  "id": 13232048309,
+  "lat": 36.2848222,
+  "lon": 129.3623732
+},
+{
+  "type": "node",
+  "id": 13232048313,
+  "lat": 36.2872917,
+  "lon": 129.3632796
+},
+{
+  "type": "node",
+  "id": 9034404833,
+  "lat": 36.2942670,
+  "lon": 129.3672826
+},
+{
+  "type": "node",
+  "id": 13232048315,
+  "lat": 36.2908118,
+  "lon": 129.3652817
+},
+{
+  "type": "node",
+  "id": 13232048316,
+  "lat": 36.2942088,
+  "lon": 129.3672489
+},
+{
+  "type": "node",
+  "id": 13288476613,
+  "lat": 36.2921088,
+  "lon": 129.3660328
+},
+{
+  "type": "node",
+  "id": 13288476615,
+  "lat": 36.2910410,
+  "lon": 129.3654144
+},
+{
+  "type": "node",
+  "id": 13232048320,
+  "lat": 36.3167488,
+  "lon": 129.3678771
+},
+{
+  "type": "node",
+  "id": 9034404822,
+  "lat": 36.3191654,
+  "lon": 129.3670484
+},
+{
+  "type": "node",
+  "id": 9034404823,
+  "lat": 36.3173383,
+  "lon": 129.3677263
+},
+{
+  "type": "node",
+  "id": 13232048322,
+  "lat": 36.3226774,
+  "lon": 129.3656599
+},
+{
+  "type": "node",
+  "id": 13288476609,
+  "lat": 36.3223794,
+  "lon": 129.3657784
+},
+{
+  "type": "node",
+  "id": 13288476611,
+  "lat": 36.3194565,
+  "lon": 129.3669528
+},
+{
+  "type": "node",
+  "id": 13288903166,
+  "lat": 36.3231854,
+  "lon": 129.3654580
+},
+{
+  "type": "node",
+  "id": 9034404829,
+  "lat": 36.3032063,
+  "lon": 129.3691189
+},
+{
+  "type": "node",
+  "id": 9034404830,
+  "lat": 36.3005643,
+  "lon": 129.3691436
+},
+{
+  "type": "node",
+  "id": 9034404831,
+  "lat": 36.2986176,
+  "lon": 129.3688724
+},
+{
+  "type": "node",
+  "id": 9034404832,
+  "lat": 36.2971873,
+  "lon": 129.3685397
+},
+{
+  "type": "node",
+  "id": 9034404826,
+  "lat": 36.3091355,
+  "lon": 129.3691066
+},
+{
+  "type": "node",
+  "id": 9034404827,
+  "lat": 36.3080629,
+  "lon": 129.3691312
+},
+{
+  "type": "node",
+  "id": 9034404828,
+  "lat": 36.3057091,
+  "lon": 129.3691682
+},
+{
+  "type": "node",
+  "id": 13232048319,
+  "lat": 36.3083045,
+  "lon": 129.3691257
+},
+{
+  "type": "node",
+  "id": 9034404824,
+  "lat": 36.3137732,
+  "lon": 129.3686383
+},
+{
+  "type": "node",
+  "id": 9034404825,
+  "lat": 36.3115289,
+  "lon": 129.3690080
+},
+{
+  "type": "node",
+  "id": 9034389916,
+  "lat": 36.3292834,
+  "lon": 129.3631786
+},
+{
+  "type": "node",
+  "id": 9034404817,
+  "lat": 36.3281714,
+  "lon": 129.3635607
+},
+{
+  "type": "node",
+  "id": 9034404818,
+  "lat": 36.3266622,
+  "lon": 129.3640906
+},
+{
+  "type": "node",
+  "id": 9034404819,
+  "lat": 36.3240210,
+  "lon": 129.3651259
+},
+{
+  "type": "node",
+  "id": 13232048324,
+  "lat": 36.3285518,
+  "lon": 129.3634300
+},
+{
+  "type": "node",
+  "id": 13232048326,
+  "lat": 36.3288901,
+  "lon": 129.3633138
+},
+{
+  "type": "node",
+  "id": 9034389911,
+  "lat": 36.3360942,
+  "lon": 129.3618230
+},
+{
+  "type": "node",
+  "id": 9034389912,
+  "lat": 36.3344362,
+  "lon": 129.3621188
+},
+{
+  "type": "node",
+  "id": 9034389913,
+  "lat": 36.3324208,
+  "lon": 129.3625008
+},
+{
+  "type": "node",
+  "id": 9034389914,
+  "lat": 36.3312592,
+  "lon": 129.3627103
+},
+{
+  "type": "node",
+  "id": 9034389915,
+  "lat": 36.3300975,
+  "lon": 129.3629691
+},
+{
+  "type": "node",
+  "id": 13232048328,
+  "lat": 36.3323054,
+  "lon": 129.3625216
+},
+{
+  "type": "node",
+  "id": 13232048330,
+  "lat": 36.3335667,
+  "lon": 129.3622836
+},
+{
+  "type": "node",
+  "id": 9034389908,
+  "lat": 36.3426363,
+  "lon": 129.3600976
+},
+{
+  "type": "node",
+  "id": 9034389909,
+  "lat": 36.3412664,
+  "lon": 129.3606399
+},
+{
+  "type": "node",
+  "id": 9034389910,
+  "lat": 36.3382882,
+  "lon": 129.3613423
+},
+{
+  "type": "node",
+  "id": 13232048336,
+  "lat": 36.3387596,
+  "lon": 129.3612311
+},
+{
+  "type": "node",
+  "id": 13232048338,
+  "lat": 36.3390548,
+  "lon": 129.3611615
+},
+{
+  "type": "node",
+  "id": 13232048332,
+  "lat": 36.3369026,
+  "lon": 129.3616459
+},
+{
+  "type": "node",
+  "id": 13232048334,
+  "lat": 36.3373237,
+  "lon": 129.3615536
+},
+{
+  "type": "node",
+  "id": 9034389905,
+  "lat": 36.3482052,
+  "lon": 129.3574972
+},
+{
+  "type": "node",
+  "id": 9034389906,
+  "lat": 36.3455548,
+  "lon": 129.3588036
+},
+{
+  "type": "node",
+  "id": 9034389907,
+  "lat": 36.3441750,
+  "lon": 129.3594691
+},
+{
+  "type": "node",
+  "id": 9034389898,
+  "lat": 36.3622992,
+  "lon": 129.3538492
+},
+{
+  "type": "node",
+  "id": 9034389899,
+  "lat": 36.3598280,
+  "lon": 129.3543668
+},
+{
+  "type": "node",
+  "id": 9034389900,
+  "lat": 36.3576445,
+  "lon": 129.3547489
+},
+{
+  "type": "node",
+  "id": 13232048345,
+  "lat": 36.3585533,
+  "lon": 129.3545899
+},
+{
+  "type": "node",
+  "id": 9034389901,
+  "lat": 36.3558381,
+  "lon": 129.3550570
+},
+{
+  "type": "node",
+  "id": 9034389902,
+  "lat": 36.3543989,
+  "lon": 129.3553035
+},
+{
+  "type": "node",
+  "id": 9034389903,
+  "lat": 36.3529994,
+  "lon": 129.3557102
+},
+{
+  "type": "node",
+  "id": 9034389904,
+  "lat": 36.3506569,
+  "lon": 129.3565113
+},
+{
+  "type": "node",
+  "id": 13232048340,
+  "lat": 36.3533044,
+  "lon": 129.3556216
+},
+{
+  "type": "node",
+  "id": 13232048342,
+  "lat": 36.3560628,
+  "lon": 129.3550187
+},
+{
+  "type": "node",
+  "id": 13232048344,
+  "lat": 36.3563923,
+  "lon": 129.3549625
+},
+{
+  "type": "node",
+  "id": 9034389895,
+  "lat": 36.3680850,
+  "lon": 129.3526538
+},
+{
+  "type": "node",
+  "id": 9034389896,
+  "lat": 36.3668246,
+  "lon": 129.3529126
+},
+{
+  "type": "node",
+  "id": 9034389897,
+  "lat": 36.3655941,
+  "lon": 129.3531591
+},
+{
+  "type": "node",
+  "id": 13288476601,
+  "lat": 36.3688307,
+  "lon": 129.3524994
+},
+{
+  "type": "node",
+  "id": 13288476604,
+  "lat": 36.3652368,
+  "lon": 129.3532339
+},
+{
+  "type": "node",
+  "id": 13288476605,
+  "lat": 36.3648842,
+  "lon": 129.3533078
+},
+{
+  "type": "node",
+  "id": 13288903168,
+  "lat": 36.3628862,
+  "lon": 129.3537263
+},
+{
+  "type": "node",
+  "id": 9034389891,
+  "lat": 36.3756328,
+  "lon": 129.3509303
+},
+{
+  "type": "node",
+  "id": 13288476597,
+  "lat": 36.3729328,
+  "lon": 129.3515532
+},
+{
+  "type": "node",
+  "id": 13288476598,
+  "lat": 36.3754358,
+  "lon": 129.3509758
 },
 {
   "type": "node",
