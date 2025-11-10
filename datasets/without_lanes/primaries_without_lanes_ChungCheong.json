@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-08T18:48:05Z",
-    "timestamp_areas_base": "2025-11-08T14:16:15Z",
+    "timestamp_osm_base": "2025-11-10T18:50:00Z",
+    "timestamp_areas_base": "2025-11-10T14:28:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -14271,42 +14271,6 @@
     "name:ko": "대금로",
     "oneway": "yes",
     "ref": "82"
-  }
-},
-{
-  "type": "way",
-  "id": 422152399,
-  "nodes": [
-    4218740388,
-    4218744796
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "음성로",
-    "name:en": "Eumseong-ro",
-    "name:ko": "음성로",
-    "oneway": "yes",
-    "ref": "306",
-    "review": "no",
-    "source": "NTIC"
-  }
-},
-{
-  "type": "way",
-  "id": 422152400,
-  "nodes": [
-    4218744793,
-    4218740383
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "음성로",
-    "name:en": "Eumseong-ro",
-    "name:ko": "음성로",
-    "oneway": "yes",
-    "ref": "306",
-    "review": "no",
-    "source": "NTIC"
   }
 },
 {
@@ -103193,14 +103157,14 @@
 {
   "type": "node",
   "id": 436612924,
-  "lat": 36.4326515,
-  "lon": 127.0140111
+  "lat": 36.4328126,
+  "lon": 127.0142268
 },
 {
   "type": "node",
   "id": 448218934,
-  "lat": 36.4312295,
-  "lon": 127.0120287
+  "lat": 36.4311628,
+  "lon": 127.0120345
 },
 {
   "type": "node",
@@ -103211,14 +103175,14 @@
 {
   "type": "node",
   "id": 5394235148,
-  "lat": 36.4321147,
-  "lon": 127.0133144
+  "lat": 36.4323402,
+  "lon": 127.0136215
 },
 {
   "type": "node",
   "id": 5394235163,
-  "lat": 36.4306329,
-  "lon": 127.0113158
+  "lat": 36.4304408,
+  "lon": 127.0110462
 },
 {
   "type": "node",
@@ -103235,8 +103199,8 @@
 {
   "type": "node",
   "id": 11243715231,
-  "lat": 36.4294996,
-  "lon": 127.0096980
+  "lat": 36.4294025,
+  "lon": 127.0095035
 },
 {
   "type": "node",
@@ -196291,30 +196255,6 @@
   "id": 13273938466,
   "lat": 37.0182660,
   "lon": 127.5994461
-},
-{
-  "type": "node",
-  "id": 4218740383,
-  "lat": 37.0309400,
-  "lon": 127.6078136
-},
-{
-  "type": "node",
-  "id": 4218740388,
-  "lat": 37.0309742,
-  "lon": 127.6078823
-},
-{
-  "type": "node",
-  "id": 4218744793,
-  "lat": 37.0310526,
-  "lon": 127.6078019
-},
-{
-  "type": "node",
-  "id": 4218744796,
-  "lat": 37.0310891,
-  "lon": 127.6078735
 },
 {
   "type": "node",
