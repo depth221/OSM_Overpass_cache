@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-19T18:50:10Z",
-    "timestamp_areas_base": "2025-11-19T15:13:16Z",
+    "timestamp_osm_base": "2025-11-20T18:53:04Z",
+    "timestamp_areas_base": "2025-11-20T09:29:10Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -4045,7 +4045,6 @@
     "highway": "primary",
     "layer": "1",
     "ref": "13",
-    "review": "no",
     "surface": "asphalt"
   }
 },
@@ -7805,8 +7804,7 @@
     "name": "금산로",
     "name:en": "Geumsan-ro",
     "name:ko": "금산로",
-    "ref": "13",
-    "review": "no"
+    "ref": "13"
   }
 },
 {
@@ -25150,8 +25148,7 @@
     "name": "금산로",
     "name:en": "Geumsan-ro",
     "name:ko": "금산로",
-    "ref": "13",
-    "review": "no"
+    "ref": "13"
   }
 },
 {
@@ -25169,8 +25166,7 @@
     "name": "금산로",
     "name:en": "Geumsan-ro",
     "name:ko": "금산로",
-    "ref": "13",
-    "review": "no"
+    "ref": "13"
   }
 },
 {
@@ -39622,7 +39618,6 @@
     "name:en": "Geumsan-ro",
     "name:ko": "금산로",
     "ref": "13",
-    "review": "no",
     "surface": "asphalt"
   }
 },
@@ -39641,7 +39636,6 @@
     "name:en": "Geumsan-ro",
     "name:ko": "금산로",
     "ref": "13",
-    "review": "no",
     "surface": "asphalt"
   }
 },
@@ -41739,7 +41733,6 @@
     "name:en": "Geumsan-ro",
     "name:ko": "금산로",
     "ref": "13",
-    "review": "no",
     "surface": "asphalt"
   }
 },
@@ -41772,7 +41765,6 @@
     "name:en": "Geumsan-ro",
     "name:ko": "금산로",
     "ref": "13",
-    "review": "no",
     "surface": "asphalt"
   }
 },
@@ -58519,8 +58511,7 @@
     "name": "금산로",
     "name:en": "Geumsan-ro",
     "name:ko": "금산로",
-    "ref": "13",
-    "review": "no"
+    "ref": "13"
   }
 },
 {
@@ -58535,8 +58526,7 @@
     "name": "금산로",
     "name:en": "Geumsan-ro",
     "name:ko": "금산로",
-    "ref": "13",
-    "review": "no"
+    "ref": "13"
   }
 },
 {
@@ -58551,8 +58541,7 @@
     "name": "금산로",
     "name:en": "Geumsan-ro",
     "name:ko": "금산로",
-    "ref": "13",
-    "review": "no"
+    "ref": "13"
   }
 },
 {
