@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-20T18:53:04Z",
-    "timestamp_areas_base": "2025-11-20T09:29:10Z",
+    "timestamp_osm_base": "2025-11-22T18:49:30Z",
+    "timestamp_areas_base": "2025-11-22T16:23:41Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -400,7 +400,8 @@
     "name": "영동황간로",
     "name:en": "Yeongdonghwanggan-ro",
     "name:ko": "영동황간로",
-    "ref": "68"
+    "ref": "68",
+    "surface": "asphalt"
   }
 },
 {
@@ -19159,6 +19160,7 @@
     5210616152,
     7366365861,
     426667356,
+    13323966767,
     426667361,
     426667362,
     426667364,
@@ -35368,6 +35370,7 @@
     7366365872,
     7366365870,
     7366365871,
+    13323966766,
     7366365869,
     7366365868,
     7366365860,
@@ -53835,7 +53838,8 @@
   "tags": {
     "highway": "primary",
     "junction": "roundabout",
-    "oneway": "yes"
+    "oneway": "yes",
+    "surface": "asphalt"
   }
 },
 {
@@ -100007,8 +100011,8 @@
 {
   "type": "node",
   "id": 8699934091,
-  "lat": 36.4240428,
-  "lon": 126.9501523
+  "lat": 36.4240032,
+  "lon": 126.9501415
 },
 {
   "type": "node",
@@ -136387,6 +136391,18 @@
   "id": 7366365871,
   "lat": 36.2206680,
   "lon": 127.9381815
+},
+{
+  "type": "node",
+  "id": 13323966766,
+  "lat": 36.2209096,
+  "lon": 127.9377341
+},
+{
+  "type": "node",
+  "id": 13323966767,
+  "lat": 36.2208340,
+  "lon": 127.9376827
 },
 {
   "type": "node",
