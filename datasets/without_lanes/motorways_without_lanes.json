@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-22T18:40:14Z",
-    "timestamp_areas_base": "2025-11-22T15:32:33Z",
+    "timestamp_osm_base": "2025-11-23T18:39:48Z",
+    "timestamp_areas_base": "2025-11-23T09:36:06Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -360,6 +360,75 @@
 },
 {
   "type": "way",
+  "id": 769272243,
+  "nodes": [
+    13050815130,
+    11348771050,
+    7181096385,
+    13049563347,
+    7181096386,
+    8434222097,
+    11348771109,
+    7181096387,
+    8434222092,
+    13326070285,
+    8434222094,
+    7181096388
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 769272244,
+  "nodes": [
+    7181096443,
+    8434222095,
+    13326070286,
+    8434222093,
+    7181096444,
+    8434222096,
+    11348771101,
+    11348771108,
+    7181096445,
+    13049563348,
+    7181096446,
+    13050815141,
+    11348771085,
+    11348771099,
+    13050815131
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
   "id": 771043353,
   "nodes": [
     1955179219,
@@ -568,6 +637,150 @@
     "name:zh-Hant": "水原文山高速公路",
     "ref": "17",
     "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 870986006,
+  "nodes": [
+    8093231001,
+    8093231000
+  ],
+  "tags": {
+    "check_date": "2023-11-27",
+    "highway": "motorway",
+    "maxspeed": "80",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2020-11-25",
+    "ref": "20"
+  }
+},
+{
+  "type": "way",
+  "id": 870986007,
+  "nodes": [
+    8093231002,
+    8093231001
+  ],
+  "tags": {
+    "bridge": "yes",
+    "check_date": "2023-11-27",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2020-11-25",
+    "ref": "20",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 870986008,
+  "nodes": [
+    8113264273,
+    6838376278
+  ],
+  "tags": {
+    "bridge": "yes",
+    "check_date": "2023-11-27",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2020-11-25",
+    "ref": "20",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 870986009,
+  "nodes": [
+    6838376276,
+    8113264273
+  ],
+  "tags": {
+    "check_date": "2023-11-27",
+    "highway": "motorway",
+    "maxspeed": "80",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2020-11-25",
+    "ref": "20"
+  }
+},
+{
+  "type": "way",
+  "id": 870986010,
+  "nodes": [
+    7961743357,
+    8434222035,
+    8093231003,
+    13045887736,
+    8093231002
+  ],
+  "tags": {
+    "check_date": "2023-11-27",
+    "highway": "motorway",
+    "maxspeed": "80",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2020-11-25",
+    "ref": "20"
+  }
+},
+{
+  "type": "way",
+  "id": 870986011,
+  "nodes": [
+    6838376278,
+    6838376279,
+    6838376281,
+    6838376282,
+    6838376283
+  ],
+  "tags": {
+    "check_date": "2023-11-27",
+    "highway": "motorway",
+    "maxspeed": "80",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2020-11-25",
+    "ref": "20"
   }
 },
 {
@@ -6153,6 +6366,213 @@
     "oneway": "yes",
     "ref": "29",
     "start_date": "2025-01-01",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1302712623,
+  "nodes": [
+    13063868675,
+    7181096486,
+    7181096494,
+    9083365246,
+    13265899380,
+    11746003967
+  ],
+  "tags": {
+    "change": "no",
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes",
+    "tunnel": "yes",
+    "tunnel:name": "색장터널"
+  }
+},
+{
+  "type": "way",
+  "id": 1302712624,
+  "nodes": [
+    11348359459,
+    13049563383,
+    7181086068,
+    12064890586
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "원은교",
+    "change": "no",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1302712625,
+  "nodes": [
+    12064890587,
+    7181096463,
+    13049563384,
+    11348359467
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "원은교",
+    "change": "no",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1302712629,
+  "nodes": [
+    11348359467,
+    13051451264,
+    12064890590,
+    12064890610,
+    12064890613,
+    12064890614,
+    12064890616,
+    12064890618,
+    12064890619,
+    7181096464,
+    12064890624,
+    13045887734,
+    12064890622
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1302712630,
+  "nodes": [
+    12064890623,
+    12064890621,
+    7181086067,
+    12064890620,
+    12064890617,
+    12064890615,
+    12064890612,
+    12064890611,
+    12064890589,
+    13051451251,
+    11348359459
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1302712631,
+  "nodes": [
+    7181086065,
+    12064890623
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "신월교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1302712632,
+  "nodes": [
+    12064890622,
+    7181096465
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "신월교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
     "toll": "yes"
   }
 },
@@ -15846,6 +16266,253 @@
 },
 {
   "type": "way",
+  "id": 1380183758,
+  "nodes": [
+    12777832789,
+    12777832771,
+    12064890634,
+    11348769248,
+    13325859458,
+    11348770743,
+    13325859473,
+    7181086065
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1380183759,
+  "nodes": [
+    7181096465,
+    12064890632,
+    11348769247,
+    12064890633,
+    12777832790
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1380183760,
+  "nodes": [
+    11348770760,
+    13045887733,
+    12777832789
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "이서JCT1교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1380183761,
+  "nodes": [
+    12777832790,
+    11348770761
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "이서JCT1교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1380188517,
+  "nodes": [
+    13325701323,
+    13325701334,
+    7181086060,
+    13051451843,
+    13326196886
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "note": "여기는 교량구간이 아닙니다.",
+    "oneway": "yes",
+    "opening_date": "2025.11.21",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1380188518,
+  "nodes": [
+    13326196887,
+    13051451842,
+    13265818717,
+    7181096469,
+    13265818728,
+    13325701320
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "note": "여기는 교량구간이 아닙니다.",
+    "oneway": "yes",
+    "opening_date": "2025.11.21",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1380188519,
+  "nodes": [
+    13051451859,
+    13049563391,
+    13049563393,
+    13049563395,
+    13049563398,
+    13049563400,
+    13049563402,
+    11348770680,
+    13049563403,
+    7181086057,
+    13049563405,
+    13049563414,
+    13049563411,
+    13049563410,
+    13049563407,
+    7181086059
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "독배천교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1380188520,
+  "nodes": [
+    7181096470,
+    13049563408,
+    13049563409,
+    13049563412,
+    13325701326,
+    13049563413,
+    13325701325,
+    13049563406,
+    7181096471,
+    13049563404,
+    11348770681,
+    13049563401,
+    13049563399,
+    13049563397,
+    13049563396,
+    13049563394,
+    13049563392,
+    13051451860
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "독배천교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
   "id": 1389008669,
   "nodes": [
     11302794419,
@@ -17139,6 +17806,4170 @@
 },
 {
   "type": "way",
+  "id": 1420122356,
+  "nodes": [
+    13326202160,
+    13049563259,
+    8434222052,
+    8434222049,
+    7181096422,
+    12329951803,
+    7181096423
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "60",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122357,
+  "nodes": [
+    7181096423,
+    13049541586,
+    13049541572
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122358,
+  "nodes": [
+    13049541574,
+    12329951812,
+    7181096411,
+    8434222050,
+    8434222053,
+    13326202159
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "60",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122359,
+  "nodes": [
+    8434222051,
+    13049541574
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122365,
+  "nodes": [
+    13326202162,
+    7181096410,
+    8434222051
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122366,
+  "nodes": [
+    13049541572,
+    13049541573,
+    13049541581,
+    13326202163
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122367,
+  "nodes": [
+    13326202173,
+    13326202174
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122368,
+  "nodes": [
+    13326202171,
+    13326202172
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122372,
+  "nodes": [
+    8434222041,
+    7181096415,
+    13049563217,
+    8434222039,
+    13049563212,
+    13049563211,
+    13049563210,
+    6838376276
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122373,
+  "nodes": [
+    13049563222,
+    8434222041
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122374,
+  "nodes": [
+    8093231000,
+    13049563213,
+    13049563214,
+    13049563215,
+    8434222040,
+    7181096418,
+    13049563216,
+    13049563224,
+    8434222042
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122375,
+  "nodes": [
+    8434222042,
+    13049563223
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122377,
+  "nodes": [
+    13326202152,
+    12816576415,
+    7181096414,
+    13049563222
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122378,
+  "nodes": [
+    13326202151,
+    13326202152
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122379,
+  "nodes": [
+    13049563223,
+    7181096419,
+    13049563235,
+    13326202153
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122380,
+  "nodes": [
+    13326202153,
+    13326202150
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122384,
+  "nodes": [
+    13326202150,
+    13049563238,
+    13326202155
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122385,
+  "nodes": [
+    13326202155,
+    13326202156
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122386,
+  "nodes": [
+    13326202157,
+    13326202154
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122387,
+  "nodes": [
+    13326202154,
+    13326202151
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122389,
+  "nodes": [
+    13326202158,
+    13049563254,
+    8434222048,
+    13049563252,
+    8434222046,
+    13049563250,
+    8434222044,
+    13326202157
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122390,
+  "nodes": [
+    13326202159,
+    13326202158
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122391,
+  "nodes": [
+    13326202156,
+    8434222037,
+    13049563249,
+    8434222038,
+    13049563251,
+    7181096421,
+    13049563253,
+    13326202161
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122392,
+  "nodes": [
+    13326202161,
+    13326202160
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122396,
+  "nodes": [
+    13326202174,
+    8434222055,
+    13050809564,
+    13326202169
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122397,
+  "nodes": [
+    13326202169,
+    13326202168
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122398,
+  "nodes": [
+    13049563269,
+    7181096425,
+    13050809563,
+    13326202171
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122399,
+  "nodes": [
+    13326202170,
+    13049563269
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122401,
+  "nodes": [
+    13326202164,
+    13326202170
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122402,
+  "nodes": [
+    13326202168,
+    13326202165
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122403,
+  "nodes": [
+    13326202165,
+    13326202162
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122404,
+  "nodes": [
+    13326202163,
+    13326202164
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122409,
+  "nodes": [
+    11348771177,
+    7181096398,
+    9713827884,
+    7181096399,
+    13050809594
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122410,
+  "nodes": [
+    13050809595,
+    9713827883,
+    9713827885,
+    7181096431,
+    7181096432,
+    11348771176
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122411,
+  "nodes": [
+    11348771176,
+    13049563315
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122412,
+  "nodes": [
+    13049563316,
+    11348771177
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122414,
+  "nodes": [
+    13049563321,
+    13049563316
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122415,
+  "nodes": [
+    13049563315,
+    13049563322
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122416,
+  "nodes": [
+    13049563322,
+    7181096433
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122417,
+  "nodes": [
+    7181096400,
+    13049563321
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122419,
+  "nodes": [
+    13050809599,
+    11348771119,
+    7181096396,
+    13050809597
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122420,
+  "nodes": [
+    8434222072,
+    13049563327
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122421,
+  "nodes": [
+    13050809596,
+    7181096435,
+    11348771120,
+    13050809598
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122422,
+  "nodes": [
+    13049563328,
+    7181096436
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122424,
+  "nodes": [
+    13049563335,
+    11348771162,
+    8434222073,
+    8434222072
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122425,
+  "nodes": [
+    8434222074,
+    13049563335
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122426,
+  "nodes": [
+    7181096436,
+    8434222077,
+    13049563336
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122427,
+  "nodes": [
+    13049563336,
+    8434222078
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122429,
+  "nodes": [
+    13326070245,
+    13049563372,
+    7181096458,
+    13049563374,
+    11348359456,
+    13049563376,
+    11348359462,
+    11348359442,
+    13049563381,
+    13325880001,
+    7181096459,
+    7181096460,
+    13051451248,
+    7181096461,
+    11348359446,
+    11348393273,
+    13325847896,
+    7181096462,
+    13325847895,
+    12064890587
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122430,
+  "nodes": [
+    12064890586,
+    13325847897,
+    13325847898,
+    7181086069,
+    13325847899,
+    11348359461,
+    11348393281,
+    13051451249,
+    7181086072,
+    7181086070,
+    7181086071,
+    13325847900,
+    13049563382,
+    11348359455,
+    11348393280,
+    13049563377,
+    11348359447,
+    13049563375,
+    7181086073,
+    13049563373,
+    13326070246
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122431,
+  "nodes": [
+    13049563359,
+    13049563349,
+    7181096448,
+    13049563351,
+    13049563358,
+    13049563357,
+    13049563356,
+    7181096449,
+    13049563361
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "상정3교",
+    "change": "no",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122432,
+  "nodes": [
+    13049563362,
+    7181086084,
+    13049563355,
+    13049563354,
+    13049563353,
+    13049563352,
+    13049563350,
+    7181086082,
+    13049563360
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "상정3교",
+    "change": "no",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122435,
+  "nodes": [
+    13326164347,
+    11348770685,
+    7181096472,
+    7181096473,
+    13326070224,
+    11348770686,
+    11348770699,
+    11348770695
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122438,
+  "nodes": [
+    13049563421,
+    13325637322,
+    13325637323,
+    13049563420
+  ],
+  "tags": {
+    "change": "no",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122439,
+  "nodes": [
+    13049563419,
+    13325637321,
+    13325637320,
+    13051451901,
+    11348770702
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122445,
+  "nodes": [
+    11348770705,
+    13265899379,
+    13325637316,
+    9083365241
+  ],
+  "tags": {
+    "change": "no",
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes",
+    "tunnel": "yes",
+    "tunnel:name": "구이2터널"
+  }
+},
+{
+  "type": "way",
+  "id": 1420122447,
+  "nodes": [
+    11746003967,
+    13265899382,
+    13265899383,
+    13265899384,
+    7181096487,
+    13265899385,
+    13265899386,
+    9083365248
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256615,
+  "nodes": [
+    13326202172,
+    8434222057,
+    7181096426,
+    13050809565
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256616,
+  "nodes": [
+    13050809565,
+    13050809566
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "평동교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256617,
+  "nodes": [
+    13050809568,
+    7181096406,
+    8434222054,
+    13326202173
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256618,
+  "nodes": [
+    13050809567,
+    13050809568
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "평동교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256619,
+  "nodes": [
+    13050809566,
+    13049563274,
+    13050809570
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256620,
+  "nodes": [
+    13050809569,
+    13050809567
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256621,
+  "nodes": [
+    11348771185,
+    13050809569
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "관기1교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256622,
+  "nodes": [
+    13050809570,
+    11348771186
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "관기1교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256623,
+  "nodes": [
+    11348771186,
+    8434222059,
+    13050809571
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256624,
+  "nodes": [
+    13050809572,
+    8434222058,
+    11348771185
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256625,
+  "nodes": [
+    8434222061,
+    13050809572
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "관기2교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256626,
+  "nodes": [
+    13050809571,
+    8434222063
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "관기2교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256627,
+  "nodes": [
+    13050809574,
+    8434222064,
+    8434222060,
+    8434222061
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256629,
+  "nodes": [
+    8434222063,
+    8434222062,
+    8434222065,
+    13050809575
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256631,
+  "nodes": [
+    13050809576,
+    7181096427,
+    11348771184,
+    7181096428,
+    8434222067,
+    13050809577
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256632,
+  "nodes": [
+    13050809578,
+    8434222066,
+    7181096404,
+    11348771183,
+    7181096405,
+    13050809573
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256633,
+  "nodes": [
+    13050809579,
+    13050809578
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "상궐2교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256634,
+  "nodes": [
+    13050809577,
+    13050809580
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "상궐2교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256635,
+  "nodes": [
+    13050809581,
+    7181096403,
+    13050809579
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256636,
+  "nodes": [
+    8434222071,
+    13050809581
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "상궐3교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256637,
+  "nodes": [
+    13050809580,
+    7181096429,
+    13050809582
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256638,
+  "nodes": [
+    13050809582,
+    8434222069
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "상궐3교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256639,
+  "nodes": [
+    8434222069,
+    13050809584,
+    8434222068
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256640,
+  "nodes": [
+    8434222070,
+    13050809583,
+    8434222071
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256641,
+  "nodes": [
+    8434222068,
+    9713827882
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "상궐4교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256642,
+  "nodes": [
+    13050809585,
+    8434222070
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "상궐4교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256643,
+  "nodes": [
+    7181096402,
+    13050809585
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256644,
+  "nodes": [
+    9713827882,
+    9713827881
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256645,
+  "nodes": [
+    9713827881,
+    9713827877
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "석교교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256646,
+  "nodes": [
+    9713827880,
+    7181096402
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "석교교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256648,
+  "nodes": [
+    13050809591,
+    13049563288,
+    13049563287,
+    9713827879,
+    9713827880
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256649,
+  "nodes": [
+    9713827877,
+    13049563286,
+    9713827878,
+    13049563289,
+    13050809590
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256650,
+  "nodes": [
+    7181096401,
+    13050809589,
+    13050809591
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "정당1교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256651,
+  "nodes": [
+    13050809590,
+    13050809588,
+    7181096430
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "정당1교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256652,
+  "nodes": [
+    13050809592,
+    7181096401
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256653,
+  "nodes": [
+    7181096430,
+    13050809593
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256654,
+  "nodes": [
+    13050809594,
+    13050809592
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "정당2교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256655,
+  "nodes": [
+    13050809593,
+    13050809595
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "정당2교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256657,
+  "nodes": [
+    7181096433,
+    11348771172,
+    11348771173,
+    7181096434,
+    11348771170
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256658,
+  "nodes": [
+    11348771170,
+    13050815211,
+    13050809596
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "두무교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256659,
+  "nodes": [
+    11348771171,
+    7181096397,
+    11348771174,
+    11348771175,
+    7181096400
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256660,
+  "nodes": [
+    13050809597,
+    13050815212,
+    11348771171
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "두무교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256661,
+  "nodes": [
+    13326070306,
+    11348771161,
+    13049563328
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256662,
+  "nodes": [
+    13049563327,
+    11348771118,
+    13326070322
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256663,
+  "nodes": [
+    13050809598,
+    13050815101
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "신흥1교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256664,
+  "nodes": [
+    7181096395,
+    13050809599
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "신흥1교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256666,
+  "nodes": [
+    8434222078,
+    7181096437,
+    8434222076,
+    13049563338,
+    7181096438,
+    8434222080,
+    7181096439,
+    11348771114,
+    11348771116,
+    11992210532
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256667,
+  "nodes": [
+    11992210532,
+    13050815106
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "원부교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256668,
+  "nodes": [
+    11992210533,
+    11348771115,
+    11348771113,
+    7181096392,
+    8434222079,
+    7181096393,
+    13049563337,
+    8434222075,
+    7181096394,
+    8434222074
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256669,
+  "nodes": [
+    13050815107,
+    13050815108,
+    11992210533
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "원부교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256670,
+  "nodes": [
+    13050815106,
+    8434222085,
+    7181096440,
+    8434222083,
+    8434222086,
+    7181096441
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256671,
+  "nodes": [
+    7181096390,
+    8434222082,
+    8434222081,
+    7181096391,
+    8434222084,
+    13050815107
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256672,
+  "nodes": [
+    8434222090,
+    7181096390
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "신평천교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256673,
+  "nodes": [
+    7181096441,
+    8434222088
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "신평천교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256674,
+  "nodes": [
+    8434222088,
+    11348771112,
+    8434222087,
+    11348771110,
+    8434222091,
+    7181096442
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256675,
+  "nodes": [
+    11348771100,
+    7181096389,
+    11348771111,
+    8434222089,
+    8434222090
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256676,
+  "nodes": [
+    7181096388,
+    11348771100
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "백산1교",
+    "change": "no",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256677,
+  "nodes": [
+    7181096442,
+    7181096443
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "백산1교",
+    "change": "no",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256679,
+  "nodes": [
+    13050815135,
+    7181086083,
+    11348771033,
+    11348771055,
+    11348771031
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256680,
+  "nodes": [
+    13050815134,
+    7181096447,
+    13050815138
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256681,
+  "nodes": [
+    13050815131,
+    13050815132
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "북김제IC교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256682,
+  "nodes": [
+    13050815133,
+    13050815130
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "북김제IC교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256683,
+  "nodes": [
+    13050815281,
+    13050815136
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256684,
+  "nodes": [
+    13050815136,
+    13050815135
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "부동교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256685,
+  "nodes": [
+    13050815137,
+    13050815284
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256686,
+  "nodes": [
+    13050815138,
+    13050815137
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "부동교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256687,
+  "nodes": [
+    13050815132,
+    13050815140
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256688,
+  "nodes": [
+    13050815139,
+    13050815133
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256689,
+  "nodes": [
+    11348771031,
+    13050815139
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "상정2교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256690,
+  "nodes": [
+    13050815140,
+    13050815134
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "상정2교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256691,
+  "nodes": [
+    13049563361,
+    8434222100,
+    11348771034,
+    13050815292,
+    11348771037,
+    7181096450,
+    11348771038,
+    7181096451,
+    13049563365,
+    12406844536
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256692,
+  "nodes": [
+    12406844536,
+    8434222098
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "용암천교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256695,
+  "nodes": [
+    8434222098,
+    7181096452,
+    12406843814,
+    8434222102,
+    12406844532,
+    11348359451,
+    12406844523
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256696,
+  "nodes": [
+    12406844523,
+    11348359466
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "마교제교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256698,
+  "nodes": [
+    13050815142,
+    11348393272
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "마교제교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256727,
+  "nodes": [
+    13049563360,
+    13050815282
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256728,
+  "nodes": [
+    13050815282,
+    13050815281
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "부동교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256729,
+  "nodes": [
+    13050815283,
+    13049563359
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420256730,
+  "nodes": [
+    13050815284,
+    13050815283
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "부동교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311366,
+  "nodes": [
+    13326196891,
+    11348770760
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311367,
+  "nodes": [
+    13051451279,
+    13326196891
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311368,
+  "nodes": [
+    11348770761,
+    11348770750
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311369,
+  "nodes": [
+    11348770750,
+    13326196890
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311385,
+  "nodes": [
+    13325701377,
+    13326196888
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025.11.21",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311386,
+  "nodes": [
+    13326196889,
+    13325701375
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025.11.21",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311387,
+  "nodes": [
+    13326196886,
+    13326196889
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311388,
+  "nodes": [
+    13326196888,
+    13326196887
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311392,
+  "nodes": [
+    13325701319,
+    13325701333,
+    11348770677,
+    13325701328,
+    7181096470
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "note": "여기는 교량구간이 아닙니다.",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311393,
+  "nodes": [
+    13325701320,
+    13325701319
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311394,
+  "nodes": [
+    7181086059,
+    13265818702,
+    13325701327,
+    7181086058,
+    13265818716,
+    13325701331,
+    13325701332,
+    13325701324
+  ],
+  "tags": {
+    "embankment": "yes",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "note": "여기는 교량구간이 아닙니다.",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311395,
+  "nodes": [
+    13325701324,
+    13325701323
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311399,
+  "nodes": [
+    13326196885,
+    13051451859
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "note": "여기는 교량구간이 아닙니다.",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311400,
+  "nodes": [
+    13051451860,
+    11348770679
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "note": "여기는 교량구간이 아닙니다.",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311401,
+  "nodes": [
+    13326196883,
+    13326196885
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "독배천교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311402,
+  "nodes": [
+    11348770679,
+    13326196884
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "독배천교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311403,
+  "nodes": [
+    13326196884,
+    13326164345
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "note": "여기는 교량구간이 아닙니다.",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311413,
+  "nodes": [
+    13326196873,
+    13049563424,
+    11348770692,
+    13326196874
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "삼천교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311414,
+  "nodes": [
+    13051451895,
+    11348770691,
+    13049563423,
+    13326196872
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "삼천교",
+    "change": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311415,
+  "nodes": [
+    13326196876,
+    13326196879
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311416,
+  "nodes": [
+    13326196878,
+    13326196877
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311417,
+  "nodes": [
+    13326196872,
+    12035869747,
+    13326196880,
+    13326196876
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311418,
+  "nodes": [
+    13326196877,
+    13326196881,
+    12035869756,
+    11348770731,
+    13265818663,
+    13265791589,
+    13326196873
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311419,
+  "nodes": [
+    13326196874,
+    13326196875,
+    13265899373,
+    11348770688
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1420311420,
+  "nodes": [
+    7181086053,
+    13265899374,
+    13325637326,
+    13325637325,
+    13325637324,
+    13051451895
+  ],
+  "tags": {
+    "change": "no",
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
   "id": 1421445962,
   "nodes": [
     12949245013,
@@ -18166,6 +22997,82 @@
 },
 {
   "type": "way",
+  "id": 1445856463,
+  "nodes": [
+    11348770695,
+    13288336418,
+    11348770697,
+    12035869762,
+    13326196878
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1445866561,
+  "nodes": [
+    9083365244,
+    13325535135
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "전주천교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1445866563,
+  "nodes": [
+    7181096485,
+    13063868674,
+    13265899342
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
   "id": 1448342277,
   "nodes": [
     13288476598,
@@ -18712,6 +23619,4338 @@
     "toll": "yes",
     "tunnel": "yes"
   }
+},
+{
+  "type": "way",
+  "id": 1453013141,
+  "nodes": [
+    7181096488,
+    13265899389,
+    13326059395,
+    13326059394,
+    13326059393,
+    13326059392,
+    13326059391,
+    9083365253
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "70",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1453013144,
+  "nodes": [
+    13325535139,
+    9083365244
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1453013145,
+  "nodes": [
+    13325535137,
+    9083365240
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1453013146,
+  "nodes": [
+    7181086044,
+    9083365242
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "전주천교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1453013147,
+  "nodes": [
+    13325535135,
+    12777868503
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20"
+  }
+},
+{
+  "type": "way",
+  "id": 1453013148,
+  "nodes": [
+    9083365242,
+    13325535136
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1453013149,
+  "nodes": [
+    13325535136,
+    13051451903,
+    7181086043,
+    13325535137
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "고덕교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1453013150,
+  "nodes": [
+    9083365241,
+    13325535138
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1453013151,
+  "nodes": [
+    13325535138,
+    7181096483,
+    13325535139
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "고덕교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1453031776,
+  "nodes": [
+    12777868503,
+    7181096485
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "전주천교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1453031777,
+  "nodes": [
+    13265899342,
+    13265899320,
+    11348770709,
+    13325637311
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1453031778,
+  "nodes": [
+    13325637311,
+    13063868675
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1453035848,
+  "nodes": [
+    13325701374,
+    11348770671,
+    13325701339,
+    13325701340,
+    13325701335
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025.11.21",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1453035849,
+  "nodes": [
+    13325701375,
+    13325701374
+  ],
+  "tags": {
+    "change": "no",
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025.11.21",
+    "ref": "20",
+    "toll": "yes",
+    "tunnel": "yes",
+    "tunnel:name": "이서3터널"
+  }
+},
+{
+  "type": "way",
+  "id": 1453035850,
+  "nodes": [
+    13325701336,
+    13325701342,
+    13325701341,
+    11348770672,
+    13325701376
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025.11.21",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1453035851,
+  "nodes": [
+    13325701376,
+    13325701377
+  ],
+  "tags": {
+    "change": "no",
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025.11.21",
+    "ref": "20",
+    "toll": "yes",
+    "tunnel": "yes",
+    "tunnel:name": "이서3터널"
+  }
+},
+{
+  "type": "way",
+  "id": 1453080104,
+  "nodes": [
+    9083365248,
+    13265899387,
+    13326059397,
+    13265899388,
+    7181096488
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1453080131,
+  "nodes": [
+    11348359466,
+    11348359468,
+    7181096454,
+    7181096455,
+    11348359440,
+    11348393282,
+    13050815301,
+    7181096456,
+    7181096457
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1453080132,
+  "nodes": [
+    7181096457,
+    13326070245
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1453080133,
+  "nodes": [
+    7181086074,
+    11348359458,
+    13050815300,
+    7181086075,
+    11348393284,
+    7181086076,
+    8434222103,
+    11348359445,
+    13050815142
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1453080134,
+  "nodes": [
+    13326070246,
+    7181086074
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1453080158,
+  "nodes": [
+    13050815101,
+    11348771121,
+    11348771117
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1453080159,
+  "nodes": [
+    11348771117,
+    13326070306
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1453080163,
+  "nodes": [
+    13326070323,
+    7181096395
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1453080164,
+  "nodes": [
+    13326070322,
+    13326070323
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7181096421,
+  "lat": 35.8506075,
+  "lon": 126.7136399
+},
+{
+  "type": "node",
+  "id": 8434222037,
+  "lat": 35.8512423,
+  "lon": 126.7104502
+},
+{
+  "type": "node",
+  "id": 8434222038,
+  "lat": 35.8508553,
+  "lon": 126.7119807
+},
+{
+  "type": "node",
+  "id": 8434222044,
+  "lat": 35.8513278,
+  "lon": 126.7104888
+},
+{
+  "type": "node",
+  "id": 8434222046,
+  "lat": 35.8509342,
+  "lon": 126.7120284
+},
+{
+  "type": "node",
+  "id": 8434222048,
+  "lat": 35.8506961,
+  "lon": 126.7136680
+},
+{
+  "type": "node",
+  "id": 13049563249,
+  "lat": 35.8509864,
+  "lon": 126.7113449
+},
+{
+  "type": "node",
+  "id": 13049563250,
+  "lat": 35.8510686,
+  "lon": 126.7113726
+},
+{
+  "type": "node",
+  "id": 13049563251,
+  "lat": 35.8507162,
+  "lon": 126.7127381
+},
+{
+  "type": "node",
+  "id": 13049563252,
+  "lat": 35.8508102,
+  "lon": 126.7127496
+},
+{
+  "type": "node",
+  "id": 7181096411,
+  "lat": 35.8511990,
+  "lon": 126.7195855
+},
+{
+  "type": "node",
+  "id": 7181096422,
+  "lat": 35.8510421,
+  "lon": 126.7196166
+},
+{
+  "type": "node",
+  "id": 8434222049,
+  "lat": 35.8506683,
+  "lon": 126.7176728
+},
+{
+  "type": "node",
+  "id": 8434222050,
+  "lat": 35.8508391,
+  "lon": 126.7176432
+},
+{
+  "type": "node",
+  "id": 8434222052,
+  "lat": 35.8505594,
+  "lon": 126.7169065
+},
+{
+  "type": "node",
+  "id": 8434222053,
+  "lat": 35.8506462,
+  "lon": 126.7163392
+},
+{
+  "type": "node",
+  "id": 13049563253,
+  "lat": 35.8505283,
+  "lon": 126.7145266
+},
+{
+  "type": "node",
+  "id": 13049563254,
+  "lat": 35.8506275,
+  "lon": 126.7145366
+},
+{
+  "type": "node",
+  "id": 13049563259,
+  "lat": 35.8505164,
+  "lon": 126.7163558
+},
+{
+  "type": "node",
+  "id": 13326202158,
+  "lat": 35.8506178,
+  "lon": 126.7151645
+},
+{
+  "type": "node",
+  "id": 13326202159,
+  "lat": 35.8506245,
+  "lon": 126.7156200
+},
+{
+  "type": "node",
+  "id": 13326202160,
+  "lat": 35.8505069,
+  "lon": 126.7157256
+},
+{
+  "type": "node",
+  "id": 13326202161,
+  "lat": 35.8505072,
+  "lon": 126.7152929
+},
+{
+  "type": "node",
+  "id": 6838376276,
+  "lat": 35.8545504,
+  "lon": 126.6976397
+},
+{
+  "type": "node",
+  "id": 6838376278,
+  "lat": 35.8545102,
+  "lon": 126.6969451
+},
+{
+  "type": "node",
+  "id": 6838376279,
+  "lat": 35.8544673,
+  "lon": 126.6965136
+},
+{
+  "type": "node",
+  "id": 6838376281,
+  "lat": 35.8544154,
+  "lon": 126.6960671
+},
+{
+  "type": "node",
+  "id": 6838376282,
+  "lat": 35.8543087,
+  "lon": 126.6952120
+},
+{
+  "type": "node",
+  "id": 6838376283,
+  "lat": 35.8542070,
+  "lon": 126.6944633
+},
+{
+  "type": "node",
+  "id": 7961743357,
+  "lat": 35.8540820,
+  "lon": 126.6942557
+},
+{
+  "type": "node",
+  "id": 8093231000,
+  "lat": 35.8544643,
+  "lon": 126.6976372
+},
+{
+  "type": "node",
+  "id": 8093231001,
+  "lat": 35.8544516,
+  "lon": 126.6973872
+},
+{
+  "type": "node",
+  "id": 8093231002,
+  "lat": 35.8544216,
+  "lon": 126.6969473
+},
+{
+  "type": "node",
+  "id": 8093231003,
+  "lat": 35.8543032,
+  "lon": 126.6957932
+},
+{
+  "type": "node",
+  "id": 8113264273,
+  "lat": 35.8545365,
+  "lon": 126.6973892
+},
+{
+  "type": "node",
+  "id": 8434222035,
+  "lat": 35.8541944,
+  "lon": 126.6950091
+},
+{
+  "type": "node",
+  "id": 8434222039,
+  "lat": 35.8544431,
+  "lon": 126.7006103
+},
+{
+  "type": "node",
+  "id": 8434222040,
+  "lat": 35.8543863,
+  "lon": 126.7002724
+},
+{
+  "type": "node",
+  "id": 13045887736,
+  "lat": 35.8543901,
+  "lon": 126.6964769
+},
+{
+  "type": "node",
+  "id": 13049563210,
+  "lat": 35.8545704,
+  "lon": 126.6982443
+},
+{
+  "type": "node",
+  "id": 13049563211,
+  "lat": 35.8545628,
+  "lon": 126.6990472
+},
+{
+  "type": "node",
+  "id": 13049563212,
+  "lat": 35.8545293,
+  "lon": 126.6996661
+},
+{
+  "type": "node",
+  "id": 13049563213,
+  "lat": 35.8544830,
+  "lon": 126.6983104
+},
+{
+  "type": "node",
+  "id": 13049563214,
+  "lat": 35.8544709,
+  "lon": 126.6989763
+},
+{
+  "type": "node",
+  "id": 13049563215,
+  "lat": 35.8544467,
+  "lon": 126.6995288
+},
+{
+  "type": "node",
+  "id": 7181096414,
+  "lat": 35.8537249,
+  "lon": 126.7043470
+},
+{
+  "type": "node",
+  "id": 7181096415,
+  "lat": 35.8542596,
+  "lon": 126.7020045
+},
+{
+  "type": "node",
+  "id": 7181096418,
+  "lat": 35.8543123,
+  "lon": 126.7009527
+},
+{
+  "type": "node",
+  "id": 7181096419,
+  "lat": 35.8536192,
+  "lon": 126.7043265
+},
+{
+  "type": "node",
+  "id": 8434222041,
+  "lat": 35.8540450,
+  "lon": 126.7030755
+},
+{
+  "type": "node",
+  "id": 8434222042,
+  "lat": 35.8539539,
+  "lon": 126.7030785
+},
+{
+  "type": "node",
+  "id": 12816576415,
+  "lat": 35.8531474,
+  "lon": 126.7060533
+},
+{
+  "type": "node",
+  "id": 13049563216,
+  "lat": 35.8541932,
+  "lon": 126.7018649
+},
+{
+  "type": "node",
+  "id": 13049563217,
+  "lat": 35.8543929,
+  "lon": 126.7010476
+},
+{
+  "type": "node",
+  "id": 13049563222,
+  "lat": 35.8539006,
+  "lon": 126.7036626
+},
+{
+  "type": "node",
+  "id": 13049563223,
+  "lat": 35.8538079,
+  "lon": 126.7036715
+},
+{
+  "type": "node",
+  "id": 13049563224,
+  "lat": 35.8540923,
+  "lon": 126.7024394
+},
+{
+  "type": "node",
+  "id": 13049563235,
+  "lat": 35.8533829,
+  "lon": 126.7050340
+},
+{
+  "type": "node",
+  "id": 13049563238,
+  "lat": 35.8525360,
+  "lon": 126.7071410
+},
+{
+  "type": "node",
+  "id": 13326202150,
+  "lat": 35.8528123,
+  "lon": 126.7065080
+},
+{
+  "type": "node",
+  "id": 13326202151,
+  "lat": 35.8529042,
+  "lon": 126.7066435
+},
+{
+  "type": "node",
+  "id": 13326202152,
+  "lat": 35.8531304,
+  "lon": 126.7060922
+},
+{
+  "type": "node",
+  "id": 13326202153,
+  "lat": 35.8530366,
+  "lon": 126.7059533
+},
+{
+  "type": "node",
+  "id": 13326202154,
+  "lat": 35.8522331,
+  "lon": 126.7081313
+},
+{
+  "type": "node",
+  "id": 13326202155,
+  "lat": 35.8521423,
+  "lon": 126.7080791
+},
+{
+  "type": "node",
+  "id": 13326202156,
+  "lat": 35.8514857,
+  "lon": 126.7097268
+},
+{
+  "type": "node",
+  "id": 13326202157,
+  "lat": 35.8515864,
+  "lon": 126.7097676
+},
+{
+  "type": "node",
+  "id": 7181096423,
+  "lat": 35.8520328,
+  "lon": 126.7234638
+},
+{
+  "type": "node",
+  "id": 8434222051,
+  "lat": 35.8524401,
+  "lon": 126.7250599
+},
+{
+  "type": "node",
+  "id": 12329951803,
+  "lat": 35.8517025,
+  "lon": 126.7220873
+},
+{
+  "type": "node",
+  "id": 12329951812,
+  "lat": 35.8515434,
+  "lon": 126.7210217
+},
+{
+  "type": "node",
+  "id": 13049541572,
+  "lat": 35.8523366,
+  "lon": 126.7250897
+},
+{
+  "type": "node",
+  "id": 13049541573,
+  "lat": 35.8525131,
+  "lon": 126.7261613
+},
+{
+  "type": "node",
+  "id": 13049541574,
+  "lat": 35.8521913,
+  "lon": 126.7237391
+},
+{
+  "type": "node",
+  "id": 13049541586,
+  "lat": 35.8522036,
+  "lon": 126.7243775
+},
+{
+  "type": "node",
+  "id": 7181096410,
+  "lat": 35.8527386,
+  "lon": 126.7271280
+},
+{
+  "type": "node",
+  "id": 13049541581,
+  "lat": 35.8526779,
+  "lon": 126.7274627
+},
+{
+  "type": "node",
+  "id": 13326202162,
+  "lat": 35.8536334,
+  "lon": 126.7363657
+},
+{
+  "type": "node",
+  "id": 13326202163,
+  "lat": 35.8535443,
+  "lon": 126.7363787
+},
+{
+  "type": "node",
+  "id": 13326202164,
+  "lat": 35.8535589,
+  "lon": 126.7365434
+},
+{
+  "type": "node",
+  "id": 13326202165,
+  "lat": 35.8536472,
+  "lon": 126.7365229
+},
+{
+  "type": "node",
+  "id": 7181096425,
+  "lat": 35.8548515,
+  "lon": 126.7500245
+},
+{
+  "type": "node",
+  "id": 8434222055,
+  "lat": 35.8551091,
+  "lon": 126.7520469
+},
+{
+  "type": "node",
+  "id": 13049563269,
+  "lat": 35.8546587,
+  "lon": 126.7479744
+},
+{
+  "type": "node",
+  "id": 13050809563,
+  "lat": 35.8550115,
+  "lon": 126.7521321
+},
+{
+  "type": "node",
+  "id": 13050809564,
+  "lat": 35.8549317,
+  "lon": 126.7498552
+},
+{
+  "type": "node",
+  "id": 13326202168,
+  "lat": 35.8547259,
+  "lon": 126.7477821
+},
+{
+  "type": "node",
+  "id": 13326202169,
+  "lat": 35.8547436,
+  "lon": 126.7479582
+},
+{
+  "type": "node",
+  "id": 13326202170,
+  "lat": 35.8546409,
+  "lon": 126.7478032
+},
+{
+  "type": "node",
+  "id": 8434222054,
+  "lat": 35.8553215,
+  "lon": 126.7586124
+},
+{
+  "type": "node",
+  "id": 8434222057,
+  "lat": 35.8552214,
+  "lon": 126.7586174
+},
+{
+  "type": "node",
+  "id": 13326202171,
+  "lat": 35.8551341,
+  "lon": 126.7547551
+},
+{
+  "type": "node",
+  "id": 13326202172,
+  "lat": 35.8551810,
+  "lon": 126.7562289
+},
+{
+  "type": "node",
+  "id": 13326202173,
+  "lat": 35.8552839,
+  "lon": 126.7559327
+},
+{
+  "type": "node",
+  "id": 13326202174,
+  "lat": 35.8552324,
+  "lon": 126.7544687
+},
+{
+  "type": "node",
+  "id": 7181096406,
+  "lat": 35.8552597,
+  "lon": 126.7626415
+},
+{
+  "type": "node",
+  "id": 7181096426,
+  "lat": 35.8551371,
+  "lon": 126.7626059
+},
+{
+  "type": "node",
+  "id": 13049563274,
+  "lat": 35.8549297,
+  "lon": 126.7654318
+},
+{
+  "type": "node",
+  "id": 13050809565,
+  "lat": 35.8550339,
+  "lon": 126.7639428
+},
+{
+  "type": "node",
+  "id": 13050809566,
+  "lat": 35.8550085,
+  "lon": 126.7643061
+},
+{
+  "type": "node",
+  "id": 13050809567,
+  "lat": 35.8551233,
+  "lon": 126.7643626
+},
+{
+  "type": "node",
+  "id": 13050809568,
+  "lat": 35.8551545,
+  "lon": 126.7639692
+},
+{
+  "type": "node",
+  "id": 8434222058,
+  "lat": 35.8546555,
+  "lon": 126.7701551
+},
+{
+  "type": "node",
+  "id": 8434222059,
+  "lat": 35.8545513,
+  "lon": 126.7700709
+},
+{
+  "type": "node",
+  "id": 8434222061,
+  "lat": 35.8544949,
+  "lon": 126.7720494
+},
+{
+  "type": "node",
+  "id": 8434222063,
+  "lat": 35.8543819,
+  "lon": 126.7721071
+},
+{
+  "type": "node",
+  "id": 11348771185,
+  "lat": 35.8548708,
+  "lon": 126.7674745
+},
+{
+  "type": "node",
+  "id": 11348771186,
+  "lat": 35.8547558,
+  "lon": 126.7674888
+},
+{
+  "type": "node",
+  "id": 13050809569,
+  "lat": 35.8549037,
+  "lon": 126.7670690
+},
+{
+  "type": "node",
+  "id": 13050809570,
+  "lat": 35.8547898,
+  "lon": 126.7670873
+},
+{
+  "type": "node",
+  "id": 13050809571,
+  "lat": 35.8544869,
+  "lon": 126.7708449
+},
+{
+  "type": "node",
+  "id": 13050809572,
+  "lat": 35.8545997,
+  "lon": 126.7708118
+},
+{
+  "type": "node",
+  "id": 7181096403,
+  "lat": 35.8508260,
+  "lon": 126.7855094
+},
+{
+  "type": "node",
+  "id": 7181096429,
+  "lat": 35.8506601,
+  "lon": 126.7854666
+},
+{
+  "type": "node",
+  "id": 8434222067,
+  "lat": 35.8514663,
+  "lon": 126.7837681
+},
+{
+  "type": "node",
+  "id": 13050809577,
+  "lat": 35.8511950,
+  "lon": 126.7843398
+},
+{
+  "type": "node",
+  "id": 13050809578,
+  "lat": 35.8512420,
+  "lon": 126.7846287
+},
+{
+  "type": "node",
+  "id": 13050809579,
+  "lat": 35.8510340,
+  "lon": 126.7850690
+},
+{
+  "type": "node",
+  "id": 13050809580,
+  "lat": 35.8509719,
+  "lon": 126.7848097
+},
+{
+  "type": "node",
+  "id": 9713827878,
+  "lat": 35.8437726,
+  "lon": 126.7978296
+},
+{
+  "type": "node",
+  "id": 9713827879,
+  "lat": 35.8442842,
+  "lon": 126.7968600
+},
+{
+  "type": "node",
+  "id": 13049563286,
+  "lat": 35.8442408,
+  "lon": 126.7967117
+},
+{
+  "type": "node",
+  "id": 13049563287,
+  "lat": 35.8438670,
+  "lon": 126.7978910
+},
+{
+  "type": "node",
+  "id": 13049563289,
+  "lat": 35.8433667,
+  "lon": 126.7989019
+},
+{
+  "type": "node",
+  "id": 8434222068,
+  "lat": 35.8472622,
+  "lon": 126.7912364
+},
+{
+  "type": "node",
+  "id": 8434222069,
+  "lat": 35.8493770,
+  "lon": 126.7880641
+},
+{
+  "type": "node",
+  "id": 8434222070,
+  "lat": 35.8473519,
+  "lon": 126.7913008
+},
+{
+  "type": "node",
+  "id": 8434222071,
+  "lat": 35.8494631,
+  "lon": 126.7880832
+},
+{
+  "type": "node",
+  "id": 9713827882,
+  "lat": 35.8468215,
+  "lon": 126.7918825
+},
+{
+  "type": "node",
+  "id": 13050809581,
+  "lat": 35.8496783,
+  "lon": 126.7876877
+},
+{
+  "type": "node",
+  "id": 13050809582,
+  "lat": 35.8495847,
+  "lon": 126.7876436
+},
+{
+  "type": "node",
+  "id": 13050809583,
+  "lat": 35.8489419,
+  "lon": 126.7889297
+},
+{
+  "type": "node",
+  "id": 13050809584,
+  "lat": 35.8487100,
+  "lon": 126.7891309
+},
+{
+  "type": "node",
+  "id": 13050809585,
+  "lat": 35.8468918,
+  "lon": 126.7920144
+},
+{
+  "type": "node",
+  "id": 7181096402,
+  "lat": 35.8460178,
+  "lon": 126.7933689
+},
+{
+  "type": "node",
+  "id": 9713827877,
+  "lat": 35.8450850,
+  "lon": 126.7948730
+},
+{
+  "type": "node",
+  "id": 9713827880,
+  "lat": 35.8451764,
+  "lon": 126.7949409
+},
+{
+  "type": "node",
+  "id": 9713827881,
+  "lat": 35.8459453,
+  "lon": 126.7933184
+},
+{
+  "type": "node",
+  "id": 7181096398,
+  "lat": 35.8368376,
+  "lon": 126.8177738
+},
+{
+  "type": "node",
+  "id": 7181096431,
+  "lat": 35.8376529,
+  "lon": 126.8151587
+},
+{
+  "type": "node",
+  "id": 7181096432,
+  "lat": 35.8367371,
+  "lon": 126.8177101
+},
+{
+  "type": "node",
+  "id": 7181096400,
+  "lat": 35.8357302,
+  "lon": 126.8226620
+},
+{
+  "type": "node",
+  "id": 7181096433,
+  "lat": 35.8356589,
+  "lon": 126.8226075
+},
+{
+  "type": "node",
+  "id": 11348771172,
+  "lat": 35.8354472,
+  "lon": 126.8236621
+},
+{
+  "type": "node",
+  "id": 11348771175,
+  "lat": 35.8355456,
+  "lon": 126.8236684
+},
+{
+  "type": "node",
+  "id": 11348771176,
+  "lat": 35.8361629,
+  "lon": 126.8199756
+},
+{
+  "type": "node",
+  "id": 11348771177,
+  "lat": 35.8362445,
+  "lon": 126.8200545
+},
+{
+  "type": "node",
+  "id": 13049563315,
+  "lat": 35.8360628,
+  "lon": 126.8204143
+},
+{
+  "type": "node",
+  "id": 13049563316,
+  "lat": 35.8361443,
+  "lon": 126.8204791
+},
+{
+  "type": "node",
+  "id": 13049563321,
+  "lat": 35.8358277,
+  "lon": 126.8221222
+},
+{
+  "type": "node",
+  "id": 13049563322,
+  "lat": 35.8357509,
+  "lon": 126.8220645
+},
+{
+  "type": "node",
+  "id": 7181096401,
+  "lat": 35.8420591,
+  "lon": 126.8029743
+},
+{
+  "type": "node",
+  "id": 7181096430,
+  "lat": 35.8419820,
+  "lon": 126.8029423
+},
+{
+  "type": "node",
+  "id": 13049563288,
+  "lat": 35.8433520,
+  "lon": 126.7992677
+},
+{
+  "type": "node",
+  "id": 13050809588,
+  "lat": 35.8421962,
+  "lon": 126.8022917
+},
+{
+  "type": "node",
+  "id": 13050809589,
+  "lat": 35.8422665,
+  "lon": 126.8023297
+},
+{
+  "type": "node",
+  "id": 13050809590,
+  "lat": 35.8424109,
+  "lon": 126.8016920
+},
+{
+  "type": "node",
+  "id": 13050809591,
+  "lat": 35.8424608,
+  "lon": 126.8017401
+},
+{
+  "type": "node",
+  "id": 13050809592,
+  "lat": 35.8416566,
+  "lon": 126.8041117
+},
+{
+  "type": "node",
+  "id": 13050809593,
+  "lat": 35.8415796,
+  "lon": 126.8040618
+},
+{
+  "type": "node",
+  "id": 7181096399,
+  "lat": 35.8407046,
+  "lon": 126.8068015
+},
+{
+  "type": "node",
+  "id": 9713827883,
+  "lat": 35.8392832,
+  "lon": 126.8104506
+},
+{
+  "type": "node",
+  "id": 9713827884,
+  "lat": 35.8390195,
+  "lon": 126.8114459
+},
+{
+  "type": "node",
+  "id": 9713827885,
+  "lat": 35.8389317,
+  "lon": 126.8114299
+},
+{
+  "type": "node",
+  "id": 13050809594,
+  "lat": 35.8411031,
+  "lon": 126.8056756
+},
+{
+  "type": "node",
+  "id": 13050809595,
+  "lat": 35.8410138,
+  "lon": 126.8056360
+},
+{
+  "type": "node",
+  "id": 7181096405,
+  "lat": 35.8534775,
+  "lon": 126.7783057
+},
+{
+  "type": "node",
+  "id": 7181096427,
+  "lat": 35.8533344,
+  "lon": 126.7782650
+},
+{
+  "type": "node",
+  "id": 8434222060,
+  "lat": 35.8542042,
+  "lon": 126.7743507
+},
+{
+  "type": "node",
+  "id": 8434222062,
+  "lat": 35.8540748,
+  "lon": 126.7743980
+},
+{
+  "type": "node",
+  "id": 8434222064,
+  "lat": 35.8538638,
+  "lon": 126.7764061
+},
+{
+  "type": "node",
+  "id": 8434222065,
+  "lat": 35.8537014,
+  "lon": 126.7764381
+},
+{
+  "type": "node",
+  "id": 13050809573,
+  "lat": 35.8536228,
+  "lon": 126.7776794
+},
+{
+  "type": "node",
+  "id": 13050809574,
+  "lat": 35.8536595,
+  "lon": 126.7775046
+},
+{
+  "type": "node",
+  "id": 13050809575,
+  "lat": 35.8535277,
+  "lon": 126.7774780
+},
+{
+  "type": "node",
+  "id": 13050809576,
+  "lat": 35.8534835,
+  "lon": 126.7776750
+},
+{
+  "type": "node",
+  "id": 7181096404,
+  "lat": 35.8523396,
+  "lon": 126.7820399
+},
+{
+  "type": "node",
+  "id": 7181096428,
+  "lat": 35.8522068,
+  "lon": 126.7819436
+},
+{
+  "type": "node",
+  "id": 8434222066,
+  "lat": 35.8516222,
+  "lon": 126.7838237
+},
+{
+  "type": "node",
+  "id": 11348771183,
+  "lat": 35.8530446,
+  "lon": 126.7798849
+},
+{
+  "type": "node",
+  "id": 11348771184,
+  "lat": 35.8529054,
+  "lon": 126.7798518
+},
+{
+  "type": "node",
+  "id": 7181096397,
+  "lat": 35.8353200,
+  "lon": 126.8279407
+},
+{
+  "type": "node",
+  "id": 7181096434,
+  "lat": 35.8351720,
+  "lon": 126.8279442
+},
+{
+  "type": "node",
+  "id": 11348771170,
+  "lat": 35.8353321,
+  "lon": 126.8304667
+},
+{
+  "type": "node",
+  "id": 11348771171,
+  "lat": 35.8354314,
+  "lon": 126.8304059
+},
+{
+  "type": "node",
+  "id": 11348771173,
+  "lat": 35.8352649,
+  "lon": 126.8256045
+},
+{
+  "type": "node",
+  "id": 11348771174,
+  "lat": 35.8353890,
+  "lon": 126.8255578
+},
+{
+  "type": "node",
+  "id": 13050815211,
+  "lat": 35.8353593,
+  "lon": 126.8309537
+},
+{
+  "type": "node",
+  "id": 13050815212,
+  "lat": 35.8354604,
+  "lon": 126.8308843
+},
+{
+  "type": "node",
+  "id": 7181096396,
+  "lat": 35.8358976,
+  "lon": 126.8342571
+},
+{
+  "type": "node",
+  "id": 7181096435,
+  "lat": 35.8357642,
+  "lon": 126.8342839
+},
+{
+  "type": "node",
+  "id": 11348771119,
+  "lat": 35.8364672,
+  "lon": 126.8367901
+},
+{
+  "type": "node",
+  "id": 11348771120,
+  "lat": 35.8363312,
+  "lon": 126.8368346
+},
+{
+  "type": "node",
+  "id": 13050809596,
+  "lat": 35.8354924,
+  "lon": 126.8320680
+},
+{
+  "type": "node",
+  "id": 13050809597,
+  "lat": 35.8356045,
+  "lon": 126.8320340
+},
+{
+  "type": "node",
+  "id": 7181096395,
+  "lat": 35.8376686,
+  "lon": 126.8405443
+},
+{
+  "type": "node",
+  "id": 11348771117,
+  "lat": 35.8382754,
+  "lon": 126.8423943
+},
+{
+  "type": "node",
+  "id": 11348771121,
+  "lat": 35.8376237,
+  "lon": 126.8408918
+},
+{
+  "type": "node",
+  "id": 13050809598,
+  "lat": 35.8372203,
+  "lon": 126.8396255
+},
+{
+  "type": "node",
+  "id": 13050809599,
+  "lat": 35.8373712,
+  "lon": 126.8396038
+},
+{
+  "type": "node",
+  "id": 13050815101,
+  "lat": 35.8375035,
+  "lon": 126.8405143
+},
+{
+  "type": "node",
+  "id": 13326070306,
+  "lat": 35.8383514,
+  "lon": 126.8425625
+},
+{
+  "type": "node",
+  "id": 11348771118,
+  "lat": 35.8385203,
+  "lon": 126.8424974
+},
+{
+  "type": "node",
+  "id": 11348771161,
+  "lat": 35.8394843,
+  "lon": 126.8448207
+},
+{
+  "type": "node",
+  "id": 13326070322,
+  "lat": 35.8384728,
+  "lon": 126.8423991
+},
+{
+  "type": "node",
+  "id": 13326070323,
+  "lat": 35.8383929,
+  "lon": 126.8422385
+},
+{
+  "type": "node",
+  "id": 7181096436,
+  "lat": 35.8404594,
+  "lon": 126.8468244
+},
+{
+  "type": "node",
+  "id": 8434222072,
+  "lat": 35.8405872,
+  "lon": 126.8467943
+},
+{
+  "type": "node",
+  "id": 8434222073,
+  "lat": 35.8413152,
+  "lon": 126.8484696
+},
+{
+  "type": "node",
+  "id": 8434222074,
+  "lat": 35.8418645,
+  "lon": 126.8502235
+},
+{
+  "type": "node",
+  "id": 8434222077,
+  "lat": 35.8411870,
+  "lon": 126.8484949
+},
+{
+  "type": "node",
+  "id": 8434222078,
+  "lat": 35.8417620,
+  "lon": 126.8502746
+},
+{
+  "type": "node",
+  "id": 11348771162,
+  "lat": 35.8416689,
+  "lon": 126.8495628
+},
+{
+  "type": "node",
+  "id": 13049563327,
+  "lat": 35.8404333,
+  "lon": 126.8464426
+},
+{
+  "type": "node",
+  "id": 13049563328,
+  "lat": 35.8402955,
+  "lon": 126.8464715
+},
+{
+  "type": "node",
+  "id": 13049563335,
+  "lat": 35.8416980,
+  "lon": 126.8496472
+},
+{
+  "type": "node",
+  "id": 13049563336,
+  "lat": 35.8415910,
+  "lon": 126.8497034
+},
+{
+  "type": "node",
+  "id": 8434222081,
+  "lat": 35.8380382,
+  "lon": 126.8741118
+},
+{
+  "type": "node",
+  "id": 8434222082,
+  "lat": 35.8373808,
+  "lon": 126.8763935
+},
+{
+  "type": "node",
+  "id": 8434222083,
+  "lat": 35.8379050,
+  "lon": 126.8741193
+},
+{
+  "type": "node",
+  "id": 8434222086,
+  "lat": 35.8372999,
+  "lon": 126.8763496
+},
+{
+  "type": "node",
+  "id": 7181096393,
+  "lat": 35.8428684,
+  "lon": 126.8570856
+},
+{
+  "type": "node",
+  "id": 7181096394,
+  "lat": 35.8424018,
+  "lon": 126.8524024
+},
+{
+  "type": "node",
+  "id": 7181096437,
+  "lat": 35.8423012,
+  "lon": 126.8524407
+},
+{
+  "type": "node",
+  "id": 7181096438,
+  "lat": 35.8427625,
+  "lon": 126.8570553
+},
+{
+  "type": "node",
+  "id": 8434222075,
+  "lat": 35.8426696,
+  "lon": 126.8541848
+},
+{
+  "type": "node",
+  "id": 8434222076,
+  "lat": 35.8425548,
+  "lon": 126.8542100
+},
+{
+  "type": "node",
+  "id": 13049563337,
+  "lat": 35.8428006,
+  "lon": 126.8556458
+},
+{
+  "type": "node",
+  "id": 13049563338,
+  "lat": 35.8426959,
+  "lon": 126.8557070
+},
+{
+  "type": "node",
+  "id": 7181096392,
+  "lat": 35.8425231,
+  "lon": 126.8619401
+},
+{
+  "type": "node",
+  "id": 7181096439,
+  "lat": 35.8424262,
+  "lon": 126.8618932
+},
+{
+  "type": "node",
+  "id": 8434222079,
+  "lat": 35.8427937,
+  "lon": 126.8594186
+},
+{
+  "type": "node",
+  "id": 8434222080,
+  "lat": 35.8426975,
+  "lon": 126.8593992
+},
+{
+  "type": "node",
+  "id": 11348771113,
+  "lat": 35.8421794,
+  "lon": 126.8636907
+},
+{
+  "type": "node",
+  "id": 11348771114,
+  "lat": 35.8420849,
+  "lon": 126.8636499
+},
+{
+  "type": "node",
+  "id": 8434222084,
+  "lat": 35.8403714,
+  "lon": 126.8688264
+},
+{
+  "type": "node",
+  "id": 8434222085,
+  "lat": 35.8402950,
+  "lon": 126.8687753
+},
+{
+  "type": "node",
+  "id": 11348771115,
+  "lat": 35.8417008,
+  "lon": 126.8654556
+},
+{
+  "type": "node",
+  "id": 11348771116,
+  "lat": 35.8416158,
+  "lon": 126.8654183
+},
+{
+  "type": "node",
+  "id": 11992210532,
+  "lat": 35.8410248,
+  "lon": 126.8669522
+},
+{
+  "type": "node",
+  "id": 11992210533,
+  "lat": 35.8411054,
+  "lon": 126.8670125
+},
+{
+  "type": "node",
+  "id": 13050815106,
+  "lat": 35.8408750,
+  "lon": 126.8673265
+},
+{
+  "type": "node",
+  "id": 13050815107,
+  "lat": 35.8409580,
+  "lon": 126.8673767
+},
+{
+  "type": "node",
+  "id": 13050815108,
+  "lat": 35.8410582,
+  "lon": 126.8671291
+},
+{
+  "type": "node",
+  "id": 7181096391,
+  "lat": 35.8390177,
+  "lon": 126.8717013
+},
+{
+  "type": "node",
+  "id": 7181096440,
+  "lat": 35.8388935,
+  "lon": 126.8716296
+},
+{
+  "type": "node",
+  "id": 7181096390,
+  "lat": 35.8371067,
+  "lon": 126.8782282
+},
+{
+  "type": "node",
+  "id": 7181096441,
+  "lat": 35.8370259,
+  "lon": 126.8781147
+},
+{
+  "type": "node",
+  "id": 8434222087,
+  "lat": 35.8368192,
+  "lon": 126.8819761
+},
+{
+  "type": "node",
+  "id": 8434222088,
+  "lat": 35.8368544,
+  "lon": 126.8798825
+},
+{
+  "type": "node",
+  "id": 8434222089,
+  "lat": 35.8369530,
+  "lon": 126.8819753
+},
+{
+  "type": "node",
+  "id": 8434222090,
+  "lat": 35.8369496,
+  "lon": 126.8799932
+},
+{
+  "type": "node",
+  "id": 11348771110,
+  "lat": 35.8369192,
+  "lon": 126.8834321
+},
+{
+  "type": "node",
+  "id": 11348771111,
+  "lat": 35.8370489,
+  "lon": 126.8834271
+},
+{
+  "type": "node",
+  "id": 11348771112,
+  "lat": 35.8368506,
+  "lon": 126.8800287
+},
+{
+  "type": "node",
+  "id": 7181096389,
+  "lat": 35.8372656,
+  "lon": 126.8848562
+},
+{
+  "type": "node",
+  "id": 7181096442,
+  "lat": 35.8378993,
+  "lon": 126.8878943
+},
+{
+  "type": "node",
+  "id": 8434222091,
+  "lat": 35.8371361,
+  "lon": 126.8848880
+},
+{
+  "type": "node",
+  "id": 11348771100,
+  "lat": 35.8379684,
+  "lon": 126.8878560
+},
+{
+  "type": "node",
+  "id": 7181096388,
+  "lat": 35.8388083,
+  "lon": 126.8902786
+},
+{
+  "type": "node",
+  "id": 7181096443,
+  "lat": 35.8386661,
+  "lon": 126.8903250
+},
+{
+  "type": "node",
+  "id": 7181096387,
+  "lat": 35.8405406,
+  "lon": 126.8972821
+},
+{
+  "type": "node",
+  "id": 7181096444,
+  "lat": 35.8404465,
+  "lon": 126.8973077
+},
+{
+  "type": "node",
+  "id": 8434222092,
+  "lat": 35.8400025,
+  "lon": 126.8943029
+},
+{
+  "type": "node",
+  "id": 8434222093,
+  "lat": 35.8399200,
+  "lon": 126.8945701
+},
+{
+  "type": "node",
+  "id": 8434222094,
+  "lat": 35.8392157,
+  "lon": 126.8914817
+},
+{
+  "type": "node",
+  "id": 8434222095,
+  "lat": 35.8391170,
+  "lon": 126.8915370
+},
+{
+  "type": "node",
+  "id": 13326070285,
+  "lat": 35.8395833,
+  "lon": 126.8926496
+},
+{
+  "type": "node",
+  "id": 13326070286,
+  "lat": 35.8394663,
+  "lon": 126.8926970
+},
+{
+  "type": "node",
+  "id": 7181096386,
+  "lat": 35.8408108,
+  "lon": 126.9027249
+},
+{
+  "type": "node",
+  "id": 7181096445,
+  "lat": 35.8406976,
+  "lon": 126.9027140
+},
+{
+  "type": "node",
+  "id": 8434222096,
+  "lat": 35.8406039,
+  "lon": 126.8986900
+},
+{
+  "type": "node",
+  "id": 8434222097,
+  "lat": 35.8407973,
+  "lon": 126.9000991
+},
+{
+  "type": "node",
+  "id": 11348771101,
+  "lat": 35.8406830,
+  "lon": 126.9001271
+},
+{
+  "type": "node",
+  "id": 11348771108,
+  "lat": 35.8406941,
+  "lon": 126.9021018
+},
+{
+  "type": "node",
+  "id": 11348771109,
+  "lat": 35.8407066,
+  "lon": 126.8986749
+},
+{
+  "type": "node",
+  "id": 7181096385,
+  "lat": 35.8405620,
+  "lon": 126.9081909
+},
+{
+  "type": "node",
+  "id": 7181096446,
+  "lat": 35.8403785,
+  "lon": 126.9081011
+},
+{
+  "type": "node",
+  "id": 13049563347,
+  "lat": 35.8407625,
+  "lon": 126.9048249
+},
+{
+  "type": "node",
+  "id": 13049563348,
+  "lat": 35.8406457,
+  "lon": 126.9048484
+},
+{
+  "type": "node",
+  "id": 13050815141,
+  "lat": 35.8403328,
+  "lon": 126.9092587
+},
+{
+  "type": "node",
+  "id": 11348771050,
+  "lat": 35.8402129,
+  "lon": 126.9166960
+},
+{
+  "type": "node",
+  "id": 11348771085,
+  "lat": 35.8401248,
+  "lon": 126.9145219
+},
+{
+  "type": "node",
+  "id": 11348771031,
+  "lat": 35.8400390,
+  "lon": 126.9199620
+},
+{
+  "type": "node",
+  "id": 11348771055,
+  "lat": 35.8400082,
+  "lon": 126.9204010
+},
+{
+  "type": "node",
+  "id": 11348771099,
+  "lat": 35.8400134,
+  "lon": 126.9173391
+},
+{
+  "type": "node",
+  "id": 13050815130,
+  "lat": 35.8401577,
+  "lon": 126.9180415
+},
+{
+  "type": "node",
+  "id": 13050815131,
+  "lat": 35.8399880,
+  "lon": 126.9179819
+},
+{
+  "type": "node",
+  "id": 13050815132,
+  "lat": 35.8399612,
+  "lon": 126.9186620
+},
+{
+  "type": "node",
+  "id": 13050815133,
+  "lat": 35.8401304,
+  "lon": 126.9187078
+},
+{
+  "type": "node",
+  "id": 13050815134,
+  "lat": 35.8398840,
+  "lon": 126.9199555
+},
+{
+  "type": "node",
+  "id": 13050815139,
+  "lat": 35.8400634,
+  "lon": 126.9196277
+},
+{
+  "type": "node",
+  "id": 13050815140,
+  "lat": 35.8399040,
+  "lon": 126.9196205
+},
+{
+  "type": "node",
+  "id": 7181086083,
+  "lat": 35.8391514,
+  "lon": 126.9273819
+},
+{
+  "type": "node",
+  "id": 7181096447,
+  "lat": 35.8394385,
+  "lon": 126.9241660
+},
+{
+  "type": "node",
+  "id": 11348771033,
+  "lat": 35.8395445,
+  "lon": 126.9242170
+},
+{
+  "type": "node",
+  "id": 13050815135,
+  "lat": 35.8388915,
+  "lon": 126.9296018
+},
+{
+  "type": "node",
+  "id": 13050815136,
+  "lat": 35.8388604,
+  "lon": 126.9298678
+},
+{
+  "type": "node",
+  "id": 13050815137,
+  "lat": 35.8387565,
+  "lon": 126.9298857
+},
+{
+  "type": "node",
+  "id": 13050815138,
+  "lat": 35.8387877,
+  "lon": 126.9296238
+},
+{
+  "type": "node",
+  "id": 7181086082,
+  "lat": 35.8383714,
+  "lon": 126.9340455
+},
+{
+  "type": "node",
+  "id": 7181096448,
+  "lat": 35.8381749,
+  "lon": 126.9346416
+},
+{
+  "type": "node",
+  "id": 13049563349,
+  "lat": 35.8382529,
+  "lon": 126.9340395
+},
+{
+  "type": "node",
+  "id": 13049563350,
+  "lat": 35.8382895,
+  "lon": 126.9346590
+},
+{
+  "type": "node",
+  "id": 13049563351,
+  "lat": 35.8381037,
+  "lon": 126.9352464
+},
+{
+  "type": "node",
+  "id": 13049563352,
+  "lat": 35.8382179,
+  "lon": 126.9352628
+},
+{
+  "type": "node",
+  "id": 13049563353,
+  "lat": 35.8381476,
+  "lon": 126.9358625
+},
+{
+  "type": "node",
+  "id": 13049563354,
+  "lat": 35.8380752,
+  "lon": 126.9364695
+},
+{
+  "type": "node",
+  "id": 13049563357,
+  "lat": 35.8379665,
+  "lon": 126.9364464
+},
+{
+  "type": "node",
+  "id": 13049563358,
+  "lat": 35.8380352,
+  "lon": 126.9358471
+},
+{
+  "type": "node",
+  "id": 13049563359,
+  "lat": 35.8383433,
+  "lon": 126.9333963
+},
+{
+  "type": "node",
+  "id": 7181086084,
+  "lat": 35.8379304,
+  "lon": 126.9376829
+},
+{
+  "type": "node",
+  "id": 7181096449,
+  "lat": 35.8378319,
+  "lon": 126.9376550
+},
+{
+  "type": "node",
+  "id": 8434222100,
+  "lat": 35.8375485,
+  "lon": 126.9404209
+},
+{
+  "type": "node",
+  "id": 11348771034,
+  "lat": 35.8374849,
+  "lon": 126.9413270
+},
+{
+  "type": "node",
+  "id": 13049563355,
+  "lat": 35.8380015,
+  "lon": 126.9370734
+},
+{
+  "type": "node",
+  "id": 13049563356,
+  "lat": 35.8378968,
+  "lon": 126.9370657
+},
+{
+  "type": "node",
+  "id": 13049563361,
+  "lat": 35.8377860,
+  "lon": 126.9382303
+},
+{
+  "type": "node",
+  "id": 13049563362,
+  "lat": 35.8378699,
+  "lon": 126.9382517
+},
+{
+  "type": "node",
+  "id": 13050815292,
+  "lat": 35.8374767,
+  "lon": 126.9429539
+},
+{
+  "type": "node",
+  "id": 7181096450,
+  "lat": 35.8376270,
+  "lon": 126.9454475
+},
+{
+  "type": "node",
+  "id": 11348771037,
+  "lat": 35.8375076,
+  "lon": 126.9440395
+},
+{
+  "type": "node",
+  "id": 11348771038,
+  "lat": 35.8379329,
+  "lon": 126.9477043
+},
+{
+  "type": "node",
+  "id": 13049563360,
+  "lat": 35.8384603,
+  "lon": 126.9334151
+},
+{
+  "type": "node",
+  "id": 13050815281,
+  "lat": 35.8385489,
+  "lon": 126.9324878
+},
+{
+  "type": "node",
+  "id": 13050815282,
+  "lat": 35.8385263,
+  "lon": 126.9326904
+},
+{
+  "type": "node",
+  "id": 13050815283,
+  "lat": 35.8384333,
+  "lon": 126.9325954
+},
+{
+  "type": "node",
+  "id": 13050815284,
+  "lat": 35.8384570,
+  "lon": 126.9323974
+},
+{
+  "type": "node",
+  "id": 7181096451,
+  "lat": 35.8384450,
+  "lon": 126.9496539
+},
+{
+  "type": "node",
+  "id": 7181096452,
+  "lat": 35.8390717,
+  "lon": 126.9536883
+},
+{
+  "type": "node",
+  "id": 8434222098,
+  "lat": 35.8388118,
+  "lon": 126.9517295
+},
+{
+  "type": "node",
+  "id": 12406843814,
+  "lat": 35.8392075,
+  "lon": 126.9554651
+},
+{
+  "type": "node",
+  "id": 12406844536,
+  "lat": 35.8386014,
+  "lon": 126.9504710
+},
+{
+  "type": "node",
+  "id": 13049563365,
+  "lat": 35.8384928,
+  "lon": 126.9498240
+},
+{
+  "type": "node",
+  "id": 7181086076,
+  "lat": 35.8365313,
+  "lon": 126.9687136
+},
+{
+  "type": "node",
+  "id": 7181096454,
+  "lat": 35.8376929,
+  "lon": 126.9653510
+},
+{
+  "type": "node",
+  "id": 7181096455,
+  "lat": 35.8364396,
+  "lon": 126.9686440
+},
+{
+  "type": "node",
+  "id": 8434222103,
+  "lat": 35.8378129,
+  "lon": 126.9653817
+},
+{
+  "type": "node",
+  "id": 11348359445,
+  "lat": 35.8382860,
+  "lon": 126.9639382
+},
+{
+  "type": "node",
+  "id": 11348359468,
+  "lat": 35.8381848,
+  "lon": 126.9638836
+},
+{
+  "type": "node",
+  "id": 7181086074,
+  "lat": 35.8300955,
+  "lon": 126.9786073
+},
+{
+  "type": "node",
+  "id": 7181096457,
+  "lat": 35.8300366,
+  "lon": 126.9785184
+},
+{
+  "type": "node",
+  "id": 13049563372,
+  "lat": 35.8268173,
+  "lon": 126.9824944
+},
+{
+  "type": "node",
+  "id": 13326070245,
+  "lat": 35.8299230,
+  "lon": 126.9786547
+},
+{
+  "type": "node",
+  "id": 13326070246,
+  "lat": 35.8299899,
+  "lon": 126.9787380
+},
+{
+  "type": "node",
+  "id": 7181086075,
+  "lat": 35.8342585,
+  "lon": 126.9731677
+},
+{
+  "type": "node",
+  "id": 7181096456,
+  "lat": 35.8325084,
+  "lon": 126.9754046
+},
+{
+  "type": "node",
+  "id": 11348359440,
+  "lat": 35.8354420,
+  "lon": 126.9708864
+},
+{
+  "type": "node",
+  "id": 11348359458,
+  "lat": 35.8326209,
+  "lon": 126.9754627
+},
+{
+  "type": "node",
+  "id": 11348393282,
+  "lat": 35.8341620,
+  "lon": 126.9731137
+},
+{
+  "type": "node",
+  "id": 11348393284,
+  "lat": 35.8355902,
+  "lon": 126.9708742
+},
+{
+  "type": "node",
+  "id": 13050815300,
+  "lat": 35.8335257,
+  "lon": 126.9742737
+},
+{
+  "type": "node",
+  "id": 13050815301,
+  "lat": 35.8334523,
+  "lon": 126.9741996
+},
+{
+  "type": "node",
+  "id": 8434222102,
+  "lat": 35.8392427,
+  "lon": 126.9576013
+},
+{
+  "type": "node",
+  "id": 11348359451,
+  "lat": 35.8390567,
+  "lon": 126.9597243
+},
+{
+  "type": "node",
+  "id": 11348359466,
+  "lat": 35.8386526,
+  "lon": 126.9622183
+},
+{
+  "type": "node",
+  "id": 11348393272,
+  "lat": 35.8388182,
+  "lon": 126.9618899
+},
+{
+  "type": "node",
+  "id": 12406844523,
+  "lat": 35.8387221,
+  "lon": 126.9618898
+},
+{
+  "type": "node",
+  "id": 12406844532,
+  "lat": 35.8392153,
+  "lon": 126.9579136
+},
+{
+  "type": "node",
+  "id": 13050815142,
+  "lat": 35.8387471,
+  "lon": 126.9621972
+},
+{
+  "type": "node",
+  "id": 11348359447,
+  "lat": 35.8243868,
+  "lon": 126.9870136
+},
+{
+  "type": "node",
+  "id": 11348359456,
+  "lat": 35.8242997,
+  "lon": 126.9869507
+},
+{
+  "type": "node",
+  "id": 13049563374,
+  "lat": 35.8249144,
+  "lon": 126.9854683
+},
+{
+  "type": "node",
+  "id": 13049563375,
+  "lat": 35.8250340,
+  "lon": 126.9855549
+},
+{
+  "type": "node",
+  "id": 13049563376,
+  "lat": 35.8239042,
+  "lon": 126.9880240
+},
+{
+  "type": "node",
+  "id": 13049563377,
+  "lat": 35.8239824,
+  "lon": 126.9881064
+},
+{
+  "type": "node",
+  "id": 11348359442,
+  "lat": 35.8230864,
+  "lon": 126.9915932
+},
+{
+  "type": "node",
+  "id": 11348359455,
+  "lat": 35.8231853,
+  "lon": 126.9915904
+},
+{
+  "type": "node",
+  "id": 11348359462,
+  "lat": 35.8235050,
+  "lon": 126.9893581
+},
+{
+  "type": "node",
+  "id": 11348393280,
+  "lat": 35.8235949,
+  "lon": 126.9893999
+},
+{
+  "type": "node",
+  "id": 13049563381,
+  "lat": 35.8229532,
+  "lon": 126.9929499
+},
+{
+  "type": "node",
+  "id": 13049563382,
+  "lat": 35.8230483,
+  "lon": 126.9930224
+},
+{
+  "type": "node",
+  "id": 7181086070,
+  "lat": 35.8231190,
+  "lon": 126.9986393
+},
+{
+  "type": "node",
+  "id": 7181086071,
+  "lat": 35.8231085,
+  "lon": 126.9973007
+},
+{
+  "type": "node",
+  "id": 7181086072,
+  "lat": 35.8229985,
+  "lon": 127.0005300
+},
+{
+  "type": "node",
+  "id": 7181096459,
+  "lat": 35.8229682,
+  "lon": 126.9967139
+},
+{
+  "type": "node",
+  "id": 7181096460,
+  "lat": 35.8229799,
+  "lon": 126.9986624
+},
+{
+  "type": "node",
+  "id": 7181096461,
+  "lat": 35.8227872,
+  "lon": 127.0013025
+},
+{
+  "type": "node",
+  "id": 13051451248,
+  "lat": 35.8228801,
+  "lon": 127.0005076
+},
+{
+  "type": "node",
+  "id": 13051451249,
+  "lat": 35.8228581,
+  "lon": 127.0014702
+},
+{
+  "type": "node",
+  "id": 13325847900,
+  "lat": 35.8230917,
+  "lon": 126.9961048
+},
+{
+  "type": "node",
+  "id": 13325880001,
+  "lat": 35.8229586,
+  "lon": 126.9961140
+},
+{
+  "type": "node",
+  "id": 7181086068,
+  "lat": 35.8207293,
+  "lon": 127.0076099
+},
+{
+  "type": "node",
+  "id": 7181086069,
+  "lat": 35.8217473,
+  "lon": 127.0054397
+},
+{
+  "type": "node",
+  "id": 7181096462,
+  "lat": 35.8215268,
+  "lon": 127.0057228
+},
+{
+  "type": "node",
+  "id": 7181096463,
+  "lat": 35.8206967,
+  "lon": 127.0074222
+},
+{
+  "type": "node",
+  "id": 11348359446,
+  "lat": 35.8225419,
+  "lon": 127.0024513
+},
+{
+  "type": "node",
+  "id": 11348359459,
+  "lat": 35.8200564,
+  "lon": 127.0086937
+},
+{
+  "type": "node",
+  "id": 11348359461,
+  "lat": 35.8223643,
+  "lon": 127.0034894
+},
+{
+  "type": "node",
+  "id": 11348359467,
+  "lat": 35.8199584,
+  "lon": 127.0086140
+},
+{
+  "type": "node",
+  "id": 11348393273,
+  "lat": 35.8222106,
+  "lon": 127.0036319
+},
+{
+  "type": "node",
+  "id": 11348393281,
+  "lat": 35.8226581,
+  "lon": 127.0024110
+},
+{
+  "type": "node",
+  "id": 12064890586,
+  "lat": 35.8210779,
+  "lon": 127.0069347
+},
+{
+  "type": "node",
+  "id": 12064890587,
+  "lat": 35.8209925,
+  "lon": 127.0068725
+},
+{
+  "type": "node",
+  "id": 13049563383,
+  "lat": 35.8203766,
+  "lon": 127.0081967
+},
+{
+  "type": "node",
+  "id": 13049563384,
+  "lat": 35.8203410,
+  "lon": 127.0080213
+},
+{
+  "type": "node",
+  "id": 13325847895,
+  "lat": 35.8212597,
+  "lon": 127.0063302
+},
+{
+  "type": "node",
+  "id": 13325847896,
+  "lat": 35.8218489,
+  "lon": 127.0048440
+},
+{
+  "type": "node",
+  "id": 13325847897,
+  "lat": 35.8212736,
+  "lon": 127.0065494
+},
+{
+  "type": "node",
+  "id": 13325847898,
+  "lat": 35.8214943,
+  "lon": 127.0060786
+},
+{
+  "type": "node",
+  "id": 13325847899,
+  "lat": 35.8220852,
+  "lon": 127.0044556
+},
+{
+  "type": "node",
+  "id": 7181086065,
+  "lat": 35.8113195,
+  "lon": 127.0200349
+},
+{
+  "type": "node",
+  "id": 7181096465,
+  "lat": 35.8112250,
+  "lon": 127.0199953
+},
+{
+  "type": "node",
+  "id": 11348770743,
+  "lat": 35.8105528,
+  "lon": 127.0215056
+},
+{
+  "type": "node",
+  "id": 12064890622,
+  "lat": 35.8116314,
+  "lon": 127.0191976
+},
+{
+  "type": "node",
+  "id": 12064890623,
+  "lat": 35.8117320,
+  "lon": 127.0192494
+},
+{
+  "type": "node",
+  "id": 12064890632,
+  "lat": 35.8104123,
+  "lon": 127.0214599
+},
+{
+  "type": "node",
+  "id": 13045887734,
+  "lat": 35.8118102,
+  "lon": 127.0188732
+},
+{
+  "type": "node",
+  "id": 13325859473,
+  "lat": 35.8106920,
+  "lon": 127.0212387
+},
+{
+  "type": "node",
+  "id": 11348769247,
+  "lat": 35.8097882,
+  "lon": 127.0226824
+},
+{
+  "type": "node",
+  "id": 11348769248,
+  "lat": 35.8097609,
+  "lon": 127.0231142
+},
+{
+  "type": "node",
+  "id": 11348770760,
+  "lat": 35.8083001,
+  "lon": 127.0274436
+},
+{
+  "type": "node",
+  "id": 11348770761,
+  "lat": 35.8081623,
+  "lon": 127.0273752
+},
+{
+  "type": "node",
+  "id": 12064890633,
+  "lat": 35.8088643,
+  "lon": 127.0250908
+},
+{
+  "type": "node",
+  "id": 12064890634,
+  "lat": 35.8091808,
+  "lon": 127.0246423
+},
+{
+  "type": "node",
+  "id": 12777832771,
+  "lat": 35.8089589,
+  "lon": 127.0253515
+},
+{
+  "type": "node",
+  "id": 12777832789,
+  "lat": 35.8087820,
+  "lon": 127.0259044
+},
+{
+  "type": "node",
+  "id": 12777832790,
+  "lat": 35.8086239,
+  "lon": 127.0258230
+},
+{
+  "type": "node",
+  "id": 13045887733,
+  "lat": 35.8085527,
+  "lon": 127.0266281
+},
+{
+  "type": "node",
+  "id": 13325859458,
+  "lat": 35.8099601,
+  "lon": 127.0226637
+},
+{
+  "type": "node",
+  "id": 11348770750,
+  "lat": 35.8075664,
+  "lon": 127.0294479
+},
+{
+  "type": "node",
+  "id": 13051451279,
+  "lat": 35.8074122,
+  "lon": 127.0303598
+},
+{
+  "type": "node",
+  "id": 13326196890,
+  "lat": 35.8072582,
+  "lon": 127.0304171
+},
+{
+  "type": "node",
+  "id": 13326196891,
+  "lat": 35.8076974,
+  "lon": 127.0294216
+},
+{
+  "type": "node",
+  "id": 12064890612,
+  "lat": 35.8183477,
+  "lon": 127.0109458
+},
+{
+  "type": "node",
+  "id": 12064890613,
+  "lat": 35.8184817,
+  "lon": 127.0106106
+},
+{
+  "type": "node",
+  "id": 12064890614,
+  "lat": 35.8176076,
+  "lon": 127.0115425
+},
+{
+  "type": "node",
+  "id": 12064890615,
+  "lat": 35.8172396,
+  "lon": 127.0121270
+},
+{
+  "type": "node",
+  "id": 12064890616,
+  "lat": 35.8154383,
+  "lon": 127.0139285
+},
+{
+  "type": "node",
+  "id": 12064890617,
+  "lat": 35.8158821,
+  "lon": 127.0136125
+},
+{
+  "type": "node",
+  "id": 12064890618,
+  "lat": 35.8147304,
+  "lon": 127.0147276
+},
+{
+  "type": "node",
+  "id": 7181086067,
+  "lat": 35.8133066,
+  "lon": 127.0166872
+},
+{
+  "type": "node",
+  "id": 7181096464,
+  "lat": 35.8133799,
+  "lon": 127.0163837
+},
+{
+  "type": "node",
+  "id": 12064890619,
+  "lat": 35.8140785,
+  "lon": 127.0155399
+},
+{
+  "type": "node",
+  "id": 12064890620,
+  "lat": 35.8141395,
+  "lon": 127.0156098
+},
+{
+  "type": "node",
+  "id": 12064890621,
+  "lat": 35.8124043,
+  "lon": 127.0180657
+},
+{
+  "type": "node",
+  "id": 12064890624,
+  "lat": 35.8123144,
+  "lon": 127.0180030
+},
+{
+  "type": "node",
+  "id": 12064890589,
+  "lat": 35.8194010,
+  "lon": 127.0096119
+},
+{
+  "type": "node",
+  "id": 12064890590,
+  "lat": 35.8193680,
+  "lon": 127.0094772
+},
+{
+  "type": "node",
+  "id": 12064890610,
+  "lat": 35.8188360,
+  "lon": 127.0102020
+},
+{
+  "type": "node",
+  "id": 12064890611,
+  "lat": 35.8188945,
+  "lon": 127.0103218
+},
+{
+  "type": "node",
+  "id": 13051451251,
+  "lat": 35.8197950,
+  "lon": 127.0090599
+},
+{
+  "type": "node",
+  "id": 13051451264,
+  "lat": 35.8197736,
+  "lon": 127.0088842
+},
+{
+  "type": "node",
+  "id": 13325701335,
+  "lat": 35.7904107,
+  "lon": 127.0602663
+},
+{
+  "type": "node",
+  "id": 13325701336,
+  "lat": 35.7903831,
+  "lon": 127.0601228
+},
+{
+  "type": "node",
+  "id": 13325701339,
+  "lat": 35.7898309,
+  "lon": 127.0610536
+},
+{
+  "type": "node",
+  "id": 13325701340,
+  "lat": 35.7901876,
+  "lon": 127.0605649
+},
+{
+  "type": "node",
+  "id": 13325701341,
+  "lat": 35.7897396,
+  "lon": 127.0609861
+},
+{
+  "type": "node",
+  "id": 13325701342,
+  "lat": 35.7900490,
+  "lon": 127.0605711
+},
+{
+  "type": "node",
+  "id": 7181086060,
+  "lat": 35.7813302,
+  "lon": 127.0734367
+},
+{
+  "type": "node",
+  "id": 7181096469,
+  "lat": 35.7812607,
+  "lon": 127.0733631
+},
+{
+  "type": "node",
+  "id": 13051451842,
+  "lat": 35.7832421,
+  "lon": 127.0703911
+},
+{
+  "type": "node",
+  "id": 13051451843,
+  "lat": 35.7830523,
+  "lon": 127.0708653
+},
+{
+  "type": "node",
+  "id": 13265818717,
+  "lat": 35.7823603,
+  "lon": 127.0717137
+},
+{
+  "type": "node",
+  "id": 13326196886,
+  "lat": 35.7842064,
+  "lon": 127.0691418
+},
+{
+  "type": "node",
+  "id": 13326196887,
+  "lat": 35.7841500,
+  "lon": 127.0690293
+},
+{
+  "type": "node",
+  "id": 13326196888,
+  "lat": 35.7844322,
+  "lon": 127.0686093
+},
+{
+  "type": "node",
+  "id": 13326196889,
+  "lat": 35.7844926,
+  "lon": 127.0687216
+},
+{
+  "type": "node",
+  "id": 13265818716,
+  "lat": 35.7783035,
+  "lon": 127.0787475
+},
+{
+  "type": "node",
+  "id": 13265818728,
+  "lat": 35.7789954,
+  "lon": 127.0770169
+},
+{
+  "type": "node",
+  "id": 13325701319,
+  "lat": 35.7788445,
+  "lon": 127.0773024
+},
+{
+  "type": "node",
+  "id": 13325701320,
+  "lat": 35.7789226,
+  "lon": 127.0771466
+},
+{
+  "type": "node",
+  "id": 13325701323,
+  "lat": 35.7790418,
+  "lon": 127.0771968
+},
+{
+  "type": "node",
+  "id": 13325701324,
+  "lat": 35.7789637,
+  "lon": 127.0773433
+},
+{
+  "type": "node",
+  "id": 13325701331,
+  "lat": 35.7786762,
+  "lon": 127.0779216
+},
+{
+  "type": "node",
+  "id": 13325701332,
+  "lat": 35.7788585,
+  "lon": 127.0775601
+},
+{
+  "type": "node",
+  "id": 13325701333,
+  "lat": 35.7786403,
+  "lon": 127.0777371
+},
+{
+  "type": "node",
+  "id": 13325701334,
+  "lat": 35.7791539,
+  "lon": 127.0770080
+},
+{
+  "type": "node",
+  "id": 7181086058,
+  "lat": 35.7767753,
+  "lon": 127.0823068
+},
+{
+  "type": "node",
+  "id": 7181086059,
+  "lat": 35.7755190,
+  "lon": 127.0860201
+},
+{
+  "type": "node",
+  "id": 7181096470,
+  "lat": 35.7754300,
+  "lon": 127.0859794
+},
+{
+  "type": "node",
+  "id": 11348770677,
+  "lat": 35.7766954,
+  "lon": 127.0822099
+},
+{
+  "type": "node",
+  "id": 13049563407,
+  "lat": 35.7752587,
+  "lon": 127.0867345
+},
+{
+  "type": "node",
+  "id": 13049563408,
+  "lat": 35.7751637,
+  "lon": 127.0866714
+},
+{
+  "type": "node",
+  "id": 13049563409,
+  "lat": 35.7749212,
+  "lon": 127.0872753
+},
+{
+  "type": "node",
+  "id": 13049563410,
+  "lat": 35.7750112,
+  "lon": 127.0873230
+},
+{
+  "type": "node",
+  "id": 13265818702,
+  "lat": 35.7761110,
+  "lon": 127.0843082
+},
+{
+  "type": "node",
+  "id": 13325701327,
+  "lat": 35.7764579,
+  "lon": 127.0832207
+},
+{
+  "type": "node",
+  "id": 13325701328,
+  "lat": 35.7763096,
+  "lon": 127.0833092
+},
+{
+  "type": "node",
+  "id": 11348770671,
+  "lat": 35.7883275,
+  "lon": 127.0631476
+},
+{
+  "type": "node",
+  "id": 11348770672,
+  "lat": 35.7882734,
+  "lon": 127.0630619
+},
+{
+  "type": "node",
+  "id": 13325701374,
+  "lat": 35.7867521,
+  "lon": 127.0655001
+},
+{
+  "type": "node",
+  "id": 13325701375,
+  "lat": 35.7861522,
+  "lon": 127.0664225
+},
+{
+  "type": "node",
+  "id": 13325701376,
+  "lat": 35.7866765,
+  "lon": 127.0653854
+},
+{
+  "type": "node",
+  "id": 13325701377,
+  "lat": 35.7860640,
+  "lon": 127.0663071
+},
+{
+  "type": "node",
+  "id": 7181086073,
+  "lat": 35.8255148,
+  "lon": 126.9846412
+},
+{
+  "type": "node",
+  "id": 7181096458,
+  "lat": 35.8254144,
+  "lon": 126.9845522
+},
+{
+  "type": "node",
+  "id": 13049563373,
+  "lat": 35.8269227,
+  "lon": 126.9825668
+},
+{
+  "type": "node",
+  "id": 13326070224,
+  "lat": 35.7596093,
+  "lon": 127.1066036
+},
+{
+  "type": "node",
+  "id": 11348770686,
+  "lat": 35.7591975,
+  "lon": 127.1072836
+},
+{
+  "type": "node",
+  "id": 11348770695,
+  "lat": 35.7578094,
+  "lon": 127.1106657
+},
+{
+  "type": "node",
+  "id": 11348770697,
+  "lat": 35.7572595,
+  "lon": 127.1126408
+},
+{
+  "type": "node",
+  "id": 11348770699,
+  "lat": 35.7587842,
+  "lon": 127.1081850
+},
+{
+  "type": "node",
+  "id": 12035869762,
+  "lat": 35.7571840,
+  "lon": 127.1130548
+},
+{
+  "type": "node",
+  "id": 13288336418,
+  "lat": 35.7574840,
+  "lon": 127.1117923
+},
+{
+  "type": "node",
+  "id": 13326164347,
+  "lat": 35.7662469,
+  "lon": 127.0993456
+},
+{
+  "type": "node",
+  "id": 13049563391,
+  "lat": 35.7712959,
+  "lon": 127.0932094
+},
+{
+  "type": "node",
+  "id": 13049563392,
+  "lat": 35.7712159,
+  "lon": 127.0931200
+},
+{
+  "type": "node",
+  "id": 13049563393,
+  "lat": 35.7716171,
+  "lon": 127.0928288
+},
+{
+  "type": "node",
+  "id": 13049563394,
+  "lat": 35.7715246,
+  "lon": 127.0927272
+},
+{
+  "type": "node",
+  "id": 13049563395,
+  "lat": 35.7719171,
+  "lon": 127.0924329
+},
+{
+  "type": "node",
+  "id": 13049563396,
+  "lat": 35.7718371,
+  "lon": 127.0923374
+},
+{
+  "type": "node",
+  "id": 13049563397,
+  "lat": 35.7721408,
+  "lon": 127.0919446
+},
+{
+  "type": "node",
+  "id": 13049563398,
+  "lat": 35.7722383,
+  "lon": 127.0920463
+},
+{
+  "type": "node",
+  "id": 13049563399,
+  "lat": 35.7724396,
+  "lon": 127.0915856
+},
+{
+  "type": "node",
+  "id": 13049563400,
+  "lat": 35.7725258,
+  "lon": 127.0916889
+},
+{
+  "type": "node",
+  "id": 13049563401,
+  "lat": 35.7727233,
+  "lon": 127.0912267
+},
+{
+  "type": "node",
+  "id": 13049563402,
+  "lat": 35.7728133,
+  "lon": 127.0913315
+},
+{
+  "type": "node",
+  "id": 13051451859,
+  "lat": 35.7708645,
+  "lon": 127.0937995
+},
+{
+  "type": "node",
+  "id": 13051451860,
+  "lat": 35.7707621,
+  "lon": 127.0936930
+},
+{
+  "type": "node",
+  "id": 11348770679,
+  "lat": 35.7699087,
+  "lon": 127.0948026
+},
+{
+  "type": "node",
+  "id": 13326164345,
+  "lat": 35.7687457,
+  "lon": 127.0961908
+},
+{
+  "type": "node",
+  "id": 13326196883,
+  "lat": 35.7698529,
+  "lon": 127.0950538
+},
+{
+  "type": "node",
+  "id": 13326196884,
+  "lat": 35.7697867,
+  "lon": 127.0949417
+},
+{
+  "type": "node",
+  "id": 13326196885,
+  "lat": 35.7699719,
+  "lon": 127.0949105
+},
+{
+  "type": "node",
+  "id": 7181096472,
+  "lat": 35.7620714,
+  "lon": 127.1042187
+},
+{
+  "type": "node",
+  "id": 7181096473,
+  "lat": 35.7602663,
+  "lon": 127.1058673
+},
+{
+  "type": "node",
+  "id": 11348770685,
+  "lat": 35.7643995,
+  "lon": 127.1016046
+},
+{
+  "type": "node",
+  "id": 11348770731,
+  "lat": 35.7569068,
+  "lon": 127.1161122
+},
+{
+  "type": "node",
+  "id": 12035869747,
+  "lat": 35.7569954,
+  "lon": 127.1174551
+},
+{
+  "type": "node",
+  "id": 12035869756,
+  "lat": 35.7569985,
+  "lon": 127.1143610
+},
+{
+  "type": "node",
+  "id": 13265791589,
+  "lat": 35.7568854,
+  "lon": 127.1172387
+},
+{
+  "type": "node",
+  "id": 13265818663,
+  "lat": 35.7568930,
+  "lon": 127.1166907
+},
+{
+  "type": "node",
+  "id": 13326196872,
+  "lat": 35.7571449,
+  "lon": 127.1197276
+},
+{
+  "type": "node",
+  "id": 13326196873,
+  "lat": 35.7570636,
+  "lon": 127.1197498
+},
+{
+  "type": "node",
+  "id": 13326196876,
+  "lat": 35.7571111,
+  "lon": 127.1141858
+},
+{
+  "type": "node",
+  "id": 13326196877,
+  "lat": 35.7570130,
+  "lon": 127.1141414
+},
+{
+  "type": "node",
+  "id": 13326196878,
+  "lat": 35.7570533,
+  "lon": 127.1138345
+},
+{
+  "type": "node",
+  "id": 13326196879,
+  "lat": 35.7571505,
+  "lon": 127.1138740
+},
+{
+  "type": "node",
+  "id": 13326196880,
+  "lat": 35.7570983,
+  "lon": 127.1143916
+},
+{
+  "type": "node",
+  "id": 13326196881,
+  "lat": 35.7570079,
+  "lon": 127.1141820
+},
+{
+  "type": "node",
+  "id": 11348770691,
+  "lat": 35.7577640,
+  "lon": 127.1254114
+},
+{
+  "type": "node",
+  "id": 11348770692,
+  "lat": 35.7576323,
+  "lon": 127.1254115
+},
+{
+  "type": "node",
+  "id": 13049563423,
+  "lat": 35.7577032,
+  "lon": 127.1248545
+},
+{
+  "type": "node",
+  "id": 13049563424,
+  "lat": 35.7575767,
+  "lon": 127.1248591
+},
+{
+  "type": "node",
+  "id": 13051451895,
+  "lat": 35.7578180,
+  "lon": 127.1259063
+},
+{
+  "type": "node",
+  "id": 13325637324,
+  "lat": 35.7578352,
+  "lon": 127.1260940
+},
+{
+  "type": "node",
+  "id": 13325637325,
+  "lat": 35.7578488,
+  "lon": 127.1263728
+},
+{
+  "type": "node",
+  "id": 13325637326,
+  "lat": 35.7578555,
+  "lon": 127.1266545
+},
+{
+  "type": "node",
+  "id": 13326196874,
+  "lat": 35.7576827,
+  "lon": 127.1259267
+},
+{
+  "type": "node",
+  "id": 13326196875,
+  "lat": 35.7577086,
+  "lon": 127.1263550
+},
+{
+  "type": "node",
+  "id": 7181086053,
+  "lat": 35.7578626,
+  "lon": 127.1276201
+},
+{
+  "type": "node",
+  "id": 11348770688,
+  "lat": 35.7577086,
+  "lon": 127.1276190
+},
+{
+  "type": "node",
+  "id": 13265899373,
+  "lat": 35.7577158,
+  "lon": 127.1267922
+},
+{
+  "type": "node",
+  "id": 13265899374,
+  "lat": 35.7578607,
+  "lon": 127.1272045
+},
+{
+  "type": "node",
+  "id": 7181086057,
+  "lat": 35.7738451,
+  "lon": 127.0898464
+},
+{
+  "type": "node",
+  "id": 7181096471,
+  "lat": 35.7737601,
+  "lon": 127.0897416
+},
+{
+  "type": "node",
+  "id": 11348770680,
+  "lat": 35.7730920,
+  "lon": 127.0909710
+},
+{
+  "type": "node",
+  "id": 11348770681,
+  "lat": 35.7729970,
+  "lon": 127.0908708
+},
+{
+  "type": "node",
+  "id": 13049563403,
+  "lat": 35.7736038,
+  "lon": 127.0902346
+},
+{
+  "type": "node",
+  "id": 13049563404,
+  "lat": 35.7735188,
+  "lon": 127.0901268
+},
+{
+  "type": "node",
+  "id": 13049563405,
+  "lat": 35.7741338,
+  "lon": 127.0893180
+},
+{
+  "type": "node",
+  "id": 13049563406,
+  "lat": 35.7740425,
+  "lon": 127.0892256
+},
+{
+  "type": "node",
+  "id": 13049563411,
+  "lat": 35.7747282,
+  "lon": 127.0880381
+},
+{
+  "type": "node",
+  "id": 13049563412,
+  "lat": 35.7746724,
+  "lon": 127.0878775
+},
+{
+  "type": "node",
+  "id": 13049563413,
+  "lat": 35.7743253,
+  "lon": 127.0886720
+},
+{
+  "type": "node",
+  "id": 13049563414,
+  "lat": 35.7744207,
+  "lon": 127.0887569
+},
+{
+  "type": "node",
+  "id": 13325701325,
+  "lat": 35.7742010,
+  "lon": 127.0889254
+},
+{
+  "type": "node",
+  "id": 13325701326,
+  "lat": 35.7744884,
+  "lon": 127.0883156
+},
+{
+  "type": "node",
+  "id": 13049563419,
+  "lat": 35.7756682,
+  "lon": 127.1583511
+},
+{
+  "type": "node",
+  "id": 13049563420,
+  "lat": 35.7761707,
+  "lon": 127.1587443
+},
+{
+  "type": "node",
+  "id": 13051451901,
+  "lat": 35.7759772,
+  "lon": 127.1593142
+},
+{
+  "type": "node",
+  "id": 13325637320,
+  "lat": 35.7759013,
+  "lon": 127.1590261
+},
+{
+  "type": "node",
+  "id": 13325637321,
+  "lat": 35.7758019,
+  "lon": 127.1587144
+},
+{
+  "type": "node",
+  "id": 13325637323,
+  "lat": 35.7763298,
+  "lon": 127.1592560
+},
+{
+  "type": "node",
+  "id": 11348770702,
+  "lat": 35.7768107,
+  "lon": 127.1624763
+},
+{
+  "type": "node",
+  "id": 13049563421,
+  "lat": 35.7768722,
+  "lon": 127.1613801
+},
+{
+  "type": "node",
+  "id": 13325637322,
+  "lat": 35.7764398,
+  "lon": 127.1596693
+},
+{
+  "type": "node",
+  "id": 11348770705,
+  "lat": 35.7834228,
+  "lon": 127.1806001
+},
+{
+  "type": "node",
+  "id": 13265899379,
+  "lat": 35.7838912,
+  "lon": 127.1811599
+},
+{
+  "type": "node",
+  "id": 13325637316,
+  "lat": 35.7842849,
+  "lon": 127.1815574
+},
+{
+  "type": "node",
+  "id": 9083365240,
+  "lat": 35.7916731,
+  "lon": 127.1878161
+},
+{
+  "type": "node",
+  "id": 9083365241,
+  "lat": 35.7915555,
+  "lon": 127.1880536
+},
+{
+  "type": "node",
+  "id": 13325535138,
+  "lat": 35.7922786,
+  "lon": 127.1886563
+},
+{
+  "type": "node",
+  "id": 7181086043,
+  "lat": 35.7929742,
+  "lon": 127.1889029
+},
+{
+  "type": "node",
+  "id": 7181096483,
+  "lat": 35.7929478,
+  "lon": 127.1892140
+},
+{
+  "type": "node",
+  "id": 9083365242,
+  "lat": 35.7951132,
+  "lon": 127.1908528
+},
+{
+  "type": "node",
+  "id": 9083365244,
+  "lat": 35.7949138,
+  "lon": 127.1910940
+},
+{
+  "type": "node",
+  "id": 13051451903,
+  "lat": 35.7933780,
+  "lon": 127.1892565
+},
+{
+  "type": "node",
+  "id": 13325535136,
+  "lat": 35.7934782,
+  "lon": 127.1893442
+},
+{
+  "type": "node",
+  "id": 13325535137,
+  "lat": 35.7927837,
+  "lon": 127.1887437
+},
+{
+  "type": "node",
+  "id": 13325535139,
+  "lat": 35.7931323,
+  "lon": 127.1893773
+},
+{
+  "type": "node",
+  "id": 7181086044,
+  "lat": 35.7969045,
+  "lon": 127.1929567
+},
+{
+  "type": "node",
+  "id": 7181096485,
+  "lat": 35.7989161,
+  "lon": 127.1956274
+},
+{
+  "type": "node",
+  "id": 12777868503,
+  "lat": 35.7970405,
+  "lon": 127.1934922
+},
+{
+  "type": "node",
+  "id": 13325535135,
+  "lat": 35.7967339,
+  "lon": 127.1931441
+},
+{
+  "type": "node",
+  "id": 11348770709,
+  "lat": 35.8001885,
+  "lon": 127.1977078
+},
+{
+  "type": "node",
+  "id": 13063868674,
+  "lat": 35.7994339,
+  "lon": 127.1962306
+},
+{
+  "type": "node",
+  "id": 13265899320,
+  "lat": 35.7999363,
+  "lon": 127.1970535
+},
+{
+  "type": "node",
+  "id": 13265899342,
+  "lat": 35.7997142,
+  "lon": 127.1966344
+},
+{
+  "type": "node",
+  "id": 13325637311,
+  "lat": 35.8004498,
+  "lon": 127.1987961
+},
+{
+  "type": "node",
+  "id": 13063868675,
+  "lat": 35.8005018,
+  "lon": 127.1990128
+},
+{
+  "type": "node",
+  "id": 7181096486,
+  "lat": 35.8038829,
+  "lon": 127.2178259
+},
+{
+  "type": "node",
+  "id": 7181096494,
+  "lat": 35.8063517,
+  "lon": 127.2259121
+},
+{
+  "type": "node",
+  "id": 9083365246,
+  "lat": 35.8081169,
+  "lon": 127.2325281
+},
+{
+  "type": "node",
+  "id": 11746003967,
+  "lat": 35.8093490,
+  "lon": 127.2375397
+},
+{
+  "type": "node",
+  "id": 13265899380,
+  "lat": 35.8089793,
+  "lon": 127.2357916
+},
+{
+  "type": "node",
+  "id": 7181096487,
+  "lat": 35.8098860,
+  "lon": 127.2409383
+},
+{
+  "type": "node",
+  "id": 9083365248,
+  "lat": 35.8100027,
+  "lon": 127.2435011
+},
+{
+  "type": "node",
+  "id": 13265899382,
+  "lat": 35.8094935,
+  "lon": 127.2383097
+},
+{
+  "type": "node",
+  "id": 13265899383,
+  "lat": 35.8096347,
+  "lon": 127.2392380
+},
+{
+  "type": "node",
+  "id": 13265899384,
+  "lat": 35.8097870,
+  "lon": 127.2402457
+},
+{
+  "type": "node",
+  "id": 13265899385,
+  "lat": 35.8099849,
+  "lon": 127.2418916
+},
+{
+  "type": "node",
+  "id": 13265899386,
+  "lat": 35.8100046,
+  "lon": 127.2426815
+},
+{
+  "type": "node",
+  "id": 13265899387,
+  "lat": 35.8099555,
+  "lon": 127.2446713
+},
+{
+  "type": "node",
+  "id": 7181096488,
+  "lat": 35.8092564,
+  "lon": 127.2480934
+},
+{
+  "type": "node",
+  "id": 13265899388,
+  "lat": 35.8096716,
+  "lon": 127.2468121
+},
+{
+  "type": "node",
+  "id": 13265899389,
+  "lat": 35.8090484,
+  "lon": 127.2486223
+},
+{
+  "type": "node",
+  "id": 13326059391,
+  "lat": 35.8076611,
+  "lon": 127.2512417
+},
+{
+  "type": "node",
+  "id": 13326059392,
+  "lat": 35.8079777,
+  "lon": 127.2507470
+},
+{
+  "type": "node",
+  "id": 13326059393,
+  "lat": 35.8082885,
+  "lon": 127.2502452
+},
+{
+  "type": "node",
+  "id": 13326059394,
+  "lat": 35.8085574,
+  "lon": 127.2497050
+},
+{
+  "type": "node",
+  "id": 13326059395,
+  "lat": 35.8088108,
+  "lon": 127.2491977
+},
+{
+  "type": "node",
+  "id": 13326059397,
+  "lat": 35.8098531,
+  "lon": 127.2457188
+},
+{
+  "type": "node",
+  "id": 9083365253,
+  "lat": 35.8073224,
+  "lon": 127.2516625
 },
 {
   "type": "node",
@@ -23894,8 +33133,8 @@
 {
   "type": "node",
   "id": 13294425927,
-  "lat": 36.2281533,
-  "lon": 129.3659742
+  "lat": 36.2281516,
+  "lon": 129.3659670
 },
 {
   "type": "node",
