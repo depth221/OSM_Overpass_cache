@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-22T18:49:30Z",
-    "timestamp_areas_base": "2025-11-22T16:23:41Z",
+    "timestamp_osm_base": "2025-11-23T18:50:00Z",
+    "timestamp_areas_base": "2025-11-23T14:20:16Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1825,9 +1825,12 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
     "name": "대백제로",
     "name:en": "Daebaekje-ro",
-    "name:ko": "대백제로"
+    "name:ko": "대백제로",
+    "wikidata": "Q16099821",
+    "wikipedia": "ko:대백제로"
   }
 },
 {
@@ -5820,18 +5823,6 @@
   "type": "way",
   "id": 120494235,
   "nodes": [
-    436401335,
-    1351013708,
-    1351013710,
-    1351013713,
-    1351013715,
-    1351013717,
-    1351013719,
-    1351013721,
-    1351013724,
-    1351013726,
-    1351013728,
-    1351013730,
     1351013732,
     1351013736,
     1351013738,
@@ -5849,13 +5840,16 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "60",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
     "review": "no",
-    "source": "NTIC; Bing (adjusted)"
+    "source": "NTIC; Bing (adjusted)",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -5888,6 +5882,7 @@
   "tags": {
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "60",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
@@ -5895,7 +5890,9 @@
     "ref": "1",
     "review": "no",
     "source": "Bing (adjusted)",
-    "surface": "asphalt"
+    "surface": "asphalt",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -5926,33 +5923,20 @@
     1351013739,
     1351013737,
     1351013735,
-    1351013733,
-    1351013731,
-    1351013729,
-    1351013727,
-    1351013725,
-    1351013723,
-    1351013720,
-    1351013718,
-    1351013716,
-    1351013714,
-    1351013712,
-    1351013709,
-    5419698181,
-    5419698180,
-    5419698182,
-    5419698183,
-    5515640455
+    1351013733
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "60",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
     "review": "no",
-    "source": "NTIC; Bing (adjusted)"
+    "source": "NTIC; Bing (adjusted)",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -5985,6 +5969,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "60",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
@@ -5992,7 +5977,9 @@
     "ref": "1",
     "review": "no",
     "source": "Bing (adjusted)",
-    "surface": "asphalt"
+    "surface": "asphalt",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -6007,12 +5994,15 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "60",
     "name": "득안대로",
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
     "review": "no",
-    "surface": "asphalt"
+    "surface": "asphalt",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -6027,13 +6017,16 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "60",
     "name": "득안대로",
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
     "review": "no",
     "source": "Bing (adjusted)",
-    "surface": "asphalt"
+    "surface": "asphalt",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -6084,6 +6077,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "60",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
@@ -6091,7 +6085,9 @@
     "ref": "1",
     "review": "no",
     "source": "Bing (adjusted)",
-    "surface": "asphalt"
+    "surface": "asphalt",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -6106,12 +6102,15 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "60",
     "name": "득안대로",
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
     "review": "no",
-    "source": "Bing (adjusted)"
+    "source": "Bing (adjusted)",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -6126,12 +6125,15 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "60",
     "name": "득안대로",
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
     "review": "no",
-    "source": "Bing (adjusted)"
+    "source": "Bing (adjusted)",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -6180,13 +6182,16 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "60",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
     "review": "no",
-    "surface": "asphalt"
+    "surface": "asphalt",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -6205,13 +6210,16 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "60",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
     "review": "no",
-    "source": "Bing (adjusted)"
+    "source": "Bing (adjusted)",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -9655,12 +9663,15 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "50",
     "name": "득안대로",
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -9678,13 +9689,16 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "50",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -12364,11 +12378,14 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1"
+    "ref": "1",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -15984,11 +16001,15 @@
   "tags": {
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "70",
+    "mindistance": "70",
     "name": "대백제로",
     "name:en": "Daebaekje-ro",
     "name:ko": "대백제로",
     "oneway": "yes",
-    "ref": "4"
+    "ref": "4",
+    "wikidata": "Q16099821",
+    "wikipedia": "ko:대백제로"
   }
 },
 {
@@ -20107,11 +20128,15 @@
   "tags": {
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "70",
+    "mindistance": "70",
     "name": "대백제로",
     "name:en": "Daebaekje-ro",
     "name:ko": "대백제로",
     "oneway": "yes",
-    "ref": "4"
+    "ref": "4",
+    "wikidata": "Q16099821",
+    "wikipedia": "ko:대백제로"
   }
 },
 {
@@ -21049,7 +21074,7 @@
   "type": "way",
   "id": 554495975,
   "nodes": [
-    5519660939,
+    13325859184,
     436401308,
     436401309,
     12060545440,
@@ -21095,13 +21120,16 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "50",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -21788,11 +21816,14 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
     "name": "대백제로",
     "name:en": "Daebaekje-ro",
     "name:ko": "대백제로",
     "oneway": "yes",
-    "ref": "4"
+    "ref": "4",
+    "wikidata": "Q16099821",
+    "wikipedia": "ko:대백제로"
   }
 },
 {
@@ -21811,11 +21842,14 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
     "name": "대백제로",
     "name:en": "Daebaekje-ro",
     "name:ko": "대백제로",
     "oneway": "yes",
-    "ref": "4;21;77"
+    "ref": "4;21;77",
+    "wikidata": "Q16099821",
+    "wikipedia": "ko:대백제로"
   }
 },
 {
@@ -21834,11 +21868,15 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
+    "mindistance": "70",
     "name": "대백제로",
     "name:en": "Daebaekje-ro",
     "name:ko": "대백제로",
     "oneway": "yes",
-    "ref": "4"
+    "ref": "4",
+    "wikidata": "Q16099821",
+    "wikipedia": "ko:대백제로"
   }
 },
 {
@@ -23790,10 +23828,13 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "70",
     "name": "득안대로",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1"
+    "ref": "1",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -23814,12 +23855,15 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
-    "surface": "asphalt"
+    "surface": "asphalt",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -23843,12 +23887,15 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
-    "surface": "asphalt"
+    "surface": "asphalt",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -23863,10 +23910,13 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "70",
     "name": "득안대로",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1"
+    "ref": "1",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -23914,17 +23964,20 @@
     5419698832,
     5419698833,
     10066731064,
-    5519744879
+    13325859183
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "50",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -23938,11 +23991,14 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1"
+    "ref": "1",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -23957,10 +24013,13 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "70",
     "name": "득안대로",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1"
+    "ref": "1",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -23976,11 +24035,14 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1"
+    "ref": "1",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -23995,11 +24057,14 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1"
+    "ref": "1",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -24014,10 +24079,13 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "70",
     "name": "득안대로",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1"
+    "ref": "1",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -25394,12 +25462,15 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "50",
     "name": "득안대로",
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -25537,12 +25608,16 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "60",
     "name": "득안대로",
+    "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -25571,11 +25646,14 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1"
+    "ref": "1",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -25603,11 +25681,14 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1"
+    "ref": "1",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -25622,12 +25703,16 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "60",
     "name": "득안대로",
+    "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -30553,13 +30638,17 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
+    "mindistance": "70",
     "name": "대백제로",
     "name:en": "Daebaekje-ro",
     "name:ko": "대백제로",
     "oneway": "yes",
     "ref": "4",
     "review": "no",
-    "source": "NTIC"
+    "source": "NTIC",
+    "wikidata": "Q16099821",
+    "wikipedia": "ko:대백제로"
   }
 },
 {
@@ -30580,11 +30669,15 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
+    "mindistance": "70",
     "name": "대백제로",
     "name:en": "Daebaekje-ro",
     "name:ko": "대백제로",
     "oneway": "yes",
-    "ref": "4"
+    "ref": "4",
+    "wikidata": "Q16099821",
+    "wikipedia": "ko:대백제로"
   }
 },
 {
@@ -31032,11 +31125,15 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
+    "mindistance": "70",
     "name": "대백제로",
     "name:en": "Daebaekje-ro",
     "name:ko": "대백제로",
     "oneway": "yes",
-    "ref": "4"
+    "ref": "4",
+    "wikidata": "Q16099821",
+    "wikipedia": "ko:대백제로"
   }
 },
 {
@@ -31706,11 +31803,15 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
+    "mindistance": "70",
     "name": "대백제로",
     "name:en": "Daebaekje-ro",
     "name:ko": "대백제로",
     "oneway": "yes",
-    "ref": "4"
+    "ref": "4",
+    "wikidata": "Q16099821",
+    "wikipedia": "ko:대백제로"
   }
 },
 {
@@ -36846,11 +36947,15 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
+    "mindistance": "70",
     "name": "대백제로",
     "name:en": "Daebaekje-ro",
     "name:ko": "대백제로",
     "oneway": "yes",
-    "ref": "4"
+    "ref": "4",
+    "wikidata": "Q16099821",
+    "wikipedia": "ko:대백제로"
   }
 },
 {
@@ -36863,11 +36968,15 @@
   "tags": {
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "70",
+    "mindistance": "70",
     "name": "대백제로",
     "name:en": "Daebaekje-ro",
     "name:ko": "대백제로",
     "oneway": "yes",
-    "ref": "4"
+    "ref": "4",
+    "wikidata": "Q16099821",
+    "wikipedia": "ko:대백제로"
   }
 },
 {
@@ -36896,11 +37005,15 @@
   "tags": {
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "70",
+    "mindistance": "70",
     "name": "대백제로",
     "name:en": "Daebaekje-ro",
     "name:ko": "대백제로",
     "oneway": "yes",
-    "ref": "4"
+    "ref": "4",
+    "wikidata": "Q16099821",
+    "wikipedia": "ko:대백제로"
   }
 },
 {
@@ -36932,11 +37045,15 @@
   "tags": {
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "70",
+    "mindistance": "70",
     "name": "대백제로",
     "name:en": "Daebaekje-ro",
     "name:ko": "대백제로",
     "oneway": "yes",
-    "ref": "4"
+    "ref": "4",
+    "wikidata": "Q16099821",
+    "wikipedia": "ko:대백제로"
   }
 },
 {
@@ -36954,11 +37071,15 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
+    "mindistance": "70",
     "name": "대백제로",
     "name:en": "Daebaekjae-ro",
     "name:ko": "대백제로",
     "oneway": "yes",
-    "ref": "4"
+    "ref": "4",
+    "wikidata": "Q16099821",
+    "wikipedia": "ko:대백제로"
   }
 },
 {
@@ -37090,10 +37211,13 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
     "name": "대백제로",
     "name:en": "Daebaekjae-ro",
     "name:ko": "대백제로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16099821",
+    "wikipedia": "ko:대백제로"
   }
 },
 {
@@ -37109,10 +37233,13 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
     "name": "대백제로",
     "name:en": "Daebaekjae-ro",
     "name:ko": "대백제로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16099821",
+    "wikipedia": "ko:대백제로"
   }
 },
 {
@@ -45152,7 +45279,9 @@
     "oneway": "no",
     "ref": "1",
     "review": "no",
-    "source": "Bing (adjusted)"
+    "source": "Bing (adjusted)",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -52798,11 +52927,14 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1"
+    "ref": "1",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -52816,11 +52948,14 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "70",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1"
+    "ref": "1",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -52832,11 +52967,14 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1"
+    "ref": "1",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -52850,11 +52988,14 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "70",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1"
+    "ref": "1",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -58311,11 +58452,14 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "60",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1"
+    "ref": "1",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -58330,11 +58474,14 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "60",
     "name": "득안대로",
     "name:en": "Deugan-daero",
     "name:ko": "득안대로",
     "oneway": "yes",
-    "ref": "1"
+    "ref": "1",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -61672,6 +61819,116 @@
     "ref": "21;77",
     "review": "no",
     "source": "NTIC"
+  }
+},
+{
+  "type": "way",
+  "id": 1453051862,
+  "nodes": [
+    1351013733,
+    1351013731,
+    1351013729,
+    1351013727,
+    1351013725,
+    1351013723,
+    1351013720,
+    1351013718,
+    1351013716,
+    1351013714,
+    1351013712,
+    1351013709,
+    5419698181,
+    5419698180,
+    5419698182,
+    5419698183,
+    5515640455
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "득안대로",
+    "name:en": "Deugan-daero",
+    "name:ko": "득안대로",
+    "oneway": "yes",
+    "ref": "1",
+    "review": "no",
+    "source": "NTIC; Bing (adjusted)",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1453051863,
+  "nodes": [
+    436401335,
+    1351013708,
+    1351013710,
+    1351013713,
+    1351013715,
+    1351013717,
+    1351013719,
+    1351013721,
+    1351013724,
+    1351013726,
+    1351013728,
+    1351013730,
+    1351013732
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "득안대로",
+    "name:en": "Deugan-daero",
+    "name:ko": "득안대로",
+    "oneway": "yes",
+    "ref": "1",
+    "review": "no",
+    "source": "NTIC; Bing (adjusted)",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1453051864,
+  "nodes": [
+    13325859183,
+    5519744879
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "60",
+    "name": "득안대로",
+    "name:en": "Deugan-daero",
+    "name:ko": "득안대로",
+    "oneway": "yes",
+    "ref": "1",
+    "review": "no",
+    "source": "NTIC",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1453051865,
+  "nodes": [
+    5519660939,
+    13325859184
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "60",
+    "name": "득안대로",
+    "name:en": "Deugan-daero",
+    "name:ko": "득안대로",
+    "oneway": "yes",
+    "ref": "1",
+    "review": "no",
+    "source": "NTIC",
+    "wikidata": "Q31179883",
+    "wikipedia": "ko:득안대로"
   }
 },
 {
@@ -104195,6 +104452,18 @@
   "id": 12060545440,
   "lat": 36.1054793,
   "lon": 127.0983473
+},
+{
+  "type": "node",
+  "id": 13325859183,
+  "lat": 36.1023954,
+  "lon": 127.0976427
+},
+{
+  "type": "node",
+  "id": 13325859184,
+  "lat": 36.1023825,
+  "lon": 127.0977434
 },
 {
   "type": "node",
