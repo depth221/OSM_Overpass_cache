@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-24T18:44:44Z",
-    "timestamp_areas_base": "2025-11-24T13:52:46Z",
+    "timestamp_osm_base": "2025-11-25T18:44:12Z",
+    "timestamp_areas_base": "2025-11-25T13:49:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -76,11 +76,9 @@
     "name": "경인고속도로",
     "name:en": "Gyeongin Expressway",
     "name:ko-Latn": "Gyeongingosokdoro",
-    "ncat": "고속도로",
     "oneway": "yes",
     "ref": "120",
     "sidewalk": "no",
-    "source": "NTIC",
     "surface": "asphalt",
     "toll": "yes",
     "wikidata": "Q482914",
@@ -105,11 +103,9 @@
     "name": "경인고속도로",
     "name:en": "Gyeongin Expressway",
     "name:ko-Latn": "Gyeongingosokdoro",
-    "ncat": "고속도로",
     "oneway": "yes",
     "ref": "120",
     "sidewalk": "no",
-    "source": "NTIC",
     "surface": "asphalt",
     "toll": "yes",
     "wikidata": "Q482914",
@@ -933,8 +929,6 @@
     "name:zh-Hant": "中部內陸高速公路",
     "oneway": "yes",
     "ref": "45",
-    "review": "no",
-    "source": "NTIC",
     "toll": "yes"
   }
 },
@@ -1022,7 +1016,6 @@
     "name:ko-Latn": "Gyeongbugosokdoro",
     "name:zh": "京釜高速公路",
     "name:zh-Hant": "京釜高速公路",
-    "ncat": "고속도로",
     "oneway": "yes",
     "opening_date": "2024-02-29",
     "ref": "1",
@@ -1337,10 +1330,8 @@
     "name:ko-Hani": "唐津淸州高速道路",
     "name:zh": "唐津清州高速公路",
     "name:zh-Hant": "唐津清州高速公路",
-    "ncat": "교차로및지명",
     "oneway": "yes",
-    "ref": "32",
-    "review": "no"
+    "ref": "32"
   }
 },
 {
@@ -5680,8 +5671,6 @@
     "name:zh-Hant": "中部內陸高速公路",
     "oneway": "yes",
     "ref": "45",
-    "review": "no",
-    "source": "NTIC",
     "toll": "yes"
   }
 },
@@ -5710,8 +5699,6 @@
     "name:zh-Hant": "中部內陸高速公路",
     "oneway": "yes",
     "ref": "45",
-    "review": "no",
-    "source": "NTIC",
     "toll": "yes"
   }
 },
@@ -5739,8 +5726,6 @@
     "name:zh-Hant": "中部內陸高速公路",
     "oneway": "yes",
     "ref": "45",
-    "review": "no",
-    "source": "NTIC",
     "toll": "yes"
   }
 },
@@ -5769,8 +5754,6 @@
     "name:zh-Hant": "中部內陸高速公路",
     "oneway": "yes",
     "ref": "45",
-    "review": "no",
-    "source": "NTIC",
     "toll": "yes"
   }
 },
@@ -5797,8 +5780,6 @@
     "name:zh-Hant": "中部內陸高速公路",
     "oneway": "yes",
     "ref": "45",
-    "review": "no",
-    "source": "NTIC",
     "toll": "yes"
   }
 },
@@ -5826,8 +5807,6 @@
     "name:zh-Hant": "中部內陸高速公路",
     "oneway": "yes",
     "ref": "45",
-    "review": "no",
-    "source": "NTIC",
     "toll": "yes"
   }
 },
@@ -5855,8 +5834,6 @@
     "name:zh-Hant": "中部內陸高速公路",
     "oneway": "yes",
     "ref": "45",
-    "review": "no",
-    "source": "NTIC",
     "toll": "yes"
   }
 },
@@ -5882,8 +5859,6 @@
     "name:zh-Hant": "中部內陸高速公路",
     "oneway": "yes",
     "ref": "45",
-    "review": "no",
-    "source": "NTIC",
     "toll": "yes"
   }
 },
@@ -5930,8 +5905,6 @@
   "tags": {
     "highway": "motorway",
     "oneway": "yes",
-    "review": "no",
-    "source": "NTIC",
     "toll": "yes"
   }
 },
@@ -5969,8 +5942,6 @@
   "tags": {
     "highway": "motorway",
     "oneway": "yes",
-    "review": "no",
-    "source": "NTIC",
     "toll": "yes"
   }
 },
@@ -6687,11 +6658,8 @@
     "name:zh": "嶺東高速公路",
     "name:zh-Hans": "岭东高速公路",
     "name:zh-Hant": "嶺東高速公路",
-    "ncat": "고속도로",
     "oneway": "yes",
     "ref": "50",
-    "review": "no",
-    "source": "NTIC",
     "toll": "yes"
   }
 },
@@ -16177,8 +16145,6 @@
     "name:zh-Hant": "中部內陸高速公路",
     "oneway": "yes",
     "ref": "45",
-    "review": "no",
-    "source": "NTIC",
     "toll": "yes"
   }
 },
@@ -16206,8 +16172,6 @@
     "name:zh-Hant": "中部內陸高速公路",
     "oneway": "yes",
     "ref": "45",
-    "review": "no",
-    "source": "NTIC",
     "toll": "yes"
   }
 },
@@ -20441,9 +20405,9 @@
   "id": 1420256662,
   "nodes": [
     13049563327,
-    11348771118,
+    13329897382,
     13327283281,
-    13327310086
+    11348771118
   ],
   "tags": {
     "highway": "motorway",
@@ -24316,7 +24280,7 @@
   "type": "way",
   "id": 1453080164,
   "nodes": [
-    13327310086,
+    11348771118,
     13327310085
   ],
   "tags": {
@@ -25829,8 +25793,8 @@
 {
   "type": "node",
   "id": 11348771118,
-  "lat": 35.8387530,
-  "lon": 126.8431047
+  "lat": 35.8384399,
+  "lon": 126.8424609
 },
 {
   "type": "node",
@@ -25846,9 +25810,9 @@
 },
 {
   "type": "node",
-  "id": 13327310086,
-  "lat": 35.8384399,
-  "lon": 126.8424609
+  "id": 13329897382,
+  "lat": 35.8387530,
+  "lon": 126.8431047
 },
 {
   "type": "node",
