@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-24T18:53:46Z",
-    "timestamp_areas_base": "2025-11-24T10:58:59Z",
+    "timestamp_osm_base": "2025-11-25T18:53:23Z",
+    "timestamp_areas_base": "2025-11-25T17:01:59Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -268,10 +268,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
-    "ref": "29;68",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29;68"
   }
 },
 {
@@ -479,10 +476,7 @@
     "name": "온천대로",
     "name:en": "Oncheon-daero",
     "name:ko": "온천대로",
-    "ncat": "국도",
-    "oneway": "yes",
-    "review": "no",
-    "source": "NTIC"
+    "oneway": "yes"
   }
 },
 {
@@ -534,10 +528,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
-    "ref": "29",
-    "review": "no",
-    "source": "Bing (adjusted)"
+    "ref": "29"
   }
 },
 {
@@ -552,10 +543,7 @@
     "highway": "primary",
     "name": "괴강로",
     "name:en": "Goegang-ro",
-    "name:ko": "괴강로",
-    "ncat": "국도",
-    "review": "no",
-    "source": "NTIC"
+    "name:ko": "괴강로"
   }
 },
 {
@@ -651,10 +639,7 @@
     "name": "금평로",
     "name:en": "Geumpyeong-ro",
     "name:ko": "금평로",
-    "ncat": "국도",
     "ref": "37",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -721,10 +706,7 @@
     "name": "명지1로",
     "name:en": "Myeongji 1-ro",
     "name:ko": "명지1로",
-    "ncat": "국도",
     "ref": "38",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -836,10 +818,7 @@
     "name": "외암로",
     "name:en": "Oeam-ro",
     "name:ko": "외암로",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -899,10 +878,7 @@
     "name": "수덕사로",
     "name:en": "Sudeoksa-ro",
     "name:ko": "수덕사로",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -1092,10 +1068,7 @@
     "name": "별방창원로",
     "name:en": "Byeolbangchangwon-ro",
     "name:ko": "별방창원로",
-    "ncat": "국도",
-    "ref": "59",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "59"
   }
 },
 {
@@ -1176,10 +1149,7 @@
     "name": "괴산로",
     "name:en": "Goesan-ro",
     "name:ko": "괴산로",
-    "ncat": "지방도",
     "ref": "32",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -1294,10 +1264,7 @@
     "name": "송문로",
     "name:en": "Songmun-ro",
     "name:ko": "송문로",
-    "ncat": "지방도",
-    "ref": "49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "49"
   }
 },
 {
@@ -1314,10 +1281,7 @@
     "name": "송문로",
     "name:en": "Songmun-ro",
     "name:ko": "송문로",
-    "ncat": "지방도",
-    "ref": "49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "49"
   }
 },
 {
@@ -1334,10 +1298,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -1385,8 +1346,6 @@
     "name:en": "Yedeok-ro",
     "name:ko": "예덕로",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -1469,10 +1428,7 @@
     "name": "청송로",
     "name:en": "Cheongsong-ro",
     "name:ko": "청송로",
-    "ncat": "지방도",
-    "ref": "625",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "625"
   }
 },
 {
@@ -1510,10 +1466,7 @@
     "name": "장산로",
     "name:en": "Jangsan-ro",
     "name:ko": "장산로",
-    "ncat": "지방도",
-    "ref": "68",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "68"
   }
 },
 {
@@ -1630,9 +1583,7 @@
     "name": "용천신원로",
     "name:en": "Yongcheonsinwon-ro",
     "name:ko": "용천신원로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -1670,8 +1621,6 @@
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
     "ref": "25",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -1688,9 +1637,7 @@
     "highway": "primary",
     "layer": "1",
     "name": "벽천2교",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -1722,10 +1669,7 @@
     "highway": "primary",
     "layer": "-1",
     "name": "솔티터널",
-    "ncat": "국도",
     "ref": "39",
-    "review": "no",
-    "source": "NTIC",
     "tunnel": "yes",
     "tunnel:name": "솔티터널"
   }
@@ -1767,10 +1711,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -1983,11 +1924,8 @@
     "name": "백제문화로",
     "name:en": "Baekjemunhwa-ro",
     "name:ko": "백제문화로",
-    "ncat": "국도;지방도",
     "oneway": "yes",
-    "ref": "40;645",
-    "review": "no",
-    "source": "Yahoo"
+    "ref": "40;645"
   }
 },
 {
@@ -2194,11 +2132,8 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "21;77",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -2217,11 +2152,8 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -2337,9 +2269,7 @@
     "name:en": "Heomanseok-ro",
     "name:ko": "허만석로",
     "oneway": "yes",
-    "ref": "36",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "36"
   }
 },
 {
@@ -2449,10 +2379,7 @@
     "name": "남부로",
     "name:en": "Nambu-ro",
     "name:ko": "남부로",
-    "ncat": "국도",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19"
   }
 },
 {
@@ -2473,11 +2400,8 @@
     "bridge:name": "송천교",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19"
   }
 },
 {
@@ -2775,9 +2699,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -2955,10 +2877,7 @@
     "name": "괴산로",
     "name:en": "Goesan-ro",
     "name:ko": "괴산로",
-    "ncat": "국도",
     "ref": "19;37",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -3029,8 +2948,6 @@
     "name:en": "Hwayang-ro",
     "name:ko": "화양로",
     "ref": "32;37",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -3137,8 +3054,6 @@
     "name:ko": "단양로",
     "oneway": "yes",
     "ref": "5",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -3246,9 +3161,7 @@
     "name:en": "Daegeum-ro",
     "name:ko": "대금로",
     "oneway": "yes",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -3269,9 +3182,7 @@
     "highway": "primary",
     "layer": "1",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -3316,9 +3227,7 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -3341,9 +3250,7 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -3358,10 +3265,7 @@
     "highway": "primary",
     "layer": "1",
     "name": "충서로",
-    "ncat": "국도",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -3381,9 +3285,7 @@
     "highway": "primary",
     "layer": "1",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -3428,9 +3330,7 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -3452,10 +3352,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -3518,9 +3415,7 @@
     "name": "홍남동로",
     "name:en": "Hongnamdong-ro",
     "name:ko": "홍남동로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -3537,10 +3432,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도;지방도",
-    "ref": "40;645",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40;645"
   }
 },
 {
@@ -3567,10 +3459,7 @@
     "name": "백제문화로",
     "name:en": "Baekjemunhwa-ro",
     "name:ko": "백제문화로",
-    "ncat": "국도;지방도",
-    "ref": "40;645",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40;645"
   }
 },
 {
@@ -3586,9 +3475,7 @@
     "highway": "primary",
     "layer": "1",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -3611,9 +3498,7 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -3628,10 +3513,7 @@
     "highway": "primary",
     "layer": "1",
     "name": "충서로",
-    "ncat": "국도",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -3648,9 +3530,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -3695,9 +3575,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -3721,9 +3599,7 @@
     "name": "홍남로",
     "name:en": "Hongnam-ro",
     "name:ko": "홍남로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -3771,10 +3647,7 @@
     "name": "예덕로",
     "name:en": "Yedeok-ro",
     "name:ko": "예덕로",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -3806,11 +3679,8 @@
     "name": "진광로",
     "name:en": "Jingwang-ro",
     "name:ko": "진광로",
-    "ncat": "지방도",
     "oneway": "no",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -3827,10 +3697,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "지방도",
-    "ref": "32",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "32"
   }
 },
 {
@@ -3852,10 +3719,7 @@
     "name": "괴강로",
     "name:en": "Goegang-ro",
     "name:ko": "괴강로",
-    "ncat": "국도",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19"
   }
 },
 {
@@ -3871,10 +3735,7 @@
     "bridge:name:ko": "동진교",
     "bridge:structure": "beam",
     "highway": "primary",
-    "layer": "1",
-    "ncat": "국도",
-    "review": "no",
-    "source": "NTIC"
+    "layer": "1"
   }
 },
 {
@@ -3917,10 +3778,7 @@
     "name": "화양로",
     "name:en": "Hwayang-ro",
     "name:ko": "화양로",
-    "ncat": "지방도",
-    "ref": "32",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "32"
   }
 },
 {
@@ -3961,10 +3819,7 @@
     "name": "화양로",
     "name:en": "Hwayang-ro",
     "name:ko": "화양로",
-    "ncat": "지방도",
-    "ref": "32",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "32"
   }
 },
 {
@@ -4185,10 +4040,7 @@
     "name": "송문로",
     "name:en": "Songmun-ro",
     "name:ko": "송문로",
-    "ncat": "지방도",
-    "ref": "49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "49"
   }
 },
 {
@@ -4211,7 +4063,6 @@
     "name": "대전로",
     "name:en": "Daejeon-ro",
     "name:ko": "대전로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "17"
   }
@@ -4232,9 +4083,7 @@
     "highway": "primary",
     "layer": "1",
     "oneway": "yes",
-    "ref": "1;23;43",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "1;23;43"
   }
 },
 {
@@ -4745,11 +4594,8 @@
     "name": "망향로",
     "name:en": "Manghyang-ro",
     "name:ko": "망향로",
-    "ncat": "지방도",
     "oneway": "yes",
-    "ref": "23",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "23"
   }
 },
 {
@@ -4776,9 +4622,7 @@
     "name:en": "Cheonan-daero",
     "name:ko": "천안대로",
     "oneway": "yes",
-    "ref": "1",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "1"
   }
 },
 {
@@ -4794,9 +4638,7 @@
     "bridge:name:ko": "왕릉교",
     "highway": "primary",
     "layer": "1",
-    "ref": "40",
-    "review": "no",
-    "source": "Yahoo"
+    "ref": "40"
   }
 },
 {
@@ -4824,9 +4666,7 @@
     "name": "왕릉로",
     "name:en": "Wangneung-ro",
     "name:ko": "왕릉로",
-    "ref": "40",
-    "review": "no",
-    "source": "Yahoo"
+    "ref": "40"
   }
 },
 {
@@ -4845,9 +4685,7 @@
     "highway": "primary",
     "name": "남문IC지하차도교",
     "name:ko": "남문IC지하차도교",
-    "ref": "77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "77"
   }
 },
 {
@@ -5286,9 +5124,7 @@
     "name": "백제문화로",
     "name:en": "Baekjemunhwa-ro",
     "name:ko": "백제문화로",
-    "ref": "40",
-    "review": "no",
-    "source": "Yahoo"
+    "ref": "40"
   }
 },
 {
@@ -5846,8 +5682,6 @@
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
-    "review": "no",
-    "source": "NTIC; Bing (adjusted)",
     "wikidata": "Q31179883",
     "wikipedia": "ko:득안대로"
   }
@@ -5933,8 +5767,6 @@
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
-    "review": "no",
-    "source": "NTIC; Bing (adjusted)",
     "wikidata": "Q31179883",
     "wikipedia": "ko:득안대로"
   }
@@ -7207,9 +7039,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -7227,9 +7057,7 @@
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -7246,9 +7074,7 @@
     "highway": "primary",
     "layer": "1",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -7395,9 +7221,7 @@
     "highway": "primary",
     "layer": "1",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -7481,10 +7305,7 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ncat": "국도",
-    "ref": "25",
-    "review": "no",
-    "source": "Bing (adjusted);NTIC"
+    "ref": "25"
   }
 },
 {
@@ -8256,10 +8077,7 @@
     "name": "화양로",
     "name:en": "Hwayang-ro",
     "name:ko": "화양로",
-    "ncat": "지방도",
-    "ref": "32",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "32"
   }
 },
 {
@@ -8663,9 +8481,7 @@
   "tags": {
     "highway": "primary",
     "oneway": "yes",
-    "ref": "40",
-    "review": "no",
-    "source": "Yahoo"
+    "ref": "40"
   }
 },
 {
@@ -8681,9 +8497,7 @@
     "name": "왕릉로",
     "name:en": "Wangneung-ro",
     "name:ko": "왕릉로",
-    "ref": "40",
-    "review": "no",
-    "source": "Yahoo"
+    "ref": "40"
   }
 },
 {
@@ -8719,11 +8533,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -9007,10 +8818,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -9025,10 +8833,7 @@
     "bridge:name": "학암교",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -9044,9 +8849,7 @@
     "bridge:name:ko": "지천교",
     "highway": "primary",
     "layer": "1",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -9061,10 +8864,7 @@
     "bridge:name": "중추교",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도;지방도",
-    "ref": "39;625;645",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39;625;645"
   }
 },
 {
@@ -9079,10 +8879,7 @@
     "bridge:name": "미당교",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -9114,10 +8911,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -9209,10 +9003,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -9351,10 +9142,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -9370,10 +9158,7 @@
     "highway": "primary",
     "layer": "1",
     "name": "금정교",
-    "ncat": "국도",
-    "ref": "29",
-    "review": "no",
-    "source": "Bing (adjusted)"
+    "ref": "29"
   }
 },
 {
@@ -9439,10 +9224,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "ref": "29",
-    "review": "no",
-    "source": "Bing (adjusted)",
     "surface": "asphalt"
   }
 },
@@ -9732,9 +9514,7 @@
     "name": "대천항로",
     "name:en": "Daecheonhang-ro",
     "name:ko": "대천항로",
-    "ref": "36;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "36;77"
   }
 },
 {
@@ -9771,8 +9551,6 @@
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
-    "review": "no",
-    "source": "NTIC",
     "wikidata": "Q31179883",
     "wikipedia": "ko:득안대로"
   }
@@ -9798,8 +9576,6 @@
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
-    "review": "no",
-    "source": "NTIC",
     "wikidata": "Q31179883",
     "wikipedia": "ko:득안대로"
   }
@@ -9897,9 +9673,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "ref": "29",
-    "review": "yes",
     "surface": "asphalt"
   }
 },
@@ -9915,10 +9689,7 @@
     "bridge:name": "벽룡교",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo",
     "surface": "asphalt"
   }
 },
@@ -9934,10 +9705,7 @@
     "bridge:name": "여사교",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo",
     "surface": "asphalt"
   }
 },
@@ -9957,10 +9725,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo",
     "surface": "asphalt"
   }
 },
@@ -10257,10 +10022,7 @@
     "name": "화양로",
     "name:en": "Hwayang-ro",
     "name:ko": "화양로",
-    "ncat": "지방도",
-    "ref": "32",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "32"
   }
 },
 {
@@ -10315,10 +10077,7 @@
     "name": "속리산로",
     "name:en": "Songnisan-ro",
     "name:ko": "속리산로",
-    "ncat": "국도",
-    "ref": "37",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "37"
   }
 },
 {
@@ -10447,10 +10206,7 @@
     "name": "속리산로",
     "name:en": "Songnisan-ro",
     "name:ko": "속리산로",
-    "ncat": "국도",
-    "ref": "37",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "37"
   }
 },
 {
@@ -10553,10 +10309,7 @@
     "name": "온천로",
     "name:en": "Oncheon-ro",
     "name:ko": "온천로",
-    "ncat": "국도",
-    "ref": "69",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "69"
   }
 },
 {
@@ -10593,9 +10346,7 @@
     "name:en": "Chungcheong-daero",
     "name:ko": "충청대로",
     "oneway": "yes",
-    "ref": "34",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "34"
   }
 },
 {
@@ -10622,9 +10373,7 @@
     "name:en": "Chungcheong-daero",
     "name:ko": "충청대로",
     "oneway": "yes",
-    "ref": "34",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "34"
   }
 },
 {
@@ -10652,9 +10401,7 @@
     "name:en": "Chungcheong-daero",
     "name:ko": "충청대로",
     "name:zh": "忠清大路",
-    "ref": "34;592",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "34;592"
   }
 },
 {
@@ -10695,10 +10442,7 @@
     "name": "대금로",
     "name:en": "Daegeum-ro",
     "name:ko": "대금로",
-    "ncat": "지방도",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -10711,10 +10455,7 @@
   "tags": {
     "highway": "primary",
     "layer": "-1",
-    "ncat": "지방도",
     "ref": "82",
-    "review": "no",
-    "source": "NTIC",
     "tunnel": "yes"
   }
 },
@@ -10800,11 +10541,7 @@
     "layer": "1",
     "name:en": "Sinjindae Bridge",
     "name:ko-Latn": "Sinjindaegyo",
-    "ncat": "국도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC",
-    "source:bridge": "mp2osm"
+    "ref": "38"
   }
 },
 {
@@ -11134,9 +10871,7 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ref": "25",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "25"
   }
 },
 {
@@ -11232,9 +10967,7 @@
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
     "oneway": "no",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -11346,8 +11079,6 @@
     "name:en": "Yanghwadong-ro",
     "name:ko": "양화동로",
     "ref": "68",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -11648,10 +11379,7 @@
     "name": "충청수영로",
     "name:en": "Chungcheongsuyeong-ro",
     "name:ko": "충청수영로",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -11750,9 +11478,7 @@
     "name": "충청수영로",
     "name:en": "Chungcheongsuyeong-ro",
     "name:ko": "충청수영로",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -11828,9 +11554,7 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -11846,9 +11570,7 @@
     "highway": "primary",
     "layer": "1",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -12069,8 +11791,6 @@
     "name:en": "Hongbo-ro",
     "name:ko": "홍보로",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -12141,9 +11861,7 @@
     "name": "장산로",
     "name:en": "Jangsan-ro",
     "name:ko": "장산로",
-    "ncat": "국도",
     "ref": "29",
-    "review": "yes",
     "surface": "asphalt"
   }
 },
@@ -12388,10 +12106,7 @@
     "name": "속리산로",
     "name:en": "Songnisan-ro",
     "name:ko": "속리산로",
-    "ncat": "국도",
-    "ref": "37",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "37"
   }
 },
 {
@@ -12406,10 +12121,7 @@
     "bridge:name": "백석2교",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
-    "ref": "37",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "37"
   }
 },
 {
@@ -12427,9 +12139,7 @@
     "highway": "primary",
     "name:en": "Anseongcheongyo (Bridge)",
     "oneway": "yes",
-    "ref": "1",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "1"
   }
 },
 {
@@ -12595,9 +12305,7 @@
     "name:en": "Heomanseok-ro",
     "name:ko": "허만석로",
     "oneway": "yes",
-    "ref": "36",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "36"
   }
 },
 {
@@ -12736,11 +12444,8 @@
     "layer": "1",
     "name:en": "Sedo Bridge",
     "name:ko-Latn": "Sedogyo",
-    "ncat": "지방도",
     "oneway": "no",
-    "ref": "68",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "68"
   }
 },
 {
@@ -12811,11 +12516,8 @@
     "name": "부흥로",
     "name:en": "Buheung-ro",
     "name:ko": "부흥로",
-    "ncat": "지방도",
     "oneway": "no",
-    "ref": "68",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "68"
   }
 },
 {
@@ -13746,9 +13448,7 @@
     "name": "선암계곡로",
     "name:en": "Seonamgyegok-ro",
     "name:ko": "선암계곡로",
-    "ref": "59",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "59"
   }
 },
 {
@@ -13841,9 +13541,7 @@
     "name": "읍내로",
     "name:en": "Eumnae-ro",
     "name:ko": "읍내로",
-    "ref": "19;37;49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19;37;49"
   }
 },
 {
@@ -13925,10 +13623,7 @@
     "name": "괴강로",
     "name:en": "Goegang-ro",
     "name:ko": "괴강로",
-    "ncat": "국도",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19"
   }
 },
 {
@@ -13949,9 +13644,7 @@
     "name:en": "Munhwa-ro",
     "name:ko": "문화로",
     "oneway": "yes",
-    "ref": "34",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "34"
   }
 },
 {
@@ -14068,11 +13761,8 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29"
   }
 },
 {
@@ -14153,8 +13843,6 @@
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
     "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo",
     "surface": "asphalt"
   }
 },
@@ -14187,8 +13875,6 @@
     "name:en": "Goesan-ro",
     "name:ko": "괴산로",
     "ref": "37",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -14206,10 +13892,7 @@
     "name": "괴산로",
     "name:en": "Goesan-ro",
     "name:ko": "괴산로",
-    "ncat": "국도",
     "ref": "37",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -14748,9 +14431,7 @@
     "name:ko": "충청대로",
     "name:zh": "忠清大路",
     "oneway": "yes",
-    "ref": "34",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "34"
   }
 },
 {
@@ -14771,9 +14452,7 @@
     "name:en": "Chungcheong-daero",
     "name:ko": "충청대로",
     "oneway": "yes",
-    "ref": "34",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "34"
   }
 },
 {
@@ -15194,10 +14873,7 @@
     "name": "원이로",
     "name:en": "Woni-ro",
     "name:ko": "원이로",
-    "ncat": "국도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -16552,8 +16228,6 @@
     "name:ko": "성충로",
     "oneway": "yes",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -16694,11 +16368,8 @@
     "name": "성충로",
     "name:en": "Seongchung-ro",
     "name:ko": "성충로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "concrete"
   }
 },
@@ -16775,10 +16446,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "지방도",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -16813,10 +16481,7 @@
     "name": "대금로",
     "name:en": "Daegeum-ro",
     "name:ko": "대금로",
-    "ncat": "지방도",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -17002,10 +16667,7 @@
     "name": "금계산로",
     "name:en": "Geumgyesan-ro",
     "name:ko": "금계산로",
-    "ncat": "국도",
     "ref": "39",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -17476,10 +17138,7 @@
     "name": "괴산로",
     "name:en": "Goesan-ro",
     "name:ko": "괴산로",
-    "ncat": "국도",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19"
   }
 },
 {
@@ -17496,8 +17155,6 @@
     "name:en": "Danjae-ro",
     "name:ko": "단재로",
     "ref": "19;32",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -17515,9 +17172,7 @@
     "name": "단재로",
     "name:en": "Danjae-ro",
     "name:ko": "단재로",
-    "ref": "19;32",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19;32"
   }
 },
 {
@@ -17538,8 +17193,6 @@
     "name:en": "Danjae-ro",
     "name:ko": "단재로",
     "ref": "19;32",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -17620,8 +17273,6 @@
     "name:en": "Danjae-ro",
     "name:ko": "단재로",
     "ref": "19;32",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -17774,11 +17425,8 @@
     "name": "망향로",
     "name:en": "Manghyang-ro",
     "name:ko": "망향로",
-    "ncat": "지방도",
     "oneway": "yes",
-    "ref": "23",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "23"
   }
 },
 {
@@ -17886,9 +17534,7 @@
     "name": "괴강로",
     "name:en": "Goegang-ro",
     "name:ko": "괴강로",
-    "ref": "19;37;49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19;37;49"
   }
 },
 {
@@ -17913,10 +17559,7 @@
     "name": "괴산로",
     "name:en": "Goesan-ro",
     "name:ko": "괴산로",
-    "ncat": "국도",
-    "ref": "19;37;49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19;37;49"
   }
 },
 {
@@ -18572,10 +18215,7 @@
     "name": "남부로",
     "name:en": "Nambu-ro",
     "name:ko": "남부로",
-    "ncat": "국도",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19"
   }
 },
 {
@@ -18877,10 +18517,7 @@
     "name": "송문로",
     "name:en": "Songmun-ro",
     "name:ko": "송문로",
-    "ncat": "지방도",
-    "ref": "49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "49"
   }
 },
 {
@@ -18902,12 +18539,7 @@
     "layer": "1",
     "name:en": "Chijae Bridge",
     "name:ko-Latn": "Chijaegyo",
-    "ncat": "지방도",
-    "ncat:bridge": "mp_poi",
-    "ref": "49",
-    "review": "no",
-    "source": "NTIC",
-    "source:bridge": "mp2osm"
+    "ref": "49"
   }
 },
 {
@@ -18922,10 +18554,7 @@
     "name": "송문로",
     "name:en": "Songmun-ro",
     "name:ko": "송문로",
-    "ncat": "지방도",
-    "ref": "49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "49"
   }
 },
 {
@@ -18943,10 +18572,7 @@
     "name": "백제문화로",
     "name:en": "Baekjemunhwa-ro",
     "name:ko": "백제문화로",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -18968,10 +18594,7 @@
     "name": "백제문화로",
     "name:en": "Baekjemunhwa-ro",
     "name:ko": "백제문화로",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -18986,10 +18609,7 @@
     "bridge:name": "자왕교",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -19008,10 +18628,7 @@
     "name": "백제문화로",
     "name:en": "Baekjemunhwa-ro",
     "name:ko": "백제문화로",
-    "ncat": "국도;지방도",
-    "ref": "40;645",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40;645"
   }
 },
 {
@@ -19026,10 +18643,7 @@
     "bridge:name": "저석교",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도;지방도",
-    "ref": "40;645",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40;645"
   }
 },
 {
@@ -19045,10 +18659,7 @@
     "bridge:name": "신정육교",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -19072,10 +18683,7 @@
     "name": "백제문화로",
     "name:en": "Baekjemunhwa-ro",
     "name:ko": "백제문화로",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -19190,9 +18798,7 @@
     "highway": "primary",
     "layer": "1",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -19213,9 +18819,7 @@
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -19346,11 +18950,8 @@
     "name": "내산로",
     "name:en": "Naesan-ro",
     "name:ko": "내산로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -19508,10 +19109,7 @@
     "name": "중앙1길",
     "name:en": "Jungang 1-gil",
     "name:ko": "중앙1길",
-    "ncat": "국도",
-    "ref": "39;604",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39;604"
   }
 },
 {
@@ -19851,10 +19449,7 @@
     "name": "속리산로",
     "name:en": "Songnisan-ro",
     "name:ko": "속리산로",
-    "ncat": "국도",
-    "ref": "37",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "37"
   }
 },
 {
@@ -19869,10 +19464,7 @@
     "bridge:name": "하판교",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
-    "ref": "37",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "37"
   }
 },
 {
@@ -19907,10 +19499,7 @@
     "name": "속리산로",
     "name:en": "Songnisan-ro",
     "name:ko": "속리산로",
-    "ncat": "국도",
-    "ref": "37",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "37"
   }
 },
 {
@@ -19942,10 +19531,7 @@
     "bridge:name": "백석1교",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
-    "ref": "37",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "37"
   }
 },
 {
@@ -19960,10 +19546,7 @@
     "bridge:name": "장갑교",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
-    "ref": "37",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "37"
   }
 },
 {
@@ -20088,10 +19671,7 @@
     "name": "괴산로",
     "name:en": "Goesan-ro",
     "name:ko": "괴산로",
-    "ncat": "국도",
-    "ref": "37",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "37"
   }
 },
 {
@@ -20140,9 +19720,7 @@
     "name:en": "Munhwa-ro",
     "name:ko": "문화로",
     "oneway": "no",
-    "ref": "34",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "34"
   }
 },
 {
@@ -20359,11 +19937,8 @@
     "name": "삼충로",
     "name:en": "Samchung-ro",
     "name:ko": "삼충로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "40",
-    "review": "no",
-    "source": "Bing (adjusted);NTIC"
+    "ref": "40"
   }
 },
 {
@@ -20405,10 +19980,7 @@
     "name": "장산로",
     "name:en": "Jangsan-ro",
     "name:ko": "장산로",
-    "ncat": "지방도",
-    "ref": "68",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "68"
   }
 },
 {
@@ -20564,10 +20136,7 @@
     "name": "송학주천로",
     "name:en": "Songhakjucheon-ro",
     "name:ko": "송학주천로",
-    "ncat": "지방도",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -20604,10 +20173,7 @@
     "name": "둔전로",
     "name:en": "Dunjeon-ro",
     "name:ko": "둔전로",
-    "ncat": "지방도",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -20894,7 +20460,6 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "36"
   }
@@ -21117,11 +20682,8 @@
     "name": "남부로",
     "name:en": "Nambu-ro",
     "name:ko": "남부로",
-    "ncat": "국도",
     "oneway": "no",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19"
   }
 },
 {
@@ -21135,11 +20697,8 @@
     "highway": "primary",
     "layer": "-1",
     "name": "남부로",
-    "ncat": "국도",
     "oneway": "no",
     "ref": "19",
-    "review": "no",
-    "source": "NTIC;Bing (adjusted)",
     "tunnel": "yes"
   }
 },
@@ -21233,11 +20792,8 @@
     "name": "남부로",
     "name:en": "Nambu-ro",
     "name:ko": "남부로",
-    "ncat": "국도",
     "oneway": "no",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC;Bing (adjusted)"
+    "ref": "19"
   }
 },
 {
@@ -21289,11 +20845,8 @@
     "name": "남부로",
     "name:en": "Nambu-ro",
     "name:ko": "남부로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "19",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -21326,9 +20879,7 @@
     "name": "충청수영로",
     "name:en": "Chungcheongsuyeong-ro",
     "name:ko": "충청수영로",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -21540,8 +21091,6 @@
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
-    "review": "no",
-    "source": "NTIC",
     "wikidata": "Q31179883",
     "wikipedia": "ko:득안대로"
   }
@@ -21941,9 +21490,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -21966,9 +21513,7 @@
     "name": "홍남로",
     "name:en": "Hongnam-ro",
     "name:ko": "홍남로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -22009,9 +21554,7 @@
     "name": "홍남로",
     "name:en": "Hongnam-ro",
     "name:ko": "홍남로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -22028,9 +21571,7 @@
     "layer": "1",
     "name": "안면대로",
     "name:ko": "안면대로",
-    "ref": "77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "77"
   }
 },
 {
@@ -22052,10 +21593,7 @@
     "highway": "primary",
     "layer": "1",
     "maxspeed": "70",
-    "ncat": "국도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -22075,10 +21613,7 @@
     "name": "태흥로",
     "name:en": "Taeheung-ro",
     "name:ko": "태흥로",
-    "ncat": "국도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -22129,10 +21664,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -22147,10 +21679,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -22733,10 +22262,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -22776,10 +22302,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -23386,11 +22909,8 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -23432,11 +22952,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -23453,11 +22970,8 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -23478,11 +22992,8 @@
     "name": "소방로",
     "name:en": "Sobang-ro",
     "name:ko": "소방로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -23499,11 +23010,8 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -23525,11 +23033,8 @@
     "name": "소방로",
     "name:en": "Sobang-ro",
     "name:ko": "소방로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -23553,11 +23058,8 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -23579,11 +23081,8 @@
     "name": "소방로",
     "name:en": "Sobang-ro",
     "name:ko": "소방로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -23600,11 +23099,8 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -23673,11 +23169,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -23708,11 +23201,8 @@
     "name": "소방로",
     "name:en": "Sobang-ro",
     "name:ko": "소방로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -23731,11 +23221,8 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -23751,11 +23238,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
-    "review": "no",
-    "source": "NTIC",
     "tunnel": "yes"
   }
 },
@@ -23789,11 +23273,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -23819,11 +23300,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -23841,11 +23319,8 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -23861,11 +23336,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -23881,11 +23353,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -23903,11 +23372,8 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -23924,11 +23390,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -23946,11 +23409,8 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -23992,11 +23452,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -24013,11 +23470,8 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -24031,11 +23485,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -24048,11 +23499,8 @@
   "tags": {
     "highway": "primary",
     "layer": "-1",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
-    "review": "no",
-    "source": "NTIC",
     "tunnel": "yes"
   }
 },
@@ -24068,11 +23516,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -24089,11 +23534,8 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -24113,12 +23555,9 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "noname": "yes",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -24197,8 +23636,6 @@
     "name:en": "Hongnamdong-ro",
     "name:ko": "홍남동로",
     "ref": "96",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -24224,10 +23661,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -24388,8 +23822,6 @@
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
-    "review": "no",
-    "source": "NTIC",
     "wikidata": "Q31179883",
     "wikipedia": "ko:득안대로"
   }
@@ -24562,9 +23994,7 @@
     "name": "장산로",
     "name:en": "Jangsan-ro",
     "name:ko": "장산로",
-    "ref": "68",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "68"
   }
 },
 {
@@ -24623,10 +24053,7 @@
     "highway": "primary",
     "layer": "1",
     "maxspeed": "60",
-    "ncat": "국도",
-    "ref": "59",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "59"
   }
 },
 {
@@ -24643,10 +24070,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
-    "ref": "59",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "59"
   }
 },
 {
@@ -24922,10 +24346,7 @@
     "name": "원이로",
     "name:en": "Woni-ro",
     "name:ko": "원이로",
-    "ncat": "지방도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -25374,10 +24795,7 @@
     "name": "원이로",
     "name:en": "Woni-ro",
     "name:ko": "원이로",
-    "ncat": "지방도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -25433,10 +24851,7 @@
     "name": "만수로",
     "name:en": "Mansu-ro",
     "name:ko": "만수로",
-    "ncat": "국도;지방도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -25454,9 +24869,7 @@
     "layer": "1",
     "name:en": "Sinwon Bridge",
     "name:ko-Latn": "Sinwongyo",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -25479,9 +24892,7 @@
     "name": "용천신원로",
     "name:en": "Yongcheonsinwon-ro",
     "name:ko": "용천신원로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -25665,10 +25076,7 @@
     "name": "속리산로",
     "name:en": "Songnisan-ro",
     "name:ko": "속리산로",
-    "ncat": "국도",
-    "ref": "37",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "37"
   }
 },
 {
@@ -25686,10 +25094,7 @@
     "name": "속리산로",
     "name:en": "Sognisan-ro",
     "name:ko": "속리산로",
-    "ncat": "국도",
-    "ref": "37",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "37"
   }
 },
 {
@@ -25754,10 +25159,7 @@
     "name": "속리산로",
     "name:en": "Songnisan-ro",
     "name:ko": "속리산로",
-    "ncat": "국도",
-    "ref": "37",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "37"
   }
 },
 {
@@ -25792,9 +25194,7 @@
     "name": "무한로",
     "name:en": "Muhan-ro",
     "name:ko": "무한로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -25813,9 +25213,7 @@
     "layer": "1",
     "name:en": "Bangye Bridge",
     "name:ko-Latn": "Bangyegyo",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -25836,10 +25234,7 @@
     "name": "금계산로",
     "name:en": "Geumgyesan-ro",
     "name:ko": "금계산로",
-    "ncat": "국도",
     "ref": "39",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -25857,10 +25252,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "ref": "39",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -25881,8 +25273,6 @@
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
-    "review": "no",
-    "source": "NTIC",
     "wikidata": "Q31179883",
     "wikipedia": "ko:득안대로"
   }
@@ -25902,10 +25292,7 @@
     "name": "괴산로",
     "name:en": "Goesan-ro",
     "name:ko": "괴산로",
-    "ncat": "국도",
-    "ref": "37",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "37"
   }
 },
 {
@@ -26004,10 +25391,7 @@
     "name": "괴산로",
     "name:en": "Goesan-ro",
     "name:ko": "괴산로",
-    "ncat": "국도",
-    "ref": "37",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "37"
   }
 },
 {
@@ -26028,8 +25412,6 @@
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
-    "review": "no",
-    "source": "NTIC",
     "wikidata": "Q31179883",
     "wikipedia": "ko:득안대로"
   }
@@ -26123,8 +25505,6 @@
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
-    "review": "no",
-    "source": "NTIC",
     "wikidata": "Q31179883",
     "wikipedia": "ko:득안대로"
   }
@@ -26144,10 +25524,7 @@
     "highway": "primary",
     "layer": "1",
     "name": "송학1교",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -26196,10 +25573,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -26219,11 +25593,8 @@
     "name": "만수로",
     "name:en": "Mansu-ro",
     "name:ko": "만수로",
-    "ncat": "국도;지방도",
     "oneway": "yes",
-    "ref": "40;606",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40;606"
   }
 },
 {
@@ -26240,10 +25611,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -26270,10 +25638,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -26337,10 +25702,7 @@
     "name": "사인암로",
     "name:en": "Sainam-ro",
     "name:ko": "사인암로",
-    "ncat": "국도",
-    "ref": "69",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "69"
   }
 },
 {
@@ -26358,10 +25720,7 @@
     "highway": "primary",
     "layer": "1",
     "maxspeed": "60",
-    "ncat": "국도",
-    "ref": "69",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "69"
   }
 },
 {
@@ -26410,10 +25769,7 @@
     "name": "대금로",
     "name:en": "Daegeum-ro",
     "name:ko": "대금로",
-    "ncat": "지방도",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -26466,9 +25822,7 @@
     "name": "왕릉로",
     "name:en": "Wangneung-ro",
     "name:ko": "왕릉로",
-    "ref": "40",
-    "review": "no",
-    "source": "Yahoo"
+    "ref": "40"
   }
 },
 {
@@ -26677,8 +26031,6 @@
     "name:en": "Danyang-ro",
     "name:ko": "단양로",
     "ref": "5",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -26790,9 +26142,7 @@
     "name:en": "Danyang-ro",
     "name:ko": "단양로",
     "oneway": "yes",
-    "ref": "5",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "5"
   }
 },
 {
@@ -26843,10 +26193,7 @@
     "name:en": "Yedeok-ro",
     "name:ko": "예덕로",
     "name:zh": "夜德路",
-    "ncat": "국도",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -26864,10 +26211,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도;지방도",
     "ref": "40;619",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -26880,10 +26224,7 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "지방도",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -26900,10 +26241,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "지방도",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -26922,10 +26260,7 @@
     "name": "진광로",
     "name:en": "Jingwang-ro",
     "name:ko": "진광로",
-    "ncat": "국도",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -26985,10 +26320,7 @@
     "name": "대금로",
     "name:en": "Daegeum-ro",
     "name:ko": "대금로",
-    "ncat": "지방도",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -27005,10 +26337,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "지방도",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -27054,9 +26383,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
-    "ref": "29",
-    "review": "yes"
+    "ref": "29"
   }
 },
 {
@@ -27073,9 +26400,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
-    "ref": "29",
-    "review": "yes"
+    "ref": "29"
   }
 },
 {
@@ -27098,11 +26423,8 @@
     "name": "내포로",
     "name:en": "Naepo-ro",
     "name:ko": "내포로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -27176,12 +26498,7 @@
     "layer": "1",
     "name": "운곡교",
     "name:ko": "운곡교",
-    "ncat": "국도",
-    "ncat:bridge": "교차로및지명",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC",
-    "source:bridge": "mp2osm"
+    "ref": "40"
   }
 },
 {
@@ -27202,10 +26519,7 @@
     "name": "별방창원로",
     "name:en": "Byeolbangchangwon-ro",
     "name:ko": "별방창원로",
-    "ncat": "국도",
     "ref": "59",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -27319,10 +26633,7 @@
     "name": "별방창원로",
     "name:en": "Byeolbangchangwon-ro",
     "name:ko": "별방창원로",
-    "ncat": "국도",
     "ref": "59",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -27344,10 +26655,7 @@
     "name": "원이로",
     "name:en": "Woni-ro",
     "name:ko": "원이로",
-    "ncat": "국도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -27385,8 +26693,6 @@
     "name:en": "Danjae-ro",
     "name:ko": "단재로",
     "ref": "19;32",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -27525,10 +26831,7 @@
     "name": "송학주천로",
     "name:en": "Songhakjucheon-ro",
     "name:ko": "송학주천로",
-    "ncat": "지방도",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -27546,10 +26849,7 @@
     "layer": "1",
     "name:en": "Songhan Bridge",
     "name:ko-Latn": "Songhangyo",
-    "ncat": "지방도",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -27629,12 +26929,7 @@
     "layer": "1",
     "name:en": "Bangmi Bridge",
     "name:ko-Latn": "Bangmigyo",
-    "ncat": "국도",
-    "ncat:bridge": "교차로및지명",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC",
-    "source:bridge": "mp2osm"
+    "ref": "39"
   }
 },
 {
@@ -27690,10 +26985,7 @@
     "name": "외암로",
     "name:en": "Oeam-ro",
     "name:ko": "외암로",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -27736,11 +27028,8 @@
     "name": "별방창원로",
     "name:en": "Byeolbangchangwon-ro",
     "name:ko": "별방창원로",
-    "ncat": "국도",
     "oneway": "no",
     "ref": "59;522",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -27809,9 +27098,7 @@
     "bridge:name:ko": "하선암교",
     "highway": "primary",
     "layer": "1",
-    "ref": "59",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "59"
   }
 },
 {
@@ -27829,9 +27116,7 @@
     "name": "선암계곡로",
     "name:en": "Seonamgyegok-ro",
     "name:ko": "선암계곡로",
-    "ref": "59",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "59"
   }
 },
 {
@@ -27989,9 +27274,7 @@
     "name": "선암계곡로",
     "name:en": "Seonamgyegok-ro",
     "name:ko": "선암계곡로",
-    "ref": "59",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "59"
   }
 },
 {
@@ -28008,9 +27291,7 @@
     "layer": "1",
     "name": "홍암로",
     "name:ko": "홍암로",
-    "ref": "59",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "59"
   }
 },
 {
@@ -28029,10 +27310,7 @@
     "name": "선암계곡로",
     "name:en": "Seonamgyegok-ro",
     "name:ko": "선암계곡로",
-    "ncat": "국도",
-    "ref": "59",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "59"
   }
 },
 {
@@ -28051,10 +27329,7 @@
     "name": "선암계곡로",
     "name:en": "Seonamgyegok-ro",
     "name:ko": "선암계곡로",
-    "ncat": "국도",
-    "ref": "59",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "59"
   }
 },
 {
@@ -28171,9 +27446,7 @@
     "name:en": "Heomanseok-ro",
     "name:ko": "허만석로",
     "oneway": "yes",
-    "ref": "36",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "36"
   }
 },
 {
@@ -28278,9 +27551,7 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
-    "ref": "40",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -28299,9 +27570,7 @@
     "name:en": "Jungang-ro",
     "name:ko": "중앙로",
     "oneway": "yes",
-    "ref": "45;70",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "45;70"
   }
 },
 {
@@ -28392,10 +27661,7 @@
     "layer": "1",
     "name:en": "Yeongyang Bridge",
     "name:ko-Latn": "Yeongyanggyo",
-    "ncat": "지방도",
-    "ref": "70;645",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "70;645"
   }
 },
 {
@@ -28414,10 +27680,7 @@
     "name": "예덕로",
     "name:en": "Yedeok-ro",
     "name:ko": "예덕로",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -28434,10 +27697,7 @@
     "name": "예덕로",
     "name:en": "Yedeok-ro",
     "name:ko": "예덕로",
-    "ncat": "국도;지방도",
     "ref": "40;619",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -28467,10 +27727,7 @@
     "name": "예덕로",
     "name:en": "Yedeok-ro",
     "name:ko": "예덕로",
-    "ncat": "국도;지방도",
     "ref": "40;619",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -28491,10 +27748,7 @@
     "name": "외암로",
     "name:en": "Oeam-ro",
     "name:ko": "외암로",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -28515,12 +27769,7 @@
     "name": "거산교",
     "name:en": "Geosan Bridge",
     "name:ko": "거산교",
-    "ncat": "국도",
-    "ncat:bridge": "교차로및지명",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC",
-    "source:bridge": "mp2osm"
+    "ref": "39"
   }
 },
 {
@@ -28536,9 +27785,7 @@
     "name": "제원로",
     "name:en": "Jewon-ro",
     "name:ko": "제원로",
-    "ref": "5",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "5"
   }
 },
 {
@@ -28560,13 +27807,8 @@
     "maxspeed": "80",
     "name:en": "Banyang Bridge",
     "name:ko-Latn": "Banyanggyo",
-    "ncat": "국도",
-    "ncat:bridge": "교차로및지명",
     "oneway": "yes",
-    "ref": "29;70",
-    "review": "no",
-    "source": "NTIC",
-    "source:bridge": "mp2osm"
+    "ref": "29;70"
   }
 },
 {
@@ -28587,13 +27829,8 @@
     "maxspeed": "80",
     "name:en": "Banyang Bridge",
     "name:ko-Latn": "Banyanggyo",
-    "ncat": "국도",
-    "ncat:bridge": "교차로및지명",
     "oneway": "yes",
-    "ref": "29;70",
-    "review": "no",
-    "source": "NTIC",
-    "source:bridge": "mp2osm"
+    "ref": "29;70"
   }
 },
 {
@@ -28640,10 +27877,7 @@
     "name": "외암로",
     "name:en": "Oeam-ro",
     "name:ko": "외암로",
-    "ncat": "국도",
     "ref": "39",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -28666,10 +27900,7 @@
     "name": "제1거산교",
     "name:en": "Je 1 Geosan Bridge",
     "name:ko": "제1거산교",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -28847,7 +28078,6 @@
     "name": "내토로",
     "name:en": "Naeto-ro",
     "name:ko": "내토로",
-    "ncat": "지방도",
     "ref": "82"
   }
 },
@@ -28872,9 +28102,7 @@
     "name": "괴산로",
     "name:en": "Goesan-ro",
     "name:ko": "괴산로",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19"
   }
 },
 {
@@ -28899,8 +28127,6 @@
     "name:en": "Geumpyeong-ro",
     "name:ko": "금평로",
     "ref": "37",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -28994,10 +28220,7 @@
     "name": "사인암로",
     "name:en": "Sainam-ro",
     "name:ko": "사인암로",
-    "ncat": "국도",
-    "ref": "69",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "69"
   }
 },
 {
@@ -29015,11 +28238,8 @@
     "name": "망향로",
     "name:en": "Manghyang-ro",
     "name:ko": "망향로",
-    "ncat": "지방도",
     "oneway": "yes",
-    "ref": "23",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "23"
   }
 },
 {
@@ -29037,11 +28257,8 @@
     "name": "망향로",
     "name:en": "Manghyang-ro",
     "name:ko": "망향로",
-    "ncat": "지방도",
     "oneway": "yes",
-    "ref": "23",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "23"
   }
 },
 {
@@ -29135,10 +28352,7 @@
     "name": "서부로",
     "name:en": "Seobu-ro",
     "name:ko": "서부로",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -29224,9 +28438,7 @@
     "name": "홍남서로",
     "name:en": "Hongnamseo-ro",
     "name:ko": "홍남서로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -29308,8 +28520,6 @@
     "name:en": "Hongnam-ro",
     "name:ko": "홍남로",
     "ref": "96",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -29355,9 +28565,7 @@
     "name": "홍남로",
     "name:en": "Hongnam-ro",
     "name:ko": "홍남로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -29385,13 +28593,10 @@
   ],
   "tags": {
     "highway": "primary",
-    "nact": "국도",
     "name": "수덕사로",
     "name:en": "Sudeoksa-ro",
     "name:ko": "수덕사로",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -29450,8 +28655,6 @@
     "name:en": "Seobu-ro",
     "name:ko": "서부로",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -29472,9 +28675,7 @@
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
     "oneway": "no",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -29495,10 +28696,7 @@
     "name:en": "Dongsan Bridge",
     "name:ko-Latn": "Dongsangyo",
     "oneway": "no",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC",
-    "source:bridge": "mp2osm"
+    "ref": "21"
   }
 },
 {
@@ -29516,10 +28714,7 @@
     "layer": "1",
     "name:en": "Wonsugyo Bridge",
     "name:ko-Latn": "Wonsugyo",
-    "ncat": "지방도",
-    "ref": "68",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "68"
   }
 },
 {
@@ -29562,9 +28757,7 @@
     "name": "장산로",
     "name:en": "Jangsan-ro",
     "name:ko": "장산로",
-    "ref": "68",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "68"
   }
 },
 {
@@ -29579,10 +28772,7 @@
     "name": "화양로",
     "name:en": "Hwayang-ro",
     "name:ko": "화양로",
-    "ncat": "지방도",
-    "ref": "32",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "32"
   }
 },
 {
@@ -29600,10 +28790,7 @@
     "highway": "primary",
     "layer": "1",
     "name:en": "Hwayang-ro",
-    "ncat": "지방도",
-    "ref": "32",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "32"
   }
 },
 {
@@ -29625,10 +28812,7 @@
     "name": "송문로",
     "name:en": "Songmun-ro",
     "name:ko": "송문로",
-    "ncat": "지방도",
-    "ref": "49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "49"
   }
 },
 {
@@ -29645,10 +28829,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "지방도",
-    "ref": "49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "49"
   }
 },
 {
@@ -29670,10 +28851,7 @@
     "name": "송문로",
     "name:en": "Songmun-ro",
     "name:ko": "송문로",
-    "ncat": "지방도",
-    "ref": "49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "49"
   }
 },
 {
@@ -29713,9 +28891,7 @@
     "name": "대천항로",
     "name:en": "Daecheonhang-ro",
     "name:ko": "대천항로",
-    "ref": "36",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "36"
   }
 },
 {
@@ -29732,11 +28908,8 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -29781,10 +28954,7 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
-    "oneway": "yes",
-    "review": "no",
-    "source": "NTIC"
+    "oneway": "yes"
   }
 },
 {
@@ -29878,10 +29048,7 @@
     "name": "원이로",
     "name:en": "Woni-ro",
     "name:ko": "원이로",
-    "ncat": "국도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -29913,9 +29080,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ref": "39;96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39;96"
   }
 },
 {
@@ -29933,10 +29098,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도",
-    "ref": "39;604",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39;604"
   }
 },
 {
@@ -29953,9 +29115,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ref": "39;96;604",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39;96;604"
   }
 },
 {
@@ -29971,10 +29131,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도",
-    "ref": "39;604",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39;604"
   }
 },
 {
@@ -29992,10 +29149,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도",
-    "ref": "39;604",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39;604"
   }
 },
 {
@@ -30035,10 +29189,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도",
-    "ref": "39;604",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39;604"
   }
 },
 {
@@ -30056,10 +29207,7 @@
     "highway": "primary",
     "layer": "1",
     "name": "입동교",
-    "ncat": "국도",
-    "ref": "39;604",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39;604"
   }
 },
 {
@@ -30121,9 +29269,7 @@
     "name": "홍남로",
     "name:en": "Hongnam-ro",
     "name:ko": "홍남로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -30188,9 +29334,7 @@
     "name": "홍남로",
     "name:en": "Hongnam-ro",
     "name:ko": "홍남로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -30208,9 +29352,7 @@
   ],
   "tags": {
     "highway": "primary",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -30225,11 +29367,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "noname": "yes",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -30275,10 +29414,7 @@
     "name": "남당항로",
     "name:en": "Namdanghang-ro",
     "name:ko": "남당항로",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -30292,11 +29428,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "noname": "yes",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -30311,11 +29444,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "noname": "yes",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -30350,10 +29480,7 @@
     "name": "수덕사로",
     "name:en": "Sudeoksa-ro",
     "name:ko": "수덕사로",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -30369,11 +29496,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "noname": "yes",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -30390,9 +29514,7 @@
     "name": "서부로",
     "name:en": "Seobu-ro",
     "name:ko": "서부로",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -30411,9 +29533,7 @@
   "tags": {
     "highway": "primary",
     "noname": "yes",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -30471,9 +29591,7 @@
     "layer": "1",
     "name:en": "Chungseo-ro",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -30497,9 +29615,7 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -30556,11 +29672,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -30578,11 +29691,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -30631,9 +29741,7 @@
     "name": "홍남서로",
     "name:en": "Hongnamseo-ro",
     "name:ko": "홍남서로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -30733,9 +29841,7 @@
     "name": "홍남서로",
     "name:en": "Hongnamseo-ro",
     "name:ko": "홍남서로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -30752,9 +29858,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -30800,8 +29904,6 @@
     "name:en": "Hongnamseo-ro",
     "name:ko": "홍남서로",
     "ref": "96",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -30818,9 +29920,7 @@
     "name": "무한로",
     "name:en": "Muhan-ro",
     "name:ko": "무한로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -30837,9 +29937,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -30912,10 +30010,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도;지방도",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -30942,10 +30037,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -30973,8 +30065,6 @@
     "name:en": "Chungcheongsuyeong-ro",
     "name:ko": "충청수영로",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -30995,10 +30085,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
-    "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29"
   }
 },
 {
@@ -31033,10 +30120,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
-    "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29"
   }
 },
 {
@@ -31059,8 +30143,6 @@
     "name:ko": "대백제로",
     "oneway": "yes",
     "ref": "4",
-    "review": "no",
-    "source": "NTIC",
     "wikidata": "Q16099821",
     "wikipedia": "ko:대백제로"
   }
@@ -31107,9 +30189,7 @@
     "name": "무한로",
     "name:en": "Muhan-ro",
     "name:ko": "무한로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -31122,9 +30202,7 @@
   "tags": {
     "highway": "primary",
     "noname": "yes",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -31176,9 +30254,7 @@
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -31404,10 +30480,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -31522,11 +30595,8 @@
     "name": "성충로",
     "name:en": "Seongchung-ro",
     "name:ko": "성충로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -31598,10 +30668,7 @@
     "name": "금계산로",
     "name:en": "Geumgyesan-ro",
     "name:ko": "금계산로",
-    "ncat": "국도;지방도",
     "ref": "39;618",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -31619,10 +30686,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도;지방도",
     "ref": "39;618",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -31640,10 +30704,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도;지방도",
     "ref": "39;618",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -31704,10 +30765,7 @@
     "name": "금계산로",
     "name:en": "Geumgyesan-ro",
     "name:ko": "금계산로",
-    "ncat": "국도",
     "ref": "39",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -31755,10 +30813,7 @@
     "name": "금계산로",
     "name:en": "Geumgyesan-ro",
     "name:ko": "금계산로",
-    "ncat": "국도;지방도",
     "ref": "39;618",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -31787,10 +30842,7 @@
     "name": "금계산로",
     "name:en": "Geumgyesan-ro",
     "name:ko": "금계산로",
-    "ncat": "국도;지방도",
     "ref": "39;618",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -31820,10 +30872,7 @@
     "name": "양화동로",
     "name:en": "Yanghwadong-ro",
     "name:ko": "양화동로",
-    "ncat": "지방도",
     "ref": "68;723",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -31844,11 +30893,8 @@
     "name": "부흥로",
     "name:en": "Buheung-ro",
     "name:ko": "부흥로",
-    "ncat": "지방도",
     "oneway": "no",
-    "ref": "68",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "68"
   }
 },
 {
@@ -31865,11 +30911,8 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "지방도",
     "oneway": "no",
-    "ref": "68",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "68"
   }
 },
 {
@@ -31905,10 +30948,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo",
     "surface": "asphalt"
   }
 },
@@ -31926,10 +30966,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
-    "ref": "29;68",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29;68"
   }
 },
 {
@@ -31946,10 +30983,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
-    "ref": "29;68",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29;68"
   }
 },
 {
@@ -31976,11 +31010,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29"
   }
 },
 {
@@ -31999,11 +31030,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "noname": "yes",
-    "ref": "29;68",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29;68"
   }
 },
 {
@@ -32019,11 +31047,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "noname": "yes",
-    "ref": "29;68",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29;68"
   }
 },
 {
@@ -32059,10 +31084,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
-    "ref": "29;68",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29;68"
   }
 },
 {
@@ -32117,10 +31139,7 @@
     "name": "수덕사로",
     "name:en": "Sudeoksa-ro",
     "name:ko": "수덕사로",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -32135,7 +31154,6 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "39"
   }
@@ -32152,7 +31170,6 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "39"
   }
@@ -32170,7 +31187,6 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "39"
   }
@@ -32187,7 +31203,6 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "39"
   }
@@ -32243,10 +31258,7 @@
     "highway": "primary",
     "layer": "1",
     "maxspeed": "60",
-    "ncat": "국도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -32297,10 +31309,7 @@
     "name": "원이로",
     "name:en": "Woni-ro",
     "name:ko": "원이로",
-    "ncat": "국도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -32315,10 +31324,7 @@
     "name": "괴산로",
     "name:en": "Goesan-ro",
     "name:ko": "괴산로",
-    "ncat": "국도",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19"
   }
 },
 {
@@ -32336,10 +31342,7 @@
     "name": "괴산로",
     "name:en": "Goesan-ro",
     "name:ko": "괴산로",
-    "ncat": "국도",
-    "ref": "19;37;49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19;37;49"
   }
 },
 {
@@ -32361,10 +31364,7 @@
     "name": "괴산로",
     "name:en": "Goesan-ro",
     "name:ko": "괴산로",
-    "ncat": "국도",
-    "ref": "19;37;49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19;37;49"
   }
 },
 {
@@ -32465,9 +31465,7 @@
     "highway": "primary",
     "noname": "yes",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -32674,10 +31672,7 @@
     "name": "학산영동로",
     "name:en": "Haksanyeongdong-ro",
     "name:ko": "학산영동로",
-    "ncat": "지방도",
-    "ref": "68;505",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "68;505"
   }
 },
 {
@@ -32725,10 +31720,7 @@
     "bridge:name": "미봉교",
     "highway": "primary",
     "layer": "1",
-    "ncat": "지방도",
-    "ref": "68;505",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "68;505"
   }
 },
 {
@@ -32763,10 +31755,7 @@
     "name": "학산영동로",
     "name:en": "Haksanyeongdong-ro",
     "name:ko": "학산영동로",
-    "ncat": "지방도",
-    "ref": "68;505",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "68;505"
   }
 },
 {
@@ -32800,10 +31789,7 @@
     "name": "용화양강로",
     "name:en": "Yonghwayanggang-ro",
     "name:ko": "용화양강로",
-    "ncat": "지방도",
-    "ref": "68;505",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "68;505"
   }
 },
 {
@@ -32998,9 +31984,7 @@
     "name": "홍남동로",
     "name:en": "Hongnamdong-ro",
     "name:ko": "홍남동로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -33031,9 +32015,7 @@
     "name": "홍남동로",
     "name:en": "Hongnamdong-ro",
     "name:ko": "홍남동로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -33050,9 +32032,7 @@
     "name": "홍남동로",
     "name:en": "Hongnamdong-ro",
     "name:ko": "홍남동로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -33373,7 +32353,6 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "37"
   }
@@ -33390,7 +32369,6 @@
     "layer": "-1",
     "name": "삼승터널",
     "name:ko": "삼승터널",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "37",
     "tunnel": "yes"
@@ -33408,7 +32386,6 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "37"
   }
@@ -33446,11 +32423,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "37",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "37"
   }
 },
 {
@@ -33699,9 +32673,7 @@
     "name": "안면대로",
     "name:en": "Anmyeon-daero",
     "name:ko": "안면대로",
-    "ref": "77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "77"
   }
 },
 {
@@ -33856,9 +32828,7 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -33944,9 +32914,7 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21;40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;40"
   }
 },
 {
@@ -34006,10 +32974,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -34734,8 +33699,6 @@
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
     "ref": "25;571",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -34781,9 +33744,7 @@
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
     "oneway": "no",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -34827,9 +33788,7 @@
     "name:en": "Chungcheong-daero",
     "name:ko": "충청대로",
     "oneway": "yes",
-    "ref": "34",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "34"
   }
 },
 {
@@ -34849,9 +33808,7 @@
     "name:en": "Chungcheong-daero",
     "name:ko": "충청대로",
     "name:zh": "忠清大路",
-    "ref": "34",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "34"
   }
 },
 {
@@ -35696,10 +34653,7 @@
     "name": "유구외곽로",
     "name:en": "Yuguoegwak-ro",
     "name:ko": "유구외곽로",
-    "ncat": "국도",
-    "ref": "39;604",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39;604"
   }
 },
 {
@@ -35716,10 +34670,7 @@
     "name": "유구외곽로",
     "name:en": "Yuguoegwak-ro",
     "name:ko": "유구외곽로",
-    "ncat": "국도",
-    "ref": "39;604",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39;604"
   }
 },
 {
@@ -35734,10 +34685,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도",
-    "ref": "39;604",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39;604"
   }
 },
 {
@@ -35767,10 +34715,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -35785,10 +34730,7 @@
     "highway": "primary",
     "layer": "1",
     "name": "삼청교",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -35825,9 +34767,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -36238,9 +35178,7 @@
     "name": "신덕로",
     "name:en": "Sindeok-ro",
     "name:ko": "신덕로",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -36409,10 +35347,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -36454,10 +35389,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -36538,10 +35470,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -36565,10 +35494,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -36718,8 +35644,6 @@
     "name:en": "Seobu-ro",
     "name:ko": "서부로",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -36749,9 +35673,7 @@
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -36767,12 +35689,9 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "noname": "yes",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -36901,10 +35820,7 @@
     "name": "중앙1길",
     "name:en": "Jungang 1-gil",
     "name:ko": "중앙1길",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -36923,9 +35839,7 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -36943,9 +35857,7 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -36998,10 +35910,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -37031,11 +35940,8 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -37052,11 +35958,8 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -37070,11 +35973,8 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -37088,11 +35988,8 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -37107,11 +36004,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -37125,11 +36019,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -37154,11 +36045,8 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -37176,11 +36064,8 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -37197,11 +36082,8 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -37218,11 +36100,8 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -37239,11 +36118,8 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -37260,11 +36136,8 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -37283,11 +36156,8 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -37304,11 +36174,8 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -37325,11 +36192,8 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -37354,11 +36218,8 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -37379,11 +36240,8 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "21;77",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -37403,11 +36261,8 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -37426,11 +36281,8 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -37471,11 +36323,8 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -37523,11 +36372,8 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -38017,10 +36863,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "ref": "29",
-    "review": "no",
-    "source": "Bing (adjusted)",
     "surface": "asphalt"
   }
 },
@@ -38100,11 +36943,8 @@
     "name": "걸미로",
     "name:en": "Geolmi-ro",
     "name:ko": "걸미로",
-    "ncat": "지방도",
     "oneway": "no",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -38120,9 +36960,7 @@
     "name:en": "Naeto-ro",
     "name:ko": "내토로",
     "oneway": "yes",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -38142,10 +36980,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도;지방도",
-    "ref": "39;625;645",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39;625;645"
   }
 },
 {
@@ -38167,10 +37002,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도;지방도",
-    "ref": "39;625;645",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39;625;645"
   }
 },
 {
@@ -38198,10 +37030,7 @@
     "name": "백제문화로",
     "name:en": "Baekjemunhwa-ro",
     "name:ko": "백제문화로",
-    "ncat": "국도;지방도",
-    "ref": "40;645",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40;645"
   }
 },
 {
@@ -38221,10 +37050,7 @@
     "layer": "1",
     "maxspeed": "60",
     "name:en": "Songmun-ro",
-    "ncat": "지방도",
-    "ref": "49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "49"
   }
 },
 {
@@ -38256,10 +37082,7 @@
     "name": "송문로",
     "name:en": "Songmun-ro",
     "name:ko": "송문로",
-    "ncat": "지방도",
-    "ref": "49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "49"
   }
 },
 {
@@ -38295,10 +37118,7 @@
     "name": "송문로",
     "name:en": "Songmun-ro",
     "name:ko": "송문로",
-    "ncat": "지방도",
-    "ref": "49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "49"
   }
 },
 {
@@ -38321,10 +37141,7 @@
     "layer": "1",
     "maxspeed": "60",
     "name:en": "Songmun-ro",
-    "ncat": "지방도",
-    "ref": "49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "49"
   }
 },
 {
@@ -38459,10 +37276,7 @@
     "name": "괴산로",
     "name:en": "Goesan-ro",
     "name:ko": "괴산로",
-    "ncat": "국도",
     "ref": "19;37",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -38609,11 +37423,8 @@
     "name": "망향로",
     "name:en": "Manghyang-ro",
     "name:ko": "망향로",
-    "ncat": "지방도",
     "oneway": "yes",
-    "ref": "23",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "23"
   }
 },
 {
@@ -38631,11 +37442,8 @@
     "name": "망향로",
     "name:en": "Manghyang-ro",
     "name:ko": "망향로",
-    "ncat": "지방도",
     "oneway": "yes",
-    "ref": "23",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "23"
   }
 },
 {
@@ -38703,8 +37511,6 @@
     "name:en": "Hoein-ro",
     "name:ko": "회인로",
     "ref": "25;571",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -38723,9 +37529,7 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ref": "25;571",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "25;571"
   }
 },
 {
@@ -38775,10 +37579,7 @@
     "name": "홍천로",
     "name:en": "Hongcheon-ro",
     "name:ko": "홍천로",
-    "ncat": "지방도",
-    "ref": "649",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "649"
   }
 },
 {
@@ -38980,9 +37781,7 @@
     "name": "안면대로",
     "name:en": "Anmyeon-daero",
     "name:ko": "안면대로",
-    "ref": "77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "77"
   }
 },
 {
@@ -39277,8 +38076,6 @@
     "name:en": "Anmyeon-daero",
     "name:ko": "안면대로",
     "ref": "77",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -39295,9 +38092,7 @@
     "name": "안면대로",
     "name:en": "Anmyeon-daero",
     "name:ko": "안면대로",
-    "ref": "77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "77"
   }
 },
 {
@@ -39336,10 +38131,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
-    "ref": "29;68",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29;68"
   }
 },
 {
@@ -39390,10 +38182,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "ref": "29;68",
-    "review": "yes",
-    "source": "NTIC;Yahoo",
     "surface": "asphalt"
   }
 },
@@ -39494,8 +38283,6 @@
     "name:en": "Yanghwaseo-ro",
     "name:ko": "양화서로",
     "ref": "68",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -39548,9 +38335,7 @@
     "name": "장산로",
     "name:en": "Jangsan-ro",
     "name:ko": "장산로",
-    "ncat": "국도",
-    "ref": "29;68",
-    "review": "yes"
+    "ref": "29;68"
   }
 },
 {
@@ -40017,11 +38802,8 @@
     "name": "남부로",
     "name:en": "Nambu-ro",
     "name:ko": "남부로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19"
   }
 },
 {
@@ -40040,11 +38822,8 @@
     "name": "남부로",
     "name:en": "Nambu-ro",
     "name:ko": "남부로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19"
   }
 },
 {
@@ -40143,7 +38922,6 @@
     "layer": "-1",
     "name": "삼승터널",
     "name:ko": "삼승터널",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "37",
     "tunnel": "yes"
@@ -40166,7 +38944,6 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "37"
   }
@@ -40189,7 +38966,6 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "37"
   }
@@ -40205,7 +38981,6 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "37"
   }
@@ -40471,10 +39246,7 @@
     "name": "명지1로",
     "name:en": "Myeongji 1-ro",
     "name:ko": "명지1로",
-    "ncat": "국도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -40510,10 +39282,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo",
     "surface": "asphalt"
   }
 },
@@ -40529,10 +39298,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도;지방도",
     "ref": "29;723",
-    "review": "yes",
-    "source": "NTIC;Yahoo",
     "surface": "asphalt"
   }
 },
@@ -40604,7 +39370,6 @@
     "name": "대전로",
     "name:en": "Daejeon-ro",
     "name:ko": "대전로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "17"
   }
@@ -40624,8 +39389,6 @@
     "name:en": "Danjae-ro",
     "name:ko": "단재로",
     "ref": "19;32",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -40654,8 +39417,6 @@
     "name:en": "Danjae-ro",
     "name:ko": "단재로",
     "ref": "19;32",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -40672,9 +39433,7 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ref": "25",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "25"
   }
 },
 {
@@ -41126,9 +39885,7 @@
     "name": "도효자로",
     "name:en": "Dohyoja-ro",
     "name:ko": "도효자로",
-    "ncat": "국도",
-    "ref": "69",
-    "source": "NTIC"
+    "ref": "69"
   }
 },
 {
@@ -41192,9 +39949,7 @@
     "name": "괴강로",
     "name:en": "Goegang-ro",
     "name:ko": "괴강로",
-    "ref": "19;37;49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19;37;49"
   }
 },
 {
@@ -41212,9 +39967,7 @@
     "name": "괴강로",
     "name:en": "Goegang-ro",
     "name:ko": "괴강로",
-    "ref": "19;37;49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19;37;49"
   }
 },
 {
@@ -41274,10 +40027,7 @@
     "name": "온천로",
     "name:en": "Oncheon-ro",
     "name:ko": "온천로",
-    "ncat": "국도",
-    "ref": "69",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "69"
   }
 },
 {
@@ -41295,10 +40045,7 @@
     "name": "온천로",
     "name:en": "Oncheon-ro",
     "name:ko": "온천로",
-    "ncat": "국도",
-    "ref": "69",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "69"
   }
 },
 {
@@ -41314,10 +40061,7 @@
     "name": "남당항로",
     "name:en": "Namdanghang-ro",
     "name:ko": "남당항로",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -41513,9 +40257,7 @@
     "name": "홍보로",
     "name:en": "Hongbo-ro",
     "name:ko": "홍보로",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -41587,11 +40329,8 @@
     "bridge:name:ko": "군간교",
     "highway": "primary",
     "maxspeed": "60",
-    "ncat": "국도",
     "oneway": "no",
     "ref": "59",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -41801,10 +40540,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -41825,10 +40561,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -41990,10 +40723,7 @@
     "name": "대금로",
     "name:en": "Daegeum-ro",
     "name:ko": "대금로",
-    "ncat": "지방도",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -42012,11 +40742,8 @@
     "name": "대금로",
     "name:en": "Daegeum-ro",
     "name:ko": "대금로",
-    "ncat": "지방도",
     "oneway": "yes",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -42033,11 +40760,8 @@
     "name": "대금로",
     "name:en": "Daegeum-ro",
     "name:ko": "대금로",
-    "ncat": "지방도",
     "oneway": "yes",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -42089,10 +40813,7 @@
     "name": "괴산로",
     "name:en": "Goesan-ro",
     "name:ko": "괴산로",
-    "ncat": "국도",
     "ref": "19;37",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -42129,10 +40850,7 @@
     "name": "괴산로",
     "name:en": "Goesan-ro",
     "name:ko": "괴산로",
-    "ncat": "국도",
-    "ref": "19;37;49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19;37;49"
   }
 },
 {
@@ -42189,9 +40907,7 @@
     "name:en": "Sindeok-ro",
     "name:ko": "신덕로",
     "oneway": "yes",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -42396,9 +41112,7 @@
     "name": "남당항로",
     "name:en": "Namdanghang-ro",
     "name:ko": "남당항로",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -42561,11 +41275,8 @@
     "name": "남부로",
     "name:en": "Nambu-ro",
     "name:ko": "남부로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "19",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -42583,11 +41294,8 @@
     "name": "남부로",
     "name:en": "Nambu-ro",
     "name:ko": "남부로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19"
   }
 },
 {
@@ -42609,11 +41317,8 @@
     "name": "남부로",
     "name:en": "Nambu-ro",
     "name:ko": "남부로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19"
   }
 },
 {
@@ -42633,11 +41338,8 @@
     "name": "남부로",
     "name:en": "Nambu-ro",
     "name:ko": "남부로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19"
   }
 },
 {
@@ -42658,11 +41360,8 @@
     "name": "남부로",
     "name:en": "Nambu-ro",
     "name:ko": "남부로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19"
   }
 },
 {
@@ -42679,11 +41378,8 @@
     "name": "남부로",
     "name:en": "Nambu-ro",
     "name:ko": "남부로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19"
   }
 },
 {
@@ -42702,11 +41398,8 @@
     "name": "남부로",
     "name:en": "Nambu-ro",
     "name:ko": "남부로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19"
   }
 },
 {
@@ -42723,11 +41416,8 @@
     "name": "남부로",
     "name:en": "Nambu-ro",
     "name:ko": "남부로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19"
   }
 },
 {
@@ -43033,11 +41723,8 @@
     "name": "남부로",
     "name:en": "Nambu-ro",
     "name:ko": "남부로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19"
   }
 },
 {
@@ -43058,11 +41745,8 @@
     "bridge:name": "송천교",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19"
   }
 },
 {
@@ -43083,11 +41767,8 @@
     "name": "남부로",
     "name:en": "Nambu-ro",
     "name:ko": "남부로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19"
   }
 },
 {
@@ -43109,11 +41790,8 @@
     "name": "남부로",
     "name:en": "Nambu-ro",
     "name:ko": "남부로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "19",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19"
   }
 },
 {
@@ -43345,8 +42023,6 @@
     "name:ko": "단양로",
     "oneway": "yes",
     "ref": "5",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -43378,10 +42054,7 @@
     "name": "원이로",
     "name:en": "Woni-ro",
     "name:ko": "원이로",
-    "ncat": "국도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -43399,10 +42072,7 @@
     "name": "원이로",
     "name:en": "Woni-ro",
     "name:ko": "원이로",
-    "ncat": "국도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -43484,11 +42154,8 @@
     "destination:lang:en": "Daecheon Port;Daecheon Port Fisheries Market",
     "highway": "primary",
     "maxspeed": "40",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "36",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "36"
   }
 },
 {
@@ -43652,11 +42319,8 @@
     "name": "내포로",
     "name:en": "Naepo-ro",
     "name:ko": "내포로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -43670,14 +42334,11 @@
   ],
   "tags": {
     "highway": "primary",
-    "nact": "국도",
     "name": "수덕사로",
     "name:en": "Sudeoksa-ro",
     "name:ko": "수덕사로",
     "oneway": "yes",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -43691,14 +42352,11 @@
   ],
   "tags": {
     "highway": "primary",
-    "nact": "국도",
     "name": "수덕사로",
     "name:en": "Sudeoksa-ro",
     "name:ko": "수덕사로",
     "oneway": "yes",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -43713,9 +42371,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -43732,9 +42388,7 @@
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -43750,9 +42404,7 @@
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -43770,9 +42422,7 @@
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -43787,9 +42437,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "oneway": "yes",
-    "review": "no",
-    "source": "NTIC"
+    "oneway": "yes"
   }
 },
 {
@@ -43811,12 +42459,9 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "noname": "yes",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -43831,12 +42476,9 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "noname": "yes",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -43851,11 +42493,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -43868,11 +42507,8 @@
   "tags": {
     "highway": "primary",
     "layer": "-1",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
-    "review": "no",
-    "source": "NTIC",
     "tunnel": "yes"
   }
 },
@@ -43908,11 +42544,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -43928,11 +42561,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -43946,11 +42576,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -43968,11 +42595,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -43986,11 +42610,8 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44007,11 +42628,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44025,11 +42643,8 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44043,11 +42658,8 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44062,11 +42674,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44082,11 +42691,8 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44110,11 +42716,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44140,11 +42743,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44196,11 +42796,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44216,11 +42813,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29",
-    "review": "no",
-    "source": "NTIC",
     "tunnel": "yes"
   }
 },
@@ -44239,9 +42833,7 @@
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44260,9 +42852,7 @@
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44281,9 +42871,7 @@
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44299,9 +42887,7 @@
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44324,9 +42910,7 @@
     "highway": "primary",
     "noname": "yes",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44362,11 +42946,8 @@
     "name": "소방로",
     "name:en": "Sobang-ro",
     "name:ko": "소방로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44385,11 +42966,8 @@
     "name": "소방로",
     "name:en": "Sobang-ro",
     "name:ko": "소방로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44410,11 +42988,8 @@
     "name": "소방로",
     "name:en": "Sobang-ro",
     "name:ko": "소방로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44438,11 +43013,8 @@
     "name": "소방로",
     "name:en": "Sobang-ro",
     "name:ko": "소방로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44465,11 +43037,8 @@
     "name": "소방로",
     "name:en": "Sobang-ro",
     "name:ko": "소방로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44507,11 +43076,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44528,11 +43094,8 @@
     "name": "소방로",
     "name:en": "Sobang-ro",
     "name:ko": "소방로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44550,11 +43113,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44571,11 +43131,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44596,11 +43153,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44661,9 +43215,7 @@
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44683,9 +43235,7 @@
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44703,9 +43253,7 @@
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44732,9 +43280,7 @@
     "name:en": "Chungjeol 1-ro",
     "name:ko": "충절1로",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44751,9 +43297,7 @@
     "name:en": "Chungjeol 1-ro",
     "name:ko": "충절1로",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44771,9 +43315,7 @@
     "name:en": "Chungjeol 1-ro",
     "name:ko": "충절1로",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44794,9 +43336,7 @@
     "name:en": "Chungjeol 1-ro",
     "name:ko": "충절1로",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44817,9 +43357,7 @@
     "name:en": "Chungjeol 1-ro",
     "name:ko": "충절1로",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44855,11 +43393,8 @@
     "name": "소방로",
     "name:en": "Sobang-ro",
     "name:ko": "소방로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44876,11 +43411,8 @@
     "name": "소방로",
     "name:en": "Sobang-ro",
     "name:ko": "소방로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -44905,11 +43437,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29"
   }
 },
 {
@@ -44929,11 +43458,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29"
   }
 },
 {
@@ -44951,11 +43477,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29"
   }
 },
 {
@@ -44972,11 +43495,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29"
   }
 },
 {
@@ -44999,11 +43519,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29"
   }
 },
 {
@@ -45020,11 +43537,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29"
   }
 },
 {
@@ -45051,11 +43565,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29"
   }
 },
 {
@@ -45072,11 +43583,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29"
   }
 },
 {
@@ -45101,10 +43609,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
-    "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29"
   }
 },
 {
@@ -45121,11 +43626,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29"
   }
 },
 {
@@ -45142,11 +43644,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29"
   }
 },
 {
@@ -45165,11 +43664,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29"
   }
 },
 {
@@ -45187,11 +43683,8 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29"
   }
 },
 {
@@ -45208,10 +43701,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "ref": "29;68",
-    "review": "yes",
-    "source": "NTIC;Yahoo",
     "surface": "asphalt"
   }
 },
@@ -45229,10 +43719,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
     "ref": "29;68",
-    "review": "yes",
-    "source": "NTIC;Yahoo",
     "surface": "asphalt"
   }
 },
@@ -45253,9 +43740,7 @@
     "name": "장산로",
     "name:en": "Jangsan-ro",
     "name:ko": "장산로",
-    "ncat": "국도",
-    "ref": "29;68",
-    "review": "yes"
+    "ref": "29;68"
   }
 },
 {
@@ -45274,9 +43759,7 @@
     "name": "장산로",
     "name:en": "Jangsan-ro",
     "name:ko": "장산로",
-    "ncat": "국도",
-    "ref": "29;68",
-    "review": "yes"
+    "ref": "29;68"
   }
 },
 {
@@ -45297,9 +43780,7 @@
     "name": "장산로",
     "name:en": "Jangsan-ro",
     "name:ko": "장산로",
-    "ncat": "국도",
     "ref": "29",
-    "review": "yes",
     "surface": "asphalt"
   }
 },
@@ -45317,9 +43798,7 @@
     "name": "장산로",
     "name:en": "Jangsan-ro",
     "name:ko": "장산로",
-    "ncat": "국도",
     "ref": "29",
-    "review": "yes",
     "surface": "asphalt"
   }
 },
@@ -45471,10 +43950,7 @@
     "name": "별방창원로",
     "name:en": "Byeolbangchangwon-ro",
     "name:ko": "별방창원로",
-    "ncat": "국도",
-    "ref": "59;522",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "59;522"
   }
 },
 {
@@ -45490,10 +43966,7 @@
     "highway": "primary",
     "layer": "1",
     "maxspeed": "30",
-    "ncat": "국도",
-    "ref": "59",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "59"
   }
 },
 {
@@ -45513,10 +43986,7 @@
     "name": "별방창원로",
     "name:en": "Byeolbangchangwon-ro",
     "name:ko": "별방창원로",
-    "ncat": "국도",
-    "ref": "59",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "59"
   }
 },
 {
@@ -45532,10 +44002,7 @@
     "highway": "primary",
     "layer": "1",
     "maxspeed": "30",
-    "ncat": "국도",
-    "ref": "59",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "59"
   }
 },
 {
@@ -45551,10 +44018,7 @@
     "highway": "primary",
     "layer": "1",
     "maxspeed": "50",
-    "ncat": "국도",
-    "ref": "59;522",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "59;522"
   }
 },
 {
@@ -45578,10 +44042,7 @@
     "name": "별방창원로",
     "name:en": "Byeolbangchangwon-ro",
     "name:ko": "별방창원로",
-    "ncat": "국도",
-    "ref": "59",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "59"
   }
 },
 {
@@ -45694,11 +44155,8 @@
     "name": "별방창원로",
     "name:en": "Byeolbangchangwon-ro",
     "name:ko": "별방창원로",
-    "ncat": "국도",
     "oneway": "no",
     "ref": "59;522",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -45715,11 +44173,8 @@
     "highway": "primary",
     "layer": "1",
     "maxspeed": "50",
-    "ncat": "국도",
     "oneway": "no",
     "ref": "59;522",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -45743,9 +44198,7 @@
     "name": "홍보로",
     "name:en": "Hongbo-ro",
     "name:ko": "홍보로",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -45762,9 +44215,7 @@
     "name": "홍보로",
     "name:en": "Hongbo-ro",
     "name:ko": "홍보로",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -45781,9 +44232,7 @@
     "name": "홍보로",
     "name:en": "Hongbo-ro",
     "name:ko": "홍보로",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -45799,8 +44248,6 @@
     "name:en": "Hongbo-ro",
     "name:ko": "홍보로",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -45852,9 +44299,7 @@
     "name": "대천항로",
     "name:en": "Daecheonhang-ro",
     "name:ko": "대천항로",
-    "ref": "36;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "36;77"
   }
 },
 {
@@ -45966,10 +44411,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
-    "ref": "29",
-    "review": "no",
-    "source": "Bing (adjusted)"
+    "ref": "29"
   }
 },
 {
@@ -46014,10 +44456,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
-    "ref": "29",
-    "review": "no",
-    "source": "Bing (adjusted)"
+    "ref": "29"
   }
 },
 {
@@ -46052,10 +44491,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
-    "ref": "29",
-    "review": "no",
-    "source": "Bing (adjusted)"
+    "ref": "29"
   }
 },
 {
@@ -46072,10 +44508,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
-    "ref": "29",
-    "review": "no",
-    "source": "Bing (adjusted)"
+    "ref": "29"
   }
 },
 {
@@ -46100,10 +44533,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
-    "ref": "29",
-    "review": "no",
-    "source": "Bing (adjusted)"
+    "ref": "29"
   }
 },
 {
@@ -46126,10 +44556,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
-    "ref": "29",
-    "review": "no",
-    "source": "Bing (adjusted)"
+    "ref": "29"
   }
 },
 {
@@ -46146,10 +44573,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
-    "ref": "29",
-    "review": "no",
-    "source": "Bing (adjusted)"
+    "ref": "29"
   }
 },
 {
@@ -46176,10 +44600,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
-    "ref": "29",
-    "review": "no",
-    "source": "Bing (adjusted)"
+    "ref": "29"
   }
 },
 {
@@ -46262,11 +44683,8 @@
     "name": "진광로",
     "name:en": "Jingwang-ro",
     "name:ko": "진광로",
-    "ncat": "지방도",
     "oneway": "no",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -46306,9 +44724,7 @@
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
     "oneway": "no",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -46327,9 +44743,7 @@
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
     "oneway": "no",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -46344,10 +44758,7 @@
     "name": "송문로",
     "name:en": "Songmun-ro",
     "name:ko": "송문로",
-    "ncat": "지방도",
-    "ref": "49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "49"
   }
 },
 {
@@ -46364,10 +44775,7 @@
     "name": "송문로",
     "name:en": "Songmun-ro",
     "name:ko": "송문로",
-    "ncat": "지방도",
-    "ref": "49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "49"
   }
 },
 {
@@ -46387,10 +44795,7 @@
     "name": "백제문화로",
     "name:en": "Baekjemunhwa-ro",
     "name:ko": "백제문화로",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -46407,10 +44812,7 @@
     "name": "백제문화로",
     "name:en": "Baekjemunhwa-ro",
     "name:ko": "백제문화로",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -46591,7 +44993,6 @@
     "highway": "primary",
     "junction": "roundabout",
     "maxspeed": "20",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "29;38"
   }
@@ -46664,9 +45065,7 @@
     "name:en": "Jungang-ro",
     "name:ko": "중앙로",
     "oneway": "yes",
-    "ref": "45;70",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "45;70"
   }
 },
 {
@@ -46764,10 +45163,7 @@
     "name": "장산로",
     "name:en": "Jangsan-ro",
     "name:ko": "장산로",
-    "ncat": "지방도",
-    "ref": "68",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "68"
   }
 },
 {
@@ -46784,10 +45180,7 @@
     "name": "장산로",
     "name:en": "Jangsan-ro",
     "name:ko": "장산로",
-    "ncat": "지방도",
     "ref": "68",
-    "review": "no",
-    "source": "NTIC",
     "tunnel": "yes"
   }
 },
@@ -46808,9 +45201,7 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ref": "25",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "25"
   }
 },
 {
@@ -46827,9 +45218,7 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ref": "25",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "25"
   }
 },
 {
@@ -46912,11 +45301,8 @@
     "name": "중부로",
     "name:en": "Jungbu-ro",
     "name:ko": "중부로",
-    "ncat": "지방도",
     "oneway": "yes",
-    "ref": "508",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "508"
   }
 },
 {
@@ -46949,11 +45335,8 @@
     "name": "중부로",
     "name:en": "Jungbu-ro",
     "name:ko": "중부로",
-    "ncat": "지방도",
     "oneway": "yes",
-    "ref": "34;508",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "34;508"
   }
 },
 {
@@ -46973,11 +45356,8 @@
     "name": "중부로",
     "name:en": "Jungbu-ro",
     "name:ko": "중부로",
-    "ncat": "지방도",
     "oneway": "yes",
-    "ref": "34;508",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "34;508"
   }
 },
 {
@@ -46994,11 +45374,8 @@
     "name": "중부로",
     "name:en": "Jungbu-ro",
     "name:ko": "중부로",
-    "ncat": "지방도",
     "oneway": "yes",
-    "ref": "34;508",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "34;508"
   }
 },
 {
@@ -47040,10 +45417,7 @@
     "name": "명지1로",
     "name:en": "Myeongji 1-ro",
     "name:ko": "명지1로",
-    "ncat": "국도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -47066,10 +45440,7 @@
     "name": "명지1로",
     "name:en": "Myeongji 1-ro",
     "name:ko": "명지1로",
-    "ncat": "국도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -47124,10 +45495,7 @@
     "name": "명지1로",
     "name:en": "Myeongji 1-ro",
     "name:ko": "명지1로",
-    "ncat": "국도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -47151,10 +45519,7 @@
     "name": "명지1로",
     "name:en": "Myeongji 1-ro",
     "name:ko": "명지1로",
-    "ncat": "국도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -47172,9 +45537,7 @@
     "name:en": "Cheonsuman-ro",
     "name:ko": "천수만로",
     "oneway": "yes",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -47204,9 +45567,7 @@
     "name:en": "Anmyeon-daero",
     "name:ko": "안면대로",
     "oneway": "yes",
-    "ref": "77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "77"
   }
 },
 {
@@ -47611,10 +45972,7 @@
     "name": "태흥로",
     "name:en": "Taeheung-ro",
     "name:ko": "태흥로",
-    "ncat": "국도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -47800,10 +46158,7 @@
     "name": "수덕사로",
     "name:en": "Sudeoksa-ro",
     "name:ko": "수덕사로",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -47912,10 +46267,7 @@
     "name": "명지1로",
     "name:en": "Myeongji 1-ro",
     "name:ko": "명지1로",
-    "ncat": "국도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -47932,9 +46284,7 @@
     "name:en": "Jungang-ro",
     "name:ko": "중앙로",
     "oneway": "yes",
-    "ref": "45;70",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "45;70"
   }
 },
 {
@@ -48054,9 +46404,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -48073,9 +46421,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ref": "29",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "29"
   }
 },
 {
@@ -48143,9 +46489,7 @@
     "name": "단재로",
     "name:en": "Danjae-ro",
     "name:ko": "단재로",
-    "ref": "19;32",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19;32"
   }
 },
 {
@@ -48162,9 +46506,7 @@
     "name": "단재로",
     "name:en": "Danjae-ro",
     "name:ko": "단재로",
-    "ref": "19;32",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19;32"
   }
 },
 {
@@ -48321,10 +46663,7 @@
     "name": "유구외곽로",
     "name:en": "Yuguoegwak-ro",
     "name:ko": "유구외곽로",
-    "ncat": "국도",
-    "ref": "39;604",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39;604"
   }
 },
 {
@@ -48341,10 +46680,7 @@
     "highway": "primary",
     "layer": "1",
     "name:en": "Mannyeongyo Bridge",
-    "ncat": "국도",
-    "ref": "39;604",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39;604"
   }
 },
 {
@@ -48377,9 +46713,7 @@
     "name": "홍남동로",
     "name:en": "Hongnamdong-ro",
     "name:ko": "홍남동로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -48396,9 +46730,7 @@
     "name": "홍남동로",
     "name:en": "Hongnamdong-ro",
     "name:ko": "홍남동로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -48414,9 +46746,7 @@
     "bridge:name:ko": "신진교",
     "highway": "primary",
     "layer": "1",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -48476,9 +46806,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -48630,8 +46958,6 @@
     "name:en": "Danjae-ro",
     "name:ko": "단재로",
     "ref": "19;32",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -48650,8 +46976,6 @@
     "name:en": "Danjae-ro",
     "name:ko": "단재로",
     "ref": "19;32",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -48699,9 +47023,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -48718,9 +47040,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -48740,9 +47060,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -48759,9 +47077,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -48778,9 +47094,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -49506,11 +47820,8 @@
     "name": "별방창원로",
     "name:en": "Byeolbangchangwon-ro",
     "name:ko": "별방창원로",
-    "ncat": "국도",
     "oneway": "no",
     "ref": "59;522",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -49569,11 +47880,8 @@
     "name": "별방창원로",
     "name:en": "Byeolbangchangwon-ro",
     "name:ko": "별방창원로",
-    "ncat": "국도",
     "oneway": "no",
     "ref": "59;522",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -49603,11 +47911,8 @@
     "name": "별방창원로",
     "name:en": "Byeolbangchangwon-ro",
     "name:ko": "별방창원로",
-    "ncat": "국도",
     "oneway": "no",
     "ref": "59;522",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -49637,10 +47942,7 @@
     "name": "별방창원로",
     "name:en": "Byeolbangchangwon-ro",
     "name:ko": "별방창원로",
-    "ncat": "국도",
-    "ref": "59",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "59"
   }
 },
 {
@@ -49753,10 +48055,7 @@
     "name": "별방창원로",
     "name:en": "Byeolbangchangwon-ro",
     "name:ko": "별방창원로",
-    "ncat": "국도",
     "ref": "59",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -49775,10 +48074,7 @@
     "name": "별방창원로",
     "name:en": "Byeolbangchangwon-ro",
     "name:ko": "별방창원로",
-    "ncat": "국도",
-    "ref": "59",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "59"
   }
 },
 {
@@ -49931,8 +48227,6 @@
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
     "ref": "25",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -49976,8 +48270,6 @@
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
     "ref": "25",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -50001,10 +48293,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -50021,10 +48310,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -50131,7 +48417,6 @@
     "name": "내토로",
     "name:en": "Naeto-ro",
     "name:ko": "내토로",
-    "ncat": "지방도",
     "ref": "82"
   }
 },
@@ -50623,10 +48908,7 @@
     "name": "수덕사로",
     "name:en": "Sudeoksa-ro",
     "name:ko": "수덕사로",
-    "ncat": "국도",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -50685,7 +48967,6 @@
     "name": "수덕사로",
     "name:en": "Sudeoksa-ro",
     "name:ko": "수덕사로",
-    "ncat": "국도",
     "ref": "40"
   }
 },
@@ -50777,10 +49058,7 @@
     "name": "수덕사로",
     "name:en": "Sudeoksa-ro",
     "name:ko": "수덕사로",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -50813,10 +49091,7 @@
     "name": "수덕사로",
     "name:en": "Sudeoksa-ro",
     "name:ko": "수덕사로",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -50999,10 +49274,7 @@
     "name": "수덕사로",
     "name:en": "Sudeoksa-ro",
     "name:ko": "수덕사로",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -51019,10 +49291,7 @@
     "name": "수덕사로",
     "name:en": "Sudeoksa-ro",
     "name:ko": "수덕사로",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -51039,10 +49308,7 @@
     "name": "수덕사로",
     "name:en": "Sudeoksa-ro",
     "name:ko": "수덕사로",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -51059,10 +49325,7 @@
     "name": "수덕사로",
     "name:en": "Sudeoksa-ro",
     "name:ko": "수덕사로",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -51133,9 +49396,7 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -51153,9 +49414,7 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -51196,9 +49455,7 @@
     "name": "홍남로",
     "name:en": "Hongnam-ro",
     "name:ko": "홍남로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -51215,9 +49472,7 @@
     "name": "홍남로",
     "name:en": "Hongnam-ro",
     "name:ko": "홍남로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -51273,8 +49528,6 @@
     "name:en": "Seobu-ro",
     "name:ko": "서부로",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -51293,8 +49546,6 @@
     "name:en": "Seobu-ro",
     "name:ko": "서부로",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -52153,9 +50404,7 @@
     "highway": "primary",
     "layer": "1",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -52178,9 +50427,7 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -52200,9 +50447,7 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -52240,9 +50485,7 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21;32;70;618",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;32;70;618"
   }
 },
 {
@@ -52341,9 +50584,7 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -53030,10 +51271,7 @@
     "name": "대금로",
     "name:en": "Daegeum-ro",
     "name:ko": "대금로",
-    "ncat": "지방도",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -53080,10 +51318,7 @@
     "name": "대금로",
     "name:en": "Daegeum-ro",
     "name:ko": "대금로",
-    "ncat": "지방도",
-    "ref": "82",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "82"
   }
 },
 {
@@ -53130,9 +51365,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ref": "39;96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39;96"
   }
 },
 {
@@ -53149,9 +51382,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ref": "39;96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39;96"
   }
 },
 {
@@ -53377,9 +51608,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
-    "ref": "29",
-    "review": "yes"
+    "ref": "29"
   }
 },
 {
@@ -53474,9 +51703,7 @@
     "name:en": "Chungcheong-daero",
     "name:ko": "충청대로",
     "oneway": "yes",
-    "ref": "34",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "34"
   }
 },
 {
@@ -53495,9 +51722,7 @@
     "name:en": "Chungcheong-daero",
     "name:ko": "충청대로",
     "oneway": "yes",
-    "ref": "34",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "34"
   }
 },
 {
@@ -53681,9 +51906,7 @@
     "name": "장산로",
     "name:en": "Jangsan-ro",
     "name:ko": "장산로",
-    "ncat": "국도",
-    "ref": "29;68",
-    "review": "yes"
+    "ref": "29;68"
   }
 },
 {
@@ -53704,9 +51927,7 @@
     "name": "장산로",
     "name:en": "Jangsan-ro",
     "name:ko": "장산로",
-    "ncat": "국도",
-    "ref": "29;68",
-    "review": "yes"
+    "ref": "29;68"
   }
 },
 {
@@ -53721,9 +51942,7 @@
     "name": "장산로",
     "name:en": "Jangsan-ro",
     "name:ko": "장산로",
-    "ncat": "국도",
-    "ref": "29;68",
-    "review": "yes"
+    "ref": "29;68"
   }
 },
 {
@@ -53740,9 +51959,7 @@
     "name": "장산로",
     "name:en": "Jangsan-ro",
     "name:ko": "장산로",
-    "ncat": "국도",
-    "ref": "29;68",
-    "review": "yes"
+    "ref": "29;68"
   }
 },
 {
@@ -53797,9 +52014,7 @@
     "name": "괴강로",
     "name:en": "Goegang-ro",
     "name:ko": "괴강로",
-    "ref": "19;37;49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19;37;49"
   }
 },
 {
@@ -53869,10 +52084,7 @@
     "name": "만수로",
     "name:en": "Mansu-ro",
     "name:ko": "만수로",
-    "ncat": "지방도",
     "ref": "40;606",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -53893,10 +52105,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -53914,10 +52123,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -54457,8 +52663,6 @@
     "name:en": "Anmyeon-daero",
     "name:ko": "안면대로",
     "ref": "77",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -54477,8 +52681,6 @@
     "name:en": "Anmyeon-daero",
     "name:ko": "안면대로",
     "ref": "77",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -54722,10 +52924,7 @@
     "name": "송문로",
     "name:en": "Songmun-ro",
     "name:ko": "송문로",
-    "ncat": "지방도",
-    "ref": "49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "49"
   }
 },
 {
@@ -54742,10 +52941,7 @@
     "name": "송문로",
     "name:en": "Songmun-ro",
     "name:ko": "송문로",
-    "ncat": "지방도",
-    "ref": "49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "49"
   }
 },
 {
@@ -54818,11 +53014,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "37",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "37"
   }
 },
 {
@@ -54851,7 +53044,6 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "37"
   }
@@ -54881,7 +53073,6 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "37"
   }
@@ -54895,7 +53086,6 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "37"
   }
@@ -54913,7 +53103,6 @@
   ],
   "tags": {
     "highway": "primary",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "37"
   }
@@ -54929,7 +53118,6 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "37"
   }
@@ -54945,7 +53133,6 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "37"
   }
@@ -55759,10 +53946,7 @@
     "name:en": "Yedeok-ro",
     "name:ko": "예덕로",
     "name:zh": "夜德路",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -55780,10 +53964,7 @@
     "name:en": "Yedeok-ro",
     "name:ko": "예덕로",
     "name:zh": "夜德路",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -55801,10 +53982,7 @@
     "name:en": "Yedeok-ro",
     "name:ko": "예덕로",
     "name:zh": "夜德路",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -55823,10 +54001,7 @@
     "name:en": "Yedeok-ro",
     "name:ko": "예덕로",
     "name:zh": "夜德路",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -55878,10 +54053,7 @@
     "name:en": "Yedeok-ro",
     "name:ko": "예덕로",
     "name:zh": "夜德路",
-    "ncat": "국도",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -55920,10 +54092,7 @@
     "name:en": "Yedeok-ro",
     "name:ko": "예덕로",
     "name:zh": "夜德路",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -55943,10 +54112,7 @@
     "name:en": "Yedeok-ro",
     "name:ko": "예덕로",
     "name:zh": "夜德路",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -55965,10 +54131,7 @@
     "name:en": "Yedeok-ro",
     "name:ko": "예덕로",
     "name:zh": "夜德路",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -55984,10 +54147,7 @@
     "name:en": "Yedeok-ro",
     "name:ko": "예덕로",
     "name:zh": "夜德路",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -56007,10 +54167,7 @@
     "name:en": "Yedeok-ro",
     "name:ko": "예덕로",
     "name:zh": "夜德路",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -56028,10 +54185,7 @@
     "name:en": "Yedeok-ro",
     "name:ko": "예덕로",
     "name:zh": "夜德路",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -56403,9 +54557,7 @@
     "name:en": "Chungcheong-daero",
     "name:ko": "충청대로",
     "oneway": "yes",
-    "ref": "34",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "34"
   }
 },
 {
@@ -56486,11 +54638,8 @@
     "name": "원이로",
     "name:en": "Woni-ro",
     "name:ko": "원이로",
-    "ncat": "지방도",
     "oneway": "yes",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -56508,11 +54657,8 @@
     "name": "원이로",
     "name:en": "Woni-ro",
     "name:ko": "원이로",
-    "ncat": "지방도",
     "oneway": "yes",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -56530,11 +54676,8 @@
     "name": "원이로",
     "name:en": "Woni-ro",
     "name:ko": "원이로",
-    "ncat": "지방도",
     "oneway": "yes",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -56552,11 +54695,8 @@
     "name": "원이로",
     "name:en": "Woni-ro",
     "name:ko": "원이로",
-    "ncat": "지방도",
     "oneway": "yes",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -57030,9 +55170,7 @@
     "name": "제원로",
     "name:en": "Jewon-ro",
     "name:ko": "제원로",
-    "ref": "5",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "5"
   }
 },
 {
@@ -57049,9 +55187,7 @@
     "name": "제원로",
     "name:en": "Jewon-ro",
     "name:ko": "제원로",
-    "ref": "5",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "5"
   }
 },
 {
@@ -57185,10 +55321,7 @@
     "name:en": "Yedeok-ro",
     "name:ko": "예덕로",
     "name:zh": "夜德路",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -57206,10 +55339,7 @@
     "name:en": "Yedeok-ro",
     "name:ko": "예덕로",
     "name:zh": "夜德路",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -57226,9 +55356,7 @@
     "name": "괴강로",
     "name:en": "Goegang-ro",
     "name:ko": "괴강로",
-    "ref": "19;37;49",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "19;37;49"
   }
 },
 {
@@ -57338,9 +55466,7 @@
     "name:en": "Danyang-ro",
     "name:ko": "단양로",
     "oneway": "yes",
-    "ref": "5",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "5"
   }
 },
 {
@@ -57527,11 +55653,8 @@
     "name": "남당항로",
     "name:en": "Namdanghang-ro",
     "name:ko": "남당항로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -57550,11 +55673,8 @@
     "name": "남당항로",
     "name:en": "Namdanghang-ro",
     "name:ko": "남당항로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -57585,10 +55705,7 @@
     "name": "남당항로",
     "name:en": "Namdanghang-ro",
     "name:ko": "남당항로",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -58079,9 +56196,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -58099,11 +56214,8 @@
     "name": "백제문화로",
     "name:en": "Baekjemunhwa-ro",
     "name:ko": "백제문화로",
-    "ncat": "국도;지방도",
     "oneway": "yes",
-    "ref": "40;645",
-    "review": "no",
-    "source": "Yahoo"
+    "ref": "40;645"
   }
 },
 {
@@ -58119,11 +56231,8 @@
     "name": "백제문화로",
     "name:en": "Baekjemunhwa-ro",
     "name:ko": "백제문화로",
-    "ncat": "국도;지방도",
     "oneway": "yes",
-    "ref": "40;645",
-    "review": "no",
-    "source": "Yahoo"
+    "ref": "40;645"
   }
 },
 {
@@ -58140,11 +56249,8 @@
     "name": "백제문화로",
     "name:en": "Baekjemunhwa-ro",
     "name:ko": "백제문화로",
-    "ncat": "국도;지방도",
     "oneway": "yes",
-    "ref": "40;645",
-    "review": "no",
-    "source": "Yahoo"
+    "ref": "40;645"
   }
 },
 {
@@ -58161,11 +56267,8 @@
     "name": "백제문화로",
     "name:en": "Baekjemunhwa-ro",
     "name:ko": "백제문화로",
-    "ncat": "국도;지방도",
     "oneway": "yes",
-    "ref": "40;645",
-    "review": "no",
-    "source": "Yahoo"
+    "ref": "40;645"
   }
 },
 {
@@ -58184,11 +56287,8 @@
     "name": "백제문화로",
     "name:en": "Baekjemunhwa-ro",
     "name:ko": "백제문화로",
-    "ncat": "국도;지방도",
     "oneway": "yes",
-    "ref": "40;645",
-    "review": "no",
-    "source": "Yahoo"
+    "ref": "40;645"
   }
 },
 {
@@ -58205,11 +56305,8 @@
     "name": "백제문화로",
     "name:en": "Baekjemunhwa-ro",
     "name:ko": "백제문화로",
-    "ncat": "국도;지방도",
     "oneway": "yes",
-    "ref": "40;645",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40;645"
   }
 },
 {
@@ -58224,10 +56321,7 @@
     "name": "백제문화로",
     "name:en": "Baekjemunhwa-ro",
     "name:ko": "백제문화로",
-    "ncat": "국도;지방도",
-    "ref": "40;645",
-    "review": "no",
-    "source": "Yahoo"
+    "ref": "40;645"
   }
 },
 {
@@ -58404,9 +56498,7 @@
     "name:en": "Wangneung-ro",
     "name:ko": "왕릉로",
     "oneway": "yes",
-    "ref": "40",
-    "review": "no",
-    "source": "Yahoo"
+    "ref": "40"
   }
 },
 {
@@ -58423,9 +56515,7 @@
     "name:en": "Wangneung-ro",
     "name:ko": "왕릉로",
     "oneway": "yes",
-    "ref": "40",
-    "review": "no",
-    "source": "Yahoo"
+    "ref": "40"
   }
 },
 {
@@ -58441,9 +56531,7 @@
     "name:en": "Baekjemunhwa-ro",
     "name:ko": "백제문화로",
     "oneway": "yes",
-    "ref": "40",
-    "review": "no",
-    "source": "Yahoo"
+    "ref": "40"
   }
 },
 {
@@ -58481,9 +56569,7 @@
     "name:en": "Baekjemunhwa-ro",
     "name:ko": "백제문화로",
     "oneway": "yes",
-    "ref": "40",
-    "review": "no",
-    "source": "Yahoo"
+    "ref": "40"
   }
 },
 {
@@ -58501,9 +56587,7 @@
     "name:en": "Baekjemunhwa-ro",
     "name:ko": "백제문화로",
     "oneway": "yes",
-    "ref": "40",
-    "review": "no",
-    "source": "Yahoo"
+    "ref": "40"
   }
 },
 {
@@ -58520,9 +56604,7 @@
     "name:en": "Baekjemunhwa-ro",
     "name:ko": "백제문화로",
     "oneway": "yes",
-    "ref": "40",
-    "review": "no",
-    "source": "Yahoo"
+    "ref": "40"
   }
 },
 {
@@ -58538,9 +56620,7 @@
     "name:en": "Wangneung-ro",
     "name:ko": "왕릉로",
     "oneway": "yes",
-    "ref": "40",
-    "review": "no",
-    "source": "Yahoo"
+    "ref": "40"
   }
 },
 {
@@ -58584,9 +56664,7 @@
     "name": "홍남로",
     "name:en": "Hongnam-ro",
     "name:ko": "홍남로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -58601,9 +56679,7 @@
     "name": "홍남로",
     "name:en": "Hongnam-ro",
     "name:ko": "홍남로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -58629,9 +56705,7 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -58646,9 +56720,7 @@
     "name": "홍남로",
     "name:en": "Hongnam-ro",
     "name:ko": "홍남로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -58665,9 +56737,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -58701,10 +56771,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
-    "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29"
   }
 },
 {
@@ -58721,10 +56788,7 @@
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
-    "ncat": "국도",
-    "ref": "29",
-    "review": "yes",
-    "source": "NTIC;Yahoo"
+    "ref": "29"
   }
 },
 {
@@ -58909,10 +56973,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -58931,11 +56992,8 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -58956,11 +57014,8 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -59299,10 +57354,7 @@
     "name": "충의로",
     "name:en": "Chungui-ro",
     "name:ko": "충의로",
-    "ncat": "국도",
-    "ref": "39",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "39"
   }
 },
 {
@@ -59458,10 +57510,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -59479,8 +57528,6 @@
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
     "ref": "25",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -59515,8 +57562,6 @@
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
     "ref": "25",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -59535,9 +57580,7 @@
     "name": "장산로",
     "name:en": "Jangsan-ro",
     "name:ko": "장산로",
-    "ncat": "국도",
     "ref": "29",
-    "review": "yes",
     "surface": "asphalt"
   }
 },
@@ -59553,9 +57596,7 @@
     "name": "장산로",
     "name:en": "Jangsan-ro",
     "name:ko": "장산로",
-    "ncat": "국도",
     "ref": "29",
-    "review": "yes",
     "surface": "asphalt"
   }
 },
@@ -59682,10 +57723,7 @@
     "name": "원이로",
     "name:en": "Woni-ro",
     "name:ko": "원이로",
-    "ncat": "지방도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -59703,10 +57741,7 @@
     "name": "원이로",
     "name:en": "Woni-ro",
     "name:ko": "원이로",
-    "ncat": "지방도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -59723,10 +57758,7 @@
     "name": "원이로",
     "name:en": "Woni-ro",
     "name:ko": "원이로",
-    "ncat": "지방도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -59780,10 +57812,7 @@
     "name": "명지1로",
     "name:en": "Myeongji 1-ro",
     "name:ko": "명지1로",
-    "ncat": "국도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -59805,10 +57834,7 @@
     "name": "명지1로",
     "name:en": "Myeongji 1-ro",
     "name:ko": "명지1로",
-    "ncat": "국도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -60029,10 +58055,7 @@
     "name": "외암로",
     "name:en": "Oeam-ro",
     "name:ko": "외암로",
-    "ncat": "국도",
     "ref": "39",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt",
     "tunnel": "yes"
   }
@@ -60049,9 +58072,7 @@
     "name": "홍남동로",
     "name:en": "Hongnamdong-ro",
     "name:ko": "홍남동로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -60114,10 +58135,7 @@
     "name": "수덕사로",
     "name:en": "Sudeoksa-ro",
     "name:ko": "수덕사로",
-    "ncat": "국도",
-    "ref": "40",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40"
   }
 },
 {
@@ -60142,10 +58160,7 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ncat": "국도",
-    "ref": "25",
-    "review": "no",
-    "source": "Bing (adjusted);NTIC"
+    "ref": "25"
   }
 },
 {
@@ -60162,10 +58177,7 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ncat": "국도",
-    "ref": "25",
-    "review": "no",
-    "source": "Bing (adjusted);NTIC"
+    "ref": "25"
   }
 },
 {
@@ -60181,9 +58193,7 @@
     "name:en": "Yongcheonsinwon-ro",
     "name:ko": "용천신원로",
     "oneway": "yes",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -60200,9 +58210,7 @@
     "name:en": "Yongcheonsinwon-ro",
     "name:ko": "용천신원로",
     "oneway": "yes",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -60218,9 +58226,7 @@
     "name:en": "Yongcheonsinwon-ro",
     "name:ko": "용천신원로",
     "oneway": "yes",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -60250,9 +58256,7 @@
     "name": "용천신원로",
     "name:en": "Yongcheonsinwon-ro",
     "name:ko": "용천신원로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -60276,9 +58280,7 @@
     "name": "용천신원로",
     "name:en": "Yongcheonsinwon-ro",
     "name:ko": "용천신원로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -60301,9 +58303,7 @@
     "name": "용천신원로",
     "name:en": "Yongcheonsinwon-ro",
     "name:ko": "용천신원로",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -60320,9 +58320,7 @@
     "name:en": "Yongcheonsinwon-ro",
     "name:ko": "용천신원로",
     "oneway": "yes",
-    "ref": "96",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "96"
   }
 },
 {
@@ -60399,9 +58397,7 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -60470,10 +58466,7 @@
     "name": "원이로",
     "name:en": "Woni-ro",
     "name:ko": "원이로",
-    "ncat": "국도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -60489,10 +58482,7 @@
     "name": "원이로",
     "name:en": "Woni-ro",
     "name:ko": "원이로",
-    "ncat": "국도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -60512,10 +58502,7 @@
     "name": "태흥로",
     "name:en": "Taeheung-ro",
     "name:ko": "태흥로",
-    "ncat": "국도",
-    "ref": "38",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "38"
   }
 },
 {
@@ -60602,9 +58589,7 @@
     "name": "도효자로",
     "name:en": "Dohyoja-ro",
     "name:ko": "도효자로",
-    "ncat": "국도",
     "ref": "69",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -60659,9 +58644,7 @@
     "name": "도효자로",
     "name:en": "Dohyoja-ro",
     "name:ko": "도효자로",
-    "ncat": "지방도",
     "ref": "69",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -60702,10 +58685,7 @@
     "name:en": "Yedeok-ro",
     "name:ko": "예덕로",
     "name:zh": "夜德路",
-    "ncat": "국도",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -60724,10 +58704,7 @@
     "name:en": "Yedeok-ro",
     "name:ko": "예덕로",
     "name:zh": "夜德路",
-    "ncat": "국도",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -60784,10 +58761,7 @@
     "name": "만수로",
     "name:en": "Mansu-ro",
     "name:ko": "만수로",
-    "ncat": "지방도",
     "ref": "40;606",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -60808,10 +58782,7 @@
     "name": "만수로",
     "name:en": "Mansu-ro",
     "name:ko": "만수로",
-    "ncat": "지방도",
     "ref": "40;606",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -60901,11 +58872,8 @@
     "name": "만수로",
     "name:en": "Mansu-ro",
     "name:ko": "만수로",
-    "ncat": "국도;지방도",
     "oneway": "yes",
-    "ref": "40;606",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40;606"
   }
 },
 {
@@ -60925,11 +58893,8 @@
     "name": "만수로",
     "name:en": "Mansu-ro",
     "name:ko": "만수로",
-    "ncat": "국도;지방도",
     "oneway": "yes",
-    "ref": "40;606",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40;606"
   }
 },
 {
@@ -60945,11 +58910,8 @@
     "name": "만수로",
     "name:en": "Mansu-ro",
     "name:ko": "만수로",
-    "ncat": "국도;지방도",
     "oneway": "yes",
-    "ref": "40;606",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40;606"
   }
 },
 {
@@ -60966,11 +58928,8 @@
     "name": "만수로",
     "name:en": "Mansu-ro",
     "name:ko": "만수로",
-    "ncat": "국도;지방도",
     "oneway": "yes",
-    "ref": "40;606",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40;606"
   }
 },
 {
@@ -60988,10 +58947,7 @@
     "name": "만수로",
     "name:en": "Mansu-ro",
     "name:ko": "만수로",
-    "ncat": "국도;지방도",
-    "ref": "40;606",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40;606"
   }
 },
 {
@@ -61026,11 +58982,8 @@
     "name": "만수로",
     "name:en": "Mansu-ro",
     "name:ko": "만수로",
-    "ncat": "국도;지방도",
     "oneway": "yes",
     "ref": "40;606",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -61063,11 +59016,8 @@
     "name": "만수로",
     "name:en": "Mansu-ro",
     "name:ko": "만수로",
-    "ncat": "국도;지방도",
     "oneway": "yes",
     "ref": "40;606",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -61088,11 +59038,8 @@
     "name": "만수로",
     "name:en": "Mansu-ro",
     "name:ko": "만수로",
-    "ncat": "국도;지방도",
     "oneway": "yes",
-    "ref": "40;606",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40;606"
   }
 },
 {
@@ -61139,8 +59086,6 @@
     "name:ko": "미산외산로",
     "oneway": "yes",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -61158,11 +59103,8 @@
     "name": "미산외산로",
     "name:en": "Misanoesan-ro",
     "name:ko": "미산외산로",
-    "ncat": "국도;지방도",
     "oneway": "yes",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -61181,11 +59123,8 @@
     "name": "미산외산로",
     "name:en": "Misanoesan-ro",
     "name:ko": "미산외산로",
-    "ncat": "국도;지방도",
     "oneway": "yes",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "concrete"
   }
 },
@@ -61246,8 +59185,6 @@
     "name:ko": "미산외산로",
     "oneway": "yes",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -61268,8 +59205,6 @@
     "name:ko": "미산외산로",
     "oneway": "yes",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "concrete"
   }
 },
@@ -61303,8 +59238,6 @@
     "name:ko": "미산외산로",
     "oneway": "yes",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -61325,8 +59258,6 @@
     "name:ko": "미산외산로",
     "oneway": "yes",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "concrete"
   }
 },
@@ -61346,8 +59277,6 @@
     "name:ko": "미산외산로",
     "oneway": "yes",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -61368,8 +59297,6 @@
     "name:ko": "미산외산로",
     "oneway": "yes",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "concrete",
     "tunnel": "yes",
     "tunnel:name": "외산터널"
@@ -61448,8 +59375,6 @@
     "name:ko": "미산외산로",
     "oneway": "yes",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -61475,8 +59400,6 @@
     "name:ko": "미산외산로",
     "oneway": "yes",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -61500,8 +59423,6 @@
     "name:ko": "미산외산로",
     "oneway": "yes",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -61522,8 +59443,6 @@
     "name:ko": "미산외산로",
     "oneway": "yes",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "concrete"
   }
 },
@@ -61583,8 +59502,6 @@
     "name:ko": "성충로",
     "oneway": "yes",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -61608,8 +59525,6 @@
     "name:ko": "성충로",
     "oneway": "yes",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -61640,8 +59555,6 @@
     "name:ko": "성충로",
     "oneway": "yes",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -61663,11 +59576,8 @@
     "name": "성충로",
     "name:en": "Seongchung-ro",
     "name:ko": "성충로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -61689,11 +59599,8 @@
     "name": "성충로",
     "name:en": "Seongchung-ro",
     "name:ko": "성충로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -61870,11 +59777,8 @@
     "name": "성충로",
     "name:en": "Seongchung-ro",
     "name:ko": "성충로",
-    "ncat": "국도",
     "oneway": "yes",
     "ref": "40",
-    "review": "no",
-    "source": "NTIC",
     "surface": "asphalt"
   }
 },
@@ -62099,11 +60003,8 @@
     "name": "만수로",
     "name:en": "Mansu-ro",
     "name:ko": "만수로",
-    "ncat": "국도;지방도",
     "oneway": "yes",
-    "ref": "40;606",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "40;606"
   }
 },
 {
@@ -62135,11 +60036,8 @@
     "destination:lang:en": "Daecheon Port;Daecheon Port Fisheries Market",
     "highway": "primary",
     "maxspeed": "40",
-    "ncat": "국도",
     "oneway": "yes",
-    "ref": "36",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "36"
   }
 },
 {
@@ -62248,11 +60146,8 @@
     "name": "부흥로",
     "name:en": "Buheung-ro",
     "name:ko": "부흥로",
-    "ncat": "지방도",
     "oneway": "no",
-    "ref": "68",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "68"
   }
 },
 {
@@ -62267,11 +60162,8 @@
     "name": "부흥로",
     "name:en": "Buheung-ro",
     "name:ko": "부흥로",
-    "ncat": "지방도",
     "oneway": "no",
-    "ref": "68",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "68"
   }
 },
 {
@@ -62390,9 +60282,7 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -62410,9 +60300,7 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21"
   }
 },
 {
@@ -62435,10 +60323,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -62456,10 +60341,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ncat": "국도",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -62476,9 +60358,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -62495,9 +60375,7 @@
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
-    "ref": "21;77",
-    "review": "no",
-    "source": "NTIC"
+    "ref": "21;77"
   }
 },
 {
@@ -62530,8 +60408,6 @@
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
-    "review": "no",
-    "source": "NTIC; Bing (adjusted)",
     "wikidata": "Q31179883",
     "wikipedia": "ko:득안대로"
   }
@@ -62562,8 +60438,6 @@
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
-    "review": "no",
-    "source": "NTIC; Bing (adjusted)",
     "wikidata": "Q31179883",
     "wikipedia": "ko:득안대로"
   }
@@ -62583,8 +60457,6 @@
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
-    "review": "no",
-    "source": "NTIC",
     "wikidata": "Q31179883",
     "wikipedia": "ko:득안대로"
   }
@@ -62604,8 +60476,6 @@
     "name:ko": "득안대로",
     "oneway": "yes",
     "ref": "1",
-    "review": "no",
-    "source": "NTIC",
     "wikidata": "Q31179883",
     "wikipedia": "ko:득안대로"
   }
@@ -119798,8 +117668,8 @@
 {
   "type": "node",
   "id": 6884656323,
-  "lat": 36.2090020,
-  "lon": 127.7045704
+  "lat": 36.2090303,
+  "lon": 127.7046367
 },
 {
   "type": "node",
