@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-12-28T18:53:03Z",
-    "timestamp_areas_base": "2025-12-28T15:06:29Z",
+    "timestamp_osm_base": "2025-12-29T18:54:15Z",
+    "timestamp_areas_base": "2025-12-29T11:04:05Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -21555,6 +21555,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
+    "name": "해남교",
     "ref": "39"
   }
 },
@@ -60027,6 +60028,21 @@
   }
 },
 {
+  "type": "way",
+  "id": 1462472691,
+  "nodes": [
+    13403689210,
+    13414827381,
+    938495363,
+    13414827382,
+    12522483321
+  ],
+  "tags": {
+    "highway": "primary",
+    "oneway": "yes"
+  }
+},
+{
   "type": "node",
   "id": 437087479,
   "lat": 36.0102013,
@@ -96688,6 +96704,36 @@
 },
 {
   "type": "node",
+  "id": 938495363,
+  "lat": 36.3322608,
+  "lon": 126.9994265
+},
+{
+  "type": "node",
+  "id": 12522483321,
+  "lat": 36.3323242,
+  "lon": 126.9989324
+},
+{
+  "type": "node",
+  "id": 13403689210,
+  "lat": 36.3322677,
+  "lon": 127.0002011
+},
+{
+  "type": "node",
+  "id": 13414827381,
+  "lat": 36.3322978,
+  "lon": 126.9995956
+},
+{
+  "type": "node",
+  "id": 13414827382,
+  "lat": 36.3323083,
+  "lon": 126.9992652
+},
+{
+  "type": "node",
   "id": 938495391,
   "lat": 36.3296063,
   "lon": 127.0169341
@@ -97607,8 +97653,8 @@
 {
   "type": "node",
   "id": 436662577,
-  "lat": 36.4244519,
-  "lon": 126.9502313
+  "lat": 36.4242958,
+  "lon": 126.9502035
 },
 {
   "type": "node",
