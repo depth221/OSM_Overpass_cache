@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2026-01-04T18:43:45Z",
-    "timestamp_areas_base": "2026-01-04T12:52:15Z",
+    "timestamp_osm_base": "2026-01-05T18:49:12Z",
+    "timestamp_areas_base": "2026-01-05T14:55:05Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -6728,27 +6728,7 @@
     11302794286,
     11302794432,
     7396654557,
-    11302794285,
-    12439979167,
-    7396654556,
-    12439979168,
-    12439979169,
-    12439979170,
-    11302794279,
-    11302794280,
-    12414864142,
-    7396654555,
-    12439979174,
-    11235244476,
-    12439979172,
-    12439979173,
-    11302794282,
-    12439979190,
-    12439979189,
-    12439979188,
-    12439979187,
-    12439979186,
-    11302794277
+    11302794285
   ],
   "tags": {
     "highway": "motorway",
@@ -6780,23 +6760,6 @@
   "type": "way",
   "id": 1219813757,
   "nodes": [
-    7396624181,
-    12439979179,
-    12439979178,
-    12439979177,
-    12439979176,
-    11302794284,
-    12414864140,
-    12439979175,
-    11235244463,
-    11302794283,
-    12414864141,
-    7396624182,
-    12439979171,
-    12440065594,
-    12440065593,
-    12440065592,
-    7396624183,
     11302794288,
     12440065595,
     11302794287,
@@ -31760,6 +31723,307 @@
   }
 },
 {
+  "type": "way",
+  "id": 1464353469,
+  "nodes": [
+    12439979167,
+    7396654556,
+    12439979168,
+    12439979169,
+    12439979170,
+    11302794279,
+    11302794280,
+    12414864142,
+    7396654555,
+    12439979174,
+    11235244476
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "operator": "서부내륙고속도로(주)",
+    "operator:en": "Western Inland Highway CO.,LTD.",
+    "operator:ko": "서부내륙고속도로(주)",
+    "operator:type": "private",
+    "operator:website": "https://www.wihw.co.kr",
+    "owner": "대한민국 정부",
+    "owner:wikidata": "Q626814",
+    "ownership": "national",
+    "ref": "17",
+    "start_date": "2024-12-10",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1464353470,
+  "nodes": [
+    11302794285,
+    12439979167
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "operator": "서부내륙고속도로(주)",
+    "operator:en": "Western Inland Highway CO.,LTD.",
+    "operator:ko": "서부내륙고속도로(주)",
+    "operator:type": "private",
+    "operator:website": "https://www.wihw.co.kr",
+    "owner": "대한민국 정부",
+    "owner:wikidata": "Q626814",
+    "ownership": "national",
+    "ref": "17",
+    "start_date": "2024-12-10",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1464353471,
+  "nodes": [
+    7396624183,
+    11302794288
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "operator": "서부내륙고속도로(주)",
+    "operator:en": "Western Inland Highway CO.,LTD.",
+    "operator:ko": "서부내륙고속도로(주)",
+    "operator:type": "private",
+    "operator:website": "https://www.wihw.co.kr",
+    "owner": "대한민국 정부",
+    "owner:wikidata": "Q626814",
+    "ownership": "national",
+    "ref": "17",
+    "start_date": "2024-12-10",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1464353472,
+  "nodes": [
+    11235244463,
+    11302794283,
+    12414864141,
+    7396624182,
+    12439979171,
+    12440065594,
+    12440065593,
+    12440065592,
+    7396624183
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "operator": "서부내륙고속도로(주)",
+    "operator:en": "Western Inland Highway CO.,LTD.",
+    "operator:ko": "서부내륙고속도로(주)",
+    "operator:type": "private",
+    "operator:website": "https://www.wihw.co.kr",
+    "owner": "대한민국 정부",
+    "owner:wikidata": "Q626814",
+    "ownership": "national",
+    "ref": "17",
+    "start_date": "2024-12-10",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1464353473,
+  "nodes": [
+    12439979175,
+    11235244463
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "operator": "서부내륙고속도로(주)",
+    "operator:en": "Western Inland Highway CO.,LTD.",
+    "operator:ko": "서부내륙고속도로(주)",
+    "operator:type": "private",
+    "operator:website": "https://www.wihw.co.kr",
+    "owner": "대한민국 정부",
+    "owner:wikidata": "Q626814",
+    "ownership": "national",
+    "ref": "17",
+    "start_date": "2024-12-10",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1464353474,
+  "nodes": [
+    7396624181,
+    12439979179,
+    12439979178,
+    12439979177,
+    12439979176,
+    11302794284,
+    12414864140,
+    12439979175
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "operator": "서부내륙고속도로(주)",
+    "operator:en": "Western Inland Highway CO.,LTD.",
+    "operator:ko": "서부내륙고속도로(주)",
+    "operator:type": "private",
+    "operator:website": "https://www.wihw.co.kr",
+    "owner": "대한민국 정부",
+    "owner:wikidata": "Q626814",
+    "ownership": "national",
+    "ref": "17",
+    "start_date": "2024-12-10",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1464353475,
+  "nodes": [
+    12439979172,
+    12439979173,
+    11302794282,
+    12439979190,
+    12439979189,
+    12439979188,
+    12439979187,
+    12439979186,
+    11302794277
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "operator": "서부내륙고속도로(주)",
+    "operator:en": "Western Inland Highway CO.,LTD.",
+    "operator:ko": "서부내륙고속도로(주)",
+    "operator:type": "private",
+    "operator:website": "https://www.wihw.co.kr",
+    "owner": "대한민국 정부",
+    "owner:wikidata": "Q626814",
+    "ownership": "national",
+    "ref": "17",
+    "start_date": "2024-12-10",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1464353476,
+  "nodes": [
+    11235244476,
+    12439979172
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "operator": "서부내륙고속도로(주)",
+    "operator:en": "Western Inland Highway CO.,LTD.",
+    "operator:ko": "서부내륙고속도로(주)",
+    "operator:type": "private",
+    "operator:website": "https://www.wihw.co.kr",
+    "owner": "대한민국 정부",
+    "owner:wikidata": "Q626814",
+    "ownership": "national",
+    "ref": "17",
+    "start_date": "2024-12-10",
+    "toll": "yes"
+  }
+},
+{
   "type": "node",
   "id": 7181096421,
   "lat": 35.8506075,
@@ -50338,8 +50602,8 @@
 {
   "type": "node",
   "id": 7396624183,
-  "lat": 36.8503140,
-  "lon": 126.9069852
+  "lat": 36.8502086,
+  "lon": 126.9069321
 },
 {
   "type": "node",
@@ -50374,7 +50638,7 @@
 {
   "type": "node",
   "id": 11302794285,
-  "lat": 36.8494221,
+  "lat": 36.8494323,
   "lon": 126.9067940
 },
 {
@@ -50422,8 +50686,8 @@
 {
   "type": "node",
   "id": 12439979167,
-  "lat": 36.8499324,
-  "lon": 126.9069793
+  "lat": 36.8501499,
+  "lon": 126.9070579
 },
 {
   "type": "node",
@@ -50482,14 +50746,14 @@
 {
   "type": "node",
   "id": 11235244463,
-  "lat": 36.8549179,
-  "lon": 126.9096193
+  "lat": 36.8548563,
+  "lon": 126.9095796
 },
 {
   "type": "node",
   "id": 11235244476,
-  "lat": 36.8547589,
-  "lon": 126.9096652
+  "lat": 36.8547888,
+  "lon": 126.9097026
 },
 {
   "type": "node",
@@ -50500,20 +50764,14 @@
 {
   "type": "node",
   "id": 12414864140,
-  "lat": 36.8556195,
-  "lon": 126.9102159
+  "lat": 36.8558399,
+  "lon": 126.9104190
 },
 {
   "type": "node",
   "id": 12439979172,
   "lat": 36.8551593,
   "lon": 126.9099954
-},
-{
-  "type": "node",
-  "id": 12439979173,
-  "lat": 36.8556617,
-  "lon": 126.9104325
 },
 {
   "type": "node",
@@ -50562,6 +50820,12 @@
   "id": 11302794284,
   "lat": 36.8560107,
   "lon": 126.9105752
+},
+{
+  "type": "node",
+  "id": 12439979173,
+  "lat": 36.8557495,
+  "lon": 126.9105282
 },
 {
   "type": "node",
