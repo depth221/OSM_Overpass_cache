@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.8 e802775f",
+  "generator": "Overpass API 0.7.62.9 e847dec3",
   "osm3s": {
-    "timestamp_osm_base": "2026-01-21T19:06:00Z",
-    "timestamp_areas_base": "2026-01-21T14:03:45Z",
+    "timestamp_osm_base": "2026-01-22T19:01:00Z",
+    "timestamp_areas_base": "2026-01-22T10:07:12Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -18570,7 +18570,6 @@
   "type": "way",
   "id": 535211181,
   "nodes": [
-    245477530,
     10984419159,
     436583988,
     436583992,
@@ -45811,7 +45810,7 @@
   "id": 1181741636,
   "nodes": [
     10973595630,
-    245477530
+    13476184148
   ],
   "tags": {
     "highway": "primary",
@@ -45836,6 +45835,36 @@
     "layer": "1",
     "name:en": "Mannyeongyo Bridge",
     "ref": "39;604"
+  }
+},
+{
+  "type": "way",
+  "id": 1182934017,
+  "nodes": [
+    13476184147,
+    13476184128,
+    13476184139,
+    13476184138,
+    13476184120,
+    13476184123,
+    13476184144,
+    13476184137,
+    13476184149,
+    13476184143,
+    13476184146,
+    13476184145,
+    13476184142,
+    10984419160,
+    13476184141,
+    10984419158,
+    13476184148,
+    10984419161,
+    13476184140,
+    13476184147
+  ],
+  "tags": {
+    "highway": "primary",
+    "junction": "roundabout"
   }
 },
 {
@@ -60276,49 +60305,14 @@
 },
 {
   "type": "way",
-  "id": 1463569703,
+  "id": 1463569705,
   "nodes": [
-    12165891042,
+    13476889890,
     13424830703
   ],
   "tags": {
     "highway": "primary",
-    "name": "월드컵대로",
-    "name:en": "Worldcup-daero",
-    "name:ko": "월드컵대로",
-    "note": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0008918405",
-    "oneway": "yes",
-    "website": "http://blogfiles.naver.net/MjAxODA0MDFfMjU3/MDAxNTIyNTI1NjMzNzcw.j6HY4t03YVib1jzylFDBPJrZn9a0SH-4NIJ-en0Db-og.lmpVMHbm1hfIP-MgQueJgq39Rj8eN1mZ0tv9ewnnJMIg.PNG.logiscgman89/image.png"
-  }
-},
-{
-  "type": "way",
-  "id": 1463569704,
-  "nodes": [
-    13424830704,
-    12165891042
-  ],
-  "tags": {
-    "bridge": "yes",
-    "highway": "primary",
     "layer": "1",
-    "name": "월드컵대로",
-    "name:en": "Worldcup-daero",
-    "name:ko": "월드컵대로",
-    "note": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0008918405",
-    "oneway": "yes",
-    "website": "http://blogfiles.naver.net/MjAxODA0MDFfMjU3/MDAxNTIyNTI1NjMzNzcw.j6HY4t03YVib1jzylFDBPJrZn9a0SH-4NIJ-en0Db-og.lmpVMHbm1hfIP-MgQueJgq39Rj8eN1mZ0tv9ewnnJMIg.PNG.logiscgman89/image.png"
-  }
-},
-{
-  "type": "way",
-  "id": 1463569705,
-  "nodes": [
-    5314381733,
-    13424830704
-  ],
-  "tags": {
-    "highway": "primary",
     "name": "월드컵대로",
     "name:en": "Worldcup-daero",
     "name:ko": "월드컵대로",
@@ -60332,63 +60326,10 @@
   "id": 1463569706,
   "nodes": [
     13424830705,
-    13424830708
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "월드컵대로",
-    "name:en": "Worldcup-daero",
-    "name:ko": "월드컵대로",
-    "note": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0008918405",
-    "oneway": "yes",
-    "website": "http://blogfiles.naver.net/MjAxODA0MDFfMjU3/MDAxNTIyNTI1NjMzNzcw.j6HY4t03YVib1jzylFDBPJrZn9a0SH-4NIJ-en0Db-og.lmpVMHbm1hfIP-MgQueJgq39Rj8eN1mZ0tv9ewnnJMIg.PNG.logiscgman89/image.png"
-  }
-},
-{
-  "type": "way",
-  "id": 1463569707,
-  "nodes": [
-    13424830706,
-    13424830705
-  ],
-  "tags": {
-    "bridge": "yes",
-    "highway": "primary",
-    "layer": "1",
-    "name": "월드컵대로",
-    "name:en": "Worldcup-daero",
-    "name:ko": "월드컵대로",
-    "note": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0008918405",
-    "oneway": "yes",
-    "website": "http://blogfiles.naver.net/MjAxODA0MDFfMjU3/MDAxNTIyNTI1NjMzNzcw.j6HY4t03YVib1jzylFDBPJrZn9a0SH-4NIJ-en0Db-og.lmpVMHbm1hfIP-MgQueJgq39Rj8eN1mZ0tv9ewnnJMIg.PNG.logiscgman89/image.png"
-  }
-},
-{
-  "type": "way",
-  "id": 1463569708,
-  "nodes": [
-    13424830707,
+    13476889893,
     390265368
   ],
   "tags": {
-    "highway": "primary",
-    "name": "월드컵대로",
-    "name:en": "Worldcup-daero",
-    "name:ko": "월드컵대로",
-    "note": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0008918405",
-    "oneway": "yes",
-    "website": "http://blogfiles.naver.net/MjAxODA0MDFfMjU3/MDAxNTIyNTI1NjMzNzcw.j6HY4t03YVib1jzylFDBPJrZn9a0SH-4NIJ-en0Db-og.lmpVMHbm1hfIP-MgQueJgq39Rj8eN1mZ0tv9ewnnJMIg.PNG.logiscgman89/image.png"
-  }
-},
-{
-  "type": "way",
-  "id": 1463569709,
-  "nodes": [
-    13424830708,
-    13424830707
-  ],
-  "tags": {
-    "bridge": "yes",
     "highway": "primary",
     "layer": "1",
     "name": "월드컵대로",
@@ -60404,8 +60345,7 @@
   "id": 1463569710,
   "nodes": [
     5571225822,
-    13424830702,
-    13424830706
+    13424830705
   ],
   "tags": {
     "bridge": "yes",
@@ -60643,6 +60583,43 @@
     "oneway": "yes",
     "review": "no",
     "source": "Mapbox Satellite (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1469443387,
+  "nodes": [
+    13476184123,
+    13476184119,
+    13476184121,
+    10984419159
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "중앙1길",
+    "name:en": "Jungang 1-gil",
+    "name:ko": "중앙1길",
+    "oneway": "yes",
+    "ref": "39;604"
+  }
+},
+{
+  "type": "way",
+  "id": 1469443388,
+  "nodes": [
+    10984419159,
+    13476184122,
+    13476184118,
+    13476184117,
+    13476184149
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "중앙1길",
+    "name:en": "Jungang 1-gil",
+    "name:ko": "중앙1길",
+    "oneway": "yes",
+    "ref": "39;604"
   }
 },
 {
@@ -111762,8 +111739,8 @@
 {
   "type": "node",
   "id": 5571225834,
-  "lat": 36.3543139,
-  "lon": 127.3219114
+  "lat": 36.3543031,
+  "lon": 127.3219543
 },
 {
   "type": "node",
@@ -111816,20 +111793,14 @@
 {
   "type": "node",
   "id": 390265368,
-  "lat": 36.3594209,
-  "lon": 127.3263365
-},
-{
-  "type": "node",
-  "id": 5314381733,
-  "lat": 36.3594204,
-  "lon": 127.3260810
+  "lat": 36.3594272,
+  "lon": 127.3262587
 },
 {
   "type": "node",
   "id": 5571223310,
-  "lat": 36.3583626,
-  "lon": 127.3252656
+  "lat": 36.3583799,
+  "lon": 127.3251959
 },
 {
   "type": "node",
@@ -111846,8 +111817,8 @@
 {
   "type": "node",
   "id": 5571225822,
-  "lat": 36.3585673,
-  "lon": 127.3256376
+  "lat": 36.3586155,
+  "lon": 127.3256796
 },
 {
   "type": "node",
@@ -111863,63 +111834,39 @@
 },
 {
   "type": "node",
-  "id": 12165891042,
-  "lat": 36.3593248,
-  "lon": 127.3260101
-},
-{
-  "type": "node",
   "id": 13424800100,
   "lat": 36.3586400,
-  "lon": 127.3254938
+  "lon": 127.3254026
 },
 {
   "type": "node",
   "id": 13424830701,
-  "lat": 36.3589223,
-  "lon": 127.3256987
-},
-{
-  "type": "node",
-  "id": 13424830702,
-  "lat": 36.3588582,
-  "lon": 127.3258746
+  "lat": 36.3589266,
+  "lon": 127.3256169
 },
 {
   "type": "node",
   "id": 13424830703,
-  "lat": 36.3591848,
-  "lon": 127.3259018
-},
-{
-  "type": "node",
-  "id": 13424830704,
-  "lat": 36.3593839,
-  "lon": 127.3260539
+  "lat": 36.3591973,
+  "lon": 127.3257997
 },
 {
   "type": "node",
   "id": 13424830705,
-  "lat": 36.3591582,
-  "lon": 127.3261208
+  "lat": 36.3591441,
+  "lon": 127.3260981
 },
 {
   "type": "node",
-  "id": 13424830706,
-  "lat": 36.3588623,
-  "lon": 127.3258780
+  "id": 13476889890,
+  "lat": 36.3593533,
+  "lon": 127.3259025
 },
 {
   "type": "node",
-  "id": 13424830707,
-  "lat": 36.3593876,
-  "lon": 127.3263091
-},
-{
-  "type": "node",
-  "id": 13424830708,
-  "lat": 36.3593301,
-  "lon": 127.3262619
+  "id": 13476889893,
+  "lat": 36.3593317,
+  "lon": 127.3262117
 },
 {
   "type": "node",
@@ -160559,12 +160506,6 @@
 },
 {
   "type": "node",
-  "id": 245477530,
-  "lat": 36.5450012,
-  "lon": 126.9492769
-},
-{
-  "type": "node",
   "id": 436583977,
   "lat": 36.5403860,
   "lon": 126.9466688
@@ -160632,20 +160573,38 @@
 {
   "type": "node",
   "id": 10973595630,
-  "lat": 36.5448931,
-  "lon": 126.9491884
+  "lat": 36.5448522,
+  "lon": 126.9492125
 },
 {
   "type": "node",
   "id": 10973595631,
-  "lat": 36.5446361,
-  "lon": 126.9490956
+  "lat": 36.5446447,
+  "lon": 126.9491010
+},
+{
+  "type": "node",
+  "id": 10984419158,
+  "lat": 36.5450413,
+  "lon": 126.9492464
 },
 {
   "type": "node",
   "id": 10984419159,
-  "lat": 36.5453890,
-  "lon": 126.9494669
+  "lat": 36.5456045,
+  "lon": 126.9496332
+},
+{
+  "type": "node",
+  "id": 10984419160,
+  "lat": 36.5451075,
+  "lon": 126.9491936
+},
+{
+  "type": "node",
+  "id": 10984419161,
+  "lat": 36.5450242,
+  "lon": 126.9493421
 },
 {
   "type": "node",
@@ -160664,6 +160623,132 @@
   "id": 12032202066,
   "lat": 36.5416955,
   "lon": 126.9475648
+},
+{
+  "type": "node",
+  "id": 13476184117,
+  "lat": 36.5452840,
+  "lon": 126.9493952
+},
+{
+  "type": "node",
+  "id": 13476184118,
+  "lat": 36.5453269,
+  "lon": 126.9494365
+},
+{
+  "type": "node",
+  "id": 13476184119,
+  "lat": 36.5454165,
+  "lon": 126.9495521
+},
+{
+  "type": "node",
+  "id": 13476184120,
+  "lat": 36.5451827,
+  "lon": 126.9494277
+},
+{
+  "type": "node",
+  "id": 13476184121,
+  "lat": 36.5455566,
+  "lon": 126.9496299
+},
+{
+  "type": "node",
+  "id": 13476184122,
+  "lat": 36.5455690,
+  "lon": 126.9495931
+},
+{
+  "type": "node",
+  "id": 13476184123,
+  "lat": 36.5451883,
+  "lon": 126.9494227
+},
+{
+  "type": "node",
+  "id": 13476184128,
+  "lat": 36.5451037,
+  "lon": 126.9494457
+},
+{
+  "type": "node",
+  "id": 13476184137,
+  "lat": 36.5452240,
+  "lon": 126.9493611
+},
+{
+  "type": "node",
+  "id": 13476184138,
+  "lat": 36.5451768,
+  "lon": 126.9494321
+},
+{
+  "type": "node",
+  "id": 13476184139,
+  "lat": 36.5451412,
+  "lon": 126.9494473
+},
+{
+  "type": "node",
+  "id": 13476184140,
+  "lat": 36.5450388,
+  "lon": 126.9493890
+},
+{
+  "type": "node",
+  "id": 13476184141,
+  "lat": 36.5450702,
+  "lon": 126.9492119
+},
+{
+  "type": "node",
+  "id": 13476184142,
+  "lat": 36.5451476,
+  "lon": 126.9491943
+},
+{
+  "type": "node",
+  "id": 13476184143,
+  "lat": 36.5452245,
+  "lon": 126.9492812
+},
+{
+  "type": "node",
+  "id": 13476184144,
+  "lat": 36.5452099,
+  "lon": 126.9493952
+},
+{
+  "type": "node",
+  "id": 13476184145,
+  "lat": 36.5451844,
+  "lon": 126.9492140
+},
+{
+  "type": "node",
+  "id": 13476184146,
+  "lat": 36.5452090,
+  "lon": 126.9492434
+},
+{
+  "type": "node",
+  "id": 13476184147,
+  "lat": 36.5450667,
+  "lon": 126.9494254
+},
+{
+  "type": "node",
+  "id": 13476184148,
+  "lat": 36.5450252,
+  "lon": 126.9492921
+},
+{
+  "type": "node",
+  "id": 13476184149,
+  "lat": 36.5452293,
+  "lon": 126.9493233
 },
 {
   "type": "node",
