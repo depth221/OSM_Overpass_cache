@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.10 2d4cfc48",
   "osm3s": {
-    "timestamp_osm_base": "2026-01-24T18:55:00Z",
-    "timestamp_areas_base": "2026-01-23T01:22:35Z",
+    "timestamp_osm_base": "2026-01-26T19:00:43Z",
+    "timestamp_areas_base": "2026-01-22T23:45:51Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3945,7 +3945,8 @@
     "name:en": "Daejeon-ro",
     "name:ko": "대전로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "surface": "asphalt"
   }
 },
 {
@@ -38586,7 +38587,8 @@
     "name:en": "Daejeon-ro",
     "name:ko": "대전로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "surface": "asphalt"
   }
 },
 {
@@ -39644,7 +39646,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "oneway": "yes"
+    "oneway": "yes",
+    "surface": "asphalt"
   }
 },
 {
@@ -39659,7 +39662,8 @@
     "highway": "primary",
     "layer": "1",
     "oneway": "yes",
-    "sidewalk": "right"
+    "sidewalk": "right",
+    "surface": "asphalt"
   }
 },
 {
@@ -39819,7 +39823,8 @@
     "name:en": "Yuseong-daero",
     "name:ko": "유성대로",
     "oneway": "yes",
-    "ref": "32"
+    "ref": "32",
+    "surface": "asphalt"
   }
 },
 {
@@ -39834,7 +39839,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "oneway": "yes"
+    "oneway": "yes",
+    "surface": "asphalt"
   }
 },
 {
