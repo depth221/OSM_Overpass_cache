@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.10 2d4cfc48",
   "osm3s": {
-    "timestamp_osm_base": "2026-02-16T19:02:36Z",
+    "timestamp_osm_base": "2026-02-17T19:15:00Z",
     "timestamp_areas_base": "2026-01-22T23:45:51Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -13551,8 +13551,6 @@
   "type": "way",
   "id": 1341976940,
   "nodes": [
-    12414128199,
-    12468149423,
     12409153434,
     12468149424,
     12409153435,
@@ -13595,10 +13593,7 @@
     12468149428,
     12468149429,
     12409153448,
-    12468149430,
-    12468149431,
-    12409153447,
-    12414128200
+    12468149430
   ],
   "tags": {
     "highway": "motorway",
@@ -32039,6 +32034,143 @@
   }
 },
 {
+  "type": "way",
+  "id": 1479653897,
+  "nodes": [
+    12468149423,
+    12409153434
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "operator": "서부내륙고속도로(주)",
+    "operator:en": "Western Inland Highway CO.,LTD.",
+    "operator:ko": "서부내륙고속도로(주)",
+    "operator:type": "private",
+    "operator:website": "https://www.wihw.co.kr",
+    "owner": "대한민국 정부",
+    "owner:wikidata": "Q626814",
+    "ownership": "national",
+    "ref": "17",
+    "start_date": "2024-12-10",
+    "toll": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1479653898,
+  "nodes": [
+    12468149430,
+    12468149431
+  ],
+  "tags": {
+    "highway": "motorway",
+    "layer": "-1",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "operator": "서부내륙고속도로(주)",
+    "operator:en": "Western Inland Highway CO.,LTD.",
+    "operator:ko": "서부내륙고속도로(주)",
+    "operator:type": "private",
+    "operator:website": "https://www.wihw.co.kr",
+    "owner": "대한민국 정부",
+    "owner:wikidata": "Q626814",
+    "ownership": "national",
+    "ref": "17",
+    "start_date": "2024-12-10",
+    "toll": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1479653899,
+  "nodes": [
+    12468149431,
+    12409153447,
+    12414128200
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "operator": "서부내륙고속도로(주)",
+    "operator:en": "Western Inland Highway CO.,LTD.",
+    "operator:ko": "서부내륙고속도로(주)",
+    "operator:type": "private",
+    "operator:website": "https://www.wihw.co.kr",
+    "owner": "대한민국 정부",
+    "owner:wikidata": "Q626814",
+    "ownership": "national",
+    "ref": "17",
+    "start_date": "2024-12-10",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1479653900,
+  "nodes": [
+    12414128199,
+    12468149423
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "110",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "operator": "서부내륙고속도로(주)",
+    "operator:en": "Western Inland Highway CO.,LTD.",
+    "operator:ko": "서부내륙고속도로(주)",
+    "operator:type": "private",
+    "operator:website": "https://www.wihw.co.kr",
+    "owner": "대한민국 정부",
+    "owner:wikidata": "Q626814",
+    "ownership": "national",
+    "ref": "17",
+    "start_date": "2024-12-10",
+    "toll": "yes"
+  }
+},
+{
   "type": "node",
   "id": 7181096421,
   "lat": 35.8506075,
@@ -36109,44 +36241,44 @@
 {
   "type": "node",
   "id": 13049563419,
-  "lat": 35.7756929,
-  "lon": 127.1583389
+  "lat": 35.7757669,
+  "lon": 127.1583443
 },
 {
   "type": "node",
   "id": 13049563420,
-  "lat": 35.7761707,
-  "lon": 127.1587443
+  "lat": 35.7762991,
+  "lon": 127.1588328
 },
 {
   "type": "node",
   "id": 13325637320,
-  "lat": 35.7759310,
-  "lon": 127.1589753
+  "lat": 35.7760137,
+  "lon": 127.1591791
 },
 {
   "type": "node",
   "id": 13325637321,
-  "lat": 35.7757970,
-  "lon": 127.1585985
+  "lat": 35.7758753,
+  "lon": 127.1586361
 },
 {
   "type": "node",
   "id": 13325637323,
-  "lat": 35.7763298,
-  "lon": 127.1592560
+  "lat": 35.7764821,
+  "lon": 127.1594840
 },
 {
   "type": "node",
   "id": 11348770702,
-  "lat": 35.7767844,
-  "lon": 127.1621490
+  "lat": 35.7768149,
+  "lon": 127.1621275
 },
 {
   "type": "node",
   "id": 13049563421,
-  "lat": 35.7768722,
-  "lon": 127.1613801
+  "lat": 35.7769679,
+  "lon": 127.1613586
 },
 {
   "type": "node",
@@ -36157,14 +36289,14 @@
 {
   "type": "node",
   "id": 13325637322,
-  "lat": 35.7764398,
-  "lon": 127.1596693
+  "lat": 35.7767096,
+  "lon": 127.1603667
 },
 {
   "type": "node",
   "id": 13342437642,
-  "lat": 35.7764187,
-  "lon": 127.1607489
+  "lat": 35.7764666,
+  "lon": 127.1606899
 },
 {
   "type": "node",
@@ -36193,8 +36325,8 @@
 {
   "type": "node",
   "id": 13342437645,
-  "lat": 35.7865250,
-  "lon": 127.1840549
+  "lat": 35.7864815,
+  "lon": 127.1840978
 },
 {
   "type": "node",
@@ -44563,8 +44695,8 @@
 {
   "type": "node",
   "id": 12409153434,
-  "lat": 36.6142847,
-  "lon": 126.7782825
+  "lat": 36.6140823,
+  "lon": 126.7782342
 },
 {
   "type": "node",
@@ -44605,8 +44737,8 @@
 {
   "type": "node",
   "id": 12468149423,
-  "lat": 36.6149553,
-  "lon": 126.7784258
+  "lat": 36.6146496,
+  "lon": 126.7783561
 },
 {
   "type": "node",
