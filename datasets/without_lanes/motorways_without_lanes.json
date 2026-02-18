@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.10 2d4cfc48",
   "osm3s": {
-    "timestamp_osm_base": "2026-02-17T19:15:00Z",
+    "timestamp_osm_base": "2026-02-18T19:14:24Z",
     "timestamp_areas_base": "2026-01-22T23:45:51Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -7797,6 +7797,11 @@
     13340140371,
     13340140372,
     13340140373,
+    13577310709,
+    13577310711,
+    13577310708,
+    13577310712,
+    13577310710,
     7181096486,
     9083365246,
     13265899380,
@@ -13551,6 +13556,8 @@
   "type": "way",
   "id": 1341976940,
   "nodes": [
+    12414128199,
+    12468149423,
     12409153434,
     12468149424,
     12409153435,
@@ -13593,7 +13600,10 @@
     12468149428,
     12468149429,
     12409153448,
-    12468149430
+    12468149430,
+    12468149431,
+    12409153447,
+    12414128200
   ],
   "tags": {
     "highway": "motorway",
@@ -30280,6 +30290,7 @@
   "id": 1453013150,
   "nodes": [
     9083365241,
+    13577302293,
     7181096483
   ],
   "tags": {
@@ -32031,143 +32042,6 @@
     "highway": "motorway",
     "lane_markings": "no",
     "oneway": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 1479653897,
-  "nodes": [
-    12468149423,
-    12409153434
-  ],
-  "tags": {
-    "highway": "motorway",
-    "layer": "-1",
-    "maxspeed": "110",
-    "maxspeed:hgv": "80",
-    "minspeed": "50",
-    "name": "익산평택고속도로",
-    "name:en": "Iksan-Pyeongtaek Expressway",
-    "name:ko": "익산평택고속도로",
-    "name:ko-Hani": "益山平澤高速道路",
-    "name:zh": "益山平澤高速公路",
-    "name:zh-Hans": "益山平泽高速公路",
-    "name:zh-Hant": "益山平澤高速公路",
-    "oneway": "yes",
-    "operator": "서부내륙고속도로(주)",
-    "operator:en": "Western Inland Highway CO.,LTD.",
-    "operator:ko": "서부내륙고속도로(주)",
-    "operator:type": "private",
-    "operator:website": "https://www.wihw.co.kr",
-    "owner": "대한민국 정부",
-    "owner:wikidata": "Q626814",
-    "ownership": "national",
-    "ref": "17",
-    "start_date": "2024-12-10",
-    "toll": "yes",
-    "tunnel": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 1479653898,
-  "nodes": [
-    12468149430,
-    12468149431
-  ],
-  "tags": {
-    "highway": "motorway",
-    "layer": "-1",
-    "maxspeed": "110",
-    "maxspeed:hgv": "80",
-    "minspeed": "50",
-    "name": "익산평택고속도로",
-    "name:en": "Iksan-Pyeongtaek Expressway",
-    "name:ko": "익산평택고속도로",
-    "name:ko-Hani": "益山平澤高速道路",
-    "name:zh": "益山平澤高速公路",
-    "name:zh-Hans": "益山平泽高速公路",
-    "name:zh-Hant": "益山平澤高速公路",
-    "oneway": "yes",
-    "operator": "서부내륙고속도로(주)",
-    "operator:en": "Western Inland Highway CO.,LTD.",
-    "operator:ko": "서부내륙고속도로(주)",
-    "operator:type": "private",
-    "operator:website": "https://www.wihw.co.kr",
-    "owner": "대한민국 정부",
-    "owner:wikidata": "Q626814",
-    "ownership": "national",
-    "ref": "17",
-    "start_date": "2024-12-10",
-    "toll": "yes",
-    "tunnel": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 1479653899,
-  "nodes": [
-    12468149431,
-    12409153447,
-    12414128200
-  ],
-  "tags": {
-    "highway": "motorway",
-    "maxspeed": "110",
-    "maxspeed:hgv": "80",
-    "minspeed": "50",
-    "name": "익산평택고속도로",
-    "name:en": "Iksan-Pyeongtaek Expressway",
-    "name:ko": "익산평택고속도로",
-    "name:ko-Hani": "益山平澤高速道路",
-    "name:zh": "益山平澤高速公路",
-    "name:zh-Hans": "益山平泽高速公路",
-    "name:zh-Hant": "益山平澤高速公路",
-    "oneway": "yes",
-    "operator": "서부내륙고속도로(주)",
-    "operator:en": "Western Inland Highway CO.,LTD.",
-    "operator:ko": "서부내륙고속도로(주)",
-    "operator:type": "private",
-    "operator:website": "https://www.wihw.co.kr",
-    "owner": "대한민국 정부",
-    "owner:wikidata": "Q626814",
-    "ownership": "national",
-    "ref": "17",
-    "start_date": "2024-12-10",
-    "toll": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 1479653900,
-  "nodes": [
-    12414128199,
-    12468149423
-  ],
-  "tags": {
-    "highway": "motorway",
-    "maxspeed": "110",
-    "maxspeed:hgv": "80",
-    "minspeed": "50",
-    "name": "익산평택고속도로",
-    "name:en": "Iksan-Pyeongtaek Expressway",
-    "name:ko": "익산평택고속도로",
-    "name:ko-Hani": "益山平澤高速道路",
-    "name:zh": "益山平澤高速公路",
-    "name:zh-Hans": "益山平泽高速公路",
-    "name:zh-Hant": "益山平澤高速公路",
-    "oneway": "yes",
-    "operator": "서부내륙고속도로(주)",
-    "operator:en": "Western Inland Highway CO.,LTD.",
-    "operator:ko": "서부내륙고속도로(주)",
-    "operator:type": "private",
-    "operator:website": "https://www.wihw.co.kr",
-    "owner": "대한민국 정부",
-    "owner:wikidata": "Q626814",
-    "ownership": "national",
-    "ref": "17",
-    "start_date": "2024-12-10",
-    "toll": "yes"
   }
 },
 {
@@ -36241,8 +36115,8 @@
 {
   "type": "node",
   "id": 13049563419,
-  "lat": 35.7757669,
-  "lon": 127.1583443
+  "lat": 35.7757950,
+  "lon": 127.1583044
 },
 {
   "type": "node",
@@ -36253,14 +36127,14 @@
 {
   "type": "node",
   "id": 13325637320,
-  "lat": 35.7760137,
-  "lon": 127.1591791
+  "lat": 35.7760953,
+  "lon": 127.1592379
 },
 {
   "type": "node",
   "id": 13325637321,
-  "lat": 35.7758753,
-  "lon": 127.1586361
+  "lat": 35.7759342,
+  "lon": 127.1587068
 },
 {
   "type": "node",
@@ -36283,8 +36157,8 @@
 {
   "type": "node",
   "id": 13051451901,
-  "lat": 35.7761091,
-  "lon": 127.1595602
+  "lat": 35.7763129,
+  "lon": 127.1601015
 },
 {
   "type": "node",
@@ -36295,8 +36169,8 @@
 {
   "type": "node",
   "id": 13342437642,
-  "lat": 35.7764666,
-  "lon": 127.1606899
+  "lat": 35.7765131,
+  "lon": 127.1608901
 },
 {
   "type": "node",
@@ -36337,20 +36211,20 @@
 {
   "type": "node",
   "id": 7181096483,
-  "lat": 35.7922786,
-  "lon": 127.1886670
+  "lat": 35.7922960,
+  "lon": 127.1886241
 },
 {
   "type": "node",
   "id": 9083365240,
-  "lat": 35.7918762,
-  "lon": 127.1878077
+  "lat": 35.7918893,
+  "lon": 127.1877862
 },
 {
   "type": "node",
   "id": 9083365241,
-  "lat": 35.7915555,
-  "lon": 127.1880536
+  "lat": 35.7915816,
+  "lon": 127.1879570
 },
 {
   "type": "node",
@@ -36360,9 +36234,15 @@
 },
 {
   "type": "node",
+  "id": 13577302293,
+  "lat": 35.7919835,
+  "lon": 127.1883184
+},
+{
+  "type": "node",
   "id": 7181086043,
-  "lat": 35.7927815,
-  "lon": 127.1886084
+  "lat": 35.7927859,
+  "lon": 127.1885869
 },
 {
   "type": "node",
@@ -36373,32 +36253,32 @@
 {
   "type": "node",
   "id": 9083365244,
-  "lat": 35.7947400,
-  "lon": 127.1910743
+  "lat": 35.7947574,
+  "lon": 127.1910421
 },
 {
   "type": "node",
   "id": 13051451903,
-  "lat": 35.7933281,
-  "lon": 127.1891465
+  "lat": 35.7933368,
+  "lon": 127.1891197
 },
 {
   "type": "node",
   "id": 13325535136,
-  "lat": 35.7940626,
-  "lon": 127.1898713
+  "lat": 35.7940713,
+  "lon": 127.1898445
 },
 {
   "type": "node",
   "id": 13325535139,
-  "lat": 35.7931279,
-  "lon": 127.1894149
+  "lat": 35.7931410,
+  "lon": 127.1893881
 },
 {
   "type": "node",
   "id": 13340140375,
-  "lat": 35.7942455,
-  "lon": 127.1900370
+  "lat": 35.7944370,
+  "lon": 127.1902087
 },
 {
   "type": "node",
@@ -36416,13 +36296,13 @@
   "type": "node",
   "id": 13343659051,
   "lat": 35.7941701,
-  "lon": 127.1904727
+  "lon": 127.1904405
 },
 {
   "type": "node",
   "id": 13343659052,
-  "lat": 35.7936294,
-  "lon": 127.1899250
+  "lat": 35.7937556,
+  "lon": 127.1899894
 },
 {
   "type": "node",
@@ -36487,8 +36367,8 @@
 {
   "type": "node",
   "id": 13063868675,
-  "lat": 35.8010197,
-  "lon": 127.1997729
+  "lat": 35.8011241,
+  "lon": 127.1999499
 },
 {
   "type": "node",
@@ -36499,44 +36379,74 @@
 {
   "type": "node",
   "id": 13340140371,
-  "lat": 35.8018810,
-  "lon": 127.2015061
+  "lat": 35.8020637,
+  "lon": 127.2017582
 },
 {
   "type": "node",
   "id": 13340140372,
-  "lat": 35.8027160,
-  "lon": 127.2036509
+  "lat": 35.8028857,
+  "lon": 127.2035114
 },
 {
   "type": "node",
   "id": 13340140373,
-  "lat": 35.8036191,
-  "lon": 127.2072055
+  "lat": 35.8042543,
+  "lon": 127.2069426
+},
+{
+  "type": "node",
+  "id": 13577310709,
+  "lat": 35.8049016,
+  "lon": 127.2089177
+},
+{
+  "type": "node",
+  "id": 13577310711,
+  "lat": 35.8054802,
+  "lon": 127.2109079
+},
+{
+  "type": "node",
+  "id": 13577310708,
+  "lat": 35.8059892,
+  "lon": 127.2129732
+},
+{
+  "type": "node",
+  "id": 13577310712,
+  "lat": 35.8064243,
+  "lon": 127.2150814
 },
 {
   "type": "node",
   "id": 7181096486,
-  "lat": 35.8067723,
-  "lon": 127.2238827
+  "lat": 35.8075945,
+  "lon": 127.2236574
+},
+{
+  "type": "node",
+  "id": 13577310710,
+  "lat": 35.8070377,
+  "lon": 127.2193676
 },
 {
   "type": "node",
   "id": 9083365246,
-  "lat": 35.8084461,
-  "lon": 127.2329340
+  "lat": 35.8084255,
+  "lon": 127.2304559
 },
 {
   "type": "node",
   "id": 11746003967,
-  "lat": 35.8093181,
-  "lon": 127.2375873
+  "lat": 35.8093050,
+  "lon": 127.2376249
 },
 {
   "type": "node",
   "id": 13265899380,
-  "lat": 35.8089793,
-  "lon": 127.2357916
+  "lat": 35.8089650,
+  "lon": 127.2348225
 },
 {
   "type": "node",
@@ -44695,8 +44605,8 @@
 {
   "type": "node",
   "id": 12409153434,
-  "lat": 36.6140823,
-  "lon": 126.7782342
+  "lat": 36.6142847,
+  "lon": 126.7782825
 },
 {
   "type": "node",
@@ -44737,8 +44647,8 @@
 {
   "type": "node",
   "id": 12468149423,
-  "lat": 36.6146496,
-  "lon": 126.7783561
+  "lat": 36.6149553,
+  "lon": 126.7784258
 },
 {
   "type": "node",
