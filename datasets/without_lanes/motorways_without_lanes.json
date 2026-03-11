@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.10 2d4cfc48",
+  "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-03-10T19:07:30Z",
-    "timestamp_areas_base": "2026-01-22T23:45:51Z",
+    "timestamp_osm_base": "2026-03-11T19:10:15Z",
+    "timestamp_areas_base": "2026-03-10T15:41:07Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -32043,6 +32043,137 @@
     "lane_markings": "no",
     "oneway": "yes"
   }
+},
+{
+  "type": "way",
+  "id": 1487417151,
+  "nodes": [
+    13635537600,
+    13635537595,
+    13635537596,
+    13635537597,
+    13635537598
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "minspeed": "50",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1487417154,
+  "nodes": [
+    436356957,
+    13635537589,
+    13635537590,
+    13635537591,
+    13635537592,
+    13635537599
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "80",
+    "minspeed": "50",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1487417155,
+  "nodes": [
+    13635537599,
+    13635537593,
+    13635537594,
+    13635537600
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "80",
+    "minspeed": "50",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 436356957,
+  "lat": 35.5535598,
+  "lon": 126.8234283
+},
+{
+  "type": "node",
+  "id": 13635537589,
+  "lat": 35.5546525,
+  "lon": 126.8237248
+},
+{
+  "type": "node",
+  "id": 13635537590,
+  "lat": 35.5557063,
+  "lon": 126.8240221
+},
+{
+  "type": "node",
+  "id": 13635537591,
+  "lat": 35.5561670,
+  "lon": 126.8241212
+},
+{
+  "type": "node",
+  "id": 13635537592,
+  "lat": 35.5569617,
+  "lon": 126.8242415
+},
+{
+  "type": "node",
+  "id": 13635537593,
+  "lat": 35.5579694,
+  "lon": 126.8243548
+},
+{
+  "type": "node",
+  "id": 13635537594,
+  "lat": 35.5587871,
+  "lon": 126.8244114
+},
+{
+  "type": "node",
+  "id": 13635537595,
+  "lat": 35.5595012,
+  "lon": 126.8244114
+},
+{
+  "type": "node",
+  "id": 13635537596,
+  "lat": 35.5603476,
+  "lon": 126.8244114
+},
+{
+  "type": "node",
+  "id": 13635537597,
+  "lat": 35.5608886,
+  "lon": 126.8244342
+},
+{
+  "type": "node",
+  "id": 13635537598,
+  "lat": 35.5615676,
+  "lon": 126.8245054
+},
+{
+  "type": "node",
+  "id": 13635537599,
+  "lat": 35.5572376,
+  "lon": 126.8242725
+},
+{
+  "type": "node",
+  "id": 13635537600,
+  "lat": 35.5592588,
+  "lon": 126.8244114
 },
 {
   "type": "node",
