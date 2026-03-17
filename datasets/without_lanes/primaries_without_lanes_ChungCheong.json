@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-03-16T19:37:00Z",
-    "timestamp_areas_base": "2026-03-16T10:16:26Z",
+    "timestamp_osm_base": "2026-03-17T19:37:44Z",
+    "timestamp_areas_base": "2026-03-17T11:20:35Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -16367,7 +16367,8 @@
     "name:en": "Yuseong-daero",
     "name:ko": "유성대로",
     "oneway": "yes",
-    "ref": "32"
+    "ref": "32",
+    "surface": "asphalt"
   }
 },
 {
@@ -38271,7 +38272,8 @@
     "name:en": "Yuseong-daero",
     "name:ko": "유성대로",
     "oneway": "yes",
-    "ref": "32"
+    "ref": "32",
+    "surface": "asphalt"
   }
 },
 {
@@ -39387,7 +39389,8 @@
     "name:en": "Yuseong-daero",
     "name:ko": "유성대로",
     "oneway": "yes",
-    "ref": "32"
+    "ref": "32",
+    "surface": "asphalt"
   }
 },
 {
@@ -59955,6 +59958,7 @@
     "name:ko": "월드컵대로",
     "note": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0008918405",
     "oneway": "yes",
+    "surface": "asphalt",
     "website": "http://blogfiles.naver.net/MjAxODA0MDFfMjU3/MDAxNTIyNTI1NjMzNzcw.j6HY4t03YVib1jzylFDBPJrZn9a0SH-4NIJ-en0Db-og.lmpVMHbm1hfIP-MgQueJgq39Rj8eN1mZ0tv9ewnnJMIg.PNG.logiscgman89/image.png"
   }
 },
@@ -59975,6 +59979,7 @@
     "name:ko": "월드컵대로",
     "note": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0008918405",
     "oneway": "yes",
+    "surface": "asphalt",
     "website": "http://blogfiles.naver.net/MjAxODA0MDFfMjU3/MDAxNTIyNTI1NjMzNzcw.j6HY4t03YVib1jzylFDBPJrZn9a0SH-4NIJ-en0Db-og.lmpVMHbm1hfIP-MgQueJgq39Rj8eN1mZ0tv9ewnnJMIg.PNG.logiscgman89/image.png"
   }
 },
@@ -59994,6 +59999,7 @@
     "name:ko": "월드컵대로",
     "note": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0008918405",
     "oneway": "yes",
+    "surface": "concrete",
     "website": "http://blogfiles.naver.net/MjAxODA0MDFfMjU3/MDAxNTIyNTI1NjMzNzcw.j6HY4t03YVib1jzylFDBPJrZn9a0SH-4NIJ-en0Db-og.lmpVMHbm1hfIP-MgQueJgq39Rj8eN1mZ0tv9ewnnJMIg.PNG.logiscgman89/image.png"
   }
 },
@@ -60013,6 +60019,7 @@
     "name:ko": "월드컵대로",
     "note": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0008918405",
     "oneway": "yes",
+    "surface": "asphalt",
     "website": "http://blogfiles.naver.net/MjAxODA0MDFfMjU3/MDAxNTIyNTI1NjMzNzcw.j6HY4t03YVib1jzylFDBPJrZn9a0SH-4NIJ-en0Db-og.lmpVMHbm1hfIP-MgQueJgq39Rj8eN1mZ0tv9ewnnJMIg.PNG.logiscgman89/image.png"
   }
 },
@@ -60032,6 +60039,7 @@
     "name:ko": "월드컵대로",
     "note": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0008918405",
     "oneway": "yes",
+    "surface": "asphalt",
     "website": "http://blogfiles.naver.net/MjAxODA0MDFfMjU3/MDAxNTIyNTI1NjMzNzcw.j6HY4t03YVib1jzylFDBPJrZn9a0SH-4NIJ-en0Db-og.lmpVMHbm1hfIP-MgQueJgq39Rj8eN1mZ0tv9ewnnJMIg.PNG.logiscgman89/image.png"
   }
 },
@@ -60051,6 +60059,7 @@
     "name:ko": "월드컵대로",
     "note": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0008918405",
     "oneway": "yes",
+    "surface": "asphalt",
     "website": "http://blogfiles.naver.net/MjAxODA0MDFfMjU3/MDAxNTIyNTI1NjMzNzcw.j6HY4t03YVib1jzylFDBPJrZn9a0SH-4NIJ-en0Db-og.lmpVMHbm1hfIP-MgQueJgq39Rj8eN1mZ0tv9ewnnJMIg.PNG.logiscgman89/image.png"
   }
 },
@@ -60070,6 +60079,7 @@
     "name:ko": "월드컵대로",
     "note": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0008918405",
     "oneway": "yes",
+    "surface": "concrete",
     "website": "http://blogfiles.naver.net/MjAxODA0MDFfMjU3/MDAxNTIyNTI1NjMzNzcw.j6HY4t03YVib1jzylFDBPJrZn9a0SH-4NIJ-en0Db-og.lmpVMHbm1hfIP-MgQueJgq39Rj8eN1mZ0tv9ewnnJMIg.PNG.logiscgman89/image.png"
   }
 },
