@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-03-20T19:05:43Z",
-    "timestamp_areas_base": "2026-03-20T15:38:06Z",
+    "timestamp_osm_base": "2026-03-21T18:53:12Z",
+    "timestamp_areas_base": "2026-03-21T14:40:14Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -11334,7 +11334,7 @@
     11302788359,
     12440065554,
     12411009326,
-    11302794449
+    13667096275
   ],
   "tags": {
     "bridge": "yes",
@@ -11372,9 +11372,7 @@
   "id": 1341678505,
   "nodes": [
     11302794450,
-    7396624170,
-    12440065553,
-    11302794446
+    13667096297
   ],
   "tags": {
     "bridge": "yes",
@@ -32098,6 +32096,152 @@
   }
 },
 {
+  "type": "way",
+  "id": 1491252303,
+  "nodes": [
+    13667096275,
+    13667126052
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "operator": "서부내륙고속도로(주)",
+    "operator:en": "Western Inland Highway CO.,LTD.",
+    "operator:ko": "서부내륙고속도로(주)",
+    "operator:type": "private",
+    "operator:website": "https://www.wihw.co.kr",
+    "owner": "대한민국 정부",
+    "owner:wikidata": "Q626814",
+    "ownership": "national",
+    "ref": "17",
+    "start_date": "2024-12-10",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1491252308,
+  "nodes": [
+    13667126052,
+    11302794449
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "평택호2대교",
+    "bridge:name:ko": "평택호2대교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "operator": "서부내륙고속도로(주)",
+    "operator:en": "Western Inland Highway CO.,LTD.",
+    "operator:ko": "서부내륙고속도로(주)",
+    "operator:type": "private",
+    "operator:website": "https://www.wihw.co.kr",
+    "owner": "대한민국 정부",
+    "owner:wikidata": "Q626814",
+    "ownership": "national",
+    "ref": "17",
+    "start_date": "2024-12-10",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1491252312,
+  "nodes": [
+    13667096297,
+    13667126056
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "operator": "서부내륙고속도로(주)",
+    "operator:en": "Western Inland Highway CO.,LTD.",
+    "operator:ko": "서부내륙고속도로(주)",
+    "operator:type": "private",
+    "operator:website": "https://www.wihw.co.kr",
+    "owner": "대한민국 정부",
+    "owner:wikidata": "Q626814",
+    "ownership": "national",
+    "ref": "17",
+    "start_date": "2024-12-10",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1491252313,
+  "nodes": [
+    13667126056,
+    7396624170,
+    12440065553,
+    11302794446
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "평택호2대교",
+    "bridge:name:ko": "평택호2대교",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "maxspeed:variable": "weather",
+    "minspeed": "50",
+    "name": "익산평택고속도로",
+    "name:en": "Iksan-Pyeongtaek Expressway",
+    "name:ko": "익산평택고속도로",
+    "name:ko-Hani": "益山平澤高速道路",
+    "name:zh": "益山平澤高速公路",
+    "name:zh-Hans": "益山平泽高速公路",
+    "name:zh-Hant": "益山平澤高速公路",
+    "oneway": "yes",
+    "operator": "서부내륙고속도로(주)",
+    "operator:en": "Western Inland Highway CO.,LTD.",
+    "operator:ko": "서부내륙고속도로(주)",
+    "operator:type": "private",
+    "operator:website": "https://www.wihw.co.kr",
+    "owner": "대한민국 정부",
+    "owner:wikidata": "Q626814",
+    "ownership": "national",
+    "ref": "17",
+    "start_date": "2024-12-10",
+    "toll": "yes"
+  }
+},
+{
   "type": "node",
   "id": 436356957,
   "lat": 35.5535598,
@@ -51918,8 +52062,8 @@
 {
   "type": "node",
   "id": 11302788359,
-  "lat": 36.9078102,
-  "lon": 126.9100233
+  "lat": 36.9079819,
+  "lon": 126.9100542
 },
 {
   "type": "node",
@@ -51942,8 +52086,8 @@
 {
   "type": "node",
   "id": 11302794446,
-  "lat": 36.9078705,
-  "lon": 126.9098577
+  "lat": 36.9080139,
+  "lon": 126.9098847
 },
 {
   "type": "node",
@@ -51996,32 +52140,56 @@
 {
   "type": "node",
   "id": 7396624169,
-  "lat": 36.9177283,
-  "lon": 126.9127690
+  "lat": 36.9174337,
+  "lon": 126.9126811
 },
 {
   "type": "node",
   "id": 11302794449,
-  "lat": 36.9172209,
-  "lon": 126.9127659
+  "lat": 36.9170774,
+  "lon": 126.9127311
 },
 {
   "type": "node",
   "id": 11302794450,
-  "lat": 36.9172536,
-  "lon": 126.9126262
+  "lat": 36.9171601,
+  "lon": 126.9125990
 },
 {
   "type": "node",
   "id": 12389319887,
-  "lat": 36.9180255,
-  "lon": 126.9128452
+  "lat": 36.9186633,
+  "lon": 126.9130385
 },
 {
   "type": "node",
   "id": 12430405807,
-  "lat": 36.9180141,
-  "lon": 126.9130245
+  "lat": 36.9189619,
+  "lon": 126.9133170
+},
+{
+  "type": "node",
+  "id": 13667096275,
+  "lat": 36.9157666,
+  "lon": 126.9123589
+},
+{
+  "type": "node",
+  "id": 13667096297,
+  "lat": 36.9165346,
+  "lon": 126.9124208
+},
+{
+  "type": "node",
+  "id": 13667126052,
+  "lat": 36.9164442,
+  "lon": 126.9125608
+},
+{
+  "type": "node",
+  "id": 13667126056,
+  "lat": 36.9157962,
+  "lon": 126.9122066
 },
 {
   "type": "node",
