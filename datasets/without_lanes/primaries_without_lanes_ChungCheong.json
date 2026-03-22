@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-03-20T19:23:01Z",
-    "timestamp_areas_base": "2026-03-20T10:51:00Z",
+    "timestamp_osm_base": "2026-03-22T19:02:41Z",
+    "timestamp_areas_base": "2026-03-22T09:13:28Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -4436,7 +4436,12 @@
     "maxspeed": "60",
     "name": "천안대로",
     "name:en": "Cheonan-daero",
+    "name:ja": "天安大路",
     "name:ko": "천안대로",
+    "name:ko-Hani": "天安大路",
+    "name:zh": "天安大路",
+    "name:zh-Hans": "天安大路",
+    "name:zh-Hant": "天安大路",
     "oneway": "yes",
     "ref": "1"
   }
@@ -11762,6 +11767,11 @@
     "bridge:name:ko": "안성천교",
     "highway": "primary",
     "name:en": "Anseongcheongyo (Bridge)",
+    "name:ja": "安城川橋",
+    "name:ko-Hani": "安城川橋",
+    "name:zh": "安城川橋",
+    "name:zh-Hans": "安城川桥",
+    "name:zh-Hant": "安城川橋",
     "oneway": "yes",
     "ref": "1"
   }
@@ -17015,6 +17025,11 @@
     "highway": "primary",
     "layer": "1",
     "name:en": "Anseongcheongyo (Bridge)",
+    "name:ja": "安城川橋",
+    "name:ko-Hani": "安城川橋",
+    "name:zh": "安城川橋",
+    "name:zh-Hans": "安城川桥",
+    "name:zh-Hant": "安城川橋",
     "oneway": "yes",
     "ref": "1"
   }
@@ -21546,6 +21561,7 @@
   "id": 559236082,
   "nodes": [
     6437806581,
+    13668593585,
     5394227391,
     5394227392,
     6437806584,
@@ -21628,6 +21644,7 @@
   "id": 559236093,
   "nodes": [
     5394227386,
+    13668593587,
     5394227387
   ],
   "tags": {
@@ -29557,6 +29574,7 @@
   "id": 686793946,
   "nodes": [
     5394227390,
+    13668593586,
     6437806580,
     6437806573,
     7276562309,
@@ -33521,7 +33539,12 @@
     "highway": "primary",
     "name": "천안대로",
     "name:en": "Cheonan-daero",
+    "name:ja": "天安大路",
     "name:ko": "천안대로",
+    "name:ko-Hani": "天安大路",
+    "name:zh": "天安大路",
+    "name:zh-Hans": "天安大路",
+    "name:zh-Hant": "天安大路",
     "oneway": "yes",
     "ref": "1"
   }
@@ -33539,7 +33562,12 @@
     "highway": "primary",
     "name": "천안대로",
     "name:en": "Cheonan-daero",
+    "name:ja": "天安大路",
     "name:ko": "천안대로",
+    "name:ko-Hani": "天安大路",
+    "name:zh": "天安大路",
+    "name:zh-Hans": "天安大路",
+    "name:zh-Hant": "天安大路",
     "oneway": "yes",
     "ref": "1"
   }
@@ -33556,7 +33584,12 @@
     "highway": "primary",
     "name": "천안대로",
     "name:en": "Cheonan-daero",
+    "name:ja": "天安大路",
     "name:ko": "천안대로",
+    "name:ko-Hani": "天安大路",
+    "name:zh": "天安大路",
+    "name:zh-Hans": "天安大路",
+    "name:zh-Hant": "天安大路",
     "oneway": "yes",
     "ref": "1"
   }
@@ -33573,7 +33606,12 @@
     "layer": "-1",
     "name": "직산지하차도",
     "name:en": "Jiksan Underpass",
+    "name:ja": "稷山地下車道",
     "name:ko": "직산지하차도",
+    "name:ko-Hani": "稷山地下車道",
+    "name:zh": "稷山地下車道",
+    "name:zh-Hans": "稷山地下车道",
+    "name:zh-Hant": "稷山地下車道",
     "oneway": "yes",
     "ref": "1",
     "tunnel": "yes"
@@ -33591,7 +33629,12 @@
     "layer": "-1",
     "name": "직산지하차도",
     "name:en": "Jiksan Underpass",
+    "name:ja": "稷山地下車道",
     "name:ko": "직산지하차도",
+    "name:ko-Hani": "稷山地下車道",
+    "name:zh": "稷山地下車道",
+    "name:zh-Hans": "稷山地下车道",
+    "name:zh-Hant": "稷山地下車道",
     "oneway": "yes",
     "ref": "1",
     "tunnel": "yes"
@@ -33610,7 +33653,12 @@
     "highway": "primary",
     "name": "천안대로",
     "name:en": "Cheonan-daero",
+    "name:ja": "天安大路",
     "name:ko": "천안대로",
+    "name:ko-Hani": "天安大路",
+    "name:zh": "天安大路",
+    "name:zh-Hans": "天安大路",
+    "name:zh-Hant": "天安大路",
     "oneway": "yes",
     "ref": "1"
   }
@@ -73313,8 +73361,8 @@
 {
   "type": "node",
   "id": 7962936459,
-  "lat": 36.0070839,
-  "lon": 126.7081581
+  "lat": 36.0070934,
+  "lon": 126.7080895
 },
 {
   "type": "node",
@@ -97870,6 +97918,12 @@
 },
 {
   "type": "node",
+  "id": 13668593587,
+  "lat": 36.4400668,
+  "lon": 126.9164501
+},
+{
+  "type": "node",
   "id": 5394227387,
   "lat": 36.4398920,
   "lon": 126.9171768
@@ -97903,6 +97957,18 @@
   "id": 6437806581,
   "lat": 36.4368466,
   "lon": 126.9287932
+},
+{
+  "type": "node",
+  "id": 13668593585,
+  "lat": 36.4368134,
+  "lon": 126.9289185
+},
+{
+  "type": "node",
+  "id": 13668593586,
+  "lat": 36.4365810,
+  "lon": 126.9288395
 },
 {
   "type": "node",
