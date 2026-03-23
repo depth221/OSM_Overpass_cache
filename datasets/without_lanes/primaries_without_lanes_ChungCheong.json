@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-03-22T19:02:41Z",
-    "timestamp_areas_base": "2026-03-22T09:13:28Z",
+    "timestamp_osm_base": "2026-03-23T19:31:22Z",
+    "timestamp_areas_base": "2026-03-23T09:26:55Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -8904,7 +8904,12 @@
     "maxspeed": "80",
     "name": "망향로",
     "name:en": "Manghyang-ro",
+    "name:ja": "望郷路",
     "name:ko": "망향로",
+    "name:ko-Hani": "望鄕路",
+    "name:zh": "望鄕路",
+    "name:zh-Hans": "望乡路",
+    "name:zh-Hant": "望鄕路",
     "oneway": "yes",
     "ref": "23"
   }
@@ -56449,7 +56454,12 @@
     "maxspeed": "80",
     "name": "망향로",
     "name:en": "Manghyang-ro",
+    "name:ja": "望郷路",
     "name:ko": "망향로",
+    "name:ko-Hani": "望鄕路",
+    "name:zh": "望鄕路",
+    "name:zh-Hans": "望乡路",
+    "name:zh-Hant": "望鄕路",
     "oneway": "yes",
     "ref": "23"
   }
@@ -170687,8 +170697,8 @@
 {
   "type": "node",
   "id": 1811447223,
-  "lat": 36.9153005,
-  "lon": 127.2312577
+  "lat": 36.9152990,
+  "lon": 127.2312768
 },
 {
   "type": "node",
