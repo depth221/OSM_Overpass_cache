@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-05-21T20:22:59Z",
-    "timestamp_areas_base": "2026-05-21T04:38:55Z",
+    "timestamp_osm_base": "2026-05-24T19:47:15Z",
+    "timestamp_areas_base": "2026-05-12T07:36:16Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -8818,9 +8818,12 @@
     1811446423,
     1811445122,
     1811446121,
+    13873588687,
     10175277485,
     5681883558,
     10174605092,
+    13873588732,
+    13873588731,
     1844294799
   ],
   "tags": {
@@ -56155,30 +56158,6 @@
     "oneway": "yes",
     "ref": "19",
     "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 1375150152,
-  "nodes": [
-    1844294799,
-    1844294745
-  ],
-  "tags": {
-    "destination": "안성;남안성IC",
-    "destination:lang:en": "Anseong;S. Anseong IC",
-    "highway": "primary",
-    "maxspeed": "80",
-    "name": "망향로",
-    "name:en": "Manghyang-ro",
-    "name:ja": "望郷路",
-    "name:ko": "망향로",
-    "name:ko-Hani": "望鄕路",
-    "name:zh": "望鄕路",
-    "name:zh-Hans": "望乡路",
-    "name:zh-Hant": "望鄕路",
-    "oneway": "yes",
-    "ref": "23"
   }
 },
 {
@@ -171258,15 +171237,9 @@
 },
 {
   "type": "node",
-  "id": 1844294745,
-  "lat": 36.9229219,
-  "lon": 127.2358745
-},
-{
-  "type": "node",
   "id": 1844294799,
-  "lat": 36.9222327,
-  "lon": 127.2354309
+  "lat": 36.9222239,
+  "lon": 127.2354075
 },
 {
   "type": "node",
@@ -171277,14 +171250,32 @@
 {
   "type": "node",
   "id": 10174605092,
-  "lat": 36.9209844,
-  "lon": 127.2345925
+  "lat": 36.9210037,
+  "lon": 127.2345975
 },
 {
   "type": "node",
   "id": 10175277485,
   "lat": 36.9203002,
-  "lon": 127.2341488
+  "lon": 127.2341384
+},
+{
+  "type": "node",
+  "id": 13873588687,
+  "lat": 36.9200072,
+  "lon": 127.2339577
+},
+{
+  "type": "node",
+  "id": 13873588731,
+  "lat": 36.9220949,
+  "lon": 127.2353218
+},
+{
+  "type": "node",
+  "id": 13873588732,
+  "lat": 36.9220046,
+  "lon": 127.2352619
 },
 {
   "type": "node",
