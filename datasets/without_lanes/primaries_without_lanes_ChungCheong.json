@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-05-25T20:11:30Z",
-    "timestamp_areas_base": "2026-05-12T07:36:16Z",
+    "timestamp_osm_base": "2026-05-26T20:32:40Z",
+    "timestamp_areas_base": "2026-05-26T05:03:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -54886,20 +54886,6 @@
 },
 {
   "type": "way",
-  "id": 1353329834,
-  "nodes": [
-    938495391
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "백제문화로",
-    "name:en": "Baekjemunhwa-ro",
-    "name:ko": "백제문화로",
-    "ref": "40;645"
-  }
-},
-{
-  "type": "way",
   "id": 1353433242,
   "nodes": [
     371000639,
@@ -97884,12 +97870,6 @@
   "id": 11975034344,
   "lat": 36.3976104,
   "lon": 126.9409426
-},
-{
-  "type": "node",
-  "id": 938495391,
-  "lat": 36.3295433,
-  "lon": 127.0180902
 },
 {
   "type": "node",
