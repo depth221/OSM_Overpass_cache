@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-06-03T21:35:30Z",
-    "timestamp_areas_base": "2026-06-03T06:32:40Z",
+    "timestamp_osm_base": "2026-06-04T20:35:20Z",
+    "timestamp_areas_base": "2026-06-04T05:24:14Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -28680,7 +28680,8 @@
     "name": "홍남서로",
     "name:en": "Hongnamseo-ro",
     "name:ko": "홍남서로",
-    "ref": "96"
+    "ref": "96",
+    "surface": "asphalt"
   }
 },
 {
@@ -30821,7 +30822,8 @@
     "name": "홍남동로",
     "name:en": "Hongnamdong-ro",
     "name:ko": "홍남동로",
-    "ref": "96"
+    "ref": "96",
+    "surface": "asphalt"
   }
 },
 {
@@ -30852,7 +30854,8 @@
     "name": "홍남동로",
     "name:en": "Hongnamdong-ro",
     "name:ko": "홍남동로",
-    "ref": "96"
+    "ref": "96",
+    "surface": "asphalt"
   }
 },
 {
