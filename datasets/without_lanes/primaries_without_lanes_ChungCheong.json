@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-06-17T20:36:28Z",
-    "timestamp_areas_base": "2026-06-17T04:18:14Z",
+    "timestamp_osm_base": "2026-06-18T21:07:12Z",
+    "timestamp_areas_base": "2026-05-12T07:36:16Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -6509,6 +6509,7 @@
     13715184373,
     1358602395,
     1358602393,
+    13949527998,
     1358602381,
     1358602378,
     5382612577
@@ -16866,7 +16867,8 @@
     "name": "괴산로",
     "name:en": "Goesan-ro",
     "name:ko": "괴산로",
-    "ref": "19;37;49"
+    "ref": "19;37;49",
+    "surface": "asphalt"
   }
 },
 {
@@ -30233,7 +30235,8 @@
     "name": "괴산로",
     "name:en": "Goesan-ro",
     "name:ko": "괴산로",
-    "ref": "19;37;49"
+    "ref": "19;37;49",
+    "surface": "asphalt"
   }
 },
 {
@@ -161032,8 +161035,14 @@
 {
   "type": "node",
   "id": 12408848319,
-  "lat": 36.6698681,
-  "lon": 126.7792641
+  "lat": 36.6698713,
+  "lon": 126.7792708
+},
+{
+  "type": "node",
+  "id": 13949527998,
+  "lat": 36.6699216,
+  "lon": 126.7791809
 },
 {
   "type": "node",
