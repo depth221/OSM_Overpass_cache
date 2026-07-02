@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-07-01T20:14:44Z",
-    "timestamp_areas_base": "2026-05-12T07:36:16Z",
+    "timestamp_osm_base": "2026-07-02T19:52:45Z",
+    "timestamp_areas_base": "2026-07-02T03:06:21Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1069,6 +1069,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -1118,6 +1119,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -28200,6 +28202,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -28236,6 +28239,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -28290,6 +28294,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -28326,6 +28331,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -28359,6 +28365,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes"
   }
@@ -28400,6 +28407,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -28435,6 +28443,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -28470,6 +28479,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes"
   }
@@ -28502,6 +28512,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -28548,6 +28559,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes"
   }
@@ -28582,6 +28594,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -28621,6 +28634,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes"
   }
@@ -28659,6 +28673,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -28695,6 +28710,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes"
   }
@@ -28727,6 +28743,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -28760,6 +28777,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -28794,6 +28812,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -28826,6 +28845,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes"
   }
@@ -28860,6 +28880,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -28893,6 +28914,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -28924,6 +28946,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -28978,6 +29001,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -29015,6 +29039,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -29046,6 +29071,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -29081,6 +29107,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes"
   }
@@ -29124,6 +29151,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -29160,6 +29188,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -29191,6 +29220,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -29223,6 +29253,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes"
   }
@@ -29255,6 +29286,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -29286,6 +29318,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -29413,6 +29446,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes"
   }
@@ -29443,6 +29477,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -29472,6 +29507,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -29507,6 +29543,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -29538,6 +29575,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -29570,6 +29608,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes"
   }
@@ -29605,6 +29644,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -29638,6 +29678,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -29669,6 +29710,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -29701,6 +29743,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -29734,6 +29777,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -29765,6 +29809,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -29795,6 +29840,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -29824,6 +29870,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -29859,6 +29906,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes"
   }
@@ -29891,6 +29939,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -29932,7 +29981,8 @@
     "operator:type": "public",
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
-    "ref": "65"
+    "ref": "65",
+    "surface": "asphalt"
   }
 },
 {
@@ -29963,6 +30013,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -29994,6 +30045,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -30024,6 +30076,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -30054,6 +30107,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes"
   }
 },
@@ -30088,6 +30142,7 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "65",
+    "surface": "asphalt",
     "toll": "yes",
     "tunnel": "yes"
   }
