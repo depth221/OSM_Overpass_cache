@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-07-02T19:52:45Z",
-    "timestamp_areas_base": "2026-07-02T03:06:21Z",
+    "timestamp_osm_base": "2026-07-03T19:50:24Z",
+    "timestamp_areas_base": "2026-07-03T03:06:35Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -24897,7 +24897,7 @@
     8434222064,
     8434222060,
     13328819727,
-    8434222061
+    13985989355
   ],
   "tags": {
     "highway": "motorway",
@@ -24956,7 +24956,7 @@
   "type": "way",
   "id": 1420256629,
   "nodes": [
-    8434222063,
+    13985989352,
     13328819726,
     13343592826,
     8434222062,
@@ -25021,9 +25021,7 @@
   "type": "way",
   "id": 1420256631,
   "nodes": [
-    13050809576,
-    7181096427,
-    11348771184,
+    13985989343,
     13328819723,
     7181096428,
     8434222067,
@@ -25061,10 +25059,7 @@
     8434222066,
     7181096404,
     13328819724,
-    11348771183,
-    13343592852,
-    7181096405,
-    13050809573
+    13985989346
   ],
   "tags": {
     "highway": "motorway",
@@ -32305,6 +32300,267 @@
   }
 },
 {
+  "type": "way",
+  "id": 1534948721,
+  "nodes": [
+    13050809576,
+    7181096427,
+    11348771184,
+    13985989344
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "operator": "한국도로공사",
+    "operator:en": "Korea Expressway Corporation",
+    "operator:ko": "한국도로공사",
+    "operator:short": "ex",
+    "operator:type": "public",
+    "operator:website": "https://www.ex.co.kr",
+    "operator:wikidata": "Q489325",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1534948722,
+  "nodes": [
+    13985989344,
+    13985989343
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "operator": "한국도로공사",
+    "operator:en": "Korea Expressway Corporation",
+    "operator:ko": "한국도로공사",
+    "operator:short": "ex",
+    "operator:type": "public",
+    "operator:website": "https://www.ex.co.kr",
+    "operator:wikidata": "Q489325",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1534948723,
+  "nodes": [
+    13985989345,
+    11348771183,
+    13343592852,
+    7181096405,
+    13050809573
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "operator": "한국도로공사",
+    "operator:en": "Korea Expressway Corporation",
+    "operator:ko": "한국도로공사",
+    "operator:short": "ex",
+    "operator:type": "public",
+    "operator:website": "https://www.ex.co.kr",
+    "operator:wikidata": "Q489325",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1534948724,
+  "nodes": [
+    13985989346,
+    13985989345
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "operator": "한국도로공사",
+    "operator:en": "Korea Expressway Corporation",
+    "operator:ko": "한국도로공사",
+    "operator:short": "ex",
+    "operator:type": "public",
+    "operator:website": "https://www.ex.co.kr",
+    "operator:wikidata": "Q489325",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1534948728,
+  "nodes": [
+    8434222063,
+    13985989353
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "operator": "한국도로공사",
+    "operator:en": "Korea Expressway Corporation",
+    "operator:ko": "한국도로공사",
+    "operator:short": "ex",
+    "operator:type": "public",
+    "operator:website": "https://www.ex.co.kr",
+    "operator:wikidata": "Q489325",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1534948729,
+  "nodes": [
+    13985989353,
+    13985989352
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "operator": "한국도로공사",
+    "operator:en": "Korea Expressway Corporation",
+    "operator:ko": "한국도로공사",
+    "operator:short": "ex",
+    "operator:type": "public",
+    "operator:website": "https://www.ex.co.kr",
+    "operator:wikidata": "Q489325",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1534948730,
+  "nodes": [
+    13985989354,
+    8434222061
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "operator": "한국도로공사",
+    "operator:en": "Korea Expressway Corporation",
+    "operator:ko": "한국도로공사",
+    "operator:short": "ex",
+    "operator:type": "public",
+    "operator:website": "https://www.ex.co.kr",
+    "operator:wikidata": "Q489325",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1534948731,
+  "nodes": [
+    13985989355,
+    13985989354
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "motorway",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxspeed:hgv": "80",
+    "minspeed": "50",
+    "name": "새만금전주고속도로",
+    "name:en": "Saemangeum-Jeonju Expressway",
+    "name:ko": "새만금전주고속도로",
+    "name:zh": "新萬金全州高速公路",
+    "name:zh-Hans": "新万金全州高速公路",
+    "name:zh-Hant": "新萬金全州高速公路",
+    "oneway": "yes",
+    "opening_date": "2025-11-22",
+    "operator": "한국도로공사",
+    "operator:en": "Korea Expressway Corporation",
+    "operator:ko": "한국도로공사",
+    "operator:short": "ex",
+    "operator:type": "public",
+    "operator:website": "https://www.ex.co.kr",
+    "operator:wikidata": "Q489325",
+    "ref": "20",
+    "toll": "yes"
+  }
+},
+{
   "type": "node",
   "id": 436356957,
   "lat": 35.5535598,
@@ -33092,6 +33348,30 @@
 },
 {
   "type": "node",
+  "id": 13985989352,
+  "lat": 35.8542993,
+  "lon": 126.7725960
+},
+{
+  "type": "node",
+  "id": 13985989353,
+  "lat": 35.8543111,
+  "lon": 126.7724851
+},
+{
+  "type": "node",
+  "id": 13985989354,
+  "lat": 35.8544262,
+  "lon": 126.7724793
+},
+{
+  "type": "node",
+  "id": 13985989355,
+  "lat": 35.8544149,
+  "lon": 126.7725902
+},
+{
+  "type": "node",
   "id": 13050809577,
   "lat": 35.8512352,
   "lon": 126.7843240
@@ -33581,6 +33861,30 @@
   "id": 13343592852,
   "lat": 35.8530838,
   "lon": 126.7795290
+},
+{
+  "type": "node",
+  "id": 13985989343,
+  "lat": 35.8527723,
+  "lon": 126.7801884
+},
+{
+  "type": "node",
+  "id": 13985989344,
+  "lat": 35.8528066,
+  "lon": 126.7800791
+},
+{
+  "type": "node",
+  "id": 13985989345,
+  "lat": 35.8529269,
+  "lon": 126.7800717
+},
+{
+  "type": "node",
+  "id": 13985989346,
+  "lat": 35.8528927,
+  "lon": 126.7801810
 },
 {
   "type": "node",
