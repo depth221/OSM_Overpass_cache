@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-07-11T19:48:00Z",
+    "timestamp_osm_base": "2026-07-12T19:45:30Z",
     "timestamp_areas_base": "2026-05-12T07:36:16Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -29045,7 +29045,8 @@
     "highway": "primary",
     "junction": "roundabout",
     "name": "목현교차로",
-    "name:ko": "목현교차로"
+    "name:ko": "목현교차로",
+    "surface": "asphalt"
   }
 },
 {
@@ -147407,8 +147408,8 @@
 {
   "type": "node",
   "id": 437291683,
-  "lat": 36.5198500,
-  "lon": 126.5680100
+  "lat": 36.5199167,
+  "lon": 126.5678332
 },
 {
   "type": "node",
@@ -147521,8 +147522,8 @@
 {
   "type": "node",
   "id": 6427415765,
-  "lat": 36.5188950,
-  "lon": 126.5703320
+  "lat": 36.5189704,
+  "lon": 126.5702217
 },
 {
   "type": "node",
@@ -147672,7 +147673,7 @@
   "type": "node",
   "id": 6430106254,
   "lat": 36.5178073,
-  "lon": 126.5723232
+  "lon": 126.5723854
 },
 {
   "type": "node",
