@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-07-26T19:48:35Z",
+    "timestamp_osm_base": "2026-07-27T20:05:51Z",
     "timestamp_areas_base": "2026-05-12T07:36:16Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -3499,6 +3499,7 @@
     437106285,
     437106288,
     10886412654,
+    14053567924,
     10886412653,
     437106290,
     437106292,
@@ -3507,6 +3508,7 @@
     437106294,
     6367008392,
     437106296,
+    14053562191,
     1816125471,
     437106298,
     8613890995,
@@ -37710,7 +37712,6 @@
     436646109,
     10046537313,
     10127367572,
-    10127368184,
     436646110,
     436646111,
     436646112,
@@ -51954,21 +51955,6 @@
 },
 {
   "type": "way",
-  "id": 857700074,
-  "nodes": [
-    5542249870,
-    7996409707
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "홍천로",
-    "name:en": "Hongcheon-ro",
-    "name:ko": "홍천로",
-    "ref": "649"
-  }
-},
-{
-  "type": "way",
   "id": 860136327,
   "nodes": [
     9378018322,
@@ -63254,22 +63240,6 @@
     "name:ko": "공항로",
     "oneway": "yes",
     "ref": "17",
-    "review": "no",
-    "source": "Mapbox Satellite (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 1104205772,
-  "nodes": [
-    9055568164
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "공항로",
-    "name:en": "Gonghang-ro",
-    "name:ko": "공항로",
-    "oneway": "yes",
     "review": "no",
     "source": "Mapbox Satellite (adjusted)"
   }
@@ -213372,18 +213342,6 @@
 },
 {
   "type": "node",
-  "id": 5542249870,
-  "lat": 36.7891947,
-  "lon": 126.4808231
-},
-{
-  "type": "node",
-  "id": 7996409707,
-  "lat": 36.7891992,
-  "lon": 126.4808256
-},
-{
-  "type": "node",
   "id": 436586153,
   "lat": 36.7836308,
   "lon": 126.4905057
@@ -239154,6 +239112,18 @@
 },
 {
   "type": "node",
+  "id": 14053562191,
+  "lat": 36.8645679,
+  "lon": 127.0420583
+},
+{
+  "type": "node",
+  "id": 14053567924,
+  "lat": 36.8659331,
+  "lon": 127.0452191
+},
+{
+  "type": "node",
   "id": 414950080,
   "lat": 36.8658232,
   "lon": 127.0508415
@@ -258679,12 +258649,6 @@
 {
   "type": "node",
   "id": 10127367572,
-  "lat": 36.6262562,
-  "lon": 127.8082538
-},
-{
-  "type": "node",
-  "id": 10127368184,
   "lat": 36.6262604,
   "lon": 127.8082515
 },
