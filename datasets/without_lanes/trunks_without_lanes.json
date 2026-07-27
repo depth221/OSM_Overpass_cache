@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-07-26T19:40:35Z",
-    "timestamp_areas_base": "2026-05-12T07:36:16Z",
+    "timestamp_osm_base": "2026-07-27T20:00:51Z",
+    "timestamp_areas_base": "2026-07-26T23:50:50Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -220331,26 +220331,6 @@
 },
 {
   "type": "way",
-  "id": 771653402,
-  "nodes": [
-    7203674082
-  ],
-  "tags": {
-    "expressway": "yes",
-    "highway": "trunk",
-    "layer": "-1",
-    "name": "공항로",
-    "name:en": "Gonghang-ro",
-    "name:ko": "공항로",
-    "oneway": "yes",
-    "ref": "17",
-    "review": "no",
-    "source": "Mapbox Satellite (adjusted)",
-    "tunnel": "yes"
-  }
-},
-{
-  "type": "way",
   "id": 772065302,
   "nodes": [
     436683189,
@@ -322881,6 +322861,7 @@
   "id": 1445400802,
   "nodes": [
     8894070965,
+    14054463917,
     8894070967,
     8894070968,
     8894070969
@@ -547270,6 +547251,12 @@
 },
 {
   "type": "node",
+  "id": 14054463917,
+  "lat": 35.9917431,
+  "lon": 129.1724172
+},
+{
+  "type": "node",
   "id": 436526823,
   "lat": 35.9954000,
   "lon": 129.1807200
@@ -613609,12 +613596,6 @@
   "id": 7203674066,
   "lat": 36.7468456,
   "lon": 127.4505380
-},
-{
-  "type": "node",
-  "id": 7203674082,
-  "lat": 36.7466056,
-  "lon": 127.4505342
 },
 {
   "type": "node",
