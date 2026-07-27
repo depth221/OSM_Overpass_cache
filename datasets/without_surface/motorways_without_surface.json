@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-07-26T19:36:29Z",
-    "timestamp_areas_base": "2026-07-25T11:26:06Z",
+    "timestamp_osm_base": "2026-07-27T19:56:46Z",
+    "timestamp_areas_base": "2026-07-26T23:50:50Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -4005,8 +4005,8 @@
     "name:el": "Αυτοκινητόδρομος Ντέτζον Νάμπουσουνχουαν",
     "name:en": "Daejeon Southern Ring Expressway",
     "name:ko": "대전남부순환고속도로",
-    "name:ko-Hani": "大田南部循環高速道路",
     "name:ko-Latn": "Daejeon Nambu Sunhwan Gosokdoro",
+    "name:ko-hani": "大田南部循環高速道路",
     "name:zh": "大田南環高速公路",
     "name:zh-Hans": "大田南环高速公路",
     "name:zh-Hant": "大田南環高速公路",
@@ -5344,76 +5344,6 @@
     "operator:type": "public",
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
-    "toll": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 30044613,
-  "nodes": [
-    330876535
-  ],
-  "tags": {
-    "bridge": "yes",
-    "bridge:structure": "beam",
-    "highway": "motorway",
-    "lanes": "2",
-    "layer": "2",
-    "maxspeed": "110",
-    "maxspeed:hgv": "80",
-    "minspeed": "50",
-    "name": "중부고속도로",
-    "name:el": "Αυτοκινητόδρομος Τζούνγκμπου",
-    "name:en": "Jungbu Expressway",
-    "name:ko": "중부고속도로",
-    "name:ko-Hani": "中部高速道路",
-    "name:ko-Latn": "Jungbugosokdoro",
-    "name:zh": "中部高速公路",
-    "name:zh-Hant": "中部高速公路",
-    "oneway": "yes",
-    "operator": "한국도로공사",
-    "operator:en": "Korea Expressway Corporation",
-    "operator:ko": "한국도로공사",
-    "operator:short": "ex",
-    "operator:type": "public",
-    "operator:website": "https://www.ex.co.kr",
-    "operator:wikidata": "Q489325",
-    "ref": "35",
-    "toll": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 30044615,
-  "nodes": [
-    330876531
-  ],
-  "tags": {
-    "bridge": "yes",
-    "bridge:structure": "beam",
-    "highway": "motorway",
-    "lanes": "2",
-    "layer": "2",
-    "maxspeed": "110",
-    "maxspeed:hgv": "80",
-    "minspeed": "50",
-    "name": "중부고속도로",
-    "name:el": "Αυτοκινητόδρομος Τζούνγκμπου",
-    "name:en": "Jungbu Expressway",
-    "name:ko": "중부고속도로",
-    "name:ko-Hani": "中部高速道路",
-    "name:ko-Latn": "Jungbugosokdoro",
-    "name:zh": "中部高速公路",
-    "name:zh-Hant": "中部高速公路",
-    "oneway": "yes",
-    "operator": "한국도로공사",
-    "operator:en": "Korea Expressway Corporation",
-    "operator:ko": "한국도로공사",
-    "operator:short": "ex",
-    "operator:type": "public",
-    "operator:website": "https://www.ex.co.kr",
-    "operator:wikidata": "Q489325",
-    "ref": "35",
     "toll": "yes"
   }
 },
