@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-07-30T20:04:43Z",
-    "timestamp_areas_base": "2026-07-30T00:32:02Z",
+    "timestamp_osm_base": "2026-07-31T20:08:42Z",
+    "timestamp_areas_base": "2026-07-30T18:25:51Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -78812,7 +78812,8 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -78840,7 +78841,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -78940,7 +78942,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -78957,7 +78960,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -78974,7 +78978,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -78990,7 +78995,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79010,7 +79016,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79027,7 +79034,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79046,7 +79054,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79063,7 +79072,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79086,7 +79096,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79103,7 +79114,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79144,7 +79156,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79161,7 +79174,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79180,7 +79194,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79197,7 +79212,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79220,7 +79236,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79234,7 +79251,8 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79248,7 +79266,8 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79264,7 +79283,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79284,7 +79304,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79301,7 +79322,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79317,7 +79339,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79331,7 +79354,8 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79360,7 +79384,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79375,7 +79400,8 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79395,7 +79421,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79409,7 +79436,8 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79432,7 +79460,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79454,7 +79483,8 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79470,7 +79500,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79494,7 +79525,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79508,7 +79540,8 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79529,7 +79562,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79548,7 +79582,8 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79564,7 +79599,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -79578,7 +79614,8 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -90018,7 +90055,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -90035,7 +90073,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -90073,7 +90112,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -90090,7 +90130,8 @@
     "highway": "primary",
     "layer": "1",
     "name:en": "Uiseong 2(i)-gyo",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -90108,7 +90149,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -90193,7 +90235,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -90210,7 +90253,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -90229,7 +90273,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -90247,7 +90292,8 @@
     "highway": "primary",
     "layer": "1",
     "name:en": "Bongyang-gyo",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -90264,7 +90310,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -90281,7 +90328,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -90297,7 +90345,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -90314,7 +90363,8 @@
     "highway": "primary",
     "layer": "1",
     "name:en": "Hwajeon 2(i)-gyo",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -90379,7 +90429,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -90396,7 +90447,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -90451,7 +90503,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -90468,7 +90521,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -92138,7 +92192,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -92155,7 +92210,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -92176,7 +92232,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -92270,7 +92327,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -92286,7 +92344,8 @@
     "bridge:name:ko": "효령교",
     "highway": "primary",
     "layer": "1",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -92303,7 +92362,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -102345,7 +102405,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -102362,7 +102423,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -102381,7 +102443,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -102398,7 +102461,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -102470,7 +102534,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -102487,7 +102552,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -106254,7 +106320,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -106288,7 +106355,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -113096,7 +113164,7 @@
     4800582019,
     436602334,
     4800582020,
-    3372823666
+    14062890180
   ],
   "tags": {
     "highway": "primary",
@@ -113802,7 +113870,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -113833,7 +113902,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -113850,7 +113920,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -113940,7 +114011,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -115271,7 +115343,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -124016,7 +124089,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -125613,7 +125687,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -128253,7 +128328,8 @@
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -148198,6 +148274,38 @@
     "name:ko": "한들로",
     "oneway": "yes",
     "ref": "24"
+  }
+},
+{
+  "type": "way",
+  "id": 1546174044,
+  "nodes": [
+    14062890179,
+    3372823666
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "청량로",
+    "name:en": "Cheongnyang-ro",
+    "name:ko": "청량로",
+    "ref": "35"
+  }
+},
+{
+  "type": "way",
+  "id": 1546174045,
+  "nodes": [
+    14062890180,
+    14062890179
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "layer": "1",
+    "name": "청량로",
+    "name:en": "Cheongnyang-ro",
+    "name:ko": "청량로",
+    "ref": "35"
   }
 },
 {
@@ -462269,6 +462377,18 @@
   "id": 4800582020,
   "lat": 36.9136341,
   "lon": 128.9381374
+},
+{
+  "type": "node",
+  "id": 14062890179,
+  "lat": 36.9149125,
+  "lon": 128.9379792
+},
+{
+  "type": "node",
+  "id": 14062890180,
+  "lat": 36.9147043,
+  "lon": 128.9380090
 },
 {
   "type": "node",
