@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-01T19:39:36Z",
+    "timestamp_osm_base": "2026-08-02T19:40:06Z",
     "timestamp_areas_base": "2026-05-12T07:36:16Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -4010,6 +4010,7 @@
     4665256127,
     392296372,
     392296373,
+    14068435721,
     392296374,
     392296375
   ],
@@ -4048,6 +4049,7 @@
     "layer": "1",
     "maxspeed": "80",
     "name:en": "Singeojedaegyo (Bridge)",
+    "name:ko": "신거제대교",
     "oneway": "yes",
     "ref": "14;58"
   }
@@ -4077,6 +4079,7 @@
     "layer": "1",
     "maxspeed": "80",
     "name:en": "Singeojedaegyo (Bridge)",
+    "name:ko": "신거제대교",
     "oneway": "yes",
     "ref": "14;58"
   }
@@ -282174,7 +282177,7 @@
   "type": "way",
   "id": 1011918673,
   "nodes": [
-    9213273972,
+    9213273970,
     9335939491
   ],
   "tags": {
@@ -433913,6 +433916,12 @@
 },
 {
   "type": "node",
+  "id": 14068435721,
+  "lat": 34.8904940,
+  "lon": 128.4736222
+},
+{
+  "type": "node",
   "id": 392296377,
   "lat": 34.8877595,
   "lon": 128.4811635
@@ -547463,7 +547472,7 @@
 },
 {
   "type": "node",
-  "id": 9213273972,
+  "id": 9213273970,
   "lat": 35.5119064,
   "lon": 129.3692060
 },
@@ -685338,8 +685347,8 @@
 {
   "type": "node",
   "id": 2147578788,
-  "lat": 37.6026892,
-  "lon": 127.0343805
+  "lat": 37.6027037,
+  "lon": 127.0343989
 },
 {
   "type": "node",
