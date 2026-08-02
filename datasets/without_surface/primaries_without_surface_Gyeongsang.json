@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-01T19:56:51Z",
+    "timestamp_osm_base": "2026-08-02T19:57:21Z",
     "timestamp_areas_base": "2026-05-12T07:36:16Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -105726,48 +105726,6 @@
     "name:ko": "북부순환도로",
     "oneway": "yes",
     "ref": "14"
-  }
-},
-{
-  "type": "way",
-  "id": 1095449309,
-  "nodes": [
-    9213273973,
-    9213273974,
-    9213273975,
-    9213273976,
-    10032077462,
-    436870149
-  ],
-  "tags": {
-    "highway": "primary",
-    "maxspeed": "60",
-    "name": "장생포로",
-    "name:en": "Jangsaengpo-ro",
-    "name:ko": "장생포로",
-    "oneway": "yes",
-    "ref": "30"
-  }
-},
-{
-  "type": "way",
-  "id": 1095449310,
-  "nodes": [
-    9213273969,
-    10032077463,
-    9213273970,
-    10032077453,
-    10032077452,
-    9213273972
-  ],
-  "tags": {
-    "highway": "primary",
-    "maxspeed": "60",
-    "name": "장생포로",
-    "name:en": "Jangsaengpo-ro",
-    "name:ko": "장생포로",
-    "oneway": "yes",
-    "ref": "30"
   }
 },
 {
@@ -397206,78 +397164,6 @@
   "id": 9981758412,
   "lat": 35.5628810,
   "lon": 129.3253255
-},
-{
-  "type": "node",
-  "id": 436870149,
-  "lat": 35.5124543,
-  "lon": 129.3675277
-},
-{
-  "type": "node",
-  "id": 9213273969,
-  "lat": 35.5123401,
-  "lon": 129.3675089
-},
-{
-  "type": "node",
-  "id": 9213273970,
-  "lat": 35.5122373,
-  "lon": 129.3679425
-},
-{
-  "type": "node",
-  "id": 9213273976,
-  "lat": 35.5123454,
-  "lon": 129.3679778
-},
-{
-  "type": "node",
-  "id": 10032077462,
-  "lat": 35.5124100,
-  "lon": 129.3677217
-},
-{
-  "type": "node",
-  "id": 10032077463,
-  "lat": 35.5123007,
-  "lon": 129.3676961
-},
-{
-  "type": "node",
-  "id": 9213273972,
-  "lat": 35.5119064,
-  "lon": 129.3692060
-},
-{
-  "type": "node",
-  "id": 9213273973,
-  "lat": 35.5120121,
-  "lon": 129.3692540
-},
-{
-  "type": "node",
-  "id": 9213273974,
-  "lat": 35.5121244,
-  "lon": 129.3687956
-},
-{
-  "type": "node",
-  "id": 9213273975,
-  "lat": 35.5122633,
-  "lon": 129.3682768
-},
-{
-  "type": "node",
-  "id": 10032077452,
-  "lat": 35.5120142,
-  "lon": 129.3687554
-},
-{
-  "type": "node",
-  "id": 10032077453,
-  "lat": 35.5121510,
-  "lon": 129.3682404
 },
 {
   "type": "node",
