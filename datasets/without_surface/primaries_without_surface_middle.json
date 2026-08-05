@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-04T20:08:36Z",
-    "timestamp_areas_base": "2026-08-03T18:53:46Z",
+    "timestamp_osm_base": "2026-08-05T20:10:13Z",
+    "timestamp_areas_base": "2026-08-04T13:30:21Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -744,7 +744,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "name:zh": "庆忠大路",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -1141,7 +1143,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -1162,7 +1166,9 @@
     "name:ko": "중부대로",
     "name:ko-Latn": "Jungbu-daero",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -1406,7 +1412,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -5007,7 +5015,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "23"
+    "ref": "23",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -5954,7 +5964,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -6169,7 +6181,9 @@
     "name:ko": "동일로",
     "name:ko-Latn": "Dongil-ro",
     "oneway": "yes",
-    "ref": "47"
+    "ref": "47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -8663,7 +8677,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "337"
+    "ref": "337",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -8690,7 +8706,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -8801,7 +8819,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42;70"
+    "ref": "42;70",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -10153,7 +10173,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -10197,7 +10219,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -10977,7 +11001,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -11028,7 +11054,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -11049,7 +11077,9 @@
     "ref": "42",
     "tunnel": "yes",
     "tunnel:name": "오천터널",
-    "tunnel:name:ko": "오천터널"
+    "tunnel:name:ko": "오천터널",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -11069,7 +11099,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -11125,7 +11157,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -11142,7 +11176,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -11163,7 +11199,9 @@
     "ref": "42",
     "tunnel": "yes",
     "tunnel:name": "오천터널",
-    "tunnel:name:ko": "오천터널"
+    "tunnel:name:ko": "오천터널",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -11283,7 +11321,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -11302,7 +11342,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -12389,7 +12431,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -12429,7 +12473,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -12453,7 +12499,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -12478,7 +12526,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -12498,7 +12548,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -12520,7 +12572,9 @@
     "name:en": "Nambusunhwan-ro",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -12538,7 +12592,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -12563,7 +12619,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -12605,7 +12663,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -12653,7 +12713,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -12672,7 +12734,9 @@
     "name:ko": "남부순환로",
     "oneway": "yes",
     "ref": "92",
-    "source": "Bing"
+    "source": "Bing",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -12710,7 +12774,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -12730,7 +12796,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -12757,7 +12825,9 @@
     "name:en": "Nambusunhwan-ro",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -12802,7 +12872,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -17620,7 +17692,9 @@
     "name": "중부대로",
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -17637,7 +17711,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -18689,7 +18765,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42;43"
+    "ref": "42;43",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -18951,7 +19029,9 @@
     "name": "중부대로",
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -18970,7 +19050,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42;43"
+    "ref": "42;43",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -19316,7 +19398,9 @@
     "name:ja": "退渓路",
     "name:ko": "퇴계로",
     "name:ko-Latn": "Toegye-ro",
-    "name:zh": "退溪路"
+    "name:zh": "退溪路",
+    "wikidata": "Q16101532",
+    "wikipedia": "ko:퇴계로 (서울)"
   }
 },
 {
@@ -19365,7 +19449,9 @@
     "name:ko": "동일로",
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
-    "ref": "3;47"
+    "ref": "3;47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -19473,7 +19559,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -19729,7 +19817,9 @@
     "name:ja": "退渓路",
     "name:ko": "퇴계로",
     "oneway": "yes",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "wikidata": "Q16101532",
+    "wikipedia": "ko:퇴계로 (서울)"
   }
 },
 {
@@ -19755,7 +19845,9 @@
     "name": "퇴계로",
     "name:en": "Toegye-ro",
     "name:ja": "退渓路",
-    "name:ko": "퇴계로"
+    "name:ko": "퇴계로",
+    "wikidata": "Q16101532",
+    "wikipedia": "ko:퇴계로 (서울)"
   }
 },
 {
@@ -19872,7 +19964,9 @@
     "ref": "3",
     "tunnel": "yes",
     "tunnel:name": "동일로지하차도",
-    "tunnel:name:ko": "동일로지하차도"
+    "tunnel:name:ko": "동일로지하차도",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -19894,7 +19988,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "no",
-    "ref": "3;47"
+    "ref": "3;47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -20960,7 +21056,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -20994,7 +21092,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -24767,7 +24867,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -24852,7 +24954,9 @@
     "name:ko": "동일로",
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -24903,7 +25007,9 @@
     "name:ko": "동일로",
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
-    "ref": "3;47"
+    "ref": "3;47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -24931,7 +25037,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "3;47"
+    "ref": "3;47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -25386,7 +25494,9 @@
     "name:en": "Toegye-ro",
     "name:ja": "退渓路",
     "name:ko": "퇴계로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101532",
+    "wikipedia": "ko:퇴계로 (서울)"
   }
 },
 {
@@ -25636,7 +25746,9 @@
     "name:ja": "漢江大路",
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -25654,7 +25766,9 @@
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
     "name:zh": "汉江大路",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -25675,7 +25789,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -25760,7 +25876,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -25998,7 +26116,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -26041,7 +26161,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -26060,7 +26182,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -26080,7 +26204,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -26110,7 +26236,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循環路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -26133,7 +26261,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -26151,7 +26281,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -26171,7 +26303,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -26198,7 +26332,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -26216,7 +26352,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -26236,7 +26374,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -26422,7 +26562,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -26441,7 +26583,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -26462,7 +26606,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -26486,7 +26632,9 @@
     "name:en": "Nambusunhwan-ro",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -26560,7 +26708,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -26648,7 +26798,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -26692,7 +26844,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -26712,7 +26866,9 @@
     "name:en": "Nambusunhwan-ro",
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -26745,7 +26901,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -29208,7 +29366,9 @@
     "name:en": "Nambusunhwan-ro",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -34022,7 +34182,9 @@
     "name": "경충대로",
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -34171,7 +34333,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -34279,7 +34443,9 @@
     "name:en": "Hangang-daero",
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -34297,7 +34463,9 @@
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
     "name:zh": "汉江大路",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -34411,7 +34579,9 @@
     "name:en": "Toegye-ro",
     "name:ja": "退渓路",
     "name:ko": "퇴계로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101532",
+    "wikipedia": "ko:퇴계로 (서울)"
   }
 },
 {
@@ -34545,7 +34715,9 @@
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
     "oneway": "yes",
-    "oneway:bus": "no"
+    "oneway:bus": "no",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -35456,7 +35628,9 @@
     "name:en": "Toegye-ro",
     "name:ja": "退渓路",
     "name:ko": "퇴계로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101532",
+    "wikipedia": "ko:퇴계로 (서울)"
   }
 },
 {
@@ -35774,7 +35948,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -38665,7 +38841,9 @@
     "name:ko-Latn": "Dongillo",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -38686,7 +38864,9 @@
     "name:zh": "东一路",
     "oneway": "yes",
     "ref": "3",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -38813,7 +38993,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -38832,7 +39014,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -38851,7 +39035,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -38870,7 +39056,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -39434,7 +39622,9 @@
     "name": "경충대로",
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -40185,7 +40375,9 @@
     "name:ko": "동일로",
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
-    "ref": "3;47"
+    "ref": "3;47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -40208,7 +40400,9 @@
     "name:ko": "동일로",
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
-    "ref": "3;47"
+    "ref": "3;47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -40268,7 +40462,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -40289,7 +40485,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -40433,7 +40631,9 @@
     "name:ko-Latn": "Samil-daero",
     "oneway": "yes",
     "source": "bing",
-    "toll": "yes"
+    "toll": "yes",
+    "wikidata": "Q12600302",
+    "wikipedia": "ko:삼일대로"
   }
 },
 {
@@ -40453,7 +40653,9 @@
     "name:ko": "삼일대로",
     "name:ko-Latn": "Samil-daero",
     "oneway": "yes",
-    "toll": "yes"
+    "toll": "yes",
+    "wikidata": "Q12600302",
+    "wikipedia": "ko:삼일대로"
   }
 },
 {
@@ -41421,7 +41623,9 @@
     "name": "중부대로",
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -41467,7 +41671,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -42288,7 +42494,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "23"
+    "ref": "23",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -43341,7 +43549,9 @@
     "name": "중부대로",
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -44576,7 +44786,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -44599,7 +44811,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -44662,7 +44876,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -44682,7 +44898,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -44707,7 +44925,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -45766,7 +45986,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -46517,7 +46739,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -47497,7 +47721,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -47628,7 +47854,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -47649,7 +47877,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -47699,7 +47929,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -47726,7 +47958,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -47885,7 +48119,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -48364,7 +48600,9 @@
     "name:en": "Gangnam-daero",
     "name:ja": "江南大路",
     "name:ko": "강남대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q7223951",
+    "wikipedia": "ko:강남대로"
   }
 },
 {
@@ -49523,7 +49761,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -49678,7 +49918,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -50113,7 +50355,9 @@
     "name": "퇴계로",
     "name:en": "Toegye-ro",
     "name:ko": "퇴계로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101532",
+    "wikipedia": "ko:퇴계로 (서울)"
   }
 },
 {
@@ -51204,7 +51448,9 @@
     "name": "중부대로",
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -51274,7 +51520,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -51334,7 +51582,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -51580,7 +51830,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -54808,7 +55060,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -54825,7 +55079,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -57443,7 +57699,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -58497,7 +58755,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42;43"
+    "ref": "42;43",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -58522,7 +58782,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "43"
+    "ref": "43",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -59136,7 +59398,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -59181,7 +59445,9 @@
     "name": "경충대로",
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -59298,7 +59564,9 @@
     "name:en": "Gangnam-daero",
     "name:ja": "江南大路",
     "name:ko": "강남대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q7223951",
+    "wikipedia": "ko:강남대로"
   }
 },
 {
@@ -59323,7 +59591,9 @@
     "name:ko": "강남대로",
     "name:ko-Latn": "Gangnam-daero",
     "oneway": "yes",
-    "ref": "41"
+    "ref": "41",
+    "wikidata": "Q7223951",
+    "wikipedia": "ko:강남대로"
   }
 },
 {
@@ -59884,7 +60154,9 @@
     "name:en": "Nambusunhwan-ro",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -60566,7 +60838,9 @@
     "name": "경충대로",
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -60614,7 +60888,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42;43"
+    "ref": "42;43",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -60648,7 +60924,9 @@
     "oneway": "yes",
     "oneway:bicycle": "no",
     "ref": "42;43",
-    "sidewalk": "both"
+    "sidewalk": "both",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -60685,7 +60963,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -60710,7 +60990,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42;43"
+    "ref": "42;43",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -60732,7 +61014,9 @@
     "name": "중부대로",
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -60748,7 +61032,9 @@
     "name": "중부대로",
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -60776,7 +61062,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "43"
+    "ref": "43",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -62648,7 +62936,9 @@
     "name:ja": "漢江大路",
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -62689,7 +62979,9 @@
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
     "oneway": "yes",
-    "oneway:bus": "no"
+    "oneway:bus": "no",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -62753,7 +63045,9 @@
     "name:ja": "漢江大路",
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -63216,7 +63510,9 @@
     "name:en": "Nambusunhwan-ro",
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -63243,7 +63539,9 @@
     "name:en": "Nambusunhwan-ro",
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -63347,7 +63645,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -63438,7 +63738,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -63462,7 +63764,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -63541,7 +63845,9 @@
     "name:ko": "삼일대로",
     "name:ko-Latn": "Samil-daero",
     "oneway": "yes",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "wikidata": "Q12600302",
+    "wikipedia": "ko:삼일대로"
   }
 },
 {
@@ -63582,7 +63888,9 @@
     "name:ja": "江南大路",
     "name:ko": "강남대로",
     "oneway": "yes",
-    "ref": "41"
+    "ref": "41",
+    "wikidata": "Q7223951",
+    "wikipedia": "ko:강남대로"
   }
 },
 {
@@ -63984,7 +64292,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -64009,7 +64319,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -64073,7 +64385,9 @@
     "name:en": "Nambusunhwan-ro",
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -64096,7 +64410,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -64115,7 +64431,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -64135,7 +64453,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "3;47"
+    "ref": "3;47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -64155,7 +64475,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "47"
+    "ref": "47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -64174,7 +64496,9 @@
     "name:ko": "동일로",
     "name:ko-Latn": "Dongil-ro",
     "oneway": "yes",
-    "ref": "47"
+    "ref": "47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -64196,7 +64520,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -64961,7 +65287,9 @@
     "name:ko": "강남대로",
     "name:ko-Latn": "Gangnam-daero",
     "oneway": "yes",
-    "ref": "41"
+    "ref": "41",
+    "wikidata": "Q7223951",
+    "wikipedia": "ko:강남대로"
   }
 },
 {
@@ -64983,7 +65311,9 @@
     "name:ko": "강남대로",
     "name:ko-Latn": "Gangnam-daero",
     "oneway": "yes",
-    "ref": "41"
+    "ref": "41",
+    "wikidata": "Q7223951",
+    "wikipedia": "ko:강남대로"
   }
 },
 {
@@ -65005,7 +65335,9 @@
     "name:ko": "강남대로",
     "name:ko-Latn": "Gangnam-daero",
     "oneway": "yes",
-    "ref": "41"
+    "ref": "41",
+    "wikidata": "Q7223951",
+    "wikipedia": "ko:강남대로"
   }
 },
 {
@@ -65023,7 +65355,9 @@
     "name:ja": "江南大路",
     "name:ko": "강남대로",
     "oneway": "yes",
-    "ref": "41"
+    "ref": "41",
+    "wikidata": "Q7223951",
+    "wikipedia": "ko:강남대로"
   }
 },
 {
@@ -65040,7 +65374,9 @@
     "name:ja": "江南大路",
     "name:ko": "강남대로",
     "oneway": "yes",
-    "ref": "41"
+    "ref": "41",
+    "wikidata": "Q7223951",
+    "wikipedia": "ko:강남대로"
   }
 },
 {
@@ -65309,7 +65645,9 @@
     "name:ja": "江南大路",
     "name:ko": "강남대로",
     "oneway": "yes",
-    "ref": "41"
+    "ref": "41",
+    "wikidata": "Q7223951",
+    "wikipedia": "ko:강남대로"
   }
 },
 {
@@ -65405,7 +65743,9 @@
     "name:en": "Nambusunhwan-ro",
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -65693,7 +66033,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -65710,7 +66052,9 @@
     "name:ja": "江南大路",
     "name:ko": "강남대로",
     "oneway": "yes",
-    "ref": "41"
+    "ref": "41",
+    "wikidata": "Q7223951",
+    "wikipedia": "ko:강남대로"
   }
 },
 {
@@ -66147,7 +66491,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -66168,7 +66514,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -66445,7 +66793,9 @@
     "name:en": "Gangnam-daero",
     "name:ja": "江南大路",
     "name:ko": "강남대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q7223951",
+    "wikipedia": "ko:강남대로"
   }
 },
 {
@@ -67979,7 +68329,9 @@
     "name:ja": "漢江大路",
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -68238,7 +68590,9 @@
     "name:en": "Hangang-daero",
     "name:ja": "漢江大路",
     "name:ko": "한강대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -69035,7 +69389,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循環路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -69771,7 +70127,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -69808,7 +70166,9 @@
     "name:ko": "중부대로",
     "name:ko-Latn": "Jungbu-daero",
     "oneway": "yes",
-    "ref": "42;70"
+    "ref": "42;70",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -71242,7 +71602,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -71859,7 +72221,9 @@
     "name:en": "Dongil-ro",
     "name:ko": "동일로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -71882,7 +72246,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -74953,7 +75319,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -75639,7 +76007,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -75663,7 +76033,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -75724,7 +76096,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -77632,7 +78006,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "no",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -77647,9 +78023,12 @@
     "highway": "primary",
     "layer": "1",
     "name": "중부대로",
+    "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "no",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -77870,7 +78249,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42;43"
+    "ref": "42;43",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -77897,7 +78278,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42;43"
+    "ref": "42;43",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -79618,7 +80001,9 @@
     "name:ko": "남부순환로",
     "oneway": "yes",
     "ref": "92",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -79655,7 +80040,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -79675,7 +80062,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -79694,7 +80083,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -79724,7 +80115,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -79757,7 +80150,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -79779,7 +80174,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -80331,7 +80728,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -80398,7 +80797,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -80447,7 +80848,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -80480,7 +80883,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -80501,7 +80906,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -80547,7 +80954,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -80598,7 +81007,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -80619,7 +81030,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -80638,7 +81051,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -80676,7 +81091,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -80701,7 +81118,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -80723,7 +81142,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -80743,7 +81164,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -80764,7 +81187,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -81896,7 +82321,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -81914,7 +82341,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -81955,7 +82384,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -81973,7 +82404,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -84680,7 +85113,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -85022,7 +85457,9 @@
     "name": "퇴계로",
     "name:en": "Toegye-ro",
     "name:ja": "退渓路",
-    "name:ko": "퇴계로"
+    "name:ko": "퇴계로",
+    "wikidata": "Q16101532",
+    "wikipedia": "ko:퇴계로 (서울)"
   }
 },
 {
@@ -85911,7 +86348,9 @@
     "name:ko": "강남대로",
     "name:ko-Latn": "Gangnam-daero",
     "oneway": "yes",
-    "ref": "41"
+    "ref": "41",
+    "wikidata": "Q7223951",
+    "wikipedia": "ko:강남대로"
   }
 },
 {
@@ -86018,7 +86457,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -86755,7 +87196,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -86933,7 +87376,9 @@
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
     "oneway": "yes",
-    "oneway:bus": "no"
+    "oneway:bus": "no",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -86956,7 +87401,9 @@
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
     "oneway": "yes",
-    "oneway:bus": "no"
+    "oneway:bus": "no",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -86979,7 +87426,9 @@
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
     "oneway": "yes",
-    "oneway:bus": "no"
+    "oneway:bus": "no",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -87071,7 +87520,9 @@
     "name:ja": "世宗大路",
     "name:ko": "세종대로",
     "name:zh": "世宗大路",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q623632",
+    "wikipedia": "ko:세종대로"
   }
 },
 {
@@ -87086,7 +87537,9 @@
     "name": "퇴계로",
     "name:en": "Toegye-ro",
     "name:ko": "퇴계로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101532",
+    "wikipedia": "ko:퇴계로 (서울)"
   }
 },
 {
@@ -87105,7 +87558,9 @@
     "name:en": "Hangang-daero",
     "name:ko": "한강대로",
     "name:zh": "汉江大路",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -87127,7 +87582,9 @@
     "name:ko-Latn": "Hangang-daero",
     "name:zh": "汉江大路",
     "noref": "yes",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -87164,7 +87621,9 @@
     "name:ja": "漢江大路",
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -87184,7 +87643,9 @@
     "name:en": "Hangang-daero",
     "name:ja": "漢江大路",
     "name:ko": "한강대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -87207,7 +87668,9 @@
     "name:en": "Hangang-daero",
     "name:ja": "漢江大路",
     "name:ko": "한강대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -87228,7 +87691,9 @@
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
     "name:zh": "汉江大路",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -87246,7 +87711,9 @@
     "name:ja": "漢江大路",
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -87267,7 +87734,9 @@
     "name": "한강대로",
     "name:en": "Hangang-daero",
     "name:ko": "한강대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -88100,7 +88569,9 @@
     "name": "경충대로",
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -88120,7 +88591,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -88150,7 +88623,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -88430,7 +88905,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -88470,7 +88947,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -90787,7 +91266,9 @@
     "name:ko": "동일로",
     "oneway": "yes",
     "ref": "47;23",
-    "turn:lanes": "none|none|none|right"
+    "turn:lanes": "none|none|none|right",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -93441,7 +93922,9 @@
     "name": "중부대로",
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -93555,7 +94038,9 @@
     "name": "중부대로",
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -93596,7 +94081,9 @@
     "name:ja": "漢江大路",
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -93690,7 +94177,9 @@
     "name:ja": "漢江大路",
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -93710,7 +94199,9 @@
     "name:ja": "漢江大路",
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -93730,7 +94221,9 @@
     "name:ja": "漢江大路",
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -93756,7 +94249,9 @@
     "name:ko-Latn": "Hangang-daero",
     "oneway": "yes",
     "oneway:bus": "no",
-    "review": "no"
+    "review": "no",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -93783,7 +94278,9 @@
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
     "oneway": "yes",
-    "oneway:bus": "no"
+    "oneway:bus": "no",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -93810,7 +94307,9 @@
     "name:ja": "漢江大路",
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -93839,7 +94338,9 @@
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
     "oneway": "yes",
-    "review": "no"
+    "review": "no",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -93863,7 +94364,9 @@
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
     "oneway": "yes",
-    "review": "no"
+    "review": "no",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -93933,7 +94436,9 @@
     "name:ja": "世宗大路",
     "name:ko": "세종대로",
     "name:zh": "世宗大路",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q623632",
+    "wikipedia": "ko:세종대로"
   }
 },
 {
@@ -93956,7 +94461,9 @@
     "name:en": "Toegye-ro",
     "name:ja": "退渓路",
     "name:ko": "퇴계로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101532",
+    "wikipedia": "ko:퇴계로 (서울)"
   }
 },
 {
@@ -93981,7 +94488,9 @@
     "name:en": "Toegye-ro",
     "name:ja": "退渓路",
     "name:ko": "퇴계로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101532",
+    "wikipedia": "ko:퇴계로 (서울)"
   }
 },
 {
@@ -93997,7 +94506,9 @@
     "name:en": "Toegye-ro",
     "name:ja": "退渓路",
     "name:ko": "퇴계로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101532",
+    "wikipedia": "ko:퇴계로 (서울)"
   }
 },
 {
@@ -94952,7 +95463,9 @@
     "name:en": "Nambusunhwan-ro",
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -95000,7 +95513,9 @@
     "name:en": "Nambusunhwan-ro",
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -95019,7 +95534,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -95064,7 +95581,9 @@
     "name:en": "Nambusunhwan-ro",
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -98859,7 +99378,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "no",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -101323,7 +101844,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -102308,7 +102831,9 @@
     "name:ko": "삼일대로",
     "name:ko-Latn": "Samil-daero",
     "oneway": "yes",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "wikidata": "Q12600302",
+    "wikipedia": "ko:삼일대로"
   }
 },
 {
@@ -102325,7 +102850,9 @@
     "name:ja": "三一大路",
     "name:ko": "삼일대로",
     "name:ko-Latn": "Samil-daero",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q12600302",
+    "wikipedia": "ko:삼일대로"
   }
 },
 {
@@ -102356,7 +102883,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -102373,7 +102902,9 @@
     "name": "중부대로",
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -104820,7 +105351,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -104844,7 +105377,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -105432,7 +105967,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42;43"
+    "ref": "42;43",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -105454,7 +105991,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42;43"
+    "ref": "42;43",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -105584,7 +106123,9 @@
     "name:ko": "동일로",
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -105631,7 +106172,9 @@
     "name:ko": "삼일대로",
     "name:ko-Latn": "Samil-daero",
     "oneway": "yes",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "wikidata": "Q12600302",
+    "wikipedia": "ko:삼일대로"
   }
 },
 {
@@ -107179,7 +107722,9 @@
     "name:ko-Latn": "Samil-daero",
     "oneway": "yes",
     "toll": "yes",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "wikidata": "Q12600302",
+    "wikipedia": "ko:삼일대로"
   }
 },
 {
@@ -107199,7 +107744,9 @@
     "name:ko-Latn": "Samil-daero",
     "oneway": "yes",
     "toll": "yes",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "wikidata": "Q12600302",
+    "wikipedia": "ko:삼일대로"
   }
 },
 {
@@ -107538,7 +108085,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -107561,7 +108110,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -107578,7 +108129,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -107597,7 +108150,9 @@
     "name": "중부대로",
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -107614,7 +108169,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -108115,7 +108672,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -112385,7 +112944,9 @@
     "name:ja": "退渓路",
     "name:ko": "퇴계로",
     "oneway": "yes",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "wikidata": "Q16101532",
+    "wikipedia": "ko:퇴계로 (서울)"
   }
 },
 {
@@ -112409,7 +112970,9 @@
     "name:en": "Toegye-ro",
     "name:ja": "退渓路",
     "name:ko": "퇴계로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101532",
+    "wikipedia": "ko:퇴계로 (서울)"
   }
 },
 {
@@ -112432,7 +112995,9 @@
     "name:en": "Toegye-ro",
     "name:ja": "退渓路",
     "name:ko": "퇴계로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101532",
+    "wikipedia": "ko:퇴계로 (서울)"
   }
 },
 {
@@ -114435,7 +115000,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -114459,7 +115026,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -115251,7 +115820,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -115271,7 +115842,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -115291,7 +115864,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -115310,7 +115885,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -115332,7 +115909,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -115353,7 +115932,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -115374,7 +115955,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -115401,7 +115984,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -115421,7 +116006,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -115442,7 +116029,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -115462,7 +116051,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -115487,7 +116078,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -115507,7 +116100,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -115565,7 +116160,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -115605,7 +116202,9 @@
     "name": "중부대로",
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -115647,7 +116246,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -115667,7 +116268,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -115689,7 +116292,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -115706,7 +116311,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -115722,7 +116329,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -115740,7 +116349,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -115934,7 +116545,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -116295,7 +116908,9 @@
     "name": "퇴계로",
     "name:en": "Toegye-ro",
     "name:ja": "退渓路",
-    "name:ko": "퇴계로"
+    "name:ko": "퇴계로",
+    "wikidata": "Q16101532",
+    "wikipedia": "ko:퇴계로 (서울)"
   }
 },
 {
@@ -120091,7 +120706,9 @@
     "name:ko": "강남대로",
     "name:ko-Latn": "Gangnam-daero",
     "oneway": "yes",
-    "ref": "41"
+    "ref": "41",
+    "wikidata": "Q7223951",
+    "wikipedia": "ko:강남대로"
   }
 },
 {
@@ -122074,7 +122691,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42;43"
+    "ref": "42;43",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -122196,7 +122815,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42;43"
+    "ref": "42;43",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -123612,7 +124233,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -123657,7 +124280,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -123673,7 +124298,9 @@
     "name": "중부대로",
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -125251,7 +125878,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -125281,7 +125910,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -126485,7 +127116,9 @@
     "name:en": "Toegye-ro",
     "name:ja": "退渓路",
     "name:ko": "퇴계로",
-    "name:ko-Latn": "Toegye-ro"
+    "name:ko-Latn": "Toegye-ro",
+    "wikidata": "Q16101532",
+    "wikipedia": "ko:퇴계로 (서울)"
   }
 },
 {
@@ -128735,7 +129368,9 @@
     "name:ko": "동일로",
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
-    "ref": "3;47"
+    "ref": "3;47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -128760,7 +129395,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -130887,7 +131524,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -130928,7 +131567,9 @@
     "name:en": "Nambusunhwan-ro",
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -130947,7 +131588,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -130966,7 +131609,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -130984,7 +131629,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -131004,7 +131651,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -131169,7 +131818,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -131253,7 +131904,9 @@
     "name:ko": "동일로",
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -132137,7 +132790,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -132155,7 +132810,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -133141,7 +133798,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -133162,7 +133821,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -134234,7 +134895,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -134252,7 +134915,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -134275,7 +134940,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -134300,7 +134967,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -134317,7 +134986,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -135259,7 +135930,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -135281,7 +135954,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -135300,7 +135975,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -135322,7 +135999,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -135341,7 +136020,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -135360,7 +136041,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -135379,7 +136062,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -135399,7 +136084,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -135431,7 +136118,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -135502,7 +136191,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -135625,7 +136316,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "23"
+    "ref": "23",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -136308,7 +137001,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -136576,7 +137271,9 @@
     "maxspeed": "80",
     "name": "중부대로",
     "name:en": "Jungbu-daero",
-    "name:ko": "중부대로"
+    "name:ko": "중부대로",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140181,7 +140878,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140201,7 +140900,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140227,7 +140928,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140247,7 +140950,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140266,7 +140971,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140284,7 +140991,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140303,7 +141012,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140322,7 +141033,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140341,7 +141054,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140359,7 +141074,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140378,7 +141095,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140396,7 +141115,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140414,7 +141135,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140436,7 +141159,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140454,7 +141179,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140471,7 +141198,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140489,7 +141218,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140514,7 +141245,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140535,7 +141268,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140553,7 +141288,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140582,7 +141319,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42;70"
+    "ref": "42;70",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140600,7 +141339,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140618,7 +141359,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140645,7 +141388,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140706,7 +141451,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140731,7 +141478,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140749,7 +141498,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -140767,7 +141518,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -141745,7 +142498,9 @@
     "name": "중부대로",
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -141833,7 +142588,9 @@
     "name": "중부대로",
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -142936,7 +143693,9 @@
     "name:ja": "江南大路",
     "name:ko": "강남대로",
     "oneway": "yes",
-    "ref": "41"
+    "ref": "41",
+    "wikidata": "Q7223951",
+    "wikipedia": "ko:강남대로"
   }
 },
 {
@@ -142956,7 +143715,9 @@
     "name:ko": "강남대로",
     "name:ko-Latn": "Gangnam-daero",
     "oneway": "yes",
-    "ref": "41"
+    "ref": "41",
+    "wikidata": "Q7223951",
+    "wikipedia": "ko:강남대로"
   }
 },
 {
@@ -142974,7 +143735,9 @@
     "name:ja": "江南大路",
     "name:ko": "강남대로",
     "oneway": "yes",
-    "ref": "41"
+    "ref": "41",
+    "wikidata": "Q7223951",
+    "wikipedia": "ko:강남대로"
   }
 },
 {
@@ -142993,7 +143756,9 @@
     "name:ja": "江南大路",
     "name:ko": "강남대로",
     "oneway": "yes",
-    "ref": "41"
+    "ref": "41",
+    "wikidata": "Q7223951",
+    "wikipedia": "ko:강남대로"
   }
 },
 {
@@ -143206,7 +143971,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -143236,7 +144003,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -143256,7 +144025,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -143285,7 +144056,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -143305,7 +144078,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -143323,7 +144098,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -143344,7 +144121,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -143367,7 +144146,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -143389,7 +144170,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -143405,7 +144188,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "no",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -143507,7 +144292,9 @@
     "name": "중부대로",
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -143693,7 +144480,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -143711,7 +144500,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -144378,7 +145169,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -144431,7 +145224,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -144455,7 +145250,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -144477,7 +145274,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -144576,7 +145375,9 @@
     "name:ko": "삼일대로",
     "name:ko-Latn": "Samil-daero",
     "oneway": "yes",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "wikidata": "Q12600302",
+    "wikipedia": "ko:삼일대로"
   }
 },
 {
@@ -145230,7 +146031,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -145249,7 +146052,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -145270,7 +146075,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -145289,7 +146096,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -145459,7 +146268,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "47"
+    "ref": "47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -145496,7 +146307,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "47"
+    "ref": "47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -145553,7 +146366,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "3;47"
+    "ref": "3;47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -145573,7 +146388,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "3;47"
+    "ref": "3;47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -145592,7 +146409,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "47"
+    "ref": "47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -145611,7 +146430,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "47"
+    "ref": "47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -146477,7 +147298,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "3;47"
+    "ref": "3;47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -146501,7 +147324,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "3;47"
+    "ref": "3;47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -148084,7 +148909,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "no",
-    "ref": "3;47"
+    "ref": "3;47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -149429,7 +150256,9 @@
     "name:ko": "동일로",
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
-    "ref": "3;47"
+    "ref": "3;47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -149447,7 +150276,9 @@
     "name:ko": "동일로",
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
-    "ref": "3;47"
+    "ref": "3;47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -149465,7 +150296,9 @@
     "name:ko": "동일로",
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
-    "ref": "3;47"
+    "ref": "3;47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -149483,7 +150316,9 @@
     "name:ko": "동일로",
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
-    "ref": "3;47"
+    "ref": "3;47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -149499,7 +150334,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "23"
+    "ref": "23",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -149540,7 +150377,9 @@
     "name": "경충대로",
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -149569,7 +150408,9 @@
     "name": "경충대로",
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -149620,7 +150461,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "337"
+    "ref": "337",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -149639,7 +150482,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "337"
+    "ref": "337",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -149659,7 +150504,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "337"
+    "ref": "337",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -149686,7 +150533,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "337"
+    "ref": "337",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -149714,7 +150563,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "337"
+    "ref": "337",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -149741,7 +150592,9 @@
     "name": "경충대로",
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -149765,7 +150618,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -149781,7 +150636,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -149801,7 +150658,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -149821,7 +150680,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -149841,7 +150702,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -149862,7 +150725,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -149878,7 +150743,9 @@
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -150210,7 +151077,9 @@
     "name": "경충대로",
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -150229,7 +151098,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42;43"
+    "ref": "42;43",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -151817,7 +152688,9 @@
     "name": "경충대로",
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -151834,7 +152707,9 @@
     "name": "경충대로",
     "name:en": "Gyeongchung-daero",
     "name:ko": "경충대로",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q16099243",
+    "wikipedia": "ko:경충대로"
   }
 },
 {
@@ -152026,7 +152901,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -152044,7 +152921,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -152063,7 +152942,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -152089,7 +152970,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -152146,7 +153029,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -153422,7 +154307,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -153454,7 +154341,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -156008,7 +156897,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -156030,7 +156921,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -157381,7 +158274,9 @@
     "name:ja": "漢江大路",
     "name:ko": "한강대로",
     "name:zh": "汉江大路",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -157397,7 +158292,9 @@
     "name": "퇴계로",
     "name:en": "Toegye-ro",
     "name:ko": "퇴계로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101532",
+    "wikipedia": "ko:퇴계로 (서울)"
   }
 },
 {
@@ -157417,7 +158314,9 @@
     "name:ko-Latn": "Hangang-daero",
     "name:zh": "汉江大路",
     "noref": "yes",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -157435,7 +158334,9 @@
     "name": "퇴계로",
     "name:en": "Toegye-ro",
     "name:ko": "퇴계로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101532",
+    "wikipedia": "ko:퇴계로 (서울)"
   }
 },
 {
@@ -157452,7 +158353,9 @@
     "name:en": "Hangang-daero",
     "name:ko": "한강대로",
     "name:zh": "汉江大路",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q16101567",
+    "wikipedia": "ko:한강대로"
   }
 },
 {
@@ -158199,7 +159102,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42;43"
+    "ref": "42;43",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -158221,7 +159126,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42;43"
+    "ref": "42;43",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -158239,7 +159146,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42;43"
+    "ref": "42;43",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -158756,7 +159665,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "no",
-    "ref": "3;47"
+    "ref": "3;47",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -161952,7 +162863,9 @@
     "name": "중부대로",
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -161974,7 +162887,9 @@
     "name": "중부대로",
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -161991,7 +162906,9 @@
     "name": "중부대로",
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -162018,7 +162935,9 @@
     "name": "중부대로",
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -163623,7 +164542,9 @@
     "name": "중부대로",
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -163644,7 +164565,9 @@
     "name": "중부대로",
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -163776,7 +164699,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42;43"
+    "ref": "42;43",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -163954,7 +164879,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42;43"
+    "ref": "42;43",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -163974,7 +164901,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42;43"
+    "ref": "42;43",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -168287,7 +169216,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -168305,7 +169236,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -168324,7 +169257,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -168341,7 +169276,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -171716,7 +172653,9 @@
     "name:ko": "남부순환로",
     "oneway": "yes",
     "ref": "92",
-    "source": "Bing"
+    "source": "Bing",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -172775,7 +173714,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -173038,7 +173979,9 @@
     "name": "중부대로",
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -179051,7 +179994,9 @@
     "name:en": "Samil-daero",
     "name:ko": "삼일대로",
     "name:ko-Latn": "Samil-daero",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q12600302",
+    "wikipedia": "ko:삼일대로"
   }
 },
 {
@@ -180403,7 +181348,9 @@
     "name:ja": "南部循環路",
     "name:ko": "남부순환로",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -180853,7 +181800,9 @@
     "name:ko": "남부순환로",
     "name:zh": "南部循环路",
     "oneway": "yes",
-    "ref": "92"
+    "ref": "92",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -182795,7 +183744,9 @@
   "tags": {
     "highway": "primary",
     "name": "퇴계로",
-    "name:en": "Toegye-ro"
+    "name:en": "Toegye-ro",
+    "wikidata": "Q16101532",
+    "wikipedia": "ko:퇴계로 (서울)"
   }
 },
 {
@@ -184711,7 +185662,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "98"
+    "ref": "98",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -185682,7 +186635,9 @@
     "name:ko": "중부대로",
     "oneway": "yes",
     "ref": "42;43",
-    "turn:lanes": "reverse;left||||"
+    "turn:lanes": "reverse;left||||",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -185701,7 +186656,9 @@
     "name:ko": "중부대로",
     "oneway": "yes",
     "ref": "42;43",
-    "turn:lanes": "reverse;left|through|through|through|through"
+    "turn:lanes": "reverse;left|through|through|through|through",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -185719,7 +186676,9 @@
     "name:ko": "중부대로",
     "oneway": "yes",
     "ref": "42;43",
-    "turn:lanes": "reverse;left|through|through|through|through"
+    "turn:lanes": "reverse;left|through|through|through|through",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -185738,7 +186697,9 @@
     "name:ko": "중부대로",
     "oneway": "yes",
     "ref": "42;43",
-    "turn:lanes": "left|through|through|through|through"
+    "turn:lanes": "left|through|through|through|through",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -185755,7 +186716,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42;43"
+    "ref": "42;43",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -185773,7 +186736,9 @@
     "name:ko": "중부대로",
     "oneway": "yes",
     "ref": "42;43",
-    "turn:lanes": "left|through|through|through|through|right"
+    "turn:lanes": "left|through|through|through|through|right",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -185793,7 +186758,9 @@
     "name:ko": "중부대로",
     "oneway": "yes",
     "ref": "42;43",
-    "turn:lanes": "left|through|through|through|through|right"
+    "turn:lanes": "left|through|through|through|through|right",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -185810,7 +186777,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42;43"
+    "ref": "42;43",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -185828,7 +186797,9 @@
     "name:ko": "중부대로",
     "oneway": "yes",
     "ref": "42;43",
-    "turn:lanes": "reverse;left|through|through|through|through|right"
+    "turn:lanes": "reverse;left|through|through|through|through|right",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -188798,7 +189769,9 @@
     "name:ko": "남부순환로",
     "oneway": "yes",
     "ref": "92",
-    "turn:lanes": "left|through|through|through;right"
+    "turn:lanes": "left|through|through|through;right",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -188817,7 +189790,9 @@
     "name:ko": "남부순환로",
     "oneway": "yes",
     "ref": "92",
-    "turn:lanes": "reverse;left|through|through|right"
+    "turn:lanes": "reverse;left|through|through|right",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -188838,7 +189813,9 @@
     "name:ko": "남부순환로",
     "oneway": "yes",
     "ref": "92",
-    "turn:lanes": "left|through|through|through;right"
+    "turn:lanes": "left|through|through|through;right",
+    "wikidata": "Q12589834",
+    "wikipedia": "ko:남부순환로"
   }
 },
 {
@@ -190038,7 +191015,9 @@
     "name:ja": "ドンイルロ",
     "name:zh": "东一路",
     "oneway": "yes",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -190058,7 +191037,9 @@
     "name:en": "Dongil-ro",
     "name:ja": "ドンイルロ",
     "name:zh": "东一路",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -190079,7 +191060,9 @@
     "name:en": "Dongil-ro",
     "name:ja": "ドンイルロ",
     "name:zh": "东一路",
-    "oneway": "yes"
+    "oneway": "yes",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -190105,7 +191088,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -190126,7 +191111,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -190150,7 +191137,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -190177,7 +191166,9 @@
     "name:ko-Latn": "Dongil-ro",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -190219,7 +191210,9 @@
     "name:ko-Latn": "Dongillo",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -190239,7 +191232,9 @@
     "name:ko-Latn": "Dongillo",
     "name:zh": "东一路",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q12593533",
+    "wikipedia": "ko:동일로"
   }
 },
 {
@@ -197959,7 +198954,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -197978,7 +198975,9 @@
     "name:en": "Jungbu-daero",
     "name:ko": "중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q16101323",
+    "wikipedia": "ko:중부대로"
   }
 },
 {
@@ -308552,8 +309551,8 @@
 {
   "type": "node",
   "id": 436821648,
-  "lat": 37.4915761,
-  "lon": 126.9563149
+  "lat": 37.4915825,
+  "lon": 126.9563364
 },
 {
   "type": "node",
@@ -346262,8 +347261,8 @@
 {
   "type": "node",
   "id": 5439214339,
-  "lat": 37.4032142,
-  "lon": 127.1051074
+  "lat": 37.4031902,
+  "lon": 127.1051376
 },
 {
   "type": "node",
@@ -346328,8 +347327,8 @@
 {
   "type": "node",
   "id": 5439361764,
-  "lat": 37.4060292,
-  "lon": 127.1016432
+  "lat": 37.4060275,
+  "lon": 127.1016285
 },
 {
   "type": "node",
@@ -346478,7 +347477,7 @@
 {
   "type": "node",
   "id": 4299327227,
-  "lat": 37.4215676,
+  "lat": 37.4215751,
   "lon": 127.1020055
 },
 {
