@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-04T20:09:36Z",
+    "timestamp_osm_base": "2026-08-05T20:11:15Z",
     "timestamp_areas_base": "2026-05-12T07:36:16Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -4129,7 +4129,9 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ref": "25"
+    "ref": "25",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -18883,7 +18885,9 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ref": "25"
+    "ref": "25",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -20065,7 +20069,9 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ref": "25"
+    "ref": "25",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -20238,7 +20244,9 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ref": "25"
+    "ref": "25",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -21211,7 +21219,9 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ref": "25"
+    "ref": "25",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -29284,7 +29294,9 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ref": "25;37"
+    "ref": "25;37",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -32254,7 +32266,9 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ref": "25"
+    "ref": "25",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -32934,7 +32948,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -32961,7 +32977,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -38716,7 +38734,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -51565,7 +51585,9 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ref": "25;571"
+    "ref": "25;571",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -52149,7 +52171,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -54592,7 +54616,9 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ref": "25"
+    "ref": "25",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -56017,7 +56043,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -56035,7 +56063,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -63657,7 +63687,9 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ref": "25"
+    "ref": "25",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -63674,7 +63706,9 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ref": "25"
+    "ref": "25",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -71246,7 +71280,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -71287,7 +71323,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -73277,7 +73315,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -78396,7 +78436,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -78418,7 +78460,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -78472,7 +78516,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -78493,7 +78539,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -78533,7 +78581,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;36"
+    "ref": "3;36",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -78555,7 +78605,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;36"
+    "ref": "3;36",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -78587,7 +78639,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -78616,7 +78670,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -78634,7 +78690,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -78652,7 +78710,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -78692,7 +78752,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -78724,7 +78786,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -84456,7 +84520,9 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ref": "25"
+    "ref": "25",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -84979,7 +85045,9 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ref": "25;37"
+    "ref": "25;37",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -84994,7 +85062,9 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ref": "25;37"
+    "ref": "25;37",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -85446,7 +85516,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -85466,7 +85538,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -86681,7 +86755,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -86755,7 +86831,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -86780,7 +86858,9 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ref": "25"
+    "ref": "25",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -86797,7 +86877,9 @@
     "name": "보청대로",
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
-    "ref": "25"
+    "ref": "25",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -94095,7 +94177,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -94125,7 +94209,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
