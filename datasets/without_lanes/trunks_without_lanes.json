@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-07T00:20:01Z",
+    "timestamp_osm_base": "2026-08-07T19:25:20Z",
     "timestamp_areas_base": "2026-08-06T05:16:31Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -191949,6 +191949,781 @@
 },
 {
   "type": "way",
+  "id": 596827269,
+  "nodes": [
+    9047462543,
+    9047462607,
+    9047462602,
+    5694550031,
+    14078011041,
+    5694550030,
+    5694550036
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827277,
+  "nodes": [
+    9047221983,
+    5684479763,
+    5684479764,
+    14078011056,
+    14078011030,
+    5684479765,
+    5684479766,
+    5684479788,
+    5684479767
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827281,
+  "nodes": [
+    5684479774,
+    5684479773,
+    5684479786,
+    5684479815,
+    5684479791
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827283,
+  "nodes": [
+    5684479767,
+    5684479768,
+    5684479769,
+    5684479770,
+    14078011011,
+    5684479771,
+    5684479772,
+    5684479774
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "전곡대교",
+    "bridge:name:ko": "전곡대교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827286,
+  "nodes": [
+    5684479784,
+    5684479783,
+    5684479782,
+    14078011019,
+    5684479781,
+    5684479780,
+    5684479779,
+    5684479778
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "전곡대교",
+    "bridge:name:ko": "전곡대교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827290,
+  "nodes": [
+    5684479778,
+    5684479787,
+    5684479777,
+    5684479789,
+    5684479776,
+    14078011038,
+    14078011077,
+    14078011029,
+    5684479775,
+    5684479747,
+    9047221982
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827292,
+  "nodes": [
+    5684479800,
+    11171240824,
+    5684479801,
+    13026465046,
+    5684479830,
+    13026465045,
+    5684479831
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827294,
+  "nodes": [
+    5684479799,
+    5684479800
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "가사평교",
+    "bridge:name:ko": "가사평교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827297,
+  "nodes": [
+    5684479794,
+    5684479822,
+    5684479795,
+    13026465061,
+    13026465060,
+    13026465059,
+    5684479796,
+    13026465055,
+    5684479797,
+    13026465053,
+    5684479798,
+    13026465052,
+    5684479799
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827299,
+  "nodes": [
+    5684479793,
+    5684479794
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "은대과선교",
+    "bridge:name:ko": "은대과선교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827300,
+  "nodes": [
+    5684479791,
+    5684479803
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "은대IC교",
+    "bridge:name:ko": "은대IC교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827301,
+  "nodes": [
+    5684479803,
+    5684479793
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827302,
+  "nodes": [
+    5684479813,
+    5684479812
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "가사평교",
+    "bridge:name:ko": "가사평교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827303,
+  "nodes": [
+    5684479812,
+    13026465051,
+    5684479811,
+    13026465054,
+    5684479810,
+    13026465056,
+    5684479809,
+    13026465057,
+    13026465058,
+    5684479808,
+    13026465062,
+    13026465063,
+    5684479823,
+    5684479807
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827304,
+  "nodes": [
+    5684479807,
+    5684479806
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "은대과선교",
+    "bridge:name:ko": "은대과선교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827306,
+  "nodes": [
+    5684479806,
+    5684479805
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827307,
+  "nodes": [
+    5684479805,
+    5684479804
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "은대IC교",
+    "bridge:name:ko": "은대IC교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827308,
+  "nodes": [
+    5684479804,
+    5684479829,
+    5684479785,
+    5684479784
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827315,
+  "nodes": [
+    5684479861,
+    5684479860,
+    5684479859,
+    5684479857
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "구석동교",
+    "bridge:name:ko": "구석동교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827316,
+  "nodes": [
+    5684479867,
+    5684479840,
+    13026465020,
+    5684479841,
+    13026465018,
+    5684479842,
+    13026465017,
+    5684479843,
+    13026465015,
+    13026465014,
+    5684479844,
+    13026465013,
+    13026465012,
+    5684479870,
+    13026465011,
+    5684479871,
+    9047288557,
+    5684479872,
+    5694548082,
+    5694548050,
+    5694548051,
+    5694548052,
+    5694548053,
+    5694548054,
+    5694548055
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827318,
+  "nodes": [
+    5684479857,
+    5684479856,
+    5684479855,
+    13026465023,
+    5684479854
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827319,
+  "nodes": [
+    5684479839,
+    5684479867
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "구석동교",
+    "bridge:name:ko": "구석동교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827320,
+  "nodes": [
+    5684479854,
+    13026359599,
+    13026359600,
+    13026465001,
+    5684479853
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "황지교",
+    "bridge:name:ko": "황지교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827321,
+  "nodes": [
+    5684479853,
+    13026359598,
+    5684479852,
+    5684479851,
+    5684479850,
+    13026359597,
+    5684479849
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827322,
+  "nodes": [
+    5684479837,
+    5684479838,
+    13026465022,
+    5684479839
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827323,
+  "nodes": [
+    5684479836,
+    13026465027,
+    13026465026,
+    13026465025,
+    13026465024,
+    5684479837
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "황지교",
+    "bridge:name:ko": "황지교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827324,
+  "nodes": [
+    5684479832,
+    13026465029,
+    5684479833,
+    5684479834,
+    13026465028,
+    5684479835,
+    5684479836
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827325,
+  "nodes": [
+    5684479831,
+    13026465040,
+    13026465039,
+    13026465038,
+    13026465037,
+    13026465033,
+    13026465036,
+    13026465032,
+    13026465031,
+    13026465035,
+    13026465030,
+    13026465034,
+    5684479832
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "용바위교",
+    "bridge:name:ko": "용바위교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827326,
+  "nodes": [
+    5684479869,
+    5684479845,
+    13026465048,
+    5684479814,
+    13026465049,
+    5684479813
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 596827327,
+  "nodes": [
+    5684479849,
+    5684479848,
+    13026465041,
+    13026465042,
+    5684479847,
+    13026465043,
+    5684479846,
+    13026465044,
+    5684479869
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "용바위교",
+    "bridge:name:ko": "용바위교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
   "id": 597119331,
   "nodes": [
     436692238,
@@ -192688,6 +193463,1076 @@
     "name:ko": "원문로",
     "oneway": "yes",
     "ref": "42"
+  }
+},
+{
+  "type": "way",
+  "id": 598295276,
+  "nodes": [
+    5694548070,
+    5694548092,
+    5694548071,
+    8308497528,
+    13184677765,
+    13184677761,
+    5694549820
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295278,
+  "nodes": [
+    5694548069,
+    5694548070
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295281,
+  "nodes": [
+    5694548067,
+    5694548066
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295283,
+  "nodes": [
+    5694548066,
+    5694548098,
+    5694548065
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295285,
+  "nodes": [
+    5694548072,
+    5694548087,
+    5694548057,
+    5694548069
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295293,
+  "nodes": [
+    5694548055,
+    5694548072
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295299,
+  "nodes": [
+    5694548065,
+    5694548064
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295302,
+  "nodes": [
+    5694548064,
+    5694548063,
+    5694548062,
+    5694548061,
+    5694548060,
+    5694548059,
+    5694548058,
+    5694548083,
+    8308489567,
+    5684479876,
+    5684479880,
+    5684479875,
+    13026465010,
+    5684479874,
+    13026465009,
+    13026465008,
+    5684479866,
+    13026465016,
+    13026465007,
+    13026465006,
+    5684479865,
+    13026465005,
+    13026465019,
+    5684479864,
+    13026465004,
+    5684479863,
+    13026465003,
+    5684479862,
+    13026465002,
+    13026465021,
+    5684479861
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295341,
+  "nodes": [
+    5694549827,
+    5694549824,
+    5694549856,
+    5694549826
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295344,
+  "nodes": [
+    5694549828,
+    5694549827
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "동이교",
+    "bridge:name:ko": "동이교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295347,
+  "nodes": [
+    5694549839,
+    13184677755,
+    13184677754,
+    5694549821,
+    5694549849,
+    5694549822,
+    5694549823,
+    5694549828
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295350,
+  "nodes": [
+    5694549820,
+    5694549839
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "동이대교",
+    "bridge:name:ko": "동이대교",
+    "bridge:structure": "cable-stayed",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295354,
+  "nodes": [
+    5694549836,
+    5694549835
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "동이교",
+    "bridge:name:ko": "동이교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295358,
+  "nodes": [
+    5694549835,
+    5694549834,
+    5694549833,
+    5694549848,
+    11171240827,
+    5694549831,
+    13184677756,
+    13184677757,
+    5694549830
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295360,
+  "nodes": [
+    5694549830,
+    5694549829
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "동이대교",
+    "bridge:name:ko": "동이대교",
+    "bridge:structure": "cable-stayed",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295363,
+  "nodes": [
+    5694549829,
+    13184677760,
+    13184677764,
+    5694548068,
+    5694548093,
+    5694548067
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295386,
+  "nodes": [
+    5694549826,
+    13184677724,
+    13184677720,
+    13184677731,
+    5694549924,
+    5694549925,
+    5694549926,
+    5694549927
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "마포교",
+    "bridge:name:ko": "마포교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295387,
+  "nodes": [
+    5694549838,
+    5694549837,
+    8308489572,
+    5694549843,
+    14078011052,
+    5694549836
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295389,
+  "nodes": [
+    5694549927,
+    5694549928
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295391,
+  "nodes": [
+    5694549937,
+    5694549931,
+    13184677727,
+    5694549930,
+    13184677730,
+    13184677719,
+    13184677723,
+    5694549838
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "마포교",
+    "bridge:name:ko": "마포교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295393,
+  "nodes": [
+    5694549929,
+    5694549936,
+    5694549938,
+    5694549971,
+    5694549939,
+    5694549940,
+    5694549941
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295398,
+  "nodes": [
+    5694549934,
+    5694549933
+  ],
+  "tags": {
+    "highway": "trunk",
+    "layer": "-1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "tunnel": "yes",
+    "tunnel:name": "어유터널",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295405,
+  "nodes": [
+    5694549933,
+    5694549937
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295407,
+  "nodes": [
+    5694549928,
+    5694549929
+  ],
+  "tags": {
+    "highway": "trunk",
+    "layer": "-1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "tunnel": "yes",
+    "tunnel:name": "어유터널",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295410,
+  "nodes": [
+    5694549961,
+    5694549942,
+    5694549943,
+    5694549979,
+    5694549944
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295412,
+  "nodes": [
+    5694549941,
+    5694549961
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "어유1교",
+    "bridge:name:ko": "어유1교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295415,
+  "nodes": [
+    5694549956,
+    5694549955
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "어유1교",
+    "bridge:name:ko": "어유1교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295417,
+  "nodes": [
+    5694549955,
+    5694549954,
+    5694549953,
+    5694549952,
+    5694549970,
+    5694549951,
+    5694549935,
+    5694549934
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295425,
+  "nodes": [
+    5694549980,
+    5694549945
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295428,
+  "nodes": [
+    5694549944,
+    5694549980
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "어유2교",
+    "bridge:name:ko": "어유2교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295430,
+  "nodes": [
+    5694549958,
+    5694549963,
+    5694549957,
+    5694549956
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295432,
+  "nodes": [
+    5694549959,
+    5694549958
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "어유2교",
+    "bridge:name:ko": "어유2교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295435,
+  "nodes": [
+    5694549946,
+    5694549947,
+    5694549983,
+    12889844639,
+    5694549984,
+    12889844640,
+    13208925816,
+    5694549985,
+    5694549986,
+    5694549987,
+    5694549988,
+    8308491058,
+    5694549989,
+    5694550022,
+    5694549990,
+    5694549991
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "surface": "asphalt",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295438,
+  "nodes": [
+    5694549945,
+    5694549946
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "장현1교",
+    "bridge:name:ko": "장현1교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295441,
+  "nodes": [
+    5694549981,
+    5694549982
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "장현1교",
+    "bridge:name:ko": "장현1교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295443,
+  "nodes": [
+    5694549982,
+    5694549959
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295445,
+  "nodes": [
+    5694550007,
+    5694550015
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "장현2교",
+    "bridge:name:ko": "장현2교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "2",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "surface": "asphalt",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295448,
+  "nodes": [
+    5694549992,
+    13208925841,
+    5694549993,
+    5694549994,
+    5694549995,
+    5694549996,
+    5694550027
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "surface": "asphalt",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295451,
+  "nodes": [
+    5694550015,
+    5694550006,
+    5694550021,
+    5694550005,
+    5694550004,
+    5694550003,
+    12889851665,
+    5694550002,
+    5694550001,
+    13208925815,
+    5694550000,
+    12889844638,
+    5694549999,
+    8308488385,
+    5694549998,
+    5694549960,
+    5694549981
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "surface": "asphalt",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295454,
+  "nodes": [
+    5694549991,
+    5694549992
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "장현2교",
+    "bridge:name:ko": "장현2교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "surface": "asphalt",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295463,
+  "nodes": [
+    5694550036,
+    5694550037
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "객현2교",
+    "bridge:name:ko": "객현2교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295468,
+  "nodes": [
+    5694550038,
+    5694550039
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "객현2교",
+    "bridge:name:ko": "객현2교",
+    "bridge:structure": "beam",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295472,
+  "nodes": [
+    5694550039,
+    5694550032,
+    5694550033,
+    5694550034,
+    9047462603,
+    5694550035,
+    8308483646,
+    436649837
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 598295487,
+  "nodes": [
+    12889844788,
+    5694550012,
+    5694550011,
+    9047462542,
+    5694550010,
+    5694550009,
+    5694550008,
+    5694550007
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "surface": "asphalt",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
   }
 },
 {
@@ -233954,6 +235799,271 @@
 },
 {
   "type": "way",
+  "id": 789987949,
+  "nodes": [
+    7385934750,
+    5684429224,
+    9047041400,
+    7385934749
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 789987950,
+  "nodes": [
+    5684429223,
+    7385934750
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 789987951,
+  "nodes": [
+    5684429222,
+    9047041367,
+    7385934752,
+    9047041366,
+    9047041370,
+    5684429223
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 789987952,
+  "nodes": [
+    7385934751,
+    5684429222
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 789987955,
+  "nodes": [
+    9047041327,
+    7385934754
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 789987956,
+  "nodes": [
+    7385934754,
+    5684428916
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 789987957,
+  "nodes": [
+    5684428916,
+    9047041343,
+    9047041349,
+    5684428918,
+    14078011046,
+    14078011009,
+    7385934753,
+    5684428919,
+    9047041358,
+    5684428920,
+    5684429221,
+    9047041359,
+    7385934751
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 789987960,
+  "nodes": [
+    9046847292,
+    5684428892,
+    9046890385,
+    9046890382,
+    5684428893
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 789987966,
+  "nodes": [
+    5684428900,
+    9046890618,
+    9046890631,
+    9046890632,
+    9046890738
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 789987967,
+  "nodes": [
+    5684428907,
+    9046983012,
+    14078011054,
+    9046983015,
+    14078011008,
+    9046983013,
+    5684428908,
+    9046983014,
+    7385934762,
+    9047041128,
+    7385934763,
+    14078011050,
+    5684428909,
+    7385934761,
+    5684428910,
+    7385934760,
+    9047041230,
+    5684428911,
+    5684428912,
+    5684428913,
+    5684428914,
+    9047041240,
+    9047041241,
+    5684428915,
+    9047041250
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 789987968,
+  "nodes": [
+    5684428906,
+    9046983011,
+    5684428907
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
   "id": 790674015,
   "nodes": [
     3664254400,
@@ -269906,6 +272016,402 @@
     "oneway": "yes",
     "ref": "43;45",
     "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 977740634,
+  "nodes": [
+    9046890381,
+    9046890383,
+    9046890380,
+    9046890384,
+    9046890379,
+    7385934765
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 977740652,
+  "nodes": [
+    9046890770,
+    9046890769,
+    9046890768,
+    9046890767,
+    9046890766,
+    14078011076,
+    14078011033,
+    9046890765,
+    9046890764,
+    9046890763,
+    9046890757,
+    9046890748,
+    9046890749,
+    9046890747,
+    9046890746,
+    9046890756,
+    9046890745,
+    9046890741,
+    9046890740,
+    9046890739,
+    9046890704,
+    9046890703,
+    9046890702,
+    9046890711
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 977753892,
+  "nodes": [
+    9047041247,
+    9047041246,
+    9047041245,
+    9047041244,
+    9047041243,
+    9047041242,
+    9047041235,
+    9047041234,
+    9047041233,
+    9047041232,
+    9047041228,
+    9047041229,
+    9047041231,
+    9047041227,
+    14078011037,
+    9047041226,
+    9047041225,
+    9047041224,
+    9047041127,
+    9047041126,
+    9047041125,
+    9047041124,
+    9047041123,
+    9047041122,
+    9047041121,
+    9047041195,
+    9047041118,
+    9047041117,
+    9046983007
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 977753893,
+  "nodes": [
+    9046983007,
+    9046983006,
+    9046890770
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 977753911,
+  "nodes": [
+    9047041249,
+    9047041256,
+    9047041255,
+    9047041330,
+    14078011021,
+    7385934755
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 977753912,
+  "nodes": [
+    9047041250,
+    9047041249
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 977753913,
+  "nodes": [
+    9047041338,
+    9047041254,
+    9047041253,
+    9047041252,
+    9047041248
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 977753914,
+  "nodes": [
+    9047041248,
+    9047041247
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 977753931,
+  "nodes": [
+    9047041336,
+    14078011078,
+    9047041338
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 977753932,
+  "nodes": [
+    7385934755,
+    9047041339,
+    9047041329,
+    9047041327
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 977753933,
+  "nodes": [
+    9047041340,
+    9047041336
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 977753934,
+  "nodes": [
+    9047041362,
+    9047041361,
+    9047041357,
+    14078011027,
+    9047041356,
+    9047041355,
+    9047041354,
+    14078011068,
+    9047041353,
+    9047041352,
+    9047041351,
+    9047041348,
+    9047041340
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 977753936,
+  "nodes": [
+    9047041363,
+    9047041362
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 977753939,
+  "nodes": [
+    9047041372,
+    9047041371,
+    9047041365,
+    9047041364,
+    9047041363
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 977753940,
+  "nodes": [
+    9047041373,
+    9047041372
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 977753949,
+  "nodes": [
+    9047041374,
+    9047041399,
+    9047041373
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
   }
 },
 {
@@ -318315,6 +320821,100 @@
 },
 {
   "type": "way",
+  "id": 1392478268,
+  "nodes": [
+    5694550037,
+    5694550057,
+    5694550025,
+    9047462522,
+    9047462540,
+    5694550013,
+    12889844789
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "surface": "asphalt",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 1392478269,
+  "nodes": [
+    12889844789,
+    12889844788
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "surface": "asphalt",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 1392478270,
+  "nodes": [
+    12889844790,
+    5694550028,
+    9047462523,
+    9047462535,
+    5694550058,
+    9047462534,
+    5694550038
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "surface": "asphalt",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 1392478271,
+  "nodes": [
+    5694550027,
+    12889844790
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "surface": "asphalt",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
   "id": 1395252555,
   "nodes": [
     12914867519,
@@ -320605,6 +323205,83 @@
     "name:en": "Baranyanggam-ro",
     "name:ko": "발안양감로",
     "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1417505858,
+  "nodes": [
+    9046890738,
+    9046890634,
+    9046890635,
+    5684428901,
+    9046890743,
+    9046890744,
+    9046890742,
+    5684428902,
+    9046890758,
+    5684428903,
+    9046890759,
+    14078011018,
+    5684428904,
+    9046890761,
+    9046890762,
+    9046890760,
+    5684428905,
+    5684428906
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 1417505860,
+  "nodes": [
+    9046890692,
+    9046890701,
+    9046890699,
+    9046890698,
+    9046890619,
+    9046890616
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
+  }
+},
+{
+  "type": "way",
+  "id": 1417505862,
+  "nodes": [
+    9046890711,
+    9046890692
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "동서로",
+    "name:en": "Dongseo-ro",
+    "name:ko": "동서로",
+    "oneway": "yes",
+    "ref": "37",
+    "wikidata": "Q117431123",
+    "wikipedia": "ko:동서로"
   }
 },
 {
@@ -327885,7 +330562,7 @@
     "name": "평화대로",
     "name:en": "Pyeonghwa-daero",
     "name:ko": "평화대로",
-    "oneway": "yes",
+    "oneway": "no",
     "ref": "73"
   }
 },
@@ -627666,14 +630343,20 @@
 {
   "type": "node",
   "id": 11044649964,
-  "lat": 37.1945566,
-  "lon": 126.8791584
+  "lat": 37.1945520,
+  "lon": 126.8791270
+},
+{
+  "type": "node",
+  "id": 11044649965,
+  "lat": 37.1948976,
+  "lon": 126.8790323
 },
 {
   "type": "node",
   "id": 11044649966,
-  "lat": 37.1930580,
-  "lon": 126.8796455
+  "lat": 37.1937619,
+  "lon": 126.8793670
 },
 {
   "type": "node",
@@ -627702,38 +630385,32 @@
 {
   "type": "node",
   "id": 8667700726,
-  "lat": 37.1986416,
-  "lon": 126.8786763
+  "lat": 37.1986740,
+  "lon": 126.8786505
 },
 {
   "type": "node",
   "id": 11044649960,
-  "lat": 37.1974804,
-  "lon": 126.8787189
+  "lat": 37.1981478,
+  "lon": 126.8786733
 },
 {
   "type": "node",
   "id": 11044649961,
-  "lat": 37.1965061,
-  "lon": 126.8787946
+  "lat": 37.1965219,
+  "lon": 126.8787520
 },
 {
   "type": "node",
   "id": 11044649962,
-  "lat": 37.1957686,
-  "lon": 126.8788960
+  "lat": 37.1959683,
+  "lon": 126.8788266
 },
 {
   "type": "node",
   "id": 11044649963,
-  "lat": 37.1951827,
-  "lon": 126.8789917
-},
-{
-  "type": "node",
-  "id": 11044649965,
-  "lat": 37.1950273,
-  "lon": 126.8790331
+  "lat": 37.1955055,
+  "lon": 126.8789025
 },
 {
   "type": "node",
@@ -678305,6 +680982,1038 @@
 },
 {
   "type": "node",
+  "id": 436649837,
+  "lat": 37.9785071,
+  "lon": 126.9345005
+},
+{
+  "type": "node",
+  "id": 5694550035,
+  "lat": 37.9784041,
+  "lon": 126.9350451
+},
+{
+  "type": "node",
+  "id": 8308483646,
+  "lat": 37.9784666,
+  "lon": 126.9347227
+},
+{
+  "type": "node",
+  "id": 9047462543,
+  "lat": 37.9784049,
+  "lon": 126.9344777
+},
+{
+  "type": "node",
+  "id": 9047462602,
+  "lat": 37.9781938,
+  "lon": 126.9359469
+},
+{
+  "type": "node",
+  "id": 9047462603,
+  "lat": 37.9782773,
+  "lon": 126.9359383
+},
+{
+  "type": "node",
+  "id": 9047462607,
+  "lat": 37.9783381,
+  "lon": 126.9349426
+},
+{
+  "type": "node",
+  "id": 5694550031,
+  "lat": 37.9780722,
+  "lon": 126.9369280
+},
+{
+  "type": "node",
+  "id": 5694550033,
+  "lat": 37.9776324,
+  "lon": 126.9407314
+},
+{
+  "type": "node",
+  "id": 5694550034,
+  "lat": 37.9781272,
+  "lon": 126.9371587
+},
+{
+  "type": "node",
+  "id": 14078011041,
+  "lat": 37.9775469,
+  "lon": 126.9406962
+},
+{
+  "type": "node",
+  "id": 5694550030,
+  "lat": 37.9770810,
+  "lon": 126.9441781
+},
+{
+  "type": "node",
+  "id": 5694550032,
+  "lat": 37.9771631,
+  "lon": 126.9441378
+},
+{
+  "type": "node",
+  "id": 5694550036,
+  "lat": 37.9768026,
+  "lon": 126.9463739
+},
+{
+  "type": "node",
+  "id": 5694550037,
+  "lat": 37.9766614,
+  "lon": 126.9474351
+},
+{
+  "type": "node",
+  "id": 5694550038,
+  "lat": 37.9767346,
+  "lon": 126.9475078
+},
+{
+  "type": "node",
+  "id": 5694550039,
+  "lat": 37.9768835,
+  "lon": 126.9464366
+},
+{
+  "type": "node",
+  "id": 5694549996,
+  "lat": 37.9760708,
+  "lon": 126.9560733
+},
+{
+  "type": "node",
+  "id": 5694550012,
+  "lat": 37.9760257,
+  "lon": 126.9563251
+},
+{
+  "type": "node",
+  "id": 5694550013,
+  "lat": 37.9758807,
+  "lon": 126.9551056
+},
+{
+  "type": "node",
+  "id": 5694550025,
+  "lat": 37.9761322,
+  "lon": 126.9513367
+},
+{
+  "type": "node",
+  "id": 5694550027,
+  "lat": 37.9759960,
+  "lon": 126.9553809
+},
+{
+  "type": "node",
+  "id": 5694550028,
+  "lat": 37.9759621,
+  "lon": 126.9542873
+},
+{
+  "type": "node",
+  "id": 5694550057,
+  "lat": 37.9762223,
+  "lon": 126.9508151
+},
+{
+  "type": "node",
+  "id": 5694550058,
+  "lat": 37.9763001,
+  "lon": 126.9508370
+},
+{
+  "type": "node",
+  "id": 9047462522,
+  "lat": 37.9759487,
+  "lon": 126.9529046
+},
+{
+  "type": "node",
+  "id": 9047462523,
+  "lat": 37.9760310,
+  "lon": 126.9528860
+},
+{
+  "type": "node",
+  "id": 9047462534,
+  "lat": 37.9763423,
+  "lon": 126.9504436
+},
+{
+  "type": "node",
+  "id": 9047462535,
+  "lat": 37.9761893,
+  "lon": 126.9516427
+},
+{
+  "type": "node",
+  "id": 9047462540,
+  "lat": 37.9758731,
+  "lon": 126.9542228
+},
+{
+  "type": "node",
+  "id": 12889844788,
+  "lat": 37.9759081,
+  "lon": 126.9554399
+},
+{
+  "type": "node",
+  "id": 12889844789,
+  "lat": 37.9758829,
+  "lon": 126.9551552
+},
+{
+  "type": "node",
+  "id": 12889844790,
+  "lat": 37.9759658,
+  "lon": 126.9550990
+},
+{
+  "type": "node",
+  "id": 5694549993,
+  "lat": 37.9770386,
+  "lon": 126.9594979
+},
+{
+  "type": "node",
+  "id": 5694549994,
+  "lat": 37.9765257,
+  "lon": 126.9581181
+},
+{
+  "type": "node",
+  "id": 5694549995,
+  "lat": 37.9762457,
+  "lon": 126.9570373
+},
+{
+  "type": "node",
+  "id": 5694550008,
+  "lat": 37.9773669,
+  "lon": 126.9603735
+},
+{
+  "type": "node",
+  "id": 5694550009,
+  "lat": 37.9769359,
+  "lon": 126.9595005
+},
+{
+  "type": "node",
+  "id": 5694550010,
+  "lat": 37.9765827,
+  "lon": 126.9585374
+},
+{
+  "type": "node",
+  "id": 5694550011,
+  "lat": 37.9762562,
+  "lon": 126.9574033
+},
+{
+  "type": "node",
+  "id": 9047462542,
+  "lat": 37.9765006,
+  "lon": 126.9582872
+},
+{
+  "type": "node",
+  "id": 13208925841,
+  "lat": 37.9774576,
+  "lon": 126.9602918
+},
+{
+  "type": "node",
+  "id": 5694549990,
+  "lat": 37.9812416,
+  "lon": 126.9668210
+},
+{
+  "type": "node",
+  "id": 5694549991,
+  "lat": 37.9801575,
+  "lon": 126.9649363
+},
+{
+  "type": "node",
+  "id": 5694549992,
+  "lat": 37.9793458,
+  "lon": 126.9635746
+},
+{
+  "type": "node",
+  "id": 5694550006,
+  "lat": 37.9811586,
+  "lon": 126.9668600
+},
+{
+  "type": "node",
+  "id": 5694550007,
+  "lat": 37.9793888,
+  "lon": 126.9638221
+},
+{
+  "type": "node",
+  "id": 5694550015,
+  "lat": 37.9801915,
+  "lon": 126.9651912
+},
+{
+  "type": "node",
+  "id": 5694549989,
+  "lat": 37.9820594,
+  "lon": 126.9681193
+},
+{
+  "type": "node",
+  "id": 5694550005,
+  "lat": 37.9820780,
+  "lon": 126.9684230
+},
+{
+  "type": "node",
+  "id": 5694550021,
+  "lat": 37.9814548,
+  "lon": 126.9673878
+},
+{
+  "type": "node",
+  "id": 5694550022,
+  "lat": 37.9815368,
+  "lon": 126.9672749
+},
+{
+  "type": "node",
+  "id": 8308491058,
+  "lat": 37.9822277,
+  "lon": 126.9683988
+},
+{
+  "type": "node",
+  "id": 5694549985,
+  "lat": 37.9859601,
+  "lon": 126.9745087
+},
+{
+  "type": "node",
+  "id": 5694549986,
+  "lat": 37.9852714,
+  "lon": 126.9735533
+},
+{
+  "type": "node",
+  "id": 5694549987,
+  "lat": 37.9843853,
+  "lon": 126.9720873
+},
+{
+  "type": "node",
+  "id": 5694549988,
+  "lat": 37.9833517,
+  "lon": 126.9703076
+},
+{
+  "type": "node",
+  "id": 5694550001,
+  "lat": 37.9858977,
+  "lon": 126.9745863
+},
+{
+  "type": "node",
+  "id": 5694550002,
+  "lat": 37.9852079,
+  "lon": 126.9736501
+},
+{
+  "type": "node",
+  "id": 5694550003,
+  "lat": 37.9843180,
+  "lon": 126.9722099
+},
+{
+  "type": "node",
+  "id": 5694550004,
+  "lat": 37.9832843,
+  "lon": 126.9703803
+},
+{
+  "type": "node",
+  "id": 12889851665,
+  "lat": 37.9847621,
+  "lon": 126.9729311
+},
+{
+  "type": "node",
+  "id": 13208925815,
+  "lat": 37.9865027,
+  "lon": 126.9753394
+},
+{
+  "type": "node",
+  "id": 13208925816,
+  "lat": 37.9865573,
+  "lon": 126.9752549
+},
+{
+  "type": "node",
+  "id": 5694550000,
+  "lat": 37.9872509,
+  "lon": 126.9761883
+},
+{
+  "type": "node",
+  "id": 12889844640,
+  "lat": 37.9872436,
+  "lon": 126.9760172
+},
+{
+  "type": "node",
+  "id": 5694549945,
+  "lat": 37.9924254,
+  "lon": 126.9804663
+},
+{
+  "type": "node",
+  "id": 5694549946,
+  "lat": 37.9921902,
+  "lon": 126.9802817
+},
+{
+  "type": "node",
+  "id": 5694549947,
+  "lat": 37.9914854,
+  "lon": 126.9797058
+},
+{
+  "type": "node",
+  "id": 5694549960,
+  "lat": 37.9914409,
+  "lon": 126.9797933
+},
+{
+  "type": "node",
+  "id": 5694549981,
+  "lat": 37.9922263,
+  "lon": 126.9804462
+},
+{
+  "type": "node",
+  "id": 5694549982,
+  "lat": 37.9924595,
+  "lon": 126.9806313
+},
+{
+  "type": "node",
+  "id": 5694549983,
+  "lat": 37.9898720,
+  "lon": 126.9784090
+},
+{
+  "type": "node",
+  "id": 5694549984,
+  "lat": 37.9881211,
+  "lon": 126.9768900
+},
+{
+  "type": "node",
+  "id": 5694549998,
+  "lat": 37.9905181,
+  "lon": 126.9790502
+},
+{
+  "type": "node",
+  "id": 5694549999,
+  "lat": 37.9886048,
+  "lon": 126.9774726
+},
+{
+  "type": "node",
+  "id": 8308488385,
+  "lat": 37.9898489,
+  "lon": 126.9784842
+},
+{
+  "type": "node",
+  "id": 12889844638,
+  "lat": 37.9880690,
+  "lon": 126.9769802
+},
+{
+  "type": "node",
+  "id": 12889844639,
+  "lat": 37.9886912,
+  "lon": 126.9774236
+},
+{
+  "type": "node",
+  "id": 5694549959,
+  "lat": 37.9947246,
+  "lon": 126.9824294
+},
+{
+  "type": "node",
+  "id": 5694549980,
+  "lat": 37.9947844,
+  "lon": 126.9823036
+},
+{
+  "type": "node",
+  "id": 5694549938,
+  "lat": 37.9996016,
+  "lon": 126.9874551
+},
+{
+  "type": "node",
+  "id": 5694549939,
+  "lat": 37.9987615,
+  "lon": 126.9861179
+},
+{
+  "type": "node",
+  "id": 5694549940,
+  "lat": 37.9980817,
+  "lon": 126.9852368
+},
+{
+  "type": "node",
+  "id": 5694549941,
+  "lat": 37.9975669,
+  "lon": 126.9846883
+},
+{
+  "type": "node",
+  "id": 5694549942,
+  "lat": 37.9972416,
+  "lon": 126.9843556
+},
+{
+  "type": "node",
+  "id": 5694549943,
+  "lat": 37.9961199,
+  "lon": 126.9833512
+},
+{
+  "type": "node",
+  "id": 5694549944,
+  "lat": 37.9952992,
+  "lon": 126.9827165
+},
+{
+  "type": "node",
+  "id": 5694549951,
+  "lat": 38.0000627,
+  "lon": 126.9884673
+},
+{
+  "type": "node",
+  "id": 5694549952,
+  "lat": 37.9990308,
+  "lon": 126.9867331
+},
+{
+  "type": "node",
+  "id": 5694549953,
+  "lat": 37.9987073,
+  "lon": 126.9862305
+},
+{
+  "type": "node",
+  "id": 5694549954,
+  "lat": 37.9977033,
+  "lon": 126.9849989
+},
+{
+  "type": "node",
+  "id": 5694549955,
+  "lat": 37.9974969,
+  "lon": 126.9847724
+},
+{
+  "type": "node",
+  "id": 5694549956,
+  "lat": 37.9972459,
+  "lon": 126.9844892
+},
+{
+  "type": "node",
+  "id": 5694549957,
+  "lat": 37.9960187,
+  "lon": 126.9834133
+},
+{
+  "type": "node",
+  "id": 5694549958,
+  "lat": 37.9952377,
+  "lon": 126.9828329
+},
+{
+  "type": "node",
+  "id": 5694549961,
+  "lat": 37.9973142,
+  "lon": 126.9844298
+},
+{
+  "type": "node",
+  "id": 5694549963,
+  "lat": 37.9953021,
+  "lon": 126.9828807
+},
+{
+  "type": "node",
+  "id": 5694549970,
+  "lat": 37.9991882,
+  "lon": 126.9869976
+},
+{
+  "type": "node",
+  "id": 5694549971,
+  "lat": 37.9993965,
+  "lon": 126.9871286
+},
+{
+  "type": "node",
+  "id": 5694549979,
+  "lat": 37.9954976,
+  "lon": 126.9828699
+},
+{
+  "type": "node",
+  "id": 5694549927,
+  "lat": 38.0038874,
+  "lon": 126.9949331
+},
+{
+  "type": "node",
+  "id": 5694549928,
+  "lat": 38.0037347,
+  "lon": 126.9946453
+},
+{
+  "type": "node",
+  "id": 5694549929,
+  "lat": 38.0020993,
+  "lon": 126.9919595
+},
+{
+  "type": "node",
+  "id": 5694549933,
+  "lat": 38.0036309,
+  "lon": 126.9947552
+},
+{
+  "type": "node",
+  "id": 5694549934,
+  "lat": 38.0020257,
+  "lon": 126.9920230
+},
+{
+  "type": "node",
+  "id": 5694549935,
+  "lat": 38.0011486,
+  "lon": 126.9904031
+},
+{
+  "type": "node",
+  "id": 5694549936,
+  "lat": 38.0012241,
+  "lon": 126.9903463
+},
+{
+  "type": "node",
+  "id": 5694549937,
+  "lat": 38.0037840,
+  "lon": 126.9950054
+},
+{
+  "type": "node",
+  "id": 5694549924,
+  "lat": 38.0072429,
+  "lon": 127.0002160
+},
+{
+  "type": "node",
+  "id": 5694549925,
+  "lat": 38.0065303,
+  "lon": 126.9992423
+},
+{
+  "type": "node",
+  "id": 5694549926,
+  "lat": 38.0053076,
+  "lon": 126.9974166
+},
+{
+  "type": "node",
+  "id": 5694549930,
+  "lat": 38.0071938,
+  "lon": 127.0002923
+},
+{
+  "type": "node",
+  "id": 5694549931,
+  "lat": 38.0052123,
+  "lon": 126.9974345
+},
+{
+  "type": "node",
+  "id": 13184677727,
+  "lat": 38.0064649,
+  "lon": 126.9993004
+},
+{
+  "type": "node",
+  "id": 13184677719,
+  "lat": 38.0085139,
+  "lon": 127.0019396
+},
+{
+  "type": "node",
+  "id": 13184677720,
+  "lat": 38.0085744,
+  "lon": 127.0018537
+},
+{
+  "type": "node",
+  "id": 13184677730,
+  "lat": 38.0078492,
+  "lon": 127.0011266
+},
+{
+  "type": "node",
+  "id": 13184677731,
+  "lat": 38.0079072,
+  "lon": 127.0010548
+},
+{
+  "type": "node",
+  "id": 5694549824,
+  "lat": 38.0129994,
+  "lon": 127.0064613
+},
+{
+  "type": "node",
+  "id": 5694549826,
+  "lat": 38.0103771,
+  "lon": 127.0038355
+},
+{
+  "type": "node",
+  "id": 5694549827,
+  "lat": 38.0135084,
+  "lon": 127.0069752
+},
+{
+  "type": "node",
+  "id": 5694549828,
+  "lat": 38.0137780,
+  "lon": 127.0072692
+},
+{
+  "type": "node",
+  "id": 5694549835,
+  "lat": 38.0137240,
+  "lon": 127.0073583
+},
+{
+  "type": "node",
+  "id": 5694549836,
+  "lat": 38.0134619,
+  "lon": 127.0070681
+},
+{
+  "type": "node",
+  "id": 5694549837,
+  "lat": 38.0108186,
+  "lon": 127.0043600
+},
+{
+  "type": "node",
+  "id": 5694549838,
+  "lat": 38.0103270,
+  "lon": 127.0039029
+},
+{
+  "type": "node",
+  "id": 5694549843,
+  "lat": 38.0117103,
+  "lon": 127.0052683
+},
+{
+  "type": "node",
+  "id": 5694549856,
+  "lat": 38.0119349,
+  "lon": 127.0053439
+},
+{
+  "type": "node",
+  "id": 8308489572,
+  "lat": 38.0113683,
+  "lon": 127.0049242
+},
+{
+  "type": "node",
+  "id": 13184677723,
+  "lat": 38.0093153,
+  "lon": 127.0028514
+},
+{
+  "type": "node",
+  "id": 13184677724,
+  "lat": 38.0093522,
+  "lon": 127.0027475
+},
+{
+  "type": "node",
+  "id": 14078011052,
+  "lat": 38.0123619,
+  "lon": 127.0059108
+},
+{
+  "type": "node",
+  "id": 5694549823,
+  "lat": 38.0145384,
+  "lon": 127.0081436
+},
+{
+  "type": "node",
+  "id": 5694549834,
+  "lat": 38.0145655,
+  "lon": 127.0083216
+},
+{
+  "type": "node",
+  "id": 5694549821,
+  "lat": 38.0156589,
+  "lon": 127.0100644
+},
+{
+  "type": "node",
+  "id": 5694549822,
+  "lat": 38.0151550,
+  "lon": 127.0090494
+},
+{
+  "type": "node",
+  "id": 5694549830,
+  "lat": 38.0160562,
+  "lon": 127.0117484
+},
+{
+  "type": "node",
+  "id": 5694549831,
+  "lat": 38.0156875,
+  "lon": 127.0103916
+},
+{
+  "type": "node",
+  "id": 5694549833,
+  "lat": 38.0149782,
+  "lon": 127.0089445
+},
+{
+  "type": "node",
+  "id": 5694549839,
+  "lat": 38.0161502,
+  "lon": 127.0117144
+},
+{
+  "type": "node",
+  "id": 5694549848,
+  "lat": 38.0152120,
+  "lon": 127.0093285
+},
+{
+  "type": "node",
+  "id": 5694549849,
+  "lat": 38.0155076,
+  "lon": 127.0097078
+},
+{
+  "type": "node",
+  "id": 11171240827,
+  "lat": 38.0154980,
+  "lon": 127.0099146
+},
+{
+  "type": "node",
+  "id": 13184677754,
+  "lat": 38.0158833,
+  "lon": 127.0107132
+},
+{
+  "type": "node",
+  "id": 13184677755,
+  "lat": 38.0160243,
+  "lon": 127.0112530
+},
+{
+  "type": "node",
+  "id": 13184677756,
+  "lat": 38.0158295,
+  "lon": 127.0108721
+},
+{
+  "type": "node",
+  "id": 13184677757,
+  "lat": 38.0159481,
+  "lon": 127.0113235
+},
+{
+  "type": "node",
+  "id": 5694549820,
+  "lat": 38.0173171,
+  "lon": 127.0167815
+},
+{
+  "type": "node",
+  "id": 5694549829,
+  "lat": 38.0172142,
+  "lon": 127.0168148
+},
+{
+  "type": "node",
+  "id": 13184677760,
+  "lat": 38.0178017,
+  "lon": 127.0195622
+},
+{
+  "type": "node",
+  "id": 13184677761,
+  "lat": 38.0179020,
+  "lon": 127.0195184
+},
+{
+  "type": "node",
+  "id": 5694548066,
+  "lat": 38.0199425,
+  "lon": 127.0276391
+},
+{
+  "type": "node",
+  "id": 5694548067,
+  "lat": 38.0198603,
+  "lon": 127.0273835
+},
+{
+  "type": "node",
+  "id": 5694548068,
+  "lat": 38.0189896,
+  "lon": 127.0243583
+},
+{
+  "type": "node",
+  "id": 5694548069,
+  "lat": 38.0200188,
+  "lon": 127.0276183
+},
+{
+  "type": "node",
+  "id": 5694548070,
+  "lat": 38.0199484,
+  "lon": 127.0273755
+},
+{
+  "type": "node",
+  "id": 5694548071,
+  "lat": 38.0190792,
+  "lon": 127.0243176
+},
+{
+  "type": "node",
+  "id": 5694548092,
+  "lat": 38.0193199,
+  "lon": 127.0251142
+},
+{
+  "type": "node",
+  "id": 5694548093,
+  "lat": 38.0192075,
+  "lon": 127.0250119
+},
+{
+  "type": "node",
+  "id": 8308497528,
+  "lat": 38.0189352,
+  "lon": 127.0237625
+},
+{
+  "type": "node",
+  "id": 13184677764,
+  "lat": 38.0184036,
+  "lon": 127.0221442
+},
+{
+  "type": "node",
+  "id": 13184677765,
+  "lat": 38.0184944,
+  "lon": 127.0220933
+},
+{
+  "type": "node",
+  "id": 5694548057,
+  "lat": 38.0203732,
+  "lon": 127.0290498
+},
+{
+  "type": "node",
+  "id": 5694548087,
+  "lat": 38.0206112,
+  "lon": 127.0297156
+},
+{
+  "type": "node",
+  "id": 5694548098,
+  "lat": 38.0204645,
+  "lon": 127.0295578
+},
+{
+  "type": "node",
+  "id": 5694548054,
+  "lat": 38.0220706,
+  "lon": 127.0349529
+},
+{
+  "type": "node",
+  "id": 5694548055,
+  "lat": 38.0214621,
+  "lon": 127.0327982
+},
+{
+  "type": "node",
+  "id": 5694548063,
+  "lat": 38.0219425,
+  "lon": 127.0347984
+},
+{
+  "type": "node",
+  "id": 5694548064,
+  "lat": 38.0213596,
+  "lon": 127.0328226
+},
+{
+  "type": "node",
+  "id": 5694548065,
+  "lat": 38.0208886,
+  "lon": 127.0311654
+},
+{
+  "type": "node",
+  "id": 5694548072,
+  "lat": 38.0209814,
+  "lon": 127.0311213
+},
+{
+  "type": "node",
   "id": 9025950857,
   "lat": 37.9802347,
   "lon": 127.0633625
@@ -678344,6 +682053,1074 @@
   "id": 10895984725,
   "lat": 37.9804257,
   "lon": 127.0636192
+},
+{
+  "type": "node",
+  "id": 5694548050,
+  "lat": 38.0250127,
+  "lon": 127.0404214
+},
+{
+  "type": "node",
+  "id": 5694548051,
+  "lat": 38.0238903,
+  "lon": 127.0387869
+},
+{
+  "type": "node",
+  "id": 5694548052,
+  "lat": 38.0232022,
+  "lon": 127.0375456
+},
+{
+  "type": "node",
+  "id": 5694548053,
+  "lat": 38.0226214,
+  "lon": 127.0363839
+},
+{
+  "type": "node",
+  "id": 5694548059,
+  "lat": 38.0249341,
+  "lon": 127.0405164
+},
+{
+  "type": "node",
+  "id": 5694548060,
+  "lat": 38.0238209,
+  "lon": 127.0388535
+},
+{
+  "type": "node",
+  "id": 5694548061,
+  "lat": 38.0231243,
+  "lon": 127.0376149
+},
+{
+  "type": "node",
+  "id": 5694548062,
+  "lat": 38.0224613,
+  "lon": 127.0362539
+},
+{
+  "type": "node",
+  "id": 5694548058,
+  "lat": 38.0262275,
+  "lon": 127.0420919
+},
+{
+  "type": "node",
+  "id": 5694548082,
+  "lat": 38.0272325,
+  "lon": 127.0431143
+},
+{
+  "type": "node",
+  "id": 5684479870,
+  "lat": 38.0311815,
+  "lon": 127.0478311
+},
+{
+  "type": "node",
+  "id": 5684479871,
+  "lat": 38.0295341,
+  "lon": 127.0459590
+},
+{
+  "type": "node",
+  "id": 5684479872,
+  "lat": 38.0282252,
+  "lon": 127.0442753
+},
+{
+  "type": "node",
+  "id": 5684479875,
+  "lat": 38.0300146,
+  "lon": 127.0466746
+},
+{
+  "type": "node",
+  "id": 5684479876,
+  "lat": 38.0282292,
+  "lon": 127.0444988
+},
+{
+  "type": "node",
+  "id": 5684479880,
+  "lat": 38.0286308,
+  "lon": 127.0449883
+},
+{
+  "type": "node",
+  "id": 5694548083,
+  "lat": 38.0279640,
+  "lon": 127.0441799
+},
+{
+  "type": "node",
+  "id": 8308489567,
+  "lat": 38.0281366,
+  "lon": 127.0443875
+},
+{
+  "type": "node",
+  "id": 9047288557,
+  "lat": 38.0284627,
+  "lon": 127.0445808
+},
+{
+  "type": "node",
+  "id": 13026465010,
+  "lat": 38.0311900,
+  "lon": 127.0479793
+},
+{
+  "type": "node",
+  "id": 13026465011,
+  "lat": 38.0305699,
+  "lon": 127.0471685
+},
+{
+  "type": "node",
+  "id": 5684479843,
+  "lat": 38.0332873,
+  "lon": 127.0496181
+},
+{
+  "type": "node",
+  "id": 5684479844,
+  "lat": 38.0323408,
+  "lon": 127.0488990
+},
+{
+  "type": "node",
+  "id": 5684479865,
+  "lat": 38.0335998,
+  "lon": 127.0499603
+},
+{
+  "type": "node",
+  "id": 5684479866,
+  "lat": 38.0324513,
+  "lon": 127.0491342
+},
+{
+  "type": "node",
+  "id": 5684479874,
+  "lat": 38.0315508,
+  "lon": 127.0483524
+},
+{
+  "type": "node",
+  "id": 13026465006,
+  "lat": 38.0331977,
+  "lon": 127.0496834
+},
+{
+  "type": "node",
+  "id": 13026465007,
+  "lat": 38.0329462,
+  "lon": 127.0495054
+},
+{
+  "type": "node",
+  "id": 13026465008,
+  "lat": 38.0322324,
+  "lon": 127.0489527
+},
+{
+  "type": "node",
+  "id": 13026465009,
+  "lat": 38.0319324,
+  "lon": 127.0486871
+},
+{
+  "type": "node",
+  "id": 13026465012,
+  "lat": 38.0315888,
+  "lon": 127.0482410
+},
+{
+  "type": "node",
+  "id": 13026465013,
+  "lat": 38.0320576,
+  "lon": 127.0486555
+},
+{
+  "type": "node",
+  "id": 13026465014,
+  "lat": 38.0327492,
+  "lon": 127.0492321
+},
+{
+  "type": "node",
+  "id": 13026465015,
+  "lat": 38.0330046,
+  "lon": 127.0494231
+},
+{
+  "type": "node",
+  "id": 13026465016,
+  "lat": 38.0327204,
+  "lon": 127.0493381
+},
+{
+  "type": "node",
+  "id": 13026465017,
+  "lat": 38.0337642,
+  "lon": 127.0499326
+},
+{
+  "type": "node",
+  "id": 5684479838,
+  "lat": 38.0393376,
+  "lon": 127.0524777
+},
+{
+  "type": "node",
+  "id": 5684479839,
+  "lat": 38.0380391,
+  "lon": 127.0519191
+},
+{
+  "type": "node",
+  "id": 5684479840,
+  "lat": 38.0366917,
+  "lon": 127.0513397
+},
+{
+  "type": "node",
+  "id": 5684479841,
+  "lat": 38.0349778,
+  "lon": 127.0505752
+},
+{
+  "type": "node",
+  "id": 5684479842,
+  "lat": 38.0341259,
+  "lon": 127.0501475
+},
+{
+  "type": "node",
+  "id": 5684479855,
+  "lat": 38.0392838,
+  "lon": 127.0525812
+},
+{
+  "type": "node",
+  "id": 5684479856,
+  "lat": 38.0385185,
+  "lon": 127.0522570
+},
+{
+  "type": "node",
+  "id": 5684479857,
+  "lat": 38.0380226,
+  "lon": 127.0520435
+},
+{
+  "type": "node",
+  "id": 5684479859,
+  "lat": 38.0376607,
+  "lon": 127.0518862
+},
+{
+  "type": "node",
+  "id": 5684479860,
+  "lat": 38.0372117,
+  "lon": 127.0516951
+},
+{
+  "type": "node",
+  "id": 5684479861,
+  "lat": 38.0368618,
+  "lon": 127.0515407
+},
+{
+  "type": "node",
+  "id": 5684479862,
+  "lat": 38.0354937,
+  "lon": 127.0509410
+},
+{
+  "type": "node",
+  "id": 5684479863,
+  "lat": 38.0347268,
+  "lon": 127.0505931
+},
+{
+  "type": "node",
+  "id": 5684479864,
+  "lat": 38.0342417,
+  "lon": 127.0503368
+},
+{
+  "type": "node",
+  "id": 5684479867,
+  "lat": 38.0369065,
+  "lon": 127.0514323
+},
+{
+  "type": "node",
+  "id": 13026465002,
+  "lat": 38.0360348,
+  "lon": 127.0511762
+},
+{
+  "type": "node",
+  "id": 13026465003,
+  "lat": 38.0350967,
+  "lon": 127.0507650
+},
+{
+  "type": "node",
+  "id": 13026465004,
+  "lat": 38.0344659,
+  "lon": 127.0504589
+},
+{
+  "type": "node",
+  "id": 13026465005,
+  "lat": 38.0338439,
+  "lon": 127.0501110
+},
+{
+  "type": "node",
+  "id": 13026465018,
+  "lat": 38.0345174,
+  "lon": 127.0503583
+},
+{
+  "type": "node",
+  "id": 13026465019,
+  "lat": 38.0340436,
+  "lon": 127.0502259
+},
+{
+  "type": "node",
+  "id": 13026465020,
+  "lat": 38.0362263,
+  "lon": 127.0511081
+},
+{
+  "type": "node",
+  "id": 13026465021,
+  "lat": 38.0365002,
+  "lon": 127.0513770
+},
+{
+  "type": "node",
+  "id": 13026465022,
+  "lat": 38.0386953,
+  "lon": 127.0521978
+},
+{
+  "type": "node",
+  "id": 13026465023,
+  "lat": 38.0400024,
+  "lon": 127.0528884
+},
+{
+  "type": "node",
+  "id": 5684479835,
+  "lat": 38.0429272,
+  "lon": 127.0542214
+},
+{
+  "type": "node",
+  "id": 5684479836,
+  "lat": 38.0425886,
+  "lon": 127.0539764
+},
+{
+  "type": "node",
+  "id": 5684479837,
+  "lat": 38.0407179,
+  "lon": 127.0530610
+},
+{
+  "type": "node",
+  "id": 5684479852,
+  "lat": 38.0430500,
+  "lon": 127.0545112
+},
+{
+  "type": "node",
+  "id": 5684479853,
+  "lat": 38.0424927,
+  "lon": 127.0540908
+},
+{
+  "type": "node",
+  "id": 5684479854,
+  "lat": 38.0406970,
+  "lon": 127.0531957
+},
+{
+  "type": "node",
+  "id": 13026359598,
+  "lat": 38.0427206,
+  "lon": 127.0542581
+},
+{
+  "type": "node",
+  "id": 13026359599,
+  "lat": 38.0416847,
+  "lon": 127.0536630
+},
+{
+  "type": "node",
+  "id": 13026359600,
+  "lat": 38.0421246,
+  "lon": 127.0538796
+},
+{
+  "type": "node",
+  "id": 13026465001,
+  "lat": 38.0423065,
+  "lon": 127.0539771
+},
+{
+  "type": "node",
+  "id": 13026465024,
+  "lat": 38.0413049,
+  "lon": 127.0533173
+},
+{
+  "type": "node",
+  "id": 13026465025,
+  "lat": 38.0417220,
+  "lon": 127.0535098
+},
+{
+  "type": "node",
+  "id": 13026465026,
+  "lat": 38.0420993,
+  "lon": 127.0536933
+},
+{
+  "type": "node",
+  "id": 13026465027,
+  "lat": 38.0423944,
+  "lon": 127.0538531
+},
+{
+  "type": "node",
+  "id": 13026465028,
+  "lat": 38.0432182,
+  "lon": 127.0544504
+},
+{
+  "type": "node",
+  "id": 5684479797,
+  "lat": 38.0456884,
+  "lon": 127.0610084
+},
+{
+  "type": "node",
+  "id": 5684479798,
+  "lat": 38.0456985,
+  "lon": 127.0604878
+},
+{
+  "type": "node",
+  "id": 5684479799,
+  "lat": 38.0456883,
+  "lon": 127.0599371
+},
+{
+  "type": "node",
+  "id": 5684479800,
+  "lat": 38.0456715,
+  "lon": 127.0597346
+},
+{
+  "type": "node",
+  "id": 5684479801,
+  "lat": 38.0456113,
+  "lon": 127.0591374
+},
+{
+  "type": "node",
+  "id": 5684479810,
+  "lat": 38.0456180,
+  "lon": 127.0610223
+},
+{
+  "type": "node",
+  "id": 5684479811,
+  "lat": 38.0456236,
+  "lon": 127.0604814
+},
+{
+  "type": "node",
+  "id": 5684479812,
+  "lat": 38.0456085,
+  "lon": 127.0599984
+},
+{
+  "type": "node",
+  "id": 5684479813,
+  "lat": 38.0455955,
+  "lon": 127.0598054
+},
+{
+  "type": "node",
+  "id": 5684479814,
+  "lat": 38.0455043,
+  "lon": 127.0590732
+},
+{
+  "type": "node",
+  "id": 5684479830,
+  "lat": 38.0455406,
+  "lon": 127.0587245
+},
+{
+  "type": "node",
+  "id": 5684479831,
+  "lat": 38.0454263,
+  "lon": 127.0582076
+},
+{
+  "type": "node",
+  "id": 5684479832,
+  "lat": 38.0442715,
+  "lon": 127.0556618
+},
+{
+  "type": "node",
+  "id": 5684479833,
+  "lat": 38.0437494,
+  "lon": 127.0549779
+},
+{
+  "type": "node",
+  "id": 5684479834,
+  "lat": 38.0434853,
+  "lon": 127.0547037
+},
+{
+  "type": "node",
+  "id": 5684479845,
+  "lat": 38.0453846,
+  "lon": 127.0584473
+},
+{
+  "type": "node",
+  "id": 5684479846,
+  "lat": 38.0451660,
+  "lon": 127.0576841
+},
+{
+  "type": "node",
+  "id": 5684479847,
+  "lat": 38.0448953,
+  "lon": 127.0569783
+},
+{
+  "type": "node",
+  "id": 5684479848,
+  "lat": 38.0443938,
+  "lon": 127.0560353
+},
+{
+  "type": "node",
+  "id": 5684479849,
+  "lat": 38.0441955,
+  "lon": 127.0557298
+},
+{
+  "type": "node",
+  "id": 5684479850,
+  "lat": 38.0435609,
+  "lon": 127.0549833
+},
+{
+  "type": "node",
+  "id": 5684479851,
+  "lat": 38.0432898,
+  "lon": 127.0547209
+},
+{
+  "type": "node",
+  "id": 5684479869,
+  "lat": 38.0453220,
+  "lon": 127.0581994
+},
+{
+  "type": "node",
+  "id": 11171240824,
+  "lat": 38.0456433,
+  "lon": 127.0594872
+},
+{
+  "type": "node",
+  "id": 13026359597,
+  "lat": 38.0439194,
+  "lon": 127.0554021
+},
+{
+  "type": "node",
+  "id": 13026465029,
+  "lat": 38.0440088,
+  "lon": 127.0553015
+},
+{
+  "type": "node",
+  "id": 13026465030,
+  "lat": 38.0445048,
+  "lon": 127.0560125
+},
+{
+  "type": "node",
+  "id": 13026465031,
+  "lat": 38.0447633,
+  "lon": 127.0564738
+},
+{
+  "type": "node",
+  "id": 13026465032,
+  "lat": 38.0448805,
+  "lon": 127.0567019
+},
+{
+  "type": "node",
+  "id": 13026465033,
+  "lat": 38.0450608,
+  "lon": 127.0571186
+},
+{
+  "type": "node",
+  "id": 13026465034,
+  "lat": 38.0444045,
+  "lon": 127.0558572
+},
+{
+  "type": "node",
+  "id": 13026465035,
+  "lat": 38.0446238,
+  "lon": 127.0562147
+},
+{
+  "type": "node",
+  "id": 13026465036,
+  "lat": 38.0449694,
+  "lon": 127.0569025
+},
+{
+  "type": "node",
+  "id": 13026465037,
+  "lat": 38.0451538,
+  "lon": 127.0573533
+},
+{
+  "type": "node",
+  "id": 13026465038,
+  "lat": 38.0452353,
+  "lon": 127.0575905
+},
+{
+  "type": "node",
+  "id": 13026465039,
+  "lat": 38.0453132,
+  "lon": 127.0578328
+},
+{
+  "type": "node",
+  "id": 13026465040,
+  "lat": 38.0453746,
+  "lon": 127.0580295
+},
+{
+  "type": "node",
+  "id": 13026465041,
+  "lat": 38.0445963,
+  "lon": 127.0563814
+},
+{
+  "type": "node",
+  "id": 13026465042,
+  "lat": 38.0447616,
+  "lon": 127.0566937
+},
+{
+  "type": "node",
+  "id": 13026465043,
+  "lat": 38.0450326,
+  "lon": 127.0573105
+},
+{
+  "type": "node",
+  "id": 13026465044,
+  "lat": 38.0452549,
+  "lon": 127.0579633
+},
+{
+  "type": "node",
+  "id": 13026465045,
+  "lat": 38.0454901,
+  "lon": 127.0584850
+},
+{
+  "type": "node",
+  "id": 13026465046,
+  "lat": 38.0455829,
+  "lon": 127.0589560
+},
+{
+  "type": "node",
+  "id": 13026465048,
+  "lat": 38.0454537,
+  "lon": 127.0587748
+},
+{
+  "type": "node",
+  "id": 13026465049,
+  "lat": 38.0455515,
+  "lon": 127.0594149
+},
+{
+  "type": "node",
+  "id": 13026465051,
+  "lat": 38.0456210,
+  "lon": 127.0602638
+},
+{
+  "type": "node",
+  "id": 13026465052,
+  "lat": 38.0456948,
+  "lon": 127.0602436
+},
+{
+  "type": "node",
+  "id": 13026465053,
+  "lat": 38.0456976,
+  "lon": 127.0607405
+},
+{
+  "type": "node",
+  "id": 13026465054,
+  "lat": 38.0456254,
+  "lon": 127.0607612
+},
+{
+  "type": "node",
+  "id": 5684479765,
+  "lat": 38.0386113,
+  "lon": 127.0861723
+},
+{
+  "type": "node",
+  "id": 5684479766,
+  "lat": 38.0389399,
+  "lon": 127.0858082
+},
+{
+  "type": "node",
+  "id": 5684479767,
+  "lat": 38.0396133,
+  "lon": 127.0849214
+},
+{
+  "type": "node",
+  "id": 5684479768,
+  "lat": 38.0400125,
+  "lon": 127.0842284
+},
+{
+  "type": "node",
+  "id": 5684479776,
+  "lat": 38.0379392,
+  "lon": 127.0867710
+},
+{
+  "type": "node",
+  "id": 5684479777,
+  "lat": 38.0388881,
+  "lon": 127.0857459
+},
+{
+  "type": "node",
+  "id": 5684479778,
+  "lat": 38.0395427,
+  "lon": 127.0848676
+},
+{
+  "type": "node",
+  "id": 5684479779,
+  "lat": 38.0399423,
+  "lon": 127.0841947
+},
+{
+  "type": "node",
+  "id": 5684479787,
+  "lat": 38.0392629,
+  "lon": 127.0852764
+},
+{
+  "type": "node",
+  "id": 5684479788,
+  "lat": 38.0393758,
+  "lon": 127.0852495
+},
+{
+  "type": "node",
+  "id": 5684479789,
+  "lat": 38.0385680,
+  "lon": 127.0861062
+},
+{
+  "type": "node",
+  "id": 14078011030,
+  "lat": 38.0374697,
+  "lon": 127.0873805
+},
+{
+  "type": "node",
+  "id": 14078011038,
+  "lat": 38.0373762,
+  "lon": 127.0873300
+},
+{
+  "type": "node",
+  "id": 5684479793,
+  "lat": 38.0448075,
+  "lon": 127.0655964
+},
+{
+  "type": "node",
+  "id": 5684479794,
+  "lat": 38.0449433,
+  "lon": 127.0649746
+},
+{
+  "type": "node",
+  "id": 5684479795,
+  "lat": 38.0453164,
+  "lon": 127.0633380
+},
+{
+  "type": "node",
+  "id": 5684479796,
+  "lat": 38.0456397,
+  "lon": 127.0616272
+},
+{
+  "type": "node",
+  "id": 5684479803,
+  "lat": 38.0443567,
+  "lon": 127.0676152
+},
+{
+  "type": "node",
+  "id": 5684479805,
+  "lat": 38.0442710,
+  "lon": 127.0676171
+},
+{
+  "type": "node",
+  "id": 5684479806,
+  "lat": 38.0447268,
+  "lon": 127.0655971
+},
+{
+  "type": "node",
+  "id": 5684479807,
+  "lat": 38.0448645,
+  "lon": 127.0649769
+},
+{
+  "type": "node",
+  "id": 5684479808,
+  "lat": 38.0453816,
+  "lon": 127.0626930
+},
+{
+  "type": "node",
+  "id": 5684479809,
+  "lat": 38.0455728,
+  "lon": 127.0615958
+},
+{
+  "type": "node",
+  "id": 5684479822,
+  "lat": 38.0450646,
+  "lon": 127.0644514
+},
+{
+  "type": "node",
+  "id": 5684479823,
+  "lat": 38.0449564,
+  "lon": 127.0645985
+},
+{
+  "type": "node",
+  "id": 13026465055,
+  "lat": 38.0456668,
+  "lon": 127.0613219
+},
+{
+  "type": "node",
+  "id": 13026465056,
+  "lat": 38.0456005,
+  "lon": 127.0613190
+},
+{
+  "type": "node",
+  "id": 13026465057,
+  "lat": 38.0455336,
+  "lon": 127.0618805
+},
+{
+  "type": "node",
+  "id": 13026465058,
+  "lat": 38.0454846,
+  "lon": 127.0621697
+},
+{
+  "type": "node",
+  "id": 13026465059,
+  "lat": 38.0455752,
+  "lon": 127.0621092
+},
+{
+  "type": "node",
+  "id": 13026465060,
+  "lat": 38.0455209,
+  "lon": 127.0624248
+},
+{
+  "type": "node",
+  "id": 13026465061,
+  "lat": 38.0454370,
+  "lon": 127.0628073
+},
+{
+  "type": "node",
+  "id": 13026465062,
+  "lat": 38.0451359,
+  "lon": 127.0637838
+},
+{
+  "type": "node",
+  "id": 13026465063,
+  "lat": 38.0450200,
+  "lon": 127.0643096
+},
+{
+  "type": "node",
+  "id": 5684479785,
+  "lat": 38.0428452,
+  "lon": 127.0740394
+},
+{
+  "type": "node",
+  "id": 5684479786,
+  "lat": 38.0429170,
+  "lon": 127.0740984
+},
+{
+  "type": "node",
+  "id": 5684479791,
+  "lat": 38.0440397,
+  "lon": 127.0690658
+},
+{
+  "type": "node",
+  "id": 5684479804,
+  "lat": 38.0439518,
+  "lon": 127.0690536
+},
+{
+  "type": "node",
+  "id": 5684479815,
+  "lat": 38.0435035,
+  "lon": 127.0715193
+},
+{
+  "type": "node",
+  "id": 5684479829,
+  "lat": 38.0433791,
+  "lon": 127.0716724
+},
+{
+  "type": "node",
+  "id": 5684479771,
+  "lat": 38.0414186,
+  "lon": 127.0806475
+},
+{
+  "type": "node",
+  "id": 5684479772,
+  "lat": 38.0421474,
+  "lon": 127.0775636
+},
+{
+  "type": "node",
+  "id": 5684479773,
+  "lat": 38.0426460,
+  "lon": 127.0753328
+},
+{
+  "type": "node",
+  "id": 5684479774,
+  "lat": 38.0424064,
+  "lon": 127.0764526
+},
+{
+  "type": "node",
+  "id": 5684479782,
+  "lat": 38.0413396,
+  "lon": 127.0805931
+},
+{
+  "type": "node",
+  "id": 5684479783,
+  "lat": 38.0417045,
+  "lon": 127.0791034
+},
+{
+  "type": "node",
+  "id": 5684479784,
+  "lat": 38.0423098,
+  "lon": 127.0764304
+},
+{
+  "type": "node",
+  "id": 5684479769,
+  "lat": 38.0405466,
+  "lon": 127.0831799
+},
+{
+  "type": "node",
+  "id": 5684479770,
+  "lat": 38.0408972,
+  "lon": 127.0822875
+},
+{
+  "type": "node",
+  "id": 5684479780,
+  "lat": 38.0404605,
+  "lon": 127.0831291
+},
+{
+  "type": "node",
+  "id": 5684479781,
+  "lat": 38.0408188,
+  "lon": 127.0822185
+},
+{
+  "type": "node",
+  "id": 14078011011,
+  "lat": 38.0411848,
+  "lon": 127.0814116
+},
+{
+  "type": "node",
+  "id": 14078011019,
+  "lat": 38.0410907,
+  "lon": 127.0814175
 },
 {
   "type": "node",
@@ -682796,6 +687573,1140 @@
   "id": 12400417400,
   "lat": 37.9740576,
   "lon": 127.3230947
+},
+{
+  "type": "node",
+  "id": 7385934749,
+  "lat": 38.0203459,
+  "lon": 127.1669586
+},
+{
+  "type": "node",
+  "id": 9047041374,
+  "lat": 38.0202796,
+  "lon": 127.1669728
+},
+{
+  "type": "node",
+  "id": 9047041399,
+  "lat": 38.0203632,
+  "lon": 127.1673724
+},
+{
+  "type": "node",
+  "id": 9047041400,
+  "lat": 38.0204186,
+  "lon": 127.1673037
+},
+{
+  "type": "node",
+  "id": 5684429223,
+  "lat": 38.0216852,
+  "lon": 127.1721156
+},
+{
+  "type": "node",
+  "id": 5684429224,
+  "lat": 38.0207602,
+  "lon": 127.1686650
+},
+{
+  "type": "node",
+  "id": 7385934750,
+  "lat": 38.0210555,
+  "lon": 127.1696869
+},
+{
+  "type": "node",
+  "id": 9047041372,
+  "lat": 38.0216314,
+  "lon": 127.1721359
+},
+{
+  "type": "node",
+  "id": 9047041373,
+  "lat": 38.0210069,
+  "lon": 127.1697047
+},
+{
+  "type": "node",
+  "id": 5684428919,
+  "lat": 38.0224681,
+  "lon": 127.1781355
+},
+{
+  "type": "node",
+  "id": 5684428920,
+  "lat": 38.0224967,
+  "lon": 127.1768326
+},
+{
+  "type": "node",
+  "id": 5684429221,
+  "lat": 38.0224693,
+  "lon": 127.1762486
+},
+{
+  "type": "node",
+  "id": 5684429222,
+  "lat": 38.0223061,
+  "lon": 127.1748114
+},
+{
+  "type": "node",
+  "id": 7385934751,
+  "lat": 38.0223709,
+  "lon": 127.1752092
+},
+{
+  "type": "node",
+  "id": 7385934752,
+  "lat": 38.0221155,
+  "lon": 127.1738230
+},
+{
+  "type": "node",
+  "id": 7385934753,
+  "lat": 38.0224114,
+  "lon": 127.1788215
+},
+{
+  "type": "node",
+  "id": 9047041354,
+  "lat": 38.0223769,
+  "lon": 127.1784437
+},
+{
+  "type": "node",
+  "id": 9047041355,
+  "lat": 38.0224184,
+  "lon": 127.1778954
+},
+{
+  "type": "node",
+  "id": 9047041356,
+  "lat": 38.0224319,
+  "lon": 127.1773571
+},
+{
+  "type": "node",
+  "id": 9047041357,
+  "lat": 38.0224130,
+  "lon": 127.1762982
+},
+{
+  "type": "node",
+  "id": 9047041358,
+  "lat": 38.0224978,
+  "lon": 127.1773758
+},
+{
+  "type": "node",
+  "id": 9047041359,
+  "lat": 38.0224124,
+  "lon": 127.1755291
+},
+{
+  "type": "node",
+  "id": 9047041361,
+  "lat": 38.0223720,
+  "lon": 127.1757762
+},
+{
+  "type": "node",
+  "id": 9047041362,
+  "lat": 38.0223113,
+  "lon": 127.1752614
+},
+{
+  "type": "node",
+  "id": 9047041363,
+  "lat": 38.0222532,
+  "lon": 127.1748586
+},
+{
+  "type": "node",
+  "id": 9047041364,
+  "lat": 38.0220597,
+  "lon": 127.1738891
+},
+{
+  "type": "node",
+  "id": 9047041365,
+  "lat": 38.0219622,
+  "lon": 127.1734692
+},
+{
+  "type": "node",
+  "id": 9047041366,
+  "lat": 38.0218794,
+  "lon": 127.1728759
+},
+{
+  "type": "node",
+  "id": 9047041367,
+  "lat": 38.0221473,
+  "lon": 127.1740002
+},
+{
+  "type": "node",
+  "id": 9047041370,
+  "lat": 38.0218347,
+  "lon": 127.1727206
+},
+{
+  "type": "node",
+  "id": 9047041371,
+  "lat": 38.0218063,
+  "lon": 127.1728520
+},
+{
+  "type": "node",
+  "id": 14078011027,
+  "lat": 38.0224376,
+  "lon": 127.1768502
+},
+{
+  "type": "node",
+  "id": 14078011068,
+  "lat": 38.0223227,
+  "lon": 127.1789961
+},
+{
+  "type": "node",
+  "id": 7385934755,
+  "lat": 38.0204032,
+  "lon": 127.1874574
+},
+{
+  "type": "node",
+  "id": 9047041246,
+  "lat": 38.0192725,
+  "lon": 127.1917477
+},
+{
+  "type": "node",
+  "id": 9047041247,
+  "lat": 38.0194204,
+  "lon": 127.1911023
+},
+{
+  "type": "node",
+  "id": 9047041248,
+  "lat": 38.0195443,
+  "lon": 127.1906044
+},
+{
+  "type": "node",
+  "id": 9047041249,
+  "lat": 38.0196213,
+  "lon": 127.1906349
+},
+{
+  "type": "node",
+  "id": 9047041250,
+  "lat": 38.0194895,
+  "lon": 127.1911303
+},
+{
+  "type": "node",
+  "id": 9047041252,
+  "lat": 38.0198079,
+  "lon": 127.1895370
+},
+{
+  "type": "node",
+  "id": 9047041253,
+  "lat": 38.0199780,
+  "lon": 127.1887670
+},
+{
+  "type": "node",
+  "id": 9047041254,
+  "lat": 38.0202847,
+  "lon": 127.1876077
+},
+{
+  "type": "node",
+  "id": 9047041255,
+  "lat": 38.0201364,
+  "lon": 127.1885412
+},
+{
+  "type": "node",
+  "id": 9047041256,
+  "lat": 38.0199314,
+  "lon": 127.1893785
+},
+{
+  "type": "node",
+  "id": 9047041327,
+  "lat": 38.0205313,
+  "lon": 127.1870229
+},
+{
+  "type": "node",
+  "id": 9047041329,
+  "lat": 38.0204916,
+  "lon": 127.1871305
+},
+{
+  "type": "node",
+  "id": 9047041330,
+  "lat": 38.0203357,
+  "lon": 127.1877393
+},
+{
+  "type": "node",
+  "id": 9047041336,
+  "lat": 38.0206533,
+  "lon": 127.1861328
+},
+{
+  "type": "node",
+  "id": 9047041338,
+  "lat": 38.0203392,
+  "lon": 127.1874219
+},
+{
+  "type": "node",
+  "id": 9047041339,
+  "lat": 38.0204598,
+  "lon": 127.1872505
+},
+{
+  "type": "node",
+  "id": 14078011021,
+  "lat": 38.0203838,
+  "lon": 127.1875386
+},
+{
+  "type": "node",
+  "id": 14078011078,
+  "lat": 38.0203683,
+  "lon": 127.1873090
+},
+{
+  "type": "node",
+  "id": 5684428918,
+  "lat": 38.0220296,
+  "lon": 127.1808495
+},
+{
+  "type": "node",
+  "id": 9047041343,
+  "lat": 38.0214982,
+  "lon": 127.1831582
+},
+{
+  "type": "node",
+  "id": 9047041348,
+  "lat": 38.0214397,
+  "lon": 127.1830819
+},
+{
+  "type": "node",
+  "id": 9047041349,
+  "lat": 38.0219212,
+  "lon": 127.1813625
+},
+{
+  "type": "node",
+  "id": 9047041351,
+  "lat": 38.0220065,
+  "lon": 127.1806977
+},
+{
+  "type": "node",
+  "id": 9047041352,
+  "lat": 38.0221664,
+  "lon": 127.1799862
+},
+{
+  "type": "node",
+  "id": 9047041353,
+  "lat": 38.0222645,
+  "lon": 127.1794477
+},
+{
+  "type": "node",
+  "id": 14078011009,
+  "lat": 38.0223077,
+  "lon": 127.1795895
+},
+{
+  "type": "node",
+  "id": 14078011046,
+  "lat": 38.0222177,
+  "lon": 127.1800491
+},
+{
+  "type": "node",
+  "id": 5684428916,
+  "lat": 38.0208293,
+  "lon": 127.1858072
+},
+{
+  "type": "node",
+  "id": 7385934754,
+  "lat": 38.0207333,
+  "lon": 127.1861631
+},
+{
+  "type": "node",
+  "id": 9047041340,
+  "lat": 38.0207434,
+  "lon": 127.1857694
+},
+{
+  "type": "node",
+  "id": 5684479747,
+  "lat": 38.0362193,
+  "lon": 127.0880248
+},
+{
+  "type": "node",
+  "id": 5684479763,
+  "lat": 38.0365047,
+  "lon": 127.0880228
+},
+{
+  "type": "node",
+  "id": 5684479764,
+  "lat": 38.0368774,
+  "lon": 127.0878359
+},
+{
+  "type": "node",
+  "id": 5684479775,
+  "lat": 38.0364894,
+  "lon": 127.0879233
+},
+{
+  "type": "node",
+  "id": 9047221982,
+  "lat": 38.0348181,
+  "lon": 127.0884690
+},
+{
+  "type": "node",
+  "id": 9047221983,
+  "lat": 38.0348401,
+  "lon": 127.0885855
+},
+{
+  "type": "node",
+  "id": 14078011029,
+  "lat": 38.0368362,
+  "lon": 127.0877492
+},
+{
+  "type": "node",
+  "id": 14078011056,
+  "lat": 38.0372145,
+  "lon": 127.0876078
+},
+{
+  "type": "node",
+  "id": 14078011077,
+  "lat": 38.0371429,
+  "lon": 127.0875351
+},
+{
+  "type": "node",
+  "id": 5684428892,
+  "lat": 37.9922366,
+  "lon": 127.2418826
+},
+{
+  "type": "node",
+  "id": 5684428893,
+  "lat": 37.9929126,
+  "lon": 127.2404102
+},
+{
+  "type": "node",
+  "id": 7385934765,
+  "lat": 37.9920988,
+  "lon": 127.2419497
+},
+{
+  "type": "node",
+  "id": 9046847292,
+  "lat": 37.9921884,
+  "lon": 127.2419837
+},
+{
+  "type": "node",
+  "id": 9046890379,
+  "lat": 37.9921939,
+  "lon": 127.2418095
+},
+{
+  "type": "node",
+  "id": 9046890380,
+  "lat": 37.9927598,
+  "lon": 127.2405512
+},
+{
+  "type": "node",
+  "id": 9046890381,
+  "lat": 37.9928664,
+  "lon": 127.2403728
+},
+{
+  "type": "node",
+  "id": 9046890382,
+  "lat": 37.9928054,
+  "lon": 127.2405988
+},
+{
+  "type": "node",
+  "id": 9046890383,
+  "lat": 37.9927971,
+  "lon": 127.2404833
+},
+{
+  "type": "node",
+  "id": 9046890384,
+  "lat": 37.9926750,
+  "lon": 127.2407166
+},
+{
+  "type": "node",
+  "id": 9046890385,
+  "lat": 37.9927214,
+  "lon": 127.2407622
+},
+{
+  "type": "node",
+  "id": 5684428912,
+  "lat": 38.0182354,
+  "lon": 127.1981552
+},
+{
+  "type": "node",
+  "id": 5684428913,
+  "lat": 38.0183129,
+  "lon": 127.1969895
+},
+{
+  "type": "node",
+  "id": 5684428914,
+  "lat": 38.0184387,
+  "lon": 127.1958180
+},
+{
+  "type": "node",
+  "id": 5684428915,
+  "lat": 38.0189498,
+  "lon": 127.1932797
+},
+{
+  "type": "node",
+  "id": 9047041232,
+  "lat": 38.0181684,
+  "lon": 127.1981877
+},
+{
+  "type": "node",
+  "id": 9047041233,
+  "lat": 38.0182068,
+  "lon": 127.1973178
+},
+{
+  "type": "node",
+  "id": 9047041234,
+  "lat": 38.0182570,
+  "lon": 127.1966580
+},
+{
+  "type": "node",
+  "id": 9047041235,
+  "lat": 38.0183769,
+  "lon": 127.1957904
+},
+{
+  "type": "node",
+  "id": 9047041240,
+  "lat": 38.0185528,
+  "lon": 127.1950488
+},
+{
+  "type": "node",
+  "id": 9047041241,
+  "lat": 38.0187110,
+  "lon": 127.1942523
+},
+{
+  "type": "node",
+  "id": 9047041242,
+  "lat": 38.0184625,
+  "lon": 127.1951683
+},
+{
+  "type": "node",
+  "id": 9047041243,
+  "lat": 38.0185808,
+  "lon": 127.1945514
+},
+{
+  "type": "node",
+  "id": 9047041244,
+  "lat": 38.0187068,
+  "lon": 127.1939607
+},
+{
+  "type": "node",
+  "id": 9047041245,
+  "lat": 38.0189022,
+  "lon": 127.1931740
+},
+{
+  "type": "node",
+  "id": 5684428910,
+  "lat": 38.0186447,
+  "lon": 127.2029366
+},
+{
+  "type": "node",
+  "id": 5684428911,
+  "lat": 38.0182814,
+  "lon": 127.1999264
+},
+{
+  "type": "node",
+  "id": 7385934760,
+  "lat": 38.0184266,
+  "lon": 127.2012982
+},
+{
+  "type": "node",
+  "id": 9047041225,
+  "lat": 38.0188979,
+  "lon": 127.2050401
+},
+{
+  "type": "node",
+  "id": 9047041226,
+  "lat": 38.0186572,
+  "lon": 127.2033777
+},
+{
+  "type": "node",
+  "id": 9047041227,
+  "lat": 38.0183471,
+  "lon": 127.2012551
+},
+{
+  "type": "node",
+  "id": 9047041228,
+  "lat": 38.0181773,
+  "lon": 127.1990964
+},
+{
+  "type": "node",
+  "id": 9047041229,
+  "lat": 38.0182305,
+  "lon": 127.2001176
+},
+{
+  "type": "node",
+  "id": 9047041230,
+  "lat": 38.0183010,
+  "lon": 127.2002257
+},
+{
+  "type": "node",
+  "id": 9047041231,
+  "lat": 38.0182904,
+  "lon": 127.2006424
+},
+{
+  "type": "node",
+  "id": 14078011037,
+  "lat": 38.0184605,
+  "lon": 127.2021096
+},
+{
+  "type": "node",
+  "id": 5684428908,
+  "lat": 38.0195333,
+  "lon": 127.2104768
+},
+{
+  "type": "node",
+  "id": 5684428909,
+  "lat": 38.0192332,
+  "lon": 127.2067567
+},
+{
+  "type": "node",
+  "id": 7385934761,
+  "lat": 38.0190462,
+  "lon": 127.2055351
+},
+{
+  "type": "node",
+  "id": 7385934762,
+  "lat": 38.0195278,
+  "lon": 127.2094627
+},
+{
+  "type": "node",
+  "id": 7385934763,
+  "lat": 38.0194471,
+  "lon": 127.2085870
+},
+{
+  "type": "node",
+  "id": 9046983013,
+  "lat": 38.0195206,
+  "lon": 127.2107591
+},
+{
+  "type": "node",
+  "id": 9046983014,
+  "lat": 38.0195461,
+  "lon": 127.2098952
+},
+{
+  "type": "node",
+  "id": 9046983015,
+  "lat": 38.0195092,
+  "lon": 127.2111087
+},
+{
+  "type": "node",
+  "id": 9047041118,
+  "lat": 38.0194001,
+  "lon": 127.2116098
+},
+{
+  "type": "node",
+  "id": 9047041121,
+  "lat": 38.0194452,
+  "lon": 127.2106487
+},
+{
+  "type": "node",
+  "id": 9047041122,
+  "lat": 38.0194548,
+  "lon": 127.2103387
+},
+{
+  "type": "node",
+  "id": 9047041123,
+  "lat": 38.0194686,
+  "lon": 127.2098904
+},
+{
+  "type": "node",
+  "id": 9047041124,
+  "lat": 38.0194622,
+  "lon": 127.2095873
+},
+{
+  "type": "node",
+  "id": 9047041125,
+  "lat": 38.0194285,
+  "lon": 127.2091958
+},
+{
+  "type": "node",
+  "id": 9047041126,
+  "lat": 38.0193975,
+  "lon": 127.2088146
+},
+{
+  "type": "node",
+  "id": 9047041127,
+  "lat": 38.0192928,
+  "lon": 127.2077824
+},
+{
+  "type": "node",
+  "id": 9047041128,
+  "lat": 38.0195065,
+  "lon": 127.2090914
+},
+{
+  "type": "node",
+  "id": 9047041195,
+  "lat": 38.0194461,
+  "lon": 127.2107523
+},
+{
+  "type": "node",
+  "id": 9047041224,
+  "lat": 38.0191602,
+  "lon": 127.2067660
+},
+{
+  "type": "node",
+  "id": 14078011008,
+  "lat": 38.0195166,
+  "lon": 127.2108820
+},
+{
+  "type": "node",
+  "id": 14078011050,
+  "lat": 38.0193620,
+  "lon": 127.2077746
+},
+{
+  "type": "node",
+  "id": 14078011054,
+  "lat": 38.0194822,
+  "lon": 127.2115212
+},
+{
+  "type": "node",
+  "id": 5684428905,
+  "lat": 38.0184123,
+  "lon": 127.2166394
+},
+{
+  "type": "node",
+  "id": 5684428906,
+  "lat": 38.0191051,
+  "lon": 127.2138022
+},
+{
+  "type": "node",
+  "id": 5684428907,
+  "lat": 38.0193136,
+  "lon": 127.2126460
+},
+{
+  "type": "node",
+  "id": 9046890760,
+  "lat": 38.0183024,
+  "lon": 127.2170702
+},
+{
+  "type": "node",
+  "id": 9046890768,
+  "lat": 38.0181797,
+  "lon": 127.2172441
+},
+{
+  "type": "node",
+  "id": 9046890769,
+  "lat": 38.0185114,
+  "lon": 127.2159808
+},
+{
+  "type": "node",
+  "id": 9046890770,
+  "lat": 38.0190656,
+  "lon": 127.2137652
+},
+{
+  "type": "node",
+  "id": 9046983006,
+  "lat": 38.0191906,
+  "lon": 127.2131393
+},
+{
+  "type": "node",
+  "id": 9046983007,
+  "lat": 38.0192783,
+  "lon": 127.2126133
+},
+{
+  "type": "node",
+  "id": 9046983011,
+  "lat": 38.0192264,
+  "lon": 127.2131782
+},
+{
+  "type": "node",
+  "id": 9046983012,
+  "lat": 38.0193992,
+  "lon": 127.2121922
+},
+{
+  "type": "node",
+  "id": 9047041117,
+  "lat": 38.0193428,
+  "lon": 127.2122677
+},
+{
+  "type": "node",
+  "id": 5684428901,
+  "lat": 38.0139211,
+  "lon": 127.2250082
+},
+{
+  "type": "node",
+  "id": 9046890741,
+  "lat": 38.0139096,
+  "lon": 127.2249134
+},
+{
+  "type": "node",
+  "id": 5684428900,
+  "lat": 38.0086181,
+  "lon": 127.2286976
+},
+{
+  "type": "node",
+  "id": 9046890616,
+  "lat": 38.0085945,
+  "lon": 127.2286456
+},
+{
+  "type": "node",
+  "id": 9046890618,
+  "lat": 38.0096001,
+  "lon": 127.2280028
+},
+{
+  "type": "node",
+  "id": 9046890619,
+  "lat": 38.0091419,
+  "lon": 127.2282342
+},
+{
+  "type": "node",
+  "id": 9046890631,
+  "lat": 38.0098475,
+  "lon": 127.2278026
+},
+{
+  "type": "node",
+  "id": 9046890632,
+  "lat": 38.0105563,
+  "lon": 127.2273126
+},
+{
+  "type": "node",
+  "id": 9046890634,
+  "lat": 38.0111830,
+  "lon": 127.2269118
+},
+{
+  "type": "node",
+  "id": 9046890635,
+  "lat": 38.0115573,
+  "lon": 127.2266404
+},
+{
+  "type": "node",
+  "id": 9046890692,
+  "lat": 38.0106129,
+  "lon": 127.2271787
+},
+{
+  "type": "node",
+  "id": 9046890698,
+  "lat": 38.0098329,
+  "lon": 127.2277083
+},
+{
+  "type": "node",
+  "id": 9046890699,
+  "lat": 38.0104323,
+  "lon": 127.2272944
+},
+{
+  "type": "node",
+  "id": 9046890701,
+  "lat": 38.0105356,
+  "lon": 127.2272279
+},
+{
+  "type": "node",
+  "id": 9046890702,
+  "lat": 38.0107283,
+  "lon": 127.2271076
+},
+{
+  "type": "node",
+  "id": 9046890703,
+  "lat": 38.0108933,
+  "lon": 127.2269772
+},
+{
+  "type": "node",
+  "id": 9046890704,
+  "lat": 38.0112104,
+  "lon": 127.2267590
+},
+{
+  "type": "node",
+  "id": 9046890711,
+  "lat": 38.0106726,
+  "lon": 127.2271452
+},
+{
+  "type": "node",
+  "id": 9046890738,
+  "lat": 38.0106733,
+  "lon": 127.2272398
+},
+{
+  "type": "node",
+  "id": 9046890739,
+  "lat": 38.0122497,
+  "lon": 127.2260574
+},
+{
+  "type": "node",
+  "id": 9046890740,
+  "lat": 38.0129987,
+  "lon": 127.2255518
+},
+{
+  "type": "node",
+  "id": 5684428902,
+  "lat": 38.0158113,
+  "lon": 127.2232391
+},
+{
+  "type": "node",
+  "id": 5684428903,
+  "lat": 38.0164752,
+  "lon": 127.2223496
+},
+{
+  "type": "node",
+  "id": 5684428904,
+  "lat": 38.0172116,
+  "lon": 127.2208663
+},
+{
+  "type": "node",
+  "id": 9046890742,
+  "lat": 38.0149434,
+  "lon": 127.2241589
+},
+{
+  "type": "node",
+  "id": 9046890743,
+  "lat": 38.0143189,
+  "lon": 127.2247057
+},
+{
+  "type": "node",
+  "id": 9046890744,
+  "lat": 38.0146382,
+  "lon": 127.2244488
+},
+{
+  "type": "node",
+  "id": 9046890745,
+  "lat": 38.0142976,
+  "lon": 127.2246387
+},
+{
+  "type": "node",
+  "id": 9046890746,
+  "lat": 38.0148633,
+  "lon": 127.2241317
+},
+{
+  "type": "node",
+  "id": 9046890747,
+  "lat": 38.0150520,
+  "lon": 127.2239464
+},
+{
+  "type": "node",
+  "id": 9046890748,
+  "lat": 38.0156280,
+  "lon": 127.2233359
+},
+{
+  "type": "node",
+  "id": 9046890749,
+  "lat": 38.0151495,
+  "lon": 127.2238567
+},
+{
+  "type": "node",
+  "id": 9046890756,
+  "lat": 38.0147823,
+  "lon": 127.2242107
+},
+{
+  "type": "node",
+  "id": 9046890757,
+  "lat": 38.0159689,
+  "lon": 127.2229436
+},
+{
+  "type": "node",
+  "id": 9046890758,
+  "lat": 38.0161552,
+  "lon": 127.2228153
+},
+{
+  "type": "node",
+  "id": 9046890759,
+  "lat": 38.0168635,
+  "lon": 127.2216739
+},
+{
+  "type": "node",
+  "id": 9046890761,
+  "lat": 38.0174107,
+  "lon": 127.2202686
+},
+{
+  "type": "node",
+  "id": 9046890762,
+  "lat": 38.0176794,
+  "lon": 127.2193829
+},
+{
+  "type": "node",
+  "id": 9046890763,
+  "lat": 38.0161668,
+  "lon": 127.2226726
+},
+{
+  "type": "node",
+  "id": 9046890764,
+  "lat": 38.0166465,
+  "lon": 127.2219158
+},
+{
+  "type": "node",
+  "id": 9046890765,
+  "lat": 38.0168676,
+  "lon": 127.2215200
+},
+{
+  "type": "node",
+  "id": 9046890766,
+  "lat": 38.0173584,
+  "lon": 127.2202471
+},
+{
+  "type": "node",
+  "id": 9046890767,
+  "lat": 38.0176325,
+  "lon": 127.2194117
+},
+{
+  "type": "node",
+  "id": 14078011018,
+  "lat": 38.0170618,
+  "lon": 127.2212735
+},
+{
+  "type": "node",
+  "id": 14078011033,
+  "lat": 38.0170091,
+  "lon": 127.2212036
+},
+{
+  "type": "node",
+  "id": 14078011076,
+  "lat": 38.0171684,
+  "lon": 127.2208247
 },
 {
   "type": "node",
