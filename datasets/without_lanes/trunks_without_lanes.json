@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-04T20:05:31Z",
-    "timestamp_areas_base": "2026-05-12T07:36:16Z",
+    "timestamp_osm_base": "2026-08-07T00:20:01Z",
+    "timestamp_areas_base": "2026-08-06T05:16:31Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2759,7 +2759,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -2883,7 +2885,9 @@
     "oneway": "yes",
     "ref": "25",
     "review": "no",
-    "source": "Bing (adjusted)"
+    "source": "Bing (adjusted)",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -2954,7 +2958,9 @@
     "name": "중원대로",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;49;82"
+    "ref": "3;49;82",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -3366,9 +3372,16 @@
     "maxspeed": "80",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -3391,6 +3404,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -6562,9 +6576,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -6782,6 +6803,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -6809,6 +6831,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -6841,6 +6864,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -10820,6 +10844,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -11644,7 +11669,9 @@
     "name:ko": "죽양대로",
     "oneway": "yes",
     "ref": "17",
-    "surface": "asphalt"
+    "surface": "asphalt",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -12134,7 +12161,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;306"
+    "ref": "3;306",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -13830,7 +13859,9 @@
     "name": "중원대로",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;82;306"
+    "ref": "3;82;306",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -13946,7 +13977,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -13999,7 +14032,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;49;82"
+    "ref": "3;49;82",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -14081,7 +14116,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -14214,7 +14251,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -14286,7 +14325,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -22149,9 +22190,16 @@
     "maxspeed": "80",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -22170,9 +22218,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -22193,9 +22248,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -22219,9 +22281,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -22242,9 +22311,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -22263,9 +22339,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -22308,9 +22391,16 @@
     "maxspeed": "80",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -24095,9 +24185,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -24119,10 +24216,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
-    "name:ko-Latn": "Wonchongyo",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -24140,9 +24243,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -24162,8 +24272,15 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
-    "oneway": "yes"
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
+    "oneway": "yes",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -24184,9 +24301,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -24207,9 +24331,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -24238,9 +24369,16 @@
     "maxspeed": "80",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -24259,9 +24397,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -24291,9 +24436,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -24316,9 +24468,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -24342,10 +24501,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
-    "name:ko-Latn": "Namnigyo",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "42;45"
+    "ref": "42;45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -24364,9 +24529,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -24385,8 +24557,15 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
-    "oneway": "yes"
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
+    "oneway": "yes",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -24424,9 +24603,16 @@
     "maxspeed": "80",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -24450,10 +24636,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
-    "name:ko-Latn": "Deokseong 2 Gyo",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -24543,7 +24735,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -24612,7 +24806,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -24632,7 +24828,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17;70"
+    "ref": "17;70",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -24686,7 +24884,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -24711,10 +24911,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
-    "name:ko-Latn": "Jiseongyo",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -24750,9 +24956,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -24787,9 +25000,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -24809,10 +25029,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
-    "name:ko-Latn": "Mapyeongyukgyo",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -25291,8 +25517,11 @@
     735161770,
     735161771,
     735161772,
+    14077022908,
     735161774,
     735161775,
+    14077022907,
+    14077022906,
     11731215133
   ],
   "tags": {
@@ -25638,6 +25867,7 @@
   "nodes": [
     12071098161,
     845893516,
+    14075114737,
     4299327203,
     845893676,
     845893800,
@@ -27910,7 +28140,9 @@
     "name:ko": "중원대로",
     "oneway": "yes",
     "ref": "3",
-    "source": "MapBox"
+    "source": "MapBox",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -27929,7 +28161,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -27976,7 +28210,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -28064,7 +28300,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -28146,7 +28384,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -28381,7 +28621,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;19;36;82"
+    "ref": "3;19;36;82",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -28494,7 +28736,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;19;36;82"
+    "ref": "3;19;36;82",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -45342,7 +45586,9 @@
     "oneway": "yes",
     "ref": "25",
     "review": "no",
-    "source": "Bing (adjusted)"
+    "source": "Bing (adjusted)",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -45362,7 +45608,9 @@
     "oneway": "yes",
     "ref": "25",
     "review": "no",
-    "source": "Bing (adjusted)"
+    "source": "Bing (adjusted)",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -45417,7 +45665,9 @@
     "oneway": "yes",
     "ref": "25",
     "review": "no",
-    "source": "Bing (adjusted)"
+    "source": "Bing (adjusted)",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -45474,7 +45724,9 @@
     "oneway": "yes",
     "ref": "25",
     "review": "no",
-    "source": "Bing (adjusted)"
+    "source": "Bing (adjusted)",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -45499,7 +45751,9 @@
     "oneway": "yes",
     "ref": "25",
     "review": "no",
-    "source": "Bing (adjusted)"
+    "source": "Bing (adjusted)",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -45524,7 +45778,9 @@
     "oneway": "yes",
     "ref": "25",
     "review": "no",
-    "source": "Bing (adjusted)"
+    "source": "Bing (adjusted)",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -45551,7 +45807,9 @@
     "oneway": "yes",
     "ref": "25",
     "review": "no",
-    "source": "Bing (adjusted)"
+    "source": "Bing (adjusted)",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -45633,7 +45891,9 @@
     "oneway": "yes",
     "ref": "25",
     "review": "no",
-    "source": "Bing (adjusted)"
+    "source": "Bing (adjusted)",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -45659,7 +45919,9 @@
     "oneway": "yes",
     "ref": "25",
     "review": "no",
-    "source": "Bing (adjusted)"
+    "source": "Bing (adjusted)",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -61887,7 +62149,9 @@
     "tunnel": "yes",
     "tunnel:name": "이화령터널",
     "tunnel:name:en": "Ihwaryeong Tunnel",
-    "tunnel:name:ko-Latn": "Ihwaryeongteoneol"
+    "tunnel:name:ko-Latn": "Ihwaryeongteoneol",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -61909,7 +62173,9 @@
     "oneway": "yes",
     "ref": "3",
     "review": "no",
-    "source": "MapBox"
+    "source": "MapBox",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -65814,7 +66080,9 @@
     "oneway": "yes",
     "ref": "3",
     "review": "no",
-    "source": "MapBox"
+    "source": "MapBox",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -65839,7 +66107,9 @@
     "oneway": "yes",
     "ref": "3",
     "review": "no",
-    "source": "MapBox"
+    "source": "MapBox",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -65962,6 +66232,9 @@
     4299326885,
     436762936,
     5762913669,
+    14075098599,
+    14075098598,
+    14075098600,
     1668416803,
     436762937,
     10301652601,
@@ -65992,6 +66265,7 @@
   "id": 186410673,
   "nodes": [
     1970949910,
+    14075147396,
     1836125950
   ],
   "tags": {
@@ -85529,7 +85803,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -85588,7 +85864,9 @@
     "tunnel": "yes",
     "tunnel:name": "이화령터널",
     "tunnel:name:en": "Ihwaryeong Tunnel",
-    "tunnel:name:ko-Latn": "Ihwaryeongteoneol"
+    "tunnel:name:ko-Latn": "Ihwaryeongteoneol",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -85637,7 +85915,9 @@
     "oneway": "yes",
     "ref": "3",
     "review": "no",
-    "source": "MapBox"
+    "source": "MapBox",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -85682,7 +85962,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -85706,7 +85988,9 @@
     "oneway": "yes",
     "ref": "3",
     "review": "no",
-    "source": "MapBox"
+    "source": "MapBox",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -85757,7 +86041,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -85781,7 +86067,9 @@
     "oneway": "yes",
     "ref": "3",
     "review": "no",
-    "source": "MapBox"
+    "source": "MapBox",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -85804,7 +86092,9 @@
     "oneway": "yes",
     "ref": "3",
     "review": "no",
-    "source": "MapBox"
+    "source": "MapBox",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -85827,7 +86117,9 @@
     "name:ko": "중원대로",
     "oneway": "yes",
     "ref": "3",
-    "source": "MapBox"
+    "source": "MapBox",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -88315,9 +88607,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -88344,9 +88643,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -88492,9 +88798,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -88544,9 +88857,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -88593,9 +88913,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -88615,6 +88942,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -88642,9 +88970,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -88665,6 +89000,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -88969,7 +89305,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;19;36;82"
+    "ref": "3;19;36;82",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -92123,7 +92461,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;19;36;82"
+    "ref": "3;19;36;82",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -92253,7 +92593,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;36;82"
+    "ref": "3;36;82",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -92391,7 +92733,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;36;82"
+    "ref": "3;36;82",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -97089,6 +97433,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -97115,6 +97460,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -98484,7 +98830,9 @@
     "name": "중원대로",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;82"
+    "ref": "3;82",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -104659,8 +105007,7 @@
     11042928088,
     5335600482,
     1825988697,
-    1825988632,
-    4151951488
+    1825988632
   ],
   "tags": {
     "expressway": "yes",
@@ -109804,6 +110151,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -109837,6 +110185,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -109862,6 +110211,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -112849,6 +113199,7 @@
   "nodes": [
     12071098160,
     436762938,
+    14075114735,
     4299327200,
     4299327201,
     4299327197
@@ -113063,6 +113414,7 @@
     2969331019,
     4307926424,
     2969331018,
+    14075016194,
     2969331017,
     2820891714,
     4307926380,
@@ -113089,6 +113441,7 @@
   "id": 431574693,
   "nodes": [
     4299327189,
+    14075147395,
     4299326888
   ],
   "tags": {
@@ -131882,7 +132235,9 @@
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -139031,7 +139386,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;306"
+    "ref": "3;306",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -140730,6 +141087,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -140756,6 +141114,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -140781,6 +141140,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -140847,6 +141207,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -140879,6 +141240,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -140917,6 +141279,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -140944,6 +141307,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -140968,6 +141332,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -141072,6 +141437,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -141102,6 +141468,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -147160,7 +147527,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -148161,6 +148530,7 @@
   "nodes": [
     844759113,
     844759388,
+    14076911601,
     735162302,
     735162306,
     735162307,
@@ -149580,6 +149950,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -149626,6 +149997,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -149650,6 +150022,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -149693,6 +150066,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -149721,6 +150095,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -149768,6 +150143,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -149796,6 +150172,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -149825,6 +150202,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -149853,6 +150231,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -149880,6 +150259,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -149908,6 +150288,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -149948,6 +150329,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -150008,7 +150390,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -150032,7 +150416,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -150501,7 +150887,9 @@
     "oneway": "yes",
     "ref": "3",
     "review": "no",
-    "source": "MapBox"
+    "source": "MapBox",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -155871,7 +156259,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -156922,7 +157312,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -156954,7 +157346,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -163216,7 +163610,9 @@
     "name:ko": "중원대로",
     "oneway": "yes",
     "ref": "3;19;36;82",
-    "surface": "asphalt"
+    "surface": "asphalt",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -163236,7 +163632,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -168798,7 +169196,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -168837,7 +169237,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17;70"
+    "ref": "17;70",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -176126,7 +176528,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -176150,7 +176554,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -176168,7 +176574,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -176192,7 +176600,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -176223,7 +176633,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -176264,7 +176676,9 @@
     "name": "중원대로",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;49;82"
+    "ref": "3;49;82",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -176317,7 +176731,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;306"
+    "ref": "3;306",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -182133,6 +182549,9 @@
   "nodes": [
     844758986,
     844759353,
+    14077021888,
+    14077021887,
+    14077021886,
     844759113
   ],
   "tags": {
@@ -191113,7 +191532,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17;70"
+    "ref": "17;70",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -191130,8 +191551,12 @@
     "layer": "1",
     "maxspeed": "80",
     "name": "죽양대로",
+    "name:en": "Jugyang-daero",
+    "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17;70"
+    "ref": "17;70",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -191179,7 +191604,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17;70"
+    "ref": "17;70",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -191197,8 +191624,12 @@
     "layer": "1",
     "maxspeed": "80",
     "name": "죽양대로",
+    "name:en": "Jugyang-daero",
+    "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17;70"
+    "ref": "17;70",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -191226,7 +191657,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17;70"
+    "ref": "17;70",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -191272,7 +191705,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -191392,7 +191827,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -191439,7 +191876,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;49;82"
+    "ref": "3;49;82",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -194095,9 +194534,16 @@
     "maxspeed": "80",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -196735,7 +197181,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -197910,9 +198358,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -197932,9 +198387,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -197954,9 +198416,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -197976,9 +198445,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -197999,9 +198475,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -198018,9 +198501,16 @@
     "maxspeed": "80",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -198040,9 +198530,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -198059,9 +198556,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -198082,9 +198586,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -198107,10 +198618,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
-    "name:ko-Latn": "Yodeokgyo",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -198142,9 +198659,16 @@
     "maxspeed": "80",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -198166,9 +198690,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -198187,9 +198718,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -198205,9 +198743,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -198227,9 +198772,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -198249,9 +198801,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -198268,9 +198827,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -198290,9 +198856,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -198313,6 +198886,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -198337,7 +198911,8 @@
     "name": "남북대로",
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
-    "name:ko": "南北大路",
+    "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -198364,9 +198939,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -199217,7 +199799,9 @@
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199244,7 +199828,9 @@
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199258,11 +199844,16 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "-1",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
+    "name:en": "Sinjungbu-daero",
+    "name:ko": "신중부대로",
     "oneway": "yes",
     "ref": "42",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199293,7 +199884,9 @@
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199312,7 +199905,9 @@
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199331,12 +199926,15 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199350,11 +199948,16 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "-1",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
+    "name:en": "Sinjungbu-daero",
+    "name:ko": "신중부대로",
     "oneway": "yes",
     "ref": "42",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199369,10 +199972,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
+    "name:en": "Sinjungbu-daero",
+    "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199390,12 +199998,15 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199410,10 +200021,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
+    "name:en": "Sinjungbu-daero",
+    "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199438,7 +200054,9 @@
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199462,7 +200080,9 @@
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199480,8 +200100,12 @@
     "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
+    "name:en": "Sinjungbu-daero",
+    "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199499,8 +200123,12 @@
     "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
+    "name:en": "Sinjungbu-daero",
+    "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199525,7 +200153,9 @@
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199550,7 +200180,9 @@
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199573,7 +200205,9 @@
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199588,12 +200222,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199615,7 +200252,9 @@
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199630,12 +200269,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199654,7 +200296,9 @@
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199676,7 +200320,9 @@
     "name:ko": "신중부대로",
     "oneway": "yes",
     "ref": "42",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199700,7 +200346,9 @@
     "name:ko": "신중부대로",
     "oneway": "yes",
     "ref": "42",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199720,7 +200368,9 @@
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199736,12 +200386,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199762,7 +200415,9 @@
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199777,12 +200432,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199807,7 +200465,9 @@
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199822,12 +200482,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199850,7 +200513,9 @@
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199865,12 +200530,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199885,12 +200553,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199912,7 +200583,9 @@
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199927,12 +200600,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199957,7 +200633,9 @@
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -199981,7 +200659,9 @@
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -200003,7 +200683,9 @@
     "oneway": "yes",
     "ref": "42",
     "tunnel": "yes",
-    "tunnel:name": "신기터널"
+    "tunnel:name": "신기터널",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -200026,7 +200708,9 @@
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -200049,7 +200733,9 @@
     "oneway": "yes",
     "ref": "42",
     "tunnel": "yes",
-    "tunnel:name": "신기터널"
+    "tunnel:name": "신기터널",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -200064,12 +200750,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -200082,12 +200771,15 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -200102,12 +200794,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -200128,7 +200823,9 @@
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -200143,12 +200840,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -200161,12 +200861,15 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -200181,12 +200884,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -200207,7 +200913,9 @@
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -200292,7 +201000,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17;70"
+    "ref": "17;70",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -201195,7 +201905,9 @@
     "name": "중원대로",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;82;306"
+    "ref": "3;82;306",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -201238,7 +201950,9 @@
     "name": "중원대로",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;82"
+    "ref": "3;82",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -206290,6 +207004,7 @@
   "id": 674071636,
   "nodes": [
     8888172403,
+    14074004554,
     9160305443,
     9160305438,
     9160305437,
@@ -219321,7 +220036,9 @@
     "oneway": "yes",
     "ref": "3",
     "review": "no",
-    "source": "MapBox"
+    "source": "MapBox",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -219346,7 +220063,9 @@
     "oneway": "yes",
     "ref": "3",
     "review": "no",
-    "source": "MapBox"
+    "source": "MapBox",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -220136,9 +220855,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "42;45"
+    "ref": "42;45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -220907,6 +221633,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -220932,7 +221659,8 @@
     "name": "남북대로",
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
-    "name:ko": "南北大路",
+    "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -220964,6 +221692,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -220988,7 +221717,8 @@
     "name": "남북대로",
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
-    "name:ko": "南北大路",
+    "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -221955,7 +222685,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -221984,7 +222716,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -233509,7 +234243,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -233538,7 +234274,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17;70"
+    "ref": "17;70",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -233644,7 +234382,9 @@
     "name": "중원대로",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;306"
+    "ref": "3;306",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -233663,7 +234403,9 @@
     "name": "중원대로",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;82"
+    "ref": "3;82",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -233685,7 +234427,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;49;82"
+    "ref": "3;49;82",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -233951,12 +234695,15 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -233971,12 +234718,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -233997,7 +234747,9 @@
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -234012,12 +234764,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -238844,12 +239599,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "2",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -238865,12 +239623,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "2",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "신중부대로",
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -238891,11 +239652,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "3",
+    "maxspeed": "80",
+    "motorroad": "yes",
     "name": "신중부대로",
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -238917,11 +239682,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "3",
+    "maxspeed": "80",
+    "motorroad": "yes",
     "name": "신중부대로",
     "name:en": "Sinjungbu-daero",
     "name:ko": "신중부대로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61100618",
+    "wikipedia": "ko:신중부대로"
   }
 },
 {
@@ -248920,7 +249689,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17;70"
+    "ref": "17;70",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -248938,7 +249709,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17;70"
+    "ref": "17;70",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -248960,7 +249733,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17;70"
+    "ref": "17;70",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -248982,7 +249757,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17;70"
+    "ref": "17;70",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -249040,7 +249817,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -249059,7 +249838,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -249079,7 +249860,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -249099,7 +249882,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -249133,7 +249918,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -249152,7 +249939,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -249181,7 +249970,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -249201,7 +249992,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -249232,7 +250025,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -249252,7 +250047,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -249282,7 +250079,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -249302,7 +250101,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -249324,7 +250125,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -249344,7 +250147,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -249394,7 +250199,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -249414,7 +250221,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -249434,7 +250243,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -249468,7 +250279,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -249508,7 +250321,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -249527,7 +250342,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -249547,6 +250364,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -249573,6 +250391,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -249673,9 +250492,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -249697,9 +250523,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -249716,9 +250549,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -249736,9 +250576,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -249755,9 +250602,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "42",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -249778,9 +250632,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "42;45"
+    "ref": "42;45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -249798,9 +250659,16 @@
     "maxspeed": "60",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "42;45"
+    "ref": "42;45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -249829,9 +250697,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -249850,9 +250725,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -249874,9 +250756,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -249896,9 +250785,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -249928,9 +250824,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -249947,9 +250850,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -249966,9 +250876,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -249989,9 +250906,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250008,9 +250932,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250030,9 +250961,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250049,9 +250987,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250072,9 +251017,16 @@
     "maxspeed": "80",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250091,9 +251043,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250117,9 +251076,16 @@
     "maxspeed": "80",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250137,9 +251103,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250156,9 +251129,16 @@
     "maxspeed": "80",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250175,9 +251155,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250194,9 +251181,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250223,9 +251217,16 @@
     "maxspeed": "80",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250245,9 +251246,16 @@
     "maxspeed": "80",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250266,9 +251274,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250285,9 +251300,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250312,9 +251334,16 @@
     "maxspeed": "80",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250333,9 +251362,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250361,9 +251397,16 @@
     "maxspeed": "80",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250380,9 +251423,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250400,9 +251450,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250439,9 +251496,16 @@
     "maxspeed": "80",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250460,9 +251524,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250481,9 +251552,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250502,9 +251580,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250521,9 +251606,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250554,9 +251646,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250576,9 +251675,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250595,9 +251701,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250617,9 +251730,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250639,9 +251759,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250658,9 +251785,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250682,9 +251816,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250702,9 +251843,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250723,9 +251871,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250742,9 +251897,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250766,9 +251928,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250787,9 +251956,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250805,9 +251981,16 @@
     "highway": "trunk",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -250826,9 +252009,16 @@
     "layer": "1",
     "name": "남북대로",
     "name:en": "Nambuk-daero",
+    "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
+    "name:zh": "南北大路",
+    "name:zh-Hans": "南北大路",
+    "name:zh-Hant": "南北大路",
     "oneway": "yes",
-    "ref": "45"
+    "ref": "45",
+    "wikidata": "Q61092074",
+    "wikipedia": "ko:남북대로"
   }
 },
 {
@@ -255234,7 +256424,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;19;36;82"
+    "ref": "3;19;36;82",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -260485,7 +261677,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-12-30"
+    "start_date": "2025-12-30",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -261273,7 +262467,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -261296,7 +262492,9 @@
     "ref": "36",
     "start_date": "2025-09-29",
     "tunnel": "yes",
-    "tunnel:name": "가막2터널"
+    "tunnel:name": "가막2터널",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -264588,7 +265786,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;306"
+    "ref": "3;306",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -264607,7 +265807,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;306"
+    "ref": "3;306",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -266900,7 +268102,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -268812,6 +270016,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -268837,6 +270042,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -271147,7 +272353,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;19;36;82"
+    "ref": "3;19;36;82",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -271169,7 +272377,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;19;36;82"
+    "ref": "3;19;36;82",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -271221,7 +272431,9 @@
     "name:ko": "중원대로",
     "oneway": "yes",
     "ref": "3;19;36;82",
-    "surface": "asphalt"
+    "surface": "asphalt",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -271244,7 +272456,9 @@
     "name:ko": "중원대로",
     "oneway": "yes",
     "ref": "3;19;36;82",
-    "surface": "asphalt"
+    "surface": "asphalt",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -271310,7 +272524,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -271333,7 +272549,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -271352,7 +272570,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -271373,7 +272593,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -272888,6 +274110,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -272912,7 +274135,8 @@
     "name": "남북대로",
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
-    "name:ko": "南北大路",
+    "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -272937,6 +274161,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -272961,7 +274186,8 @@
     "name": "남북대로",
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
-    "name:ko": "南北大路",
+    "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -272989,6 +274215,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -273016,6 +274243,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -274080,7 +275308,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -286968,6 +288198,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -286999,6 +288230,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -287022,6 +288254,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -287045,6 +288278,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -287551,7 +288785,7 @@
   "type": "way",
   "id": 1189235363,
   "nodes": [
-    11042928090,
+    14073904772,
     11042928076,
     11042928089,
     11042928086
@@ -292579,7 +293813,9 @@
     "name": "중원대로",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;306"
+    "ref": "3;306",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -304999,7 +306235,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -305026,7 +306264,9 @@
     "ref": "36",
     "start_date": "2025-11-18",
     "tunnel": "yes",
-    "tunnel:name": "주덕터널"
+    "tunnel:name": "주덕터널",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -306370,7 +307610,9 @@
     "name:en": "Chungcheongnaeryuk-ro",
     "name:ko": "충청내륙로",
     "oneway": "yes",
-    "ref": "36"
+    "ref": "36",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -306394,7 +307636,9 @@
     "name:en": "Chungcheongnaeryuk-ro",
     "name:ko": "충청내륙로",
     "oneway": "yes",
-    "ref": "36"
+    "ref": "36",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -306425,7 +307669,9 @@
     "name:en": "Chungcheongnaeryuk-ro",
     "name:ko": "충청내륙로",
     "oneway": "yes",
-    "ref": "36"
+    "ref": "36",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -306453,7 +307699,9 @@
     "name:en": "Chungcheongnaeryuk-ro",
     "name:ko": "충청내륙로",
     "oneway": "yes",
-    "ref": "36"
+    "ref": "36",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -306488,7 +307736,9 @@
     "name:en": "Chungcheongnaeryuk-ro",
     "name:ko": "충청내륙로",
     "oneway": "yes",
-    "ref": "36"
+    "ref": "36",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -306519,7 +307769,9 @@
     "name:en": "Chungcheongnaeryuk-ro",
     "name:ko": "충청내륙로",
     "oneway": "yes",
-    "ref": "36"
+    "ref": "36",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -306544,7 +307796,9 @@
     "name:en": "Chungcheongnaeryuk-ro",
     "name:ko": "충청내륙로",
     "oneway": "yes",
-    "ref": "36"
+    "ref": "36",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -306566,7 +307820,9 @@
     "name:en": "Chungcheongnaeryuk-ro",
     "name:ko": "충청내륙로",
     "oneway": "yes",
-    "ref": "36"
+    "ref": "36",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -306611,7 +307867,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -306634,7 +307892,9 @@
     "ref": "36",
     "start_date": "2025-09-29",
     "tunnel": "yes",
-    "tunnel:name": "가막2터널"
+    "tunnel:name": "가막2터널",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -306659,7 +307919,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -306682,7 +307944,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -306706,7 +307970,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -306729,7 +307995,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -306763,7 +308031,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -306786,7 +308056,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -306811,7 +308083,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -306834,7 +308108,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -306862,7 +308138,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -307358,7 +308636,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -307386,7 +308666,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -307456,7 +308738,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -307494,7 +308778,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -307515,7 +308801,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -307563,7 +308851,9 @@
     "name:en": "Chungcheongnaeryuk-ro",
     "name:ko": "충청내륙로",
     "oneway": "yes",
-    "ref": "36"
+    "ref": "36",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -307586,7 +308876,9 @@
     "name:en": "Chungcheongnaeryuk-ro",
     "name:ko": "충청내륙로",
     "oneway": "yes",
-    "ref": "36"
+    "ref": "36",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -308496,10 +309788,27 @@
   "id": 1303412539,
   "nodes": [
     845894106,
+    14076086959,
+    14076086960,
+    14076086961,
+    14076086962,
+    14076086963,
+    14076086964,
+    14076086965,
     4299327204,
+    14076086967,
+    14076086966,
     845893916,
+    14076086969,
+    14076086970,
+    14076086971,
+    14076086972,
     845893752,
+    14076086968,
     4299327202,
+    14076086973,
+    14076086974,
+    14076086975,
     845893641,
     12071098159
   ],
@@ -308547,6 +309856,7 @@
   "id": 1303412541,
   "nodes": [
     845893749,
+    14075114736,
     845893317
   ],
   "tags": {
@@ -309103,7 +310413,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;306"
+    "ref": "3;306",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -309122,7 +310434,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;306"
+    "ref": "3;306",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -309151,7 +310465,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;306"
+    "ref": "3;306",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -309170,7 +310486,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;306"
+    "ref": "3;306",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -311030,7 +312348,9 @@
     "name:en": "Chungcheongnaeryuk-ro",
     "name:ko": "충청내륙로",
     "oneway": "yes",
-    "ref": "36"
+    "ref": "36",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -311051,7 +312371,9 @@
     "name:en": "Chungcheongnaeryuk-ro",
     "name:ko": "충청내륙로",
     "oneway": "yes",
-    "ref": "36"
+    "ref": "36",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -311073,7 +312395,9 @@
     "name:en": "Chungcheongnaeryuk-ro",
     "name:ko": "충청내륙로",
     "oneway": "yes",
-    "ref": "36"
+    "ref": "36",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -314048,7 +315372,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -314072,7 +315398,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -316768,7 +318096,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -316932,7 +318262,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -317006,7 +318338,9 @@
     "ref": "36",
     "start_date": "2025-11-18",
     "tunnel": "yes",
-    "tunnel:name": "주덕터널"
+    "tunnel:name": "주덕터널",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -317025,7 +318359,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -317054,7 +318390,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -317073,7 +318411,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -317119,7 +318459,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -317322,7 +318664,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -317359,7 +318703,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -317380,7 +318726,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -317399,7 +318747,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -317418,7 +318768,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -317453,7 +318805,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -317476,7 +318830,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -317495,7 +318851,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-12-30"
+    "start_date": "2025-12-30",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -317518,7 +318876,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -317544,7 +318904,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -317565,7 +318927,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -317592,7 +318956,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -317613,7 +318979,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -317631,7 +318999,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-12-30"
+    "start_date": "2025-12-30",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -317659,7 +319029,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-12-30"
+    "start_date": "2025-12-30",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -317693,7 +319065,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-12-30"
+    "start_date": "2025-12-30",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -317720,7 +319094,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-12-30"
+    "start_date": "2025-12-30",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -320666,7 +322042,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -320687,7 +322065,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -320713,7 +322093,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -320748,7 +322130,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -320772,7 +322156,9 @@
     "ref": "36",
     "start_date": "2025-09-29",
     "tunnel": "yes",
-    "tunnel:name": "가막1터널"
+    "tunnel:name": "가막1터널",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -320795,7 +322181,9 @@
     "ref": "36",
     "start_date": "2025-09-29",
     "tunnel": "yes",
-    "tunnel:name": "가막1터널"
+    "tunnel:name": "가막1터널",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -320817,7 +322205,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -320839,7 +322229,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -320861,7 +322253,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -320884,7 +322278,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -322815,7 +324211,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;49;82"
+    "ref": "3;49;82",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -323309,7 +324707,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -323919,7 +325319,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -323942,7 +325344,9 @@
     "name:en": "Chungcheongnaeryuk-ro",
     "name:ko": "충청내륙로",
     "oneway": "yes",
-    "ref": "36"
+    "ref": "36",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -324893,7 +326297,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -324912,7 +326318,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -324939,7 +326347,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -324965,7 +326375,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -326881,7 +328293,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -326900,7 +328314,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -326920,7 +328336,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -326940,7 +328358,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -326960,7 +328380,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -326983,7 +328405,9 @@
     "oneway": "yes",
     "ref": "36",
     "start_date": "2025-09-29",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327009,7 +328433,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327031,7 +328457,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327053,7 +328481,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327073,7 +328503,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327093,7 +328525,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327112,7 +328546,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327136,7 +328572,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327158,7 +328596,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327178,7 +328618,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327200,7 +328642,9 @@
     "oneway": "yes",
     "ref": "36",
     "start_date": "2025-09-29",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327221,7 +328665,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327247,7 +328693,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327268,7 +328716,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327302,7 +328752,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327324,7 +328776,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327344,7 +328798,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327364,7 +328820,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327385,7 +328843,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327407,7 +328867,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327427,7 +328889,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327456,7 +328920,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327476,7 +328942,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327496,7 +328964,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327517,7 +328987,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327537,7 +329009,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327565,7 +329039,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327587,7 +329063,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327607,7 +329085,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327629,7 +329109,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327649,7 +329131,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327680,7 +329164,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327702,7 +329188,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327723,7 +329211,9 @@
     "name:en": "Chungcheongnaeryuk-ro",
     "name:ko": "충청내륙로",
     "oneway": "yes",
-    "ref": "36"
+    "ref": "36",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327744,7 +329234,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327768,7 +329260,9 @@
     "name:en": "Chungcheongnaeryuk-ro",
     "name:ko": "충청내륙로",
     "oneway": "yes",
-    "ref": "36"
+    "ref": "36",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327791,7 +329285,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-09-29"
+    "start_date": "2025-09-29",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327809,7 +329305,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-12-30"
+    "start_date": "2025-12-30",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327829,7 +329327,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-12-30"
+    "start_date": "2025-12-30",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327848,7 +329348,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-12-30"
+    "start_date": "2025-12-30",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327868,7 +329370,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-12-30"
+    "start_date": "2025-12-30",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327971,7 +329475,9 @@
     "name:en": "Chungcheongnaeryuk-ro",
     "name:ko": "충청내륙로",
     "oneway": "yes",
-    "ref": "36"
+    "ref": "36",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -327995,7 +329501,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-12-30"
+    "start_date": "2025-12-30",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -328020,7 +329528,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-12-30"
+    "start_date": "2025-12-30",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -328291,7 +329801,9 @@
     "name:en": "Chungcheongnaeryuk-ro",
     "name:ko": "충청내륙로",
     "oneway": "yes",
-    "ref": "36"
+    "ref": "36",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -329012,7 +330524,9 @@
     "name:en": "Bocheong-daero",
     "name:ko": "보청대로",
     "ref": "25",
-    "surface": "asphalt"
+    "surface": "asphalt",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -329030,7 +330544,9 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3;36;82"
+    "ref": "3;36;82",
+    "wikidata": "Q21825073",
+    "wikipedia": "ko:중원대로"
   }
 },
 {
@@ -329503,7 +331019,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -329523,7 +331041,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -329549,7 +331069,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -329569,7 +331091,9 @@
     "name:en": "Jugyang-daero",
     "name:ko": "죽양대로",
     "oneway": "yes",
-    "ref": "17"
+    "ref": "17",
+    "wikidata": "Q85985451",
+    "wikipedia": "ko:죽양대로"
   }
 },
 {
@@ -329754,7 +331278,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -329777,7 +331303,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -329807,7 +331335,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -329829,7 +331359,9 @@
     "name:ko": "충청내륙로",
     "oneway": "yes",
     "ref": "36",
-    "start_date": "2025-11-18"
+    "start_date": "2025-11-18",
+    "wikidata": "Q27954132",
+    "wikipedia": "ko:충청내륙로"
   }
 },
 {
@@ -329933,6 +331465,7 @@
     "name:en": "Nambuk-daero",
     "name:ja": "南北大路",
     "name:ko": "남북대로",
+    "name:ko-Latn": "Nambukdaero",
     "name:zh": "南北大路",
     "name:zh-Hans": "南北大路",
     "name:zh-Hant": "南北大路",
@@ -333666,6 +335199,82 @@
     "name:ko": "강변대로",
     "oneway": "yes",
     "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1547357801,
+  "nodes": [
+    14073904771,
+    4151951488
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "대청로",
+    "name:en": "Daecheong-ro",
+    "name:ko": "대청로",
+    "oneway": "yes",
+    "ref": "36"
+  }
+},
+{
+  "type": "way",
+  "id": 1547357802,
+  "nodes": [
+    1825988632,
+    14073904771
+  ],
+  "tags": {
+    "bridge": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "name": "대청로",
+    "name:en": "Daecheong-ro",
+    "name:ko": "대청로",
+    "oneway": "yes",
+    "ref": "36"
+  }
+},
+{
+  "type": "way",
+  "id": 1547357803,
+  "nodes": [
+    11042928090,
+    14073904773
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "대청로",
+    "name:en": "Daecheong-ro",
+    "name:ko": "대청로",
+    "oneway": "yes",
+    "ref": "36",
+    "review": "no",
+    "source": "Bing (adjusted)"
+  }
+},
+{
+  "type": "way",
+  "id": 1547357804,
+  "nodes": [
+    14073904773,
+    14073904772
+  ],
+  "tags": {
+    "bridge": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "name": "대청로",
+    "name:en": "Daecheong-ro",
+    "name:ko": "대청로",
+    "oneway": "yes",
+    "ref": "36",
+    "review": "no",
+    "source": "Bing (adjusted)"
   }
 },
 {
@@ -406451,8 +408060,8 @@
 {
   "type": "node",
   "id": 1825988632,
-  "lat": 36.4210801,
-  "lon": 126.7120567
+  "lat": 36.4210497,
+  "lon": 126.7120213
 },
 {
   "type": "node",
@@ -406483,6 +408092,24 @@
   "id": 11042928093,
   "lat": 36.4190809,
   "lon": 126.7094070
+},
+{
+  "type": "node",
+  "id": 14073904771,
+  "lat": 36.4207819,
+  "lon": 126.7116478
+},
+{
+  "type": "node",
+  "id": 14073904772,
+  "lat": 36.4209295,
+  "lon": 126.7119730
+},
+{
+  "type": "node",
+  "id": 14073904773,
+  "lat": 36.4206650,
+  "lon": 126.7116196
 },
 {
   "type": "node",
@@ -522575,8 +524202,8 @@
 {
   "type": "node",
   "id": 1661821500,
-  "lat": 35.7982598,
-  "lon": 128.7359972
+  "lat": 35.7982663,
+  "lon": 128.7360120
 },
 {
   "type": "node",
@@ -522713,26 +524340,26 @@
 {
   "type": "node",
   "id": 4757331978,
-  "lat": 35.7976956,
-  "lon": 128.7360143
+  "lat": 35.7976902,
+  "lon": 128.7360425
 },
 {
   "type": "node",
   "id": 4757331979,
-  "lat": 35.7978958,
-  "lon": 128.7359902
+  "lat": 35.7978904,
+  "lon": 128.7360184
 },
 {
   "type": "node",
   "id": 4757331980,
-  "lat": 35.7980854,
-  "lon": 128.7359811
+  "lat": 35.7980800,
+  "lon": 128.7360093
 },
 {
   "type": "node",
   "id": 4757331982,
-  "lat": 35.7984262,
-  "lon": 128.7360223
+  "lat": 35.7984327,
+  "lon": 128.7360384
 },
 {
   "type": "node",
@@ -522767,20 +524394,20 @@
 {
   "type": "node",
   "id": 4757331995,
-  "lat": 35.7977796,
-  "lon": 128.7359092
+  "lat": 35.7977742,
+  "lon": 128.7359374
 },
 {
   "type": "node",
   "id": 4757331996,
-  "lat": 35.7979803,
-  "lon": 128.7358882
+  "lat": 35.7979749,
+  "lon": 128.7359164
 },
 {
   "type": "node",
   "id": 4757331997,
-  "lat": 35.7981924,
-  "lon": 128.7358952
+  "lat": 35.7981946,
+  "lon": 128.7359167
 },
 {
   "type": "node",
@@ -531623,20 +533250,26 @@
 {
   "type": "node",
   "id": 8888172403,
-  "lat": 36.0387053,
-  "lon": 128.4433162
+  "lat": 36.0386966,
+  "lon": 128.4432451
 },
 {
   "type": "node",
   "id": 9160305442,
-  "lat": 36.0388121,
-  "lon": 128.4436320
+  "lat": 36.0388295,
+  "lon": 128.4436387
 },
 {
   "type": "node",
   "id": 9160305443,
-  "lat": 36.0387789,
-  "lon": 128.4436514
+  "lat": 36.0387344,
+  "lon": 128.4436058
+},
+{
+  "type": "node",
+  "id": 14074004554,
+  "lat": 36.0387279,
+  "lon": 128.4435439
 },
 {
   "type": "node",
@@ -663785,8 +665418,8 @@
 {
   "type": "node",
   "id": 2969331019,
-  "lat": 37.4104205,
-  "lon": 127.1062817
+  "lat": 37.4102687,
+  "lon": 127.1064832
 },
 {
   "type": "node",
@@ -663797,8 +665430,8 @@
 {
   "type": "node",
   "id": 4299326888,
-  "lat": 37.4110676,
-  "lon": 127.1055969
+  "lat": 37.4110633,
+  "lon": 127.1056215
 },
 {
   "type": "node",
@@ -663809,8 +665442,8 @@
 {
   "type": "node",
   "id": 5004959022,
-  "lat": 37.4106033,
-  "lon": 127.1060491
+  "lat": 37.4104358,
+  "lon": 127.1062768
 },
 {
   "type": "node",
@@ -663839,8 +665472,8 @@
 {
   "type": "node",
   "id": 1970949873,
-  "lat": 37.4072339,
-  "lon": 127.1105138
+  "lat": 37.4072056,
+  "lon": 127.1105207
 },
 {
   "type": "node",
@@ -663905,38 +665538,38 @@
 {
   "type": "node",
   "id": 2820855777,
-  "lat": 37.4071245,
-  "lon": 127.1103731
+  "lat": 37.4071096,
+  "lon": 127.1103940
 },
 {
   "type": "node",
   "id": 2820891714,
-  "lat": 37.4086759,
-  "lon": 127.1083006
+  "lat": 37.4087255,
+  "lon": 127.1084107
 },
 {
   "type": "node",
   "id": 2969331017,
-  "lat": 37.4093382,
-  "lon": 127.1075445
+  "lat": 37.4093746,
+  "lon": 127.1076142
 },
 {
   "type": "node",
   "id": 4299326884,
-  "lat": 37.4080233,
-  "lon": 127.1091049
+  "lat": 37.4081210,
+  "lon": 127.1091379
 },
 {
   "type": "node",
   "id": 4307926380,
-  "lat": 37.4083821,
-  "lon": 127.1086626
+  "lat": 37.4083136,
+  "lon": 127.1088994
 },
 {
   "type": "node",
   "id": 4307926395,
-  "lat": 37.4085957,
-  "lon": 127.1086804
+  "lat": 37.4082229,
+  "lon": 127.1092490
 },
 {
   "type": "node",
@@ -664072,6 +665705,12 @@
 },
 {
   "type": "node",
+  "id": 14075016194,
+  "lat": 37.4097888,
+  "lon": 127.1070751
+},
+{
+  "type": "node",
   "id": 845893358,
   "lat": 37.4235232,
   "lon": 127.0998181
@@ -664109,7 +665748,7 @@
 {
   "type": "node",
   "id": 436762936,
-  "lat": 37.4131060,
+  "lat": 37.4131254,
   "lon": 127.1045159
 },
 {
@@ -664121,20 +665760,20 @@
 {
   "type": "node",
   "id": 1668416803,
-  "lat": 37.4144108,
-  "lon": 127.1041534
+  "lat": 37.4144156,
+  "lon": 127.1042063
 },
 {
   "type": "node",
   "id": 1836125950,
-  "lat": 37.4117927,
-  "lon": 127.1051933
+  "lat": 37.4117959,
+  "lon": 127.1051882
 },
 {
   "type": "node",
   "id": 2276976030,
-  "lat": 37.4123582,
-  "lon": 127.1048494
+  "lat": 37.4122742,
+  "lon": 127.1048941
 },
 {
   "type": "node",
@@ -664151,8 +665790,8 @@
 {
   "type": "node",
   "id": 4299327189,
-  "lat": 37.4117359,
-  "lon": 127.1050867
+  "lat": 37.4117460,
+  "lon": 127.1050817
 },
 {
   "type": "node",
@@ -664163,8 +665802,8 @@
 {
   "type": "node",
   "id": 4299327191,
-  "lat": 37.4124229,
-  "lon": 127.1046556
+  "lat": 37.4124257,
+  "lon": 127.1046680
 },
 {
   "type": "node",
@@ -664187,20 +665826,20 @@
 {
   "type": "node",
   "id": 4299327195,
-  "lat": 37.4139994,
-  "lon": 127.1040978
+  "lat": 37.4140068,
+  "lon": 127.1041163
 },
 {
   "type": "node",
   "id": 4299327196,
-  "lat": 37.4144596,
-  "lon": 127.1040334
+  "lat": 37.4144670,
+  "lon": 127.1040550
 },
 {
   "type": "node",
   "id": 4299327197,
   "lat": 37.4152521,
-  "lon": 127.1039583
+  "lon": 127.1039768
 },
 {
   "type": "node",
@@ -664211,20 +665850,26 @@
 {
   "type": "node",
   "id": 4299327199,
-  "lat": 37.4173270,
-  "lon": 127.1039181
+  "lat": 37.4173147,
+  "lon": 127.1039490
 },
 {
   "type": "node",
   "id": 4299327200,
-  "lat": 37.4173057,
-  "lon": 127.1037894
+  "lat": 37.4173032,
+  "lon": 127.1038018
 },
 {
   "type": "node",
   "id": 4299327201,
   "lat": 37.4162243,
-  "lon": 127.1038773
+  "lon": 127.1038927
+},
+{
+  "type": "node",
+  "id": 4299327211,
+  "lat": 37.4177833,
+  "lon": 127.1039057
 },
 {
   "type": "node",
@@ -664235,8 +665880,8 @@
 {
   "type": "node",
   "id": 5762913669,
-  "lat": 37.4135594,
-  "lon": 127.1043625
+  "lat": 37.4135707,
+  "lon": 127.1043706
 },
 {
   "type": "node",
@@ -664246,15 +665891,51 @@
 },
 {
   "type": "node",
+  "id": 14075098598,
+  "lat": 37.4138699,
+  "lon": 127.1042935
+},
+{
+  "type": "node",
+  "id": 14075098599,
+  "lat": 37.4137187,
+  "lon": 127.1043280
+},
+{
+  "type": "node",
+  "id": 14075098600,
+  "lat": 37.4141362,
+  "lon": 127.1042458
+},
+{
+  "type": "node",
+  "id": 14075114735,
+  "lat": 37.4176583,
+  "lon": 127.1037736
+},
+{
+  "type": "node",
+  "id": 14075147395,
+  "lat": 37.4113665,
+  "lon": 127.1053395
+},
+{
+  "type": "node",
+  "id": 14075147396,
+  "lat": 37.4114385,
+  "lon": 127.1054627
+},
+{
+  "type": "node",
   "id": 436762938,
-  "lat": 37.4179626,
-  "lon": 127.1037160
+  "lat": 37.4180117,
+  "lon": 127.1037438
 },
 {
   "type": "node",
   "id": 845893317,
-  "lat": 37.4187858,
-  "lon": 127.1037287
+  "lat": 37.4187981,
+  "lon": 127.1037750
 },
 {
   "type": "node",
@@ -664265,14 +665946,14 @@
 {
   "type": "node",
   "id": 845893516,
-  "lat": 37.4193590,
-  "lon": 127.1036187
+  "lat": 37.4193639,
+  "lon": 127.1036372
 },
 {
   "type": "node",
   "id": 845893641,
-  "lat": 37.4188307,
-  "lon": 127.1035878
+  "lat": 37.4189751,
+  "lon": 127.1035891
 },
 {
   "type": "node",
@@ -664283,14 +665964,14 @@
 {
   "type": "node",
   "id": 845893749,
-  "lat": 37.4180578,
-  "lon": 127.1038315
+  "lat": 37.4181142,
+  "lon": 127.1038747
 },
 {
   "type": "node",
   "id": 845893752,
-  "lat": 37.4196627,
-  "lon": 127.1033818
+  "lat": 37.4196686,
+  "lon": 127.1033930
 },
 {
   "type": "node",
@@ -664301,8 +665982,8 @@
 {
   "type": "node",
   "id": 845893916,
-  "lat": 37.4202341,
-  "lon": 127.1031491
+  "lat": 37.4202410,
+  "lon": 127.1031603
 },
 {
   "type": "node",
@@ -664313,8 +665994,8 @@
 {
   "type": "node",
   "id": 845894106,
-  "lat": 37.4213465,
-  "lon": 127.1024506
+  "lat": 37.4213829,
+  "lon": 127.1024729
 },
 {
   "type": "node",
@@ -664337,20 +666018,20 @@
 {
   "type": "node",
   "id": 4299327202,
-  "lat": 37.4192723,
-  "lon": 127.1034982
+  "lat": 37.4194918,
+  "lon": 127.1034461
 },
 {
   "type": "node",
   "id": 4299327203,
-  "lat": 37.4197651,
-  "lon": 127.1034972
+  "lat": 37.4197725,
+  "lon": 127.1035003
 },
 {
   "type": "node",
   "id": 4299327204,
-  "lat": 37.4207051,
-  "lon": 127.1028696
+  "lat": 37.4207317,
+  "lon": 127.1028919
 },
 {
   "type": "node",
@@ -664378,27 +666059,135 @@
 },
 {
   "type": "node",
-  "id": 4299327211,
-  "lat": 37.4179010,
-  "lon": 127.1038501
-},
-{
-  "type": "node",
   "id": 12071098159,
-  "lat": 37.4187555,
-  "lon": 127.1035989
+  "lat": 37.4188299,
+  "lon": 127.1036236
 },
 {
   "type": "node",
   "id": 12071098160,
-  "lat": 37.4186964,
-  "lon": 127.1036076
+  "lat": 37.4186866,
+  "lon": 127.1036552
 },
 {
   "type": "node",
   "id": 12071098161,
-  "lat": 37.4188669,
-  "lon": 127.1037131
+  "lat": 37.4189944,
+  "lon": 127.1037316
+},
+{
+  "type": "node",
+  "id": 14075114736,
+  "lat": 37.4184838,
+  "lon": 127.1038301
+},
+{
+  "type": "node",
+  "id": 14075114737,
+  "lat": 37.4196078,
+  "lon": 127.1035588
+},
+{
+  "type": "node",
+  "id": 14076086959,
+  "lat": 37.4213276,
+  "lon": 127.1025142
+},
+{
+  "type": "node",
+  "id": 14076086960,
+  "lat": 37.4212713,
+  "lon": 127.1025550
+},
+{
+  "type": "node",
+  "id": 14076086961,
+  "lat": 37.4212030,
+  "lon": 127.1026011
+},
+{
+  "type": "node",
+  "id": 14076086962,
+  "lat": 37.4211340,
+  "lon": 127.1026455
+},
+{
+  "type": "node",
+  "id": 14076086963,
+  "lat": 37.4210630,
+  "lon": 127.1026899
+},
+{
+  "type": "node",
+  "id": 14076086964,
+  "lat": 37.4209933,
+  "lon": 127.1027323
+},
+{
+  "type": "node",
+  "id": 14076086965,
+  "lat": 37.4208514,
+  "lon": 127.1028186
+},
+{
+  "type": "node",
+  "id": 14076086966,
+  "lat": 37.4204146,
+  "lon": 127.1030691
+},
+{
+  "type": "node",
+  "id": 14076086967,
+  "lat": 37.4205790,
+  "lon": 127.1029793
+},
+{
+  "type": "node",
+  "id": 14076086968,
+  "lat": 37.4195727,
+  "lon": 127.1034219
+},
+{
+  "type": "node",
+  "id": 14076086969,
+  "lat": 37.4201373,
+  "lon": 127.1032111
+},
+{
+  "type": "node",
+  "id": 14076086970,
+  "lat": 37.4200020,
+  "lon": 127.1032680
+},
+{
+  "type": "node",
+  "id": 14076086971,
+  "lat": 37.4198767,
+  "lon": 127.1033175
+},
+{
+  "type": "node",
+  "id": 14076086972,
+  "lat": 37.4197744,
+  "lon": 127.1033563
+},
+{
+  "type": "node",
+  "id": 14076086973,
+  "lat": 37.4193767,
+  "lon": 127.1034835
+},
+{
+  "type": "node",
+  "id": 14076086974,
+  "lat": 37.4192722,
+  "lon": 127.1035142
+},
+{
+  "type": "node",
+  "id": 14076086975,
+  "lat": 37.4191446,
+  "lon": 127.1035458
 },
 {
   "type": "node",
@@ -664415,14 +666204,14 @@
 {
   "type": "node",
   "id": 844758900,
-  "lat": 37.3992483,
-  "lon": 127.1200405
+  "lat": 37.3992512,
+  "lon": 127.1200738
 },
 {
   "type": "node",
   "id": 844758916,
-  "lat": 37.3989864,
-  "lon": 127.1200738
+  "lat": 37.3988942,
+  "lon": 127.1201222
 },
 {
   "type": "node",
@@ -664439,8 +666228,8 @@
 {
   "type": "node",
   "id": 844759224,
-  "lat": 37.3993762,
-  "lon": 127.1200215
+  "lat": 37.3993657,
+  "lon": 127.1200610
 },
 {
   "type": "node",
@@ -664463,14 +666252,14 @@
 {
   "type": "node",
   "id": 5715232910,
-  "lat": 37.3991791,
-  "lon": 127.1200490
+  "lat": 37.3991781,
+  "lon": 127.1200817
 },
 {
   "type": "node",
   "id": 5715232911,
   "lat": 37.3985460,
-  "lon": 127.1201515
+  "lon": 127.1201678
 },
 {
   "type": "node",
@@ -664487,8 +666276,8 @@
 {
   "type": "node",
   "id": 11034327912,
-  "lat": 37.3984902,
-  "lon": 127.1201576
+  "lat": 37.3984695,
+  "lon": 127.1201788
 },
 {
   "type": "node",
@@ -664499,20 +666288,20 @@
 {
   "type": "node",
   "id": 735161775,
-  "lat": 37.4107295,
-  "lon": 127.1183571
+  "lat": 37.4109468,
+  "lon": 127.1183517
 },
 {
   "type": "node",
   "id": 735161778,
-  "lat": 37.4058377,
-  "lon": 127.1190223
+  "lat": 37.4057763,
+  "lon": 127.1190508
 },
 {
   "type": "node",
   "id": 735162286,
-  "lat": 37.4058463,
-  "lon": 127.1191403
+  "lat": 37.4057882,
+  "lon": 127.1191444
 },
 {
   "type": "node",
@@ -664523,8 +666312,8 @@
 {
   "type": "node",
   "id": 735162302,
-  "lat": 37.4107550,
-  "lon": 127.1184966
+  "lat": 37.4108272,
+  "lon": 127.1185049
 },
 {
   "type": "node",
@@ -664535,8 +666324,8 @@
 {
   "type": "node",
   "id": 844758986,
-  "lat": 37.4085073,
-  "lon": 127.1189056
+  "lat": 37.4085790,
+  "lon": 127.1188985
 },
 {
   "type": "node",
@@ -664547,8 +666336,8 @@
 {
   "type": "node",
   "id": 844759146,
-  "lat": 37.4082030,
-  "lon": 127.1189666
+  "lat": 37.4081763,
+  "lon": 127.1189878
 },
 {
   "type": "node",
@@ -664559,14 +666348,14 @@
 {
   "type": "node",
   "id": 844759353,
-  "lat": 37.4088616,
-  "lon": 127.1188389
+  "lat": 37.4088644,
+  "lon": 127.1188513
 },
 {
   "type": "node",
   "id": 844759388,
-  "lat": 37.4103785,
-  "lon": 127.1185474
+  "lat": 37.4102194,
+  "lon": 127.1185846
 },
 {
   "type": "node",
@@ -664589,8 +666378,8 @@
 {
   "type": "node",
   "id": 11731215133,
-  "lat": 37.4084635,
-  "lon": 127.1186646
+  "lat": 37.4081521,
+  "lon": 127.1187213
 },
 {
   "type": "node",
@@ -664609,6 +666398,42 @@
   "id": 12071058846,
   "lat": 37.4088983,
   "lon": 127.1187553
+},
+{
+  "type": "node",
+  "id": 14076911601,
+  "lat": 37.4106227,
+  "lon": 127.1185303
+},
+{
+  "type": "node",
+  "id": 14077021886,
+  "lat": 37.4092332,
+  "lon": 127.1187489
+},
+{
+  "type": "node",
+  "id": 14077021887,
+  "lat": 37.4091087,
+  "lon": 127.1187917
+},
+{
+  "type": "node",
+  "id": 14077021888,
+  "lat": 37.4089777,
+  "lon": 127.1188292
+},
+{
+  "type": "node",
+  "id": 14077022906,
+  "lat": 37.4093178,
+  "lon": 127.1185675
+},
+{
+  "type": "node",
+  "id": 14077022907,
+  "lat": 37.4100370,
+  "lon": 127.1184685
 },
 {
   "type": "node",
@@ -664637,14 +666462,14 @@
 {
   "type": "node",
   "id": 735161772,
-  "lat": 37.4153908,
-  "lon": 127.1177241
+  "lat": 37.4154078,
+  "lon": 127.1177509
 },
 {
   "type": "node",
   "id": 735161774,
-  "lat": 37.4123827,
-  "lon": 127.1181747
+  "lat": 37.4123529,
+  "lon": 127.1181559
 },
 {
   "type": "node",
@@ -664705,6 +666530,12 @@
   "id": 4332209845,
   "lat": 37.4167202,
   "lon": 127.1177107
+},
+{
+  "type": "node",
+  "id": 14077022908,
+  "lat": 37.4132081,
+  "lon": 127.1180478
 },
 {
   "type": "node",
