@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-07T19:16:10Z",
-    "timestamp_areas_base": "2026-08-06T22:32:00Z",
+    "timestamp_osm_base": "2026-08-08T19:00:05Z",
+    "timestamp_areas_base": "2026-08-08T01:53:06Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1256,7 +1256,7 @@
     10086119607
   ],
   "tags": {
-    "bus:lanes:conditional": "(designated|yes|yes|yes|yes) @ (07:00-21:00; 21:00-25:00 \"설날 및 추석연휴\")",
+    "bus:lanes:conditional": "designated|yes|yes|yes|yes @ (Mo-Su 07:00-21:00; PH 21:00-25:00 \"설날 및 추석연휴\")",
     "highway": "motorway",
     "maxspeed": "80",
     "maxspeed:hgv": "80",
@@ -50409,14 +50409,14 @@
 {
   "type": "node",
   "id": 5679579314,
-  "lat": 36.7879246,
-  "lon": 127.0490136
+  "lat": 36.7879566,
+  "lon": 127.0490045
 },
 {
   "type": "node",
   "id": 5679580976,
-  "lat": 36.7877153,
-  "lon": 127.0508277
+  "lat": 36.7877528,
+  "lon": 127.0506680
 },
 {
   "type": "node",
@@ -50433,8 +50433,8 @@
 {
   "type": "node",
   "id": 11195884151,
-  "lat": 36.7878364,
-  "lon": 127.0497603
+  "lat": 36.7878684,
+  "lon": 127.0497512
 },
 {
   "type": "node",
