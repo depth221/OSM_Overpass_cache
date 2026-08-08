@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-07T00:26:58Z",
-    "timestamp_areas_base": "2026-08-06T05:16:31Z",
+    "timestamp_osm_base": "2026-08-08T19:12:21Z",
+    "timestamp_areas_base": "2026-08-07T17:44:51Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1263,10 +1263,7 @@
   "id": 30328470,
   "nodes": [
     311758293,
-    277117856,
-    7226702050,
-    7226702051,
-    412126088
+    277117856
   ],
   "tags": {
     "highway": "primary",
@@ -27552,7 +27549,6 @@
   "id": 480032172,
   "nodes": [
     4730585667,
-    4730585683,
     4631622240
   ],
   "tags": {
@@ -46427,8 +46423,7 @@
     7226702061,
     7226702062,
     8244789409,
-    7226702063,
-    7226702048
+    7226702063
   ],
   "tags": {
     "highway": "primary",
@@ -95473,6 +95468,44 @@
   "tags": {
     "highway": "primary",
     "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1547850926,
+  "nodes": [
+    277117856,
+    7226702050,
+    7226702051,
+    412126088
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "4",
+    "maxspeed": "60",
+    "name": "대덕대로",
+    "name:en": "Daedeok-daero",
+    "name:ko": "대덕대로",
+    "oneway": "yes",
+    "ref": "32"
+  }
+},
+{
+  "type": "way",
+  "id": 1547850927,
+  "nodes": [
+    7226702063,
+    7226702048
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "4",
+    "maxspeed": "60",
+    "name": "대덕대로",
+    "name:en": "Daedeok-daero",
+    "name:ko": "대덕대로",
+    "oneway": "yes",
+    "ref": "32"
   }
 },
 {
@@ -247020,20 +247053,14 @@
 {
   "type": "node",
   "id": 4631622240,
-  "lat": 36.7665965,
-  "lon": 127.1665992
+  "lat": 36.7665837,
+  "lon": 127.1666135
 },
 {
   "type": "node",
   "id": 4730585667,
   "lat": 36.7665721,
   "lon": 127.1665207
-},
-{
-  "type": "node",
-  "id": 4730585683,
-  "lat": 36.7665843,
-  "lon": 127.1665599
 },
 {
   "type": "node",
