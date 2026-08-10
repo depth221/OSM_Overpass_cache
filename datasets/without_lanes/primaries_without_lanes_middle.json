@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-09T19:14:16Z",
-    "timestamp_areas_base": "2026-08-08T11:35:21Z",
+    "timestamp_osm_base": "2026-08-10T19:34:51Z",
+    "timestamp_areas_base": "2026-08-09T23:17:17Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -41011,7 +41011,8 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ref": "31"
+    "ref": "31",
+    "surface": "asphalt"
   }
 },
 {
@@ -41026,7 +41027,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ref": "31"
+    "ref": "31",
+    "surface": "asphalt"
   }
 },
 {
@@ -41044,7 +41046,8 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "ref": "31"
+    "ref": "31",
+    "surface": "asphalt"
   }
 },
 {
@@ -45689,7 +45692,9 @@
     437299682,
     878455303,
     4309664830,
+    14084804751,
     4309664859,
+    14084804750,
     6265061977,
     4307926167,
     3675293247,
@@ -96108,7 +96113,8 @@
   "tags": {
     "bridge": "yes",
     "highway": "primary",
-    "layer": "1"
+    "layer": "1",
+    "surface": "asphalt"
   }
 },
 {
@@ -96120,7 +96126,8 @@
     3682368948
   ],
   "tags": {
-    "highway": "primary"
+    "highway": "primary",
+    "surface": "asphalt"
   }
 },
 {
@@ -96134,6 +96141,7 @@
     "highway": "primary",
     "name": "이목터널",
     "name:ko": "이목터널",
+    "surface": "asphalt",
     "tunnel": "yes"
   }
 },
@@ -96148,7 +96156,8 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "ref": "31"
+    "ref": "31",
+    "surface": "asphalt"
   }
 },
 {
@@ -96160,7 +96169,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ref": "31"
+    "ref": "31",
+    "surface": "asphalt"
   }
 },
 {
@@ -96207,7 +96217,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "ref": "31"
+    "ref": "31",
+    "surface": "asphalt"
   }
 },
 {
@@ -96254,7 +96265,8 @@
     "name": "태백산로",
     "name:en": "Taebaeksan-ro",
     "name:ko": "태백산로",
-    "ref": "31;28"
+    "ref": "31;28",
+    "surface": "asphalt"
   }
 },
 {
@@ -105195,6 +105207,7 @@
     "name:en": "Surari Tunnel",
     "name:ko": "수라리터널",
     "ref": "31;28",
+    "surface": "asphalt",
     "tunnel": "yes"
   }
 },
@@ -172593,7 +172606,8 @@
     "name": "태백산로",
     "name:en": "Taebaeksan-ro",
     "name:ko": "태백산로",
-    "ref": "31"
+    "ref": "31",
+    "surface": "asphalt"
   }
 },
 {
@@ -203282,7 +203296,8 @@
     "name": "태백산로",
     "name:en": "Taebaeksan-ro",
     "name:ko": "태백산로",
-    "ref": "31;28"
+    "ref": "31;28",
+    "surface": "asphalt"
   }
 },
 {
@@ -374546,32 +374561,44 @@
 {
   "type": "node",
   "id": 4307926167,
-  "lat": 37.4130657,
-  "lon": 127.1001095
+  "lat": 37.4130774,
+  "lon": 127.1001524
 },
 {
   "type": "node",
   "id": 4309664830,
-  "lat": 37.4119132,
-  "lon": 127.0996340
+  "lat": 37.4118935,
+  "lon": 127.0996287
 },
 {
   "type": "node",
   "id": 4309664859,
-  "lat": 37.4122119,
-  "lon": 127.0997286
+  "lat": 37.4122034,
+  "lon": 127.0997446
 },
 {
   "type": "node",
   "id": 6265061977,
-  "lat": 37.4127094,
-  "lon": 127.0998810
+  "lat": 37.4128561,
+  "lon": 127.1000412
 },
 {
   "type": "node",
   "id": 14080544606,
   "lat": 37.4113032,
   "lon": 127.0994705
+},
+{
+  "type": "node",
+  "id": 14084804750,
+  "lat": 37.4123871,
+  "lon": 127.0998204
+},
+{
+  "type": "node",
+  "id": 14084804751,
+  "lat": 37.4120483,
+  "lon": 127.0996837
 },
 {
   "type": "node",
@@ -473198,14 +473225,14 @@
 {
   "type": "node",
   "id": 5621925611,
-  "lat": 37.1773449,
-  "lon": 128.6333384
+  "lat": 37.1774292,
+  "lon": 128.6333067
 },
 {
   "type": "node",
   "id": 5621925612,
-  "lat": 37.1776277,
-  "lon": 128.6327032
+  "lat": 37.1776699,
+  "lon": 128.6327667
 },
 {
   "type": "node",
@@ -473438,8 +473465,8 @@
 {
   "type": "node",
   "id": 5621925610,
-  "lat": 37.1768389,
-  "lon": 128.6340669
+  "lat": 37.1769148,
+  "lon": 128.6341515
 },
 {
   "type": "node",
