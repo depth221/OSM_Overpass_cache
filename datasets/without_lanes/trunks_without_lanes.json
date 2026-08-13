@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-12T19:33:01Z",
-    "timestamp_areas_base": "2026-08-11T15:16:44Z",
+    "timestamp_osm_base": "2026-08-13T19:31:21Z",
+    "timestamp_areas_base": "2026-08-13T07:11:01Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -26894,6 +26894,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "review": "no",
@@ -27973,8 +27974,10 @@
     "highway": "trunk",
     "layer": "1",
     "maxspeed": "70",
-    "name:en": "Yongdae 3 Bridge",
-    "name:ko-Latn": "Yongdae 3 Gyo",
+    "name": "미시령로",
+    "name:en": "Misiryeong-ro",
+    "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "review": "no",
@@ -29006,6 +29009,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt",
@@ -29029,8 +29033,10 @@
     "highway": "trunk",
     "layer": "1",
     "maxspeed": "70",
-    "name:en": "Yongdae 4 Bridge",
-    "name:ko-Latn": "Yongdae 4 Gyo",
+    "name": "미시령로",
+    "name:en": "Misiryeong-ro",
+    "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "review": "no",
@@ -29054,8 +29060,10 @@
     "highway": "trunk",
     "layer": "1",
     "maxspeed": "60",
-    "name:en": "Yongdae 4 Bridge",
-    "name:ko-Latn": "Yongdae 4 Gyo",
+    "name": "미시령로",
+    "name:en": "Misiryeong-ro",
+    "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "review": "no",
@@ -29079,8 +29087,10 @@
     "highway": "trunk",
     "layer": "1",
     "maxspeed": "70",
-    "name:en": "Yongdae 3 Bridge",
-    "name:ko-Latn": "Yongdae 3 Gyo",
+    "name": "미시령로",
+    "name:en": "Misiryeong-ro",
+    "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "review": "no",
@@ -29108,6 +29118,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "review": "no",
@@ -128259,6 +128270,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt",
@@ -128281,6 +128293,10 @@
     "highway": "trunk",
     "layer": "1",
     "maxspeed": "70",
+    "name": "미시령로",
+    "name:en": "Misiryeong-ro",
+    "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -128302,6 +128318,10 @@
     "highway": "trunk",
     "layer": "1",
     "maxspeed": "70",
+    "name": "미시령로",
+    "name:en": "Misiryeong-ro",
+    "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -128312,6 +128332,7 @@
   "id": 483392666,
   "nodes": [
     4761340280,
+    14092939312,
     4761340281
   ],
   "tags": {
@@ -128322,9 +128343,54 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 483392667,
+  "nodes": [
+    11159837070,
+    4761340307,
+    8456595239,
+    11621716377,
+    11621716376,
+    11621716375,
+    11159837053
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "highway": "trunk",
+    "maxspeed": "30",
+    "name": "미시령로",
+    "name:en": "Misiryeong-ro",
+    "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
+    "oneway": "yes",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 483392668,
+  "nodes": [
+    4761340310,
+    971867816,
+    11159837071
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "highway": "trunk",
+    "maxspeed": "30",
+    "name": "미시령로",
+    "name:en": "Misiryeong-ro",
+    "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
+    "oneway": "yes",
+    "toll": "yes"
   }
 },
 {
@@ -128349,6 +128415,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "review": "no",
@@ -128370,6 +128437,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt",
@@ -128396,6 +128464,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -128416,6 +128485,10 @@
     "expressway": "yes",
     "highway": "trunk",
     "maxspeed": "70",
+    "name": "미시령로",
+    "name:en": "Misiryeong-ro",
+    "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -128476,6 +128549,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -128497,6 +128571,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -128523,6 +128598,10 @@
     "layer": "1",
     "maxspeed": "70",
     "motor_vehicle": "yes",
+    "name": "미시령로",
+    "name:en": "Misiryeong-ro",
+    "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -128544,6 +128623,10 @@
     "highway": "trunk",
     "maxspeed": "70",
     "motor_vehicle": "yes",
+    "name": "미시령로",
+    "name:en": "Misiryeong-ro",
+    "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -128567,6 +128650,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -128600,6 +128684,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -128625,6 +128710,10 @@
     "layer": "1",
     "maxspeed": "70",
     "motor_vehicle": "yes",
+    "name": "미시령로",
+    "name:en": "Misiryeong-ro",
+    "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -128648,6 +128737,10 @@
     "layer": "1",
     "maxspeed": "70",
     "motor_vehicle": "yes",
+    "name": "미시령로",
+    "name:en": "Misiryeong-ro",
+    "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -128675,6 +128768,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -128699,6 +128793,10 @@
     "layer": "1",
     "maxspeed": "70",
     "motor_vehicle": "yes",
+    "name": "미시령로",
+    "name:en": "Misiryeong-ro",
+    "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -128722,6 +128820,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -128743,6 +128842,10 @@
     "highway": "trunk",
     "layer": "1",
     "maxspeed": "70",
+    "name": "미시령로",
+    "name:en": "Misiryeong-ro",
+    "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -128770,6 +128873,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -178913,6 +179017,24 @@
     "name:ko": "조종로",
     "oneway": "yes",
     "ref": "37"
+  }
+},
+{
+  "type": "way",
+  "id": 555943094,
+  "nodes": [
+    4709844089,
+    5363195672
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "70",
+    "name": "광남로",
+    "name:ko": "광남로",
+    "oneway": "yes",
+    "ref": "371"
   }
 },
 {
@@ -262650,6 +262772,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -262673,6 +262796,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -263967,7 +264091,12 @@
     "highway": "trunk",
     "maxspeed": "70",
     "motor_vehicle": "yes",
+    "name": "미시령로",
+    "name:en": "Misiryeong-ro",
+    "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
+    "ref": "56",
     "surface": "asphalt"
   }
 },
@@ -263988,6 +264117,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -264009,6 +264139,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -264703,6 +264834,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -264725,6 +264857,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -299785,6 +299918,27 @@
 },
 {
   "type": "way",
+  "id": 1204036176,
+  "nodes": [
+    11159837054,
+    11621716374,
+    4761340310
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "highway": "trunk",
+    "maxspeed": "30",
+    "name": "미시령로",
+    "name:en": "Misiryeong-ro",
+    "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
+    "oneway": "yes",
+    "ref": "56",
+    "toll": "yes"
+  }
+},
+{
+  "type": "way",
   "id": 1204036177,
   "nodes": [
     4761340282,
@@ -299816,6 +299970,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -299862,6 +300017,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -299884,6 +300040,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -299906,6 +300063,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -299926,6 +300084,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -299949,7 +300108,12 @@
     "highway": "trunk",
     "maxspeed": "70",
     "motor_vehicle": "yes",
+    "name": "미시령로",
+    "name:en": "Misiryeong-ro",
+    "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
+    "ref": "56",
     "surface": "asphalt"
   }
 },
@@ -299970,7 +300134,12 @@
     "layer": "1",
     "maxspeed": "70",
     "motor_vehicle": "yes",
+    "name": "미시령로",
+    "name:en": "Misiryeong-ro",
+    "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
+    "ref": "56",
     "surface": "asphalt"
   }
 },
@@ -299989,7 +300158,12 @@
     "highway": "trunk",
     "maxspeed": "70",
     "motor_vehicle": "yes",
+    "name": "미시령로",
+    "name:en": "Misiryeong-ro",
+    "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
+    "ref": "56",
     "surface": "asphalt"
   }
 },
@@ -300009,7 +300183,12 @@
     "layer": "1",
     "maxspeed": "70",
     "motor_vehicle": "yes",
+    "name": "미시령로",
+    "name:en": "Misiryeong-ro",
+    "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
+    "ref": "56",
     "surface": "asphalt"
   }
 },
@@ -300040,6 +300219,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -300066,6 +300246,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -300093,6 +300274,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -300120,6 +300302,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -300143,6 +300326,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -300167,6 +300351,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -300178,6 +300363,7 @@
   "nodes": [
     11159886051,
     4761340457,
+    14092939313,
     11159886052
   ],
   "tags": {
@@ -300189,6 +300375,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -300247,6 +300434,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -300270,6 +300458,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -300293,6 +300482,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -300315,6 +300505,7 @@
     "name": "미시령로",
     "name:en": "Misiryeong-ro",
     "name:ko": "미시령로",
+    "name:ko-Latn": "Misiryeongro",
     "oneway": "yes",
     "ref": "56",
     "surface": "asphalt"
@@ -681087,6 +681278,18 @@
 },
 {
   "type": "node",
+  "id": 4709844089,
+  "lat": 37.8704517,
+  "lon": 126.9894919
+},
+{
+  "type": "node",
+  "id": 5363195672,
+  "lat": 37.8703116,
+  "lon": 126.9892648
+},
+{
+  "type": "node",
   "id": 3376890937,
   "lat": 37.8955913,
   "lon": 127.0288106
@@ -697126,8 +697329,8 @@
 {
   "type": "node",
   "id": 11341428755,
-  "lat": 36.8752039,
-  "lon": 127.6539786
+  "lat": 36.8752025,
+  "lon": 127.6540016
 },
 {
   "type": "node",
@@ -697198,8 +697401,8 @@
 {
   "type": "node",
   "id": 12354195237,
-  "lat": 36.8754809,
-  "lon": 127.6546404
+  "lat": 36.8753919,
+  "lon": 127.6544479
 },
 {
   "type": "node",
@@ -789819,6 +790022,12 @@
 },
 {
   "type": "node",
+  "id": 14092939313,
+  "lat": 38.2206764,
+  "lon": 128.3909139
+},
+{
+  "type": "node",
   "id": 4761340432,
   "lat": 38.2218512,
   "lon": 128.3981219
@@ -790809,6 +791018,24 @@
 },
 {
   "type": "node",
+  "id": 971867816,
+  "lat": 38.2065272,
+  "lon": 128.4935025
+},
+{
+  "type": "node",
+  "id": 4761340307,
+  "lat": 38.2066612,
+  "lon": 128.4942449
+},
+{
+  "type": "node",
+  "id": 4761340310,
+  "lat": 38.2064742,
+  "lon": 128.4923837
+},
+{
+  "type": "node",
   "id": 4761340312,
   "lat": 38.2065108,
   "lon": 128.4909181
@@ -790824,6 +791051,12 @@
   "id": 4761340314,
   "lat": 38.2066773,
   "lon": 128.4899055
+},
+{
+  "type": "node",
+  "id": 8456595239,
+  "lat": 38.2066239,
+  "lon": 128.4934906
 },
 {
   "type": "node",
@@ -790902,6 +791135,30 @@
   "id": 11360620540,
   "lat": 38.2067092,
   "lon": 128.4901116
+},
+{
+  "type": "node",
+  "id": 11621716374,
+  "lat": 38.2064623,
+  "lon": 128.4919221
+},
+{
+  "type": "node",
+  "id": 11621716375,
+  "lat": 38.2065544,
+  "lon": 128.4917938
+},
+{
+  "type": "node",
+  "id": 11621716376,
+  "lat": 38.2065647,
+  "lon": 128.4921715
+},
+{
+  "type": "node",
+  "id": 11621716377,
+  "lat": 38.2065809,
+  "lon": 128.4925853
 },
 {
   "type": "node",
@@ -792396,6 +792653,12 @@
   "id": 11159837104,
   "lat": 38.2058580,
   "lon": 128.5088870
+},
+{
+  "type": "node",
+  "id": 14092939312,
+  "lat": 38.2060450,
+  "lon": 128.5084458
 },
 {
   "type": "node",
