@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-14T19:26:02Z",
-    "timestamp_areas_base": "2026-08-13T22:37:06Z",
+    "timestamp_osm_base": "2026-08-15T18:54:19Z",
+    "timestamp_areas_base": "2026-08-15T08:46:19Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -30228,7 +30228,8 @@
     "moped": "no",
     "motorroad": "no",
     "name": "북부간선로",
-    "name:en": "Bukbuganseonno",
+    "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
     "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
@@ -30321,6 +30322,7 @@
     "motorroad": "no",
     "name": "북부간선로",
     "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
     "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
@@ -87801,7 +87803,7 @@
   "nodes": [
     5153691469,
     436858657,
-    11210646370,
+    14096057154,
     11251214936,
     11210646377
   ],
@@ -199583,7 +199585,8 @@
     "moped": "no",
     "motorroad": "no",
     "name": "북부간선로",
-    "name:en": "Bukbuganseonno",
+    "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
     "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
@@ -200436,7 +200439,8 @@
     "moped": "no",
     "motorroad": "no",
     "name": "북부간선로",
-    "name:en": "Bukbuganseonno",
+    "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
     "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
@@ -200451,6 +200455,7 @@
     1000489156,
     11172017136,
     1000489110,
+    14095999413,
     1000489059,
     1000489099,
     1000489041
@@ -205039,7 +205044,8 @@
     "moped": "no",
     "motorroad": "no",
     "name": "북부간선로",
-    "name:en": "Bukbuganseonno",
+    "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
     "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
@@ -205067,7 +205073,8 @@
     "moped": "no",
     "motorroad": "no",
     "name": "북부간선로",
-    "name:en": "Bukbuganseonno",
+    "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
     "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
@@ -217567,11 +217574,9 @@
   "id": 658494277,
   "nodes": [
     1814802236,
-    5262198873,
     436762907,
     5262198872,
-    436762908,
-    436762909
+    436762908
   ],
   "tags": {
     "bicycle": "no",
@@ -217596,7 +217601,7 @@
   "type": "way",
   "id": 658494284,
   "nodes": [
-    436762909,
+    436762908,
     5262196317,
     11215816968,
     3960189902,
@@ -217642,7 +217647,8 @@
     "moped": "no",
     "motorroad": "no",
     "name": "북부간선로",
-    "name:en": "Bukbuganseonno",
+    "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
     "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "52",
@@ -263849,6 +263855,8 @@
     "motorroad": "no",
     "name": "북부간선로",
     "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
+    "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
     "small_electric_vehicle": "no"
@@ -263979,6 +263987,9 @@
     "moped": "no",
     "motorroad": "no",
     "name": "북부간선로",
+    "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
+    "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "52",
     "small_electric_vehicle": "no"
@@ -264005,6 +264016,9 @@
     "moped": "no",
     "motorroad": "no",
     "name": "북부간선로",
+    "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
+    "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
     "small_electric_vehicle": "no"
@@ -264030,6 +264044,9 @@
     "moped": "no",
     "motorroad": "no",
     "name": "북부간선로",
+    "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
+    "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
     "small_electric_vehicle": "no"
@@ -264057,6 +264074,9 @@
     "moped": "no",
     "motorroad": "no",
     "name": "북부간선로",
+    "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
+    "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
     "small_electric_vehicle": "no"
@@ -264082,6 +264102,9 @@
     "moped": "no",
     "motorroad": "no",
     "name": "북부간선로",
+    "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
+    "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
     "small_electric_vehicle": "no"
@@ -264107,6 +264130,9 @@
     "moped": "no",
     "motorroad": "no",
     "name": "북부간선로",
+    "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
+    "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
     "small_electric_vehicle": "no"
@@ -264132,6 +264158,9 @@
     "moped": "no",
     "motorroad": "no",
     "name": "북부간선로",
+    "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
+    "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
     "small_electric_vehicle": "no"
@@ -264157,6 +264186,9 @@
     "moped": "no",
     "motorroad": "no",
     "name": "북부간선로",
+    "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
+    "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
     "small_electric_vehicle": "no"
@@ -264188,6 +264220,9 @@
     "moped": "no",
     "motorroad": "no",
     "name": "북부간선로",
+    "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
+    "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
     "small_electric_vehicle": "no"
@@ -264213,6 +264248,9 @@
     "moped": "no",
     "motorroad": "no",
     "name": "북부간선로",
+    "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
+    "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
     "small_electric_vehicle": "no"
@@ -264244,6 +264282,9 @@
     "moped": "no",
     "motorroad": "no",
     "name": "북부간선로",
+    "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
+    "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
     "small_electric_vehicle": "no"
@@ -264274,6 +264315,9 @@
     "moped": "no",
     "motorroad": "no",
     "name": "북부간선로",
+    "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
+    "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
     "small_electric_vehicle": "no"
@@ -264305,6 +264349,8 @@
     "motorroad": "no",
     "name": "북부간선로",
     "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
+    "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
     "small_electric_vehicle": "no"
@@ -337996,6 +338042,7 @@
     "motorroad": "no",
     "name": "북부간선로",
     "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
     "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
@@ -338023,6 +338070,8 @@
     "motorroad": "no",
     "name": "북부간선로",
     "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
+    "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
     "small_electric_vehicle": "no"
@@ -338048,6 +338097,7 @@
     "motorroad": "no",
     "name": "북부간선로",
     "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
     "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
@@ -338074,6 +338124,8 @@
     "motorroad": "no",
     "name": "북부간선로",
     "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
+    "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
     "small_electric_vehicle": "no"
@@ -338098,6 +338150,9 @@
     "moped": "no",
     "motorroad": "no",
     "name": "북부간선로",
+    "name:en": "Bukbuganseon-ro",
+    "name:ko": "북부간선로",
+    "name:ko-Latn": "Bukbuganseonno",
     "oneway": "yes",
     "ref": "14",
     "small_electric_vehicle": "no"
@@ -357326,7 +357381,7 @@
   "nodes": [
     11062015522,
     11251214935,
-    11210646371,
+    14096057153,
     13391293238
   ],
   "tags": {
@@ -675639,14 +675694,14 @@
 {
   "type": "node",
   "id": 2425839578,
-  "lat": 37.4933693,
-  "lon": 126.4797141
+  "lat": 37.4933822,
+  "lon": 126.4797100
 },
 {
   "type": "node",
   "id": 2425839580,
-  "lat": 37.4934151,
-  "lon": 126.4797934
+  "lat": 37.4934183,
+  "lon": 126.4797744
 },
 {
   "type": "node",
@@ -675698,18 +675753,6 @@
 },
 {
   "type": "node",
-  "id": 11210646370,
-  "lat": 37.4932814,
-  "lon": 126.4796269
-},
-{
-  "type": "node",
-  "id": 11210646371,
-  "lat": 37.4934316,
-  "lon": 126.4799002
-},
-{
-  "type": "node",
   "id": 11210646377,
   "lat": 37.4930852,
   "lon": 126.4797744
@@ -675729,8 +675772,8 @@
 {
   "type": "node",
   "id": 11251214936,
-  "lat": 37.4931628,
-  "lon": 126.4797160
+  "lat": 37.4931698,
+  "lon": 126.4797431
 },
 {
   "type": "node",
@@ -675767,6 +675810,18 @@
   "id": 14040553833,
   "lat": 37.4945862,
   "lon": 126.4787057
+},
+{
+  "type": "node",
+  "id": 14096057153,
+  "lat": 37.4934201,
+  "lon": 126.4798914
+},
+{
+  "type": "node",
+  "id": 14096057154,
+  "lat": 37.4932915,
+  "lon": 126.4796374
 },
 {
   "type": "node",
@@ -701841,20 +701896,14 @@
 {
   "type": "node",
   "id": 436762907,
-  "lat": 37.6139158,
-  "lon": 127.1374574
+  "lat": 37.6139723,
+  "lon": 127.1377067
 },
 {
   "type": "node",
   "id": 436762908,
-  "lat": 37.6142426,
-  "lon": 127.1384073
-},
-{
-  "type": "node",
-  "id": 436762909,
   "lat": 37.6143124,
-  "lon": 127.1386088
+  "lon": 127.1386453
 },
 {
   "type": "node",
@@ -701865,20 +701914,14 @@
 {
   "type": "node",
   "id": 1814802236,
-  "lat": 37.6134161,
-  "lon": 127.1360724
+  "lat": 37.6136384,
+  "lon": 127.1367495
 },
 {
   "type": "node",
   "id": 5262198872,
-  "lat": 37.6141365,
-  "lon": 127.1381123
-},
-{
-  "type": "node",
-  "id": 5262198873,
-  "lat": 37.6136217,
-  "lon": 127.1366334
+  "lat": 37.6141299,
+  "lon": 127.1381434
 },
 {
   "type": "node",
@@ -702543,20 +702586,20 @@
 {
   "type": "node",
   "id": 7935964076,
-  "lat": 37.6177578,
-  "lon": 127.1588216
+  "lat": 37.6177841,
+  "lon": 127.1587296
 },
 {
   "type": "node",
   "id": 7935964077,
-  "lat": 37.6177490,
+  "lat": 37.6177710,
   "lon": 127.1578373
 },
 {
   "type": "node",
   "id": 7935964078,
-  "lat": 37.6177259,
-  "lon": 127.1566711
+  "lat": 37.6177471,
+  "lon": 127.1565824
 },
 {
   "type": "node",
@@ -702585,7 +702628,7 @@
 {
   "type": "node",
   "id": 7935964121,
-  "lat": 37.6177571,
+  "lat": 37.6177836,
   "lon": 127.1582420
 },
 {
@@ -702597,8 +702640,8 @@
 {
   "type": "node",
   "id": 1000488940,
-  "lat": 37.6163287,
-  "lon": 127.1642985
+  "lat": 37.6161244,
+  "lon": 127.1651259
 },
 {
   "type": "node",
@@ -702701,6 +702744,12 @@
   "id": 12989993230,
   "lat": 37.6164706,
   "lon": 127.1636805
+},
+{
+  "type": "node",
+  "id": 14095999413,
+  "lat": 37.6175220,
+  "lon": 127.1599333
 },
 {
   "type": "node",
