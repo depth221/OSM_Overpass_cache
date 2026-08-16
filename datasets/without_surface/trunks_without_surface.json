@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-15T18:54:19Z",
-    "timestamp_areas_base": "2026-08-15T08:46:19Z",
+    "timestamp_osm_base": "2026-08-16T18:53:05Z",
+    "timestamp_areas_base": "2026-08-15T22:23:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -24705,8 +24705,9 @@
     "bridge": "yes",
     "expressway": "yes",
     "highway": "trunk",
-    "lanes": "4",
+    "lanes": "2",
     "layer": "1",
+    "maxspeed": "80",
     "maxweight": "40",
     "maxweight:conditional": "10 @ 07:00-09:00",
     "motorroad": "yes",
@@ -87098,8 +87099,7 @@
     798556350,
     798556794,
     798556353,
-    13798072112,
-    798556447
+    13798072112
   ],
   "tags": {
     "expressway": "yes",
@@ -355052,35 +355052,6 @@
 },
 {
   "type": "way",
-  "id": 1509433295,
-  "nodes": [
-    798553603,
-    798553604,
-    798553605,
-    798688469,
-    13798072113,
-    798553606,
-    798553607
-  ],
-  "tags": {
-    "expressway": "yes",
-    "highway": "trunk",
-    "lanes": "2",
-    "maxspeed": "80",
-    "maxweight": "40",
-    "maxweight:conditional": "10 @ 07:00-09:00",
-    "motorroad": "yes",
-    "name": "올림픽대로",
-    "name:en": "Olympic-daero",
-    "name:ja": "オリンピック大路",
-    "name:ko": "올림픽대로",
-    "name:ko-Latn": "Olympic-daero",
-    "oneway": "yes",
-    "ref": "88"
-  }
-},
-{
-  "type": "way",
   "id": 1509433296,
   "nodes": [
     13798072123,
@@ -358601,6 +358572,30 @@
     "name:ko": "파주로",
     "oneway": "yes",
     "ref": "56"
+  }
+},
+{
+  "type": "way",
+  "id": 1550129321,
+  "nodes": [
+    13798072112,
+    798556447
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "80",
+    "maxweight": "40",
+    "maxweight:conditional": "10 @ 07:00-09:00",
+    "motorroad": "yes",
+    "name": "올림픽대로",
+    "name:en": "Olympic-daero",
+    "name:ja": "オリンピック大路",
+    "name:ko": "올림픽대로",
+    "name:ko-Latn": "Ollimpikdaero",
+    "oneway": "yes",
+    "ref": "88"
   }
 },
 {
@@ -676084,8 +676079,8 @@
 {
   "type": "node",
   "id": 5025579932,
-  "lat": 37.5015452,
-  "lon": 126.4811563
+  "lat": 37.5015908,
+  "lon": 126.4812344
 },
 {
   "type": "node",
@@ -685707,12 +685702,6 @@
 },
 {
   "type": "node",
-  "id": 798553603,
-  "lat": 37.5047115,
-  "lon": 126.9819194
-},
-{
-  "type": "node",
   "id": 798556353,
   "lat": 37.5048841,
   "lon": 126.9762611
@@ -686976,36 +686965,6 @@
   "id": 12071098164,
   "lat": 37.4769631,
   "lon": 127.0578877
-},
-{
-  "type": "node",
-  "id": 798553604,
-  "lat": 37.5047569,
-  "lon": 126.9827810
-},
-{
-  "type": "node",
-  "id": 798553605,
-  "lat": 37.5048225,
-  "lon": 126.9833780
-},
-{
-  "type": "node",
-  "id": 798553606,
-  "lat": 37.5055255,
-  "lon": 126.9870131
-},
-{
-  "type": "node",
-  "id": 798688469,
-  "lat": 37.5049073,
-  "lon": 126.9839406
-},
-{
-  "type": "node",
-  "id": 13798072113,
-  "lat": 37.5050368,
-  "lon": 126.9846471
 },
 {
   "type": "node",
