@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-16T19:04:35Z",
-    "timestamp_areas_base": "2026-08-15T16:48:19Z",
+    "timestamp_osm_base": "2026-08-17T19:15:01Z",
+    "timestamp_areas_base": "2026-08-17T02:03:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -93547,7 +93547,6 @@
     "highway": "primary",
     "junction": "roundabout",
     "maxspeed": "20",
-    "oneway": "yes",
     "ref": "19;77"
   }
 },
@@ -285016,8 +285015,8 @@
 {
   "type": "node",
   "id": 1734952703,
-  "lat": 35.2619418,
-  "lon": 128.6146132
+  "lat": 35.2619469,
+  "lon": 128.6144925
 },
 {
   "type": "node",
