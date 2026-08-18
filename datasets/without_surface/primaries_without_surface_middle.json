@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-17T19:07:02Z",
-    "timestamp_areas_base": "2026-08-16T15:27:51Z",
+    "timestamp_osm_base": "2026-08-18T19:06:29Z",
+    "timestamp_areas_base": "2026-08-17T13:52:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -143853,23 +143853,6 @@
 },
 {
   "type": "way",
-  "id": 1042494464,
-  "nodes": [
-    7838649695,
-    9596306895
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "고산자로",
-    "name:en": "Gosanja-ro",
-    "name:ko": "고산자로",
-    "name:ko-Latn": "Gosanja-ro",
-    "oneway": "yes",
-    "ref": "51"
-  }
-},
-{
-  "type": "way",
   "id": 1042518628,
   "nodes": [
     9593164255,
@@ -208491,8 +208474,8 @@
 {
   "type": "node",
   "id": 681217896,
-  "lat": 36.9755976,
-  "lon": 127.0766540
+  "lat": 36.9755901,
+  "lon": 127.0766473
 },
 {
   "type": "node",
@@ -323684,12 +323667,6 @@
 },
 {
   "type": "node",
-  "id": 7838649695,
-  "lat": 37.5437810,
-  "lon": 127.0361968
-},
-{
-  "type": "node",
   "id": 8952652873,
   "lat": 37.5472643,
   "lon": 127.0365156
@@ -323705,12 +323682,6 @@
   "id": 9040007309,
   "lat": 37.5473561,
   "lon": 127.0366075
-},
-{
-  "type": "node",
-  "id": 9596306895,
-  "lat": 37.5439022,
-  "lon": 127.0362315
 },
 {
   "type": "node",
