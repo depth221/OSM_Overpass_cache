@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-17T19:07:02Z",
-    "timestamp_areas_base": "2026-08-17T02:03:30Z",
+    "timestamp_osm_base": "2026-08-18T19:06:29Z",
+    "timestamp_areas_base": "2026-08-17T13:52:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -68475,6 +68475,7 @@
     570936879,
     2824598060,
     4614388895,
+    14102794516,
     2108483851,
     4614488689,
     2108483863
@@ -154712,7 +154713,8 @@
     "name:ko": "고산자로",
     "name:ko-Latn": "Gosanja-ro",
     "oneway": "yes",
-    "ref": "51"
+    "ref": "51",
+    "surface": "asphalt"
   }
 },
 {
@@ -215737,8 +215739,8 @@
 {
   "type": "node",
   "id": 681217896,
-  "lat": 36.9755976,
-  "lon": 127.0766540
+  "lat": 36.9755901,
+  "lon": 127.0766473
 },
 {
   "type": "node",
@@ -320323,8 +320325,8 @@
 {
   "type": "node",
   "id": 2108483863,
-  "lat": 37.5020322,
-  "lon": 126.9344112
+  "lat": 37.5020028,
+  "lon": 126.9343584
 },
 {
   "type": "node",
@@ -320397,6 +320399,12 @@
   "id": 10160939985,
   "lat": 37.4997451,
   "lon": 126.9302734
+},
+{
+  "type": "node",
+  "id": 14102794516,
+  "lat": 37.5026357,
+  "lon": 126.9353898
 },
 {
   "type": "node",
