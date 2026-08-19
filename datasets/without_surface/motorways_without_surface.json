@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-18T18:58:17Z",
-    "timestamp_areas_base": "2026-08-18T03:56:30Z",
+    "timestamp_osm_base": "2026-08-19T18:54:27Z",
+    "timestamp_areas_base": "2026-08-18T13:29:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -52331,14 +52331,22 @@
     "bridge:name": "보평교",
     "bridge:name:ko": "보평교",
     "bridge:structure": "beam",
-    "bus:lanes:conditional": "(designated|yes|yes|yes|yes) @ (07:00-21:00; 21:00-25:00 \"설날 및 추석연휴\")",
+    "bus:lanes:conditional": "designated|yes|yes|yes|yes @ (Mo-Su 07:00-21:00; PH 21:00-25:00 \"설날 및 추석연휴\")",
     "highway": "motorway",
     "lanes": "4",
     "layer": "1",
     "maxspeed": "110",
     "maxspeed:hgv": "80",
     "minspeed": "50",
-    "name:en": "Bopyeong Bridge",
+    "name": "경부고속도로",
+    "name:el": "Αυτοκινητόδρομος Γκιόνγκμπου",
+    "name:en": "Gyeongbu Expressway",
+    "name:ja": "京釜高速道路",
+    "name:ko": "경부고속도로",
+    "name:ko-Hani": "京釜高速道路",
+    "name:ko-Latn": "Gyeongbugosokdoro",
+    "name:zh": "京釜高速公路",
+    "name:zh-Hant": "京釜高速公路",
     "oneway": "yes",
     "operator": "한국도로공사",
     "operator:en": "Korea Expressway Corporation",
@@ -52348,7 +52356,9 @@
     "operator:website": "https://www.ex.co.kr",
     "operator:wikidata": "Q489325",
     "ref": "1",
-    "toll": "yes"
+    "toll": "yes",
+    "wikidata": "Q491254",
+    "wikipedia": "ko:경부고속도로"
   }
 },
 {
@@ -270328,7 +270338,6 @@
   "id": 535008463,
   "nodes": [
     5187104600,
-    12949259577,
     5312480186,
     436282665,
     436282666,
@@ -270899,7 +270908,6 @@
     436279336,
     436279338,
     5312480185,
-    12949259576,
     5187104599
   ],
   "tags": {
@@ -890175,18 +890183,6 @@
   "id": 5312480186,
   "lat": 37.6844018,
   "lon": 128.6598919
-},
-{
-  "type": "node",
-  "id": 12949259576,
-  "lat": 37.6844428,
-  "lon": 128.6601164
-},
-{
-  "type": "node",
-  "id": 12949259577,
-  "lat": 37.6844916,
-  "lon": 128.6600832
 },
 {
   "type": "node",
