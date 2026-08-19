@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-18T19:06:29Z",
-    "timestamp_areas_base": "2026-08-17T13:52:02Z",
+    "timestamp_osm_base": "2026-08-19T19:03:36Z",
+    "timestamp_areas_base": "2026-08-18T13:29:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -93,8 +93,9 @@
   "type": "way",
   "id": 31668135,
   "nodes": [
-    436941179,
+    8185966117,
     7123852688,
+    14104554702,
     354521597,
     13274174758,
     13274174757,
@@ -18878,43 +18879,6 @@
 },
 {
   "type": "way",
-  "id": 170316960,
-  "nodes": [
-    1814727756,
-    1814727741,
-    3335634789,
-    13274132845,
-    1814727811,
-    13274132846,
-    1814727820,
-    13274132847,
-    3335634785,
-    1814727754
-  ],
-  "tags": {
-    "highway": "primary",
-    "oneway": "no",
-    "ref": "311",
-    "tunnel": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 170316962,
-  "nodes": [
-    1814727754,
-    1814727787,
-    1814727733,
-    436941179
-  ],
-  "tags": {
-    "highway": "primary",
-    "oneway": "no",
-    "ref": "311"
-  }
-},
-{
-  "type": "way",
   "id": 170324859,
   "nodes": [
     1814822309,
@@ -34211,11 +34175,17 @@
     "bridge:name": "열림교",
     "bridge:name:ko": "열림교",
     "bridge:structure": "cable-stayed",
+    "cycleway": "crossing",
     "highway": "primary",
+    "lanes": "4",
     "layer": "1",
+    "name": "동탄원천로",
+    "name:en": "Dongtanwoncheon-ro",
+    "name:ko": "동탄원천로",
     "oneway": "yes",
     "ref": "84",
-    "source:bridge": "mp2osm"
+    "source:bridge": "mp2osm",
+    "wikidata": "Q109458380"
   }
 },
 {
@@ -48233,16 +48203,19 @@
     2392911046
   ],
   "tags": {
+    "cycleway": "crossing",
     "highway": "primary",
-    "lanes": "6",
+    "lanes": "4",
     "layer": "-1",
-    "name": "잎새지하차도",
-    "name:en": "Ipsaejihachado",
-    "name:ko": "잎새지하차도",
+    "name": "동탄원천로",
+    "name:en": "Dongtanwoncheon-ro",
+    "name:ko": "동탄원천로",
     "name:ko-Latn": "Ipsaejihachado",
     "oneway": "yes",
     "ref": "84",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "tunnel:name": "잎새지하차도",
+    "wikidata": "Q109458380"
   }
 },
 {
@@ -107215,9 +107188,7 @@
   "id": 775443501,
   "nodes": [
     7491070183,
-    650019436,
-    11092026640,
-    436941128
+    650019436
   ],
   "tags": {
     "highway": "primary",
@@ -114892,7 +114863,10 @@
     "bridge:name:ko": "보라교",
     "highway": "primary",
     "layer": "1",
-    "name:en": "Boragyo(Br.)",
+    "maxspeed": "50",
+    "name": "용구대로",
+    "name:en": "Yonggu-daero",
+    "name:ko": "용구대로",
     "ref": "23"
   }
 },
@@ -164489,8 +164463,12 @@
     "highway": "primary",
     "lanes": "4",
     "layer": "1",
+    "name": "동탄원천로",
+    "name:en": "Dongtanwoncheon-ro",
+    "name:ko": "동탄원천로",
     "oneway": "yes",
-    "ref": "84"
+    "ref": "84",
+    "wikidata": "Q109458380"
   }
 },
 {
@@ -165677,16 +165655,19 @@
     12018626017
   ],
   "tags": {
+    "cycleway": "crossing",
     "highway": "primary",
-    "lanes": "6",
+    "lanes": "4",
     "layer": "-1",
-    "name": "잎새지하차도",
-    "name:en": "Ipsaejihachado",
-    "name:ko": "잎새지하차도",
+    "name": "동탄원천로",
+    "name:en": "Dongtanwoncheon-ro",
+    "name:ko": "동탄원천로",
     "name:ko-Latn": "Ipsaejihachado",
     "oneway": "yes",
     "ref": "84",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "tunnel:name": "잎새지하차도",
+    "wikidata": "Q109458380"
   }
 },
 {
@@ -196625,8 +196606,7 @@
   "id": 1546213122,
   "nodes": [
     14063215963,
-    14063215965,
-    7499940274
+    14063215965
   ],
   "tags": {
     "construction": "primary",
@@ -196643,8 +196623,7 @@
   "id": 1546213123,
   "nodes": [
     14063215962,
-    14063215964,
-    7499940276
+    14063215964
   ],
   "tags": {
     "highway": "primary",
@@ -197195,6 +197174,97 @@
     "highway": "primary",
     "lanes": "1",
     "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1550723545,
+  "nodes": [
+    650019436,
+    14104554609,
+    14104554752,
+    14104554650,
+    14104554659
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "용구대로",
+    "name:en": "Yonggu-daero",
+    "name:ko": "용구대로",
+    "oneway": "yes",
+    "ref": "23"
+  }
+},
+{
+  "type": "way",
+  "id": 1550723558,
+  "nodes": [
+    14104554659,
+    14104554638,
+    14104554619,
+    14104554617,
+    14104551797,
+    650019436
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "용구대로",
+    "name:en": "Yonggu-daero",
+    "name:ko": "용구대로",
+    "oneway": "yes",
+    "ref": "23"
+  }
+},
+{
+  "type": "way",
+  "id": 1550723574,
+  "nodes": [
+    14104554659,
+    11092026640,
+    436941128
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "용구대로",
+    "name:en": "Yonggu-daero",
+    "name:ko": "용구대로",
+    "ref": "23"
+  }
+},
+{
+  "type": "way",
+  "id": 1550741543,
+  "nodes": [
+    14063215965,
+    7499940274
+  ],
+  "tags": {
+    "construction": "primary",
+    "highway": "primary",
+    "name": "남양초지로",
+    "name:en": "Namyangchoji-ro",
+    "name:ko": "남양초지로",
+    "oneway": "yes",
+    "ref": "77"
+  }
+},
+{
+  "type": "way",
+  "id": 1550741546,
+  "nodes": [
+    14063215964,
+    7499940276
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "남양초지로",
+    "name:en": "Namyangchoji-ro",
+    "name:ko": "남양초지로",
+    "oneway": "yes",
+    "ref": "77"
   }
 },
 {
@@ -208474,19 +208544,19 @@
 {
   "type": "node",
   "id": 681217896,
-  "lat": 36.9755901,
+  "lat": 36.9755580,
   "lon": 127.0766473
 },
 {
   "type": "node",
   "id": 4684857064,
-  "lat": 36.9756625,
+  "lat": 36.9756304,
   "lon": 127.0766777
 },
 {
   "type": "node",
   "id": 4719709209,
-  "lat": 36.9780161,
+  "lat": 36.9779840,
   "lon": 127.0775975
 },
 {
@@ -208552,7 +208622,7 @@
 {
   "type": "node",
   "id": 9816516008,
-  "lat": 36.9770583,
+  "lat": 36.9770262,
   "lon": 127.0772064
 },
 {
@@ -261826,8 +261896,8 @@
 {
   "type": "node",
   "id": 650019436,
-  "lat": 37.2536896,
-  "lon": 127.1051737
+  "lat": 37.2536686,
+  "lon": 127.1051817
 },
 {
   "type": "node",
@@ -261885,75 +261955,33 @@
 },
 {
   "type": "node",
-  "id": 1814727733,
-  "lat": 37.2560942,
-  "lon": 127.0937119
+  "id": 14104551797,
+  "lat": 37.2537010,
+  "lon": 127.1050801
 },
 {
   "type": "node",
-  "id": 1814727741,
-  "lat": 37.2596217,
-  "lon": 127.0907501
+  "id": 14104554609,
+  "lat": 37.2537663,
+  "lon": 127.1052843
 },
 {
   "type": "node",
-  "id": 1814727754,
-  "lat": 37.2575960,
-  "lon": 127.0922246
+  "id": 14104554617,
+  "lat": 37.2538013,
+  "lon": 127.1049982
 },
 {
   "type": "node",
-  "id": 1814727756,
-  "lat": 37.2597956,
-  "lon": 127.0907430
+  "id": 14104554619,
+  "lat": 37.2539267,
+  "lon": 127.1049786
 },
 {
   "type": "node",
-  "id": 1814727787,
-  "lat": 37.2566668,
-  "lon": 127.0931415
-},
-{
-  "type": "node",
-  "id": 1814727811,
-  "lat": 37.2589551,
-  "lon": 127.0909300
-},
-{
-  "type": "node",
-  "id": 1814727820,
-  "lat": 37.2585496,
-  "lon": 127.0911982
-},
-{
-  "type": "node",
-  "id": 3335634785,
-  "lat": 37.2581613,
-  "lon": 127.0915838
-},
-{
-  "type": "node",
-  "id": 3335634789,
-  "lat": 37.2593792,
-  "lon": 127.0907867
-},
-{
-  "type": "node",
-  "id": 13274132845,
-  "lat": 37.2591703,
-  "lon": 127.0908516
-},
-{
-  "type": "node",
-  "id": 13274132846,
-  "lat": 37.2587598,
-  "lon": 127.0910386
-},
-{
-  "type": "node",
-  "id": 13274132847,
-  "lat": 37.2583661,
-  "lon": 127.0913695
+  "id": 14104554752,
+  "lat": 37.2538488,
+  "lon": 127.1053020
 },
 {
   "type": "node",
@@ -261981,12 +262009,6 @@
 },
 {
   "type": "node",
-  "id": 436941179,
-  "lat": 37.2556081,
-  "lon": 127.0941943
-},
-{
-  "type": "node",
   "id": 1816376066,
   "lat": 37.2604554,
   "lon": 127.0980743
@@ -262002,6 +262024,12 @@
   "id": 7123852688,
   "lat": 37.2558046,
   "lon": 127.0944909
+},
+{
+  "type": "node",
+  "id": 8185966117,
+  "lat": 37.2556081,
+  "lon": 127.0941943
 },
 {
   "type": "node",
@@ -262032,6 +262060,12 @@
   "id": 13274174758,
   "lat": 37.2571477,
   "lon": 127.0965699
+},
+{
+  "type": "node",
+  "id": 14104554702,
+  "lat": 37.2558695,
+  "lon": 127.0945886
 },
 {
   "type": "node",
@@ -262200,6 +262234,24 @@
   "id": 11092026640,
   "lat": 37.2549293,
   "lon": 127.1049992
+},
+{
+  "type": "node",
+  "id": 14104554638,
+  "lat": 37.2541689,
+  "lon": 127.1049773
+},
+{
+  "type": "node",
+  "id": 14104554650,
+  "lat": 37.2539919,
+  "lon": 127.1052575
+},
+{
+  "type": "node",
+  "id": 14104554659,
+  "lat": 37.2543247,
+  "lon": 127.1050548
 },
 {
   "type": "node",
