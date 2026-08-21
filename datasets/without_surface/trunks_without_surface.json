@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-20T19:07:34Z",
-    "timestamp_areas_base": "2026-08-19T23:50:49Z",
+    "timestamp_osm_base": "2026-08-21T19:04:36Z",
+    "timestamp_areas_base": "2026-08-21T02:48:51Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -247,6 +247,7 @@
   "id": 25664622,
   "nodes": [
     278708766,
+    14110226274,
     279787530
   ],
   "tags": {
@@ -20257,7 +20258,7 @@
     "name:en": "Suin-ro",
     "name:ko": "수인로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "39;42"
   }
 },
 {
@@ -20279,7 +20280,7 @@
     "name:en": "Suin-ro",
     "name:ko": "수인로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "39;42"
   }
 },
 {
@@ -20307,7 +20308,7 @@
     "name:en": "Suin-ro",
     "name:ko": "수인로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "39;42"
   }
 },
 {
@@ -20329,7 +20330,7 @@
     "name:en": "Suin-ro",
     "name:ko": "수인로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "39;42"
   }
 },
 {
@@ -20591,7 +20592,7 @@
     "name:en": "Suin-ro",
     "name:ko": "수인로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "39;42"
   }
 },
 {
@@ -20613,7 +20614,7 @@
     "name:en": "Suin-ro",
     "name:ko": "수인로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "39;42"
   }
 },
 {
@@ -20640,7 +20641,7 @@
     "name:en": "Suin-ro",
     "name:ko": "수인로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "39;42"
   }
 },
 {
@@ -20662,7 +20663,7 @@
     "name:en": "Suin-ro",
     "name:ko": "수인로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "39;42"
   }
 },
 {
@@ -20726,7 +20727,7 @@
     "name:en": "Suin-ro",
     "name:ko": "수인로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "39;42"
   }
 },
 {
@@ -20743,7 +20744,7 @@
     "name:en": "Suin-ro",
     "name:ko": "수인로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "39;42"
   }
 },
 {
@@ -20762,7 +20763,7 @@
     "name:en": "Suin-ro",
     "name:ko": "수인로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "39;42"
   }
 },
 {
@@ -20824,7 +20825,7 @@
     "name:en": "Suin-ro",
     "name:ko": "수인로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "39;42"
   }
 },
 {
@@ -20843,7 +20844,7 @@
     "name:en": "Suin-ro",
     "name:ko": "수인로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "39;42"
   }
 },
 {
@@ -20862,7 +20863,7 @@
     "name:en": "Suin-ro",
     "name:ko": "수인로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "39;42"
   }
 },
 {
@@ -20879,7 +20880,7 @@
     "name:en": "Suin-ro",
     "name:ko": "수인로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "39;42"
   }
 },
 {
@@ -20909,7 +20910,7 @@
     "name:en": "Suin-ro",
     "name:ko": "수인로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "39;42"
   }
 },
 {
@@ -20941,7 +20942,7 @@
     "name:en": "Suin-ro",
     "name:ko": "수인로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "39;42"
   }
 },
 {
@@ -21083,7 +21084,7 @@
     "name:en": "Suin-ro",
     "name:ko": "수인로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "39;42"
   }
 },
 {
@@ -55783,7 +55784,7 @@
     "name:en": "Mungyeong-daero",
     "name:ko": "문경대로",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted);MapBox"
   }
@@ -55812,7 +55813,7 @@
     "highway": "trunk",
     "maxspeed": "80",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -55841,7 +55842,7 @@
     "highway": "trunk",
     "maxspeed": "80",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -55859,7 +55860,7 @@
     "highway": "trunk",
     "layer": "1",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -55897,7 +55898,7 @@
     "layer": "1",
     "maxspeed": "80",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -55918,7 +55919,7 @@
     "layer": "1",
     "maxspeed": "80",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -55939,7 +55940,7 @@
     "layer": "1",
     "name:en": "Jinannyukgyo(Bridge)",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -55960,7 +55961,7 @@
     "layer": "1",
     "name:en": "Jinannyukgyo(Bridge)",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -55997,7 +55998,7 @@
     "highway": "trunk",
     "layer": "1",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -56018,7 +56019,7 @@
     "layer": "1",
     "maxspeed": "80",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -56037,7 +56038,7 @@
     "layer": "1",
     "maxspeed": "80",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -56077,7 +56078,7 @@
     "name:en": "Mungyeong-daero",
     "name:ko": "문경대로",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -56117,7 +56118,7 @@
     "name:en": "Mungyeong-daero",
     "name:ko": "문경대로",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -56175,7 +56176,7 @@
     "name:en": "Mungyeong-daero",
     "name:ko": "문경대로",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -56236,7 +56237,7 @@
     "highway": "trunk",
     "layer": "1",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -56294,7 +56295,7 @@
     "name:en": "Mungyeong-daero",
     "name:ko": "문경대로",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -56315,7 +56316,7 @@
     "highway": "trunk",
     "layer": "1",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -56340,7 +56341,7 @@
     "maxspeed": "80",
     "name:en": "Jogok 3(sam)-gyo(Bridge)",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -56363,7 +56364,7 @@
     "name:en": "Mungyeong-daero",
     "name:ko": "문경대로",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -56386,7 +56387,7 @@
     "name:en": "Mungyeong-daero",
     "name:ko": "문경대로",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -56408,7 +56409,7 @@
     "name:en": "Mungyeong-daero",
     "name:ko": "문경대로",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -56430,7 +56431,7 @@
     "name:en": "Mungyeong-daero",
     "name:ko": "문경대로",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -56455,7 +56456,7 @@
     "maxspeed": "80",
     "name:en": "Jogok 3(sam)-gyo(Bridge)",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -56523,7 +56524,7 @@
     "highway": "trunk",
     "maxspeed": "80",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -56590,7 +56591,7 @@
     "highway": "trunk",
     "maxspeed": "80",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -56613,7 +56614,7 @@
     "name:en": "Mungyeong-daero",
     "name:ko": "문경대로",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -56657,7 +56658,7 @@
     "name:en": "Mungyeong-daero",
     "name:ko": "문경대로",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -56709,7 +56710,7 @@
     "name:en": "Gakseo 2 Bridge",
     "name:ko": "각서2교",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3;34"
   }
 },
 {
@@ -56738,7 +56739,7 @@
     "name:en": "Gakseo 2 Bridge",
     "name:ko": "각서2교",
     "oneway": "yes",
-    "ref": "3"
+    "ref": "3;34"
   }
 },
 {
@@ -56764,7 +56765,7 @@
     "layer": "1",
     "name:en": "Jinan-gyo(Bridge)",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -56792,7 +56793,7 @@
     "layer": "1",
     "name:en": "Jinan-gyo(Bridge)",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "Bing (adjusted)"
   }
@@ -60096,6 +60097,7 @@
   "id": 143804994,
   "nodes": [
     1573666986,
+    14110226275,
     1550034840
   ],
   "tags": {
@@ -69446,6 +69448,7 @@
   "nodes": [
     1815500814,
     1815500818,
+    14110226277,
     1815500824,
     1815500838,
     1815500841,
@@ -69493,6 +69496,7 @@
   "id": 170408354,
   "nodes": [
     900769055,
+    14110226276,
     5297701893
   ],
   "tags": {
@@ -69694,6 +69698,7 @@
   "nodes": [
     1815501129,
     1815501142,
+    14110226279,
     1815501161
   ],
   "tags": {
@@ -73160,7 +73165,7 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "tunnel": "yes",
     "tunnel:name": "이화령터널",
     "tunnel:name:en": "Ihwaryeong Tunnel",
@@ -73186,7 +73191,7 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "MapBox",
     "wikidata": "Q21825073",
@@ -76626,7 +76631,7 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "MapBox",
     "wikidata": "Q21825073",
@@ -77975,6 +77980,7 @@
   "id": 195046927,
   "nodes": [
     2055472385,
+    14110226281,
     2055472407,
     2055472409,
     2055472412,
@@ -78394,6 +78400,7 @@
   "id": 195046944,
   "nodes": [
     1815501161,
+    14110226280,
     2055472239
   ],
   "tags": {
@@ -82974,6 +82981,7 @@
   "id": 206802008,
   "nodes": [
     1550035257,
+    14110226302,
     7902276491
   ],
   "tags": {
@@ -93855,7 +93863,8 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "3",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "31"
   }
 },
 {
@@ -99821,7 +99830,7 @@
     "name:en": "Mungyeong-daero",
     "name:ko": "문경대로",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "MapBox;Bing (adjusted)"
   }
@@ -99957,7 +99966,7 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "tunnel": "yes",
     "tunnel:name": "이화령터널",
     "tunnel:name:en": "Ihwaryeong Tunnel",
@@ -100010,7 +100019,7 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "MapBox",
     "wikidata": "Q21825073",
@@ -100059,7 +100068,7 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "wikidata": "Q21825073",
     "wikipedia": "ko:중원대로"
   }
@@ -100083,7 +100092,7 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "MapBox",
     "wikidata": "Q21825073",
@@ -100138,7 +100147,7 @@
     "name:en": "Jungwon-daero",
     "name:ko": "중원대로",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "wikidata": "Q21825073",
     "wikipedia": "ko:중원대로"
   }
@@ -121763,7 +121772,7 @@
     "name:en": "Suin-ro",
     "name:ko": "수인로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "39;42"
   }
 },
 {
@@ -129700,6 +129709,7 @@
     "name": "노귀재터널",
     "name:ko": "노귀재터널",
     "oneway": "yes",
+    "ref": "35",
     "tunnel": "yes"
   }
 },
@@ -129721,7 +129731,8 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -129773,6 +129784,7 @@
     "name": "노귀재터널",
     "name:ko": "노귀재터널",
     "oneway": "yes",
+    "ref": "35",
     "tunnel": "yes"
   }
 },
@@ -129793,7 +129805,8 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -133460,7 +133473,8 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "2"
   }
 },
 {
@@ -135418,7 +135432,8 @@
     "name": "남순환로",
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -135442,7 +135457,8 @@
     "name": "남순환로",
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -135514,7 +135530,8 @@
     "name": "충효로",
     "name:en": "Chunghyo-ro",
     "name:ko": "충효로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -135544,7 +135561,8 @@
     "name": "남순환로",
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -135785,7 +135803,8 @@
     "name": "남순환로",
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -136023,7 +136042,8 @@
     "name": "남순환로",
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -136042,6 +136062,7 @@
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
     "oneway": "yes",
+    "ref": "35",
     "tunnel": "yes",
     "tunnel:name": "인덕터널",
     "tunnel:name:en": "Indeok Tunnel",
@@ -136073,7 +136094,8 @@
     "name": "남순환로",
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -136093,6 +136115,7 @@
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
     "oneway": "yes",
+    "ref": "35",
     "tunnel": "yes",
     "tunnel:name": "인덕터널",
     "tunnel:name:en": "Indeok Tunnel",
@@ -136810,7 +136833,8 @@
     "name": "남순환로",
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -136828,7 +136852,8 @@
     "name": "남순환로",
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -136846,7 +136871,8 @@
     "name": "남순환로",
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -136865,7 +136891,8 @@
     "name": "남순환로",
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -136890,7 +136917,8 @@
     "name": "남순환로",
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -136909,7 +136937,8 @@
     "name": "남순환로",
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -136928,7 +136957,8 @@
     "name": "남순환로",
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -138574,7 +138604,8 @@
     "name": "충효로",
     "name:en": "Chunghyo-ro",
     "name:ko": "충효로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -138590,7 +138621,8 @@
     "name": "충효로",
     "name:en": "Chunghyo-ro",
     "name:ko": "충효로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -138651,7 +138683,8 @@
     "name": "충효로",
     "name:en": "Chunghyo-ro",
     "name:ko": "충효로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -138667,7 +138700,8 @@
     "name": "충효로",
     "name:en": "Chunghyo-ro",
     "name:ko": "충효로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -138690,7 +138724,8 @@
     "name": "충효로",
     "name:en": "Chunghyo-ro",
     "name:ko": "충효로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -175226,7 +175261,8 @@
     "name": "남순환로",
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -175249,7 +175285,8 @@
     "name": "남순환로",
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -175268,7 +175305,8 @@
     "name": "남순환로",
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -191166,7 +191204,7 @@
     "highway": "trunk",
     "layer": "1",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "MapBox"
   }
@@ -191186,7 +191224,7 @@
     "name:en": "Mungyeong-daero",
     "name:ko": "문경대로",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "MapBox"
   }
@@ -191205,7 +191243,7 @@
     "name:en": "Mungyeong-daero",
     "name:ko": "문경대로",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "MapBox"
   }
@@ -191224,7 +191262,7 @@
     "highway": "trunk",
     "layer": "1",
     "oneway": "yes",
-    "ref": "3",
+    "ref": "3;34",
     "review": "no",
     "source": "MapBox"
   }
@@ -212219,7 +212257,8 @@
     "construction": "trunk",
     "expressway": "yes",
     "highway": "trunk",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "36"
   }
 },
 {
@@ -237280,7 +237319,8 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "36"
   }
 },
 {
@@ -237296,7 +237336,8 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "36"
   }
 },
 {
@@ -237319,7 +237360,8 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "36"
   }
 },
 {
@@ -237334,7 +237376,8 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "36"
   }
 },
 {
@@ -237350,7 +237393,8 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "36"
   }
 },
 {
@@ -237364,7 +237408,8 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "36"
   }
 },
 {
@@ -237379,7 +237424,8 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "36"
   }
 },
 {
@@ -240524,7 +240570,7 @@
     "name:en": "Suin-ro",
     "name:ko": "수인로",
     "oneway": "yes",
-    "ref": "42"
+    "ref": "39;42"
   }
 },
 {
@@ -262480,6 +262526,7 @@
     7902276518,
     1550035264,
     14070838180,
+    14110226304,
     7902276517
   ],
   "tags": {
@@ -277947,7 +277994,8 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "28"
   }
 },
 {
@@ -277963,7 +278011,8 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "28"
   }
 },
 {
@@ -277980,7 +278029,8 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "28"
   }
 },
 {
@@ -278004,7 +278054,8 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "28"
   }
 },
 {
@@ -278019,7 +278070,8 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "28"
   }
 },
 {
@@ -278036,7 +278088,8 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "28"
   }
 },
 {
@@ -286552,7 +286605,8 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "28"
   }
 },
 {
@@ -307257,7 +307311,8 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "3",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "31"
   }
 },
 {
@@ -319523,7 +319578,8 @@
     "expressway": "yes",
     "highway": "trunk",
     "name": "봉양로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "2"
   }
 },
 {
@@ -319543,7 +319599,8 @@
     "expressway": "yes",
     "highway": "trunk",
     "name": "봉양로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "2"
   }
 },
 {
@@ -331134,7 +331191,8 @@
     "name": "호국로",
     "name:en": "Hoguk-ro",
     "name:ko": "호국로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "28"
   }
 },
 {
@@ -331152,7 +331210,8 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "28"
   }
 },
 {
@@ -331165,7 +331224,8 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "28"
   }
 },
 {
@@ -331185,7 +331245,8 @@
     "name": "호국로",
     "name:en": "Hoguk-ro",
     "name:ko": "호국로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "28"
   }
 },
 {
@@ -332556,7 +332617,8 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "28"
   }
 },
 {
@@ -332576,7 +332638,8 @@
     "name": "호국로",
     "name:en": "Hoguk-ro",
     "name:ko": "호국로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "28"
   }
 },
 {
@@ -332589,7 +332652,8 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "28"
   }
 },
 {
@@ -333186,7 +333250,8 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "28"
   }
 },
 {
@@ -333711,7 +333776,8 @@
     "name": "호국로",
     "name:en": "Hoguk-ro",
     "name:ko": "호국로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "28"
   }
 },
 {
@@ -344953,7 +345019,8 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "28"
   }
 },
 {
@@ -345002,7 +345069,8 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "28"
   }
 },
 {
@@ -345103,7 +345171,8 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "28"
   }
 },
 {
@@ -345118,7 +345187,8 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "28"
   }
 },
 {
@@ -345845,7 +345915,8 @@
     "name": "남순환로",
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -345909,7 +345980,8 @@
     "name": "남순환로",
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -345928,7 +346000,8 @@
     "name": "남순환로",
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -345950,7 +346023,8 @@
     "name": "남순환로",
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -345969,7 +346043,8 @@
     "name": "남순환로",
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -346878,7 +346953,8 @@
     "name": "외현로",
     "name:en": "Oehyeon-ro",
     "name:ko": "외현로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "7"
   }
 },
 {
@@ -348006,7 +348082,8 @@
     "name": "남순환로",
     "name:en": "Namsunhwan-ro",
     "name:ko": "남순환로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "35"
   }
 },
 {
@@ -355376,7 +355453,8 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "28"
   }
 },
 {
@@ -355391,7 +355469,8 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "28"
   }
 },
 {
@@ -387056,8 +387135,8 @@
 {
   "type": "node",
   "id": 436474362,
-  "lat": 36.3956640,
-  "lon": 126.5703862
+  "lat": 36.3957018,
+  "lon": 126.5703393
 },
 {
   "type": "node",
@@ -424015,6 +424094,12 @@
 },
 {
   "type": "node",
+  "id": 14110226274,
+  "lat": 36.4354915,
+  "lon": 127.2861491
+},
+{
+  "type": "node",
   "id": 278708517,
   "lat": 36.4453034,
   "lon": 127.2860393
@@ -425041,6 +425126,12 @@
 },
 {
   "type": "node",
+  "id": 14110226281,
+  "lat": 36.4989092,
+  "lon": 127.2403898
+},
+{
+  "type": "node",
   "id": 2055472407,
   "lat": 36.5013561,
   "lon": 127.2409056
@@ -425299,6 +425390,18 @@
 },
 {
   "type": "node",
+  "id": 14110226279,
+  "lat": 36.4709471,
+  "lon": 127.2547793
+},
+{
+  "type": "node",
+  "id": 14110226280,
+  "lat": 36.4714322,
+  "lon": 127.2534352
+},
+{
+  "type": "node",
   "id": 2055472261,
   "lat": 36.4741189,
   "lon": 127.2483222
@@ -425542,6 +425645,12 @@
   "id": 14092421135,
   "lat": 36.4608216,
   "lon": 127.2781582
+},
+{
+  "type": "node",
+  "id": 14110226275,
+  "lat": 36.4554596,
+  "lon": 127.2834882
 },
 {
   "type": "node",
@@ -425929,6 +426038,12 @@
 },
 {
   "type": "node",
+  "id": 14110226277,
+  "lat": 36.4644447,
+  "lon": 127.2759717
+},
+{
+  "type": "node",
   "id": 900767632,
   "lat": 36.4610121,
   "lon": 127.2779599
@@ -425962,6 +426077,12 @@
   "id": 5297701894,
   "lat": 36.4613379,
   "lon": 127.2775969
+},
+{
+  "type": "node",
+  "id": 14110226276,
+  "lat": 36.4612413,
+  "lon": 127.2780353
 },
 {
   "type": "node",
@@ -611827,6 +611948,12 @@
 },
 {
   "type": "node",
+  "id": 14110226302,
+  "lat": 36.5704135,
+  "lon": 127.2902972
+},
+{
+  "type": "node",
   "id": 7902276488,
   "lat": 36.5721902,
   "lon": 127.2906162
@@ -611920,6 +612047,12 @@
   "id": 14070838181,
   "lat": 36.5737302,
   "lon": 127.2910378
+},
+{
+  "type": "node",
+  "id": 14110226304,
+  "lat": 36.5738077,
+  "lon": 127.2912438
 },
 {
   "type": "node",
