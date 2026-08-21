@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-20T19:17:51Z",
-    "timestamp_areas_base": "2026-08-19T23:50:49Z",
+    "timestamp_osm_base": "2026-08-21T19:12:51Z",
+    "timestamp_areas_base": "2026-08-21T04:37:53Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1560,6 +1560,8 @@
     330187450,
     330187443,
     8946261557,
+    14109205657,
+    14109205642,
     330187436,
     8946261544,
     330187431,
@@ -2464,8 +2466,7 @@
     "name": "김해대로",
     "name:en": "Gimhae-daero",
     "name:ko": "김해대로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -2556,8 +2557,7 @@
     "highway": "primary",
     "layer": "1",
     "name": "김해대로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -3507,8 +3507,7 @@
     "name": "신재로",
     "name:en": "Sinjae-ro",
     "name:ko": "신재로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -9787,8 +9786,7 @@
     "name": "해맞이로",
     "name:en": "Haemaji-ro",
     "name:ja": "ヘマジ路",
-    "name:ko": "해맞이로",
-    "ref": "31"
+    "name:ko": "해맞이로"
   }
 },
 {
@@ -10466,22 +10464,7 @@
     436513840,
     12679620297,
     12609206381,
-    436513846,
-    436513849,
-    436513851,
-    12270621627,
-    436513865,
-    436513870,
-    436513872,
-    436513875,
-    6542906343,
-    436513877,
-    436513880,
-    6542906344,
-    6542906342,
-    436513882,
-    436513884,
-    436513886
+    436513846
   ],
   "tags": {
     "highway": "primary",
@@ -18479,8 +18462,7 @@
     "name": "해맞이로",
     "name:en": "Haemaji-ro",
     "name:ja": "ヘマジ路",
-    "name:ko": "해맞이로",
-    "ref": "31"
+    "name:ko": "해맞이로"
   }
 },
 {
@@ -18976,8 +18958,7 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -22004,8 +21985,7 @@
     "highway": "primary",
     "name": "해맞이로",
     "name:en": "Haemaji-ro",
-    "name:ko": "해맞이로",
-    "ref": "31"
+    "name:ko": "해맞이로"
   }
 },
 {
@@ -25312,6 +25292,7 @@
     "name:en": "Saecheonnyeon-daero",
     "name:ko": "새천년대로",
     "oneway": "yes",
+    "ref": "7",
     "source:highway": "시가지내 가로망 현황, 2030 포항도시기본계획, 157-158쪽"
   }
 },
@@ -28043,8 +28024,7 @@
     "name": "신재로",
     "name:en": "Sinjae-ro",
     "name:ko": "신재로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -28078,8 +28058,7 @@
     "name": "원당로",
     "name:en": "Wondang-ro",
     "name:ko": "원당로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -32018,8 +31997,7 @@
   ],
   "tags": {
     "highway": "primary",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -32032,8 +32010,7 @@
   "tags": {
     "bridge": "yes",
     "highway": "primary",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -32132,7 +32109,6 @@
     "name:en": "Gimhae-daero",
     "name:ko": "김해대로",
     "oneway": "yes",
-    "ref": "14",
     "review": "no"
   }
 },
@@ -36192,8 +36168,7 @@
     "highway": "primary",
     "name": "광복로",
     "name:en": "Gwangbok-ro",
-    "name:ko": "광복로",
-    "ref": "36"
+    "name:ko": "광복로"
   }
 },
 {
@@ -36218,8 +36193,7 @@
     "highway": "primary",
     "name": "구성로",
     "name:en": "Guseong-ro",
-    "name:ko": "구성로",
-    "ref": "36"
+    "name:ko": "구성로"
   }
 },
 {
@@ -38082,7 +38056,8 @@
     "bridge:name": "효현교",
     "bridge:name:ko": "효현교",
     "highway": "primary",
-    "layer": "1"
+    "layer": "1",
+    "ref": "4;35"
   }
 },
 {
@@ -38122,7 +38097,8 @@
     "highway": "primary",
     "name": "대경로",
     "name:en": "Daegyeong-ro",
-    "name:ko": "대경로"
+    "name:ko": "대경로",
+    "ref": "4;35"
   }
 },
 {
@@ -38161,8 +38137,7 @@
     "name": "김해대로",
     "name:en": "Gimhae-daero",
     "name:ko": "김해대로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -43292,6 +43267,7 @@
     "name:en": "Saecheonnyeon-daero",
     "name:ko": "새천년대로",
     "oneway": "yes",
+    "ref": "7",
     "source:highway": "시가지내 가로망 현황, 2030 포항도시기본계획, 157-158쪽"
   }
 },
@@ -48206,8 +48182,7 @@
     "name:en": "Gimhae-daero",
     "name:ko": "김해대로",
     "name:zh": "金海大路",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -61658,8 +61633,7 @@
     "layer": "1",
     "name": "해맞이로",
     "name:en": "Haemaji-ro",
-    "name:ko": "해맞이로",
-    "ref": "31"
+    "name:ko": "해맞이로"
   }
 },
 {
@@ -62177,8 +62151,7 @@
     "name": "진산대로",
     "name:en": "Jinsan-daero",
     "name:ko": "진산대로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -62410,8 +62383,7 @@
     "name": "원당로",
     "name:en": "Wondang-ro",
     "name:ko": "원당로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -62433,8 +62405,7 @@
     "name": "원당로",
     "name:en": "Wondang-ro",
     "name:ko": "원당로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -66624,8 +66595,7 @@
     "highway": "primary",
     "layer": "1",
     "name:en": "Gimhae-daero",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -66691,8 +66661,7 @@
     "name": "김해대로",
     "name:en": "Gimhae-daero",
     "name:ko": "김해대로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -66709,8 +66678,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -67239,8 +67207,7 @@
     "layer": "1",
     "name": "진영제2육교",
     "name:ko": "진영제2육교",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -67281,8 +67248,7 @@
     "name": "김해대로",
     "name:en": "Gimhae-daero",
     "name:ko": "김해대로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -67323,8 +67289,7 @@
     "name": "김해대로",
     "name:en": "Gimhae-daero",
     "name:ko": "김해대로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -67345,8 +67310,7 @@
     "layer": "1",
     "name": "진영제2육교",
     "name:ko": "진영제2육교",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -67488,8 +67452,7 @@
     "name": "진산대로",
     "name:en": "Jinsan-daero",
     "name:ko": "진산대로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -67542,6 +67505,7 @@
     "name:en": "Saecheonnyeon-daero",
     "name:ko": "새천년대로",
     "oneway": "yes",
+    "ref": "7",
     "source:highway": "시가지내 가로망 현황, 2030 포항도시기본계획, 157-158쪽"
   }
 },
@@ -68497,6 +68461,7 @@
     "name:en": "Saecheonnyeon-daero",
     "name:ko": "새천년대로",
     "oneway": "yes",
+    "ref": "7",
     "source:highway": "시가지내 가로망 현황, 2030 포항도시기본계획, 157-158쪽"
   }
 },
@@ -69034,8 +68999,7 @@
     "name": "해맞이로",
     "name:en": "Haemaji-ro",
     "name:ko": "해맞이로",
-    "name:zh": "海马路",
-    "ref": "31"
+    "name:zh": "海马路"
   }
 },
 {
@@ -69051,8 +69015,7 @@
     "bridge:name:ko": "월내교",
     "bridge:structure": "beam",
     "highway": "primary",
-    "layer": "1",
-    "ref": "31"
+    "layer": "1"
   }
 },
 {
@@ -72362,8 +72325,7 @@
     "name": "김해대로",
     "name:en": "Gimhae-daero",
     "name:ko": "김해대로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -72404,8 +72366,7 @@
     "name:en": "Gimhae-daero",
     "name:ko": "김해대로",
     "name:zh": "金海大路",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -76627,8 +76588,7 @@
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
-    "oneway": "-1",
-    "ref": "36"
+    "oneway": "-1"
   }
 },
 {
@@ -76653,8 +76613,7 @@
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -80177,8 +80136,7 @@
     "name": "진산대로",
     "name:en": "Jinsan-daero",
     "name:ko": "진산대로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -82610,8 +82568,8 @@
     "name:en": "Geoje-daero",
     "name:ko": "거제대로",
     "name:ko-Latn": "Geoje-daero",
-    "noref": "yes",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "7"
   }
 },
 {
@@ -82640,8 +82598,8 @@
     "name:en": "Geoje-daero",
     "name:ko": "거제대로",
     "name:ko-Latn": "Geoje-daero",
-    "noref": "yes",
     "oneway": "yes",
+    "ref": "7",
     "sidewalk": "both"
   }
 },
@@ -85549,6 +85507,7 @@
     5554576630,
     331180318,
     5600198580,
+    14109182767,
     330187730,
     5600204027,
     8292089337,
@@ -95190,8 +95149,7 @@
     "name:en": "Gimhae-daero",
     "name:ko": "김해대로",
     "name:zh": "金海大路",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -95209,8 +95167,7 @@
     "name:en": "Gimhae-daero",
     "name:ko": "김해대로",
     "name:zh": "金海大路",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -95231,8 +95188,7 @@
     "name:en": "Gimhae-daero",
     "name:ko": "김해대로",
     "name:zh": "金海大路",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -95250,8 +95206,7 @@
     "name:en": "Gimhae-daero",
     "name:ko": "김해대로",
     "name:zh": "金海大路",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -95497,6 +95452,7 @@
     "name:en": "Saecheonnyeon-daero",
     "name:ko": "새천년대로",
     "oneway": "yes",
+    "ref": "7",
     "source:highway": "시가지내 가로망 현황, 2030 포항도시기본계획, 157-158쪽"
   }
 },
@@ -99822,8 +99778,7 @@
     "name:en": "Gimhae-daero",
     "name:ko": "김해대로",
     "name:zh": "金海大路",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -99848,8 +99803,7 @@
     "name:en": "Gimhae-daero",
     "name:ko": "김해대로",
     "name:zh": "金海大路",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -99867,8 +99821,7 @@
     "name:en": "Gimhae-daero",
     "name:ko": "김해대로",
     "name:zh": "金海大路",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -99886,8 +99839,7 @@
     "name:en": "Gimhae-daero",
     "name:ko": "김해대로",
     "name:zh": "金海大路",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -108636,7 +108588,8 @@
     "name": "대경로",
     "name:en": "Daegyeong-ro",
     "name:ko": "대경로",
-    "name:zh": "大庆路"
+    "name:zh": "大庆路",
+    "ref": "4;35"
   }
 },
 {
@@ -113073,7 +113026,8 @@
   "tags": {
     "highway": "primary",
     "name": "봉양로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "2"
   }
 },
 {
@@ -113089,7 +113043,8 @@
     "bridge:name": "양곡1교",
     "highway": "primary",
     "layer": "1",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "2"
   }
 },
 {
@@ -113110,7 +113065,8 @@
   "tags": {
     "highway": "primary",
     "name": "봉양로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "2"
   }
 },
 {
@@ -113128,7 +113084,8 @@
   "tags": {
     "highway": "primary",
     "name": "봉양로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "2"
   }
 },
 {
@@ -115470,8 +115427,7 @@
     "name": "해맞이로",
     "name:en": "Haemaji-ro",
     "name:ja": "ヘマジ路",
-    "name:ko": "해맞이로",
-    "ref": "31"
+    "name:ko": "해맞이로"
   }
 },
 {
@@ -115488,8 +115444,7 @@
     "name": "해맞이로",
     "name:en": "Haemaji-ro",
     "name:ja": "ヘマジ路",
-    "name:ko": "해맞이로",
-    "ref": "31"
+    "name:ko": "해맞이로"
   }
 },
 {
@@ -115705,6 +115660,7 @@
     11993001131,
     436698439,
     436698440,
+    14108924542,
     436698446,
     436698447,
     436698448,
@@ -121104,8 +121060,7 @@
     "name": "신재로",
     "name:en": "Sinjae-ro",
     "name:ko": "신재로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -121121,8 +121076,7 @@
     "name": "신재로",
     "name:en": "Sinjae-ro",
     "name:ko": "신재로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -121721,8 +121675,8 @@
     "name:en": "Geoje-daero",
     "name:ko": "거제대로",
     "name:ko-Latn": "Geoje-daero",
-    "noref": "yes",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "7"
   }
 },
 {
@@ -121761,8 +121715,8 @@
     "name:en": "Geoje-daero",
     "name:ko": "거제대로",
     "name:ko-Latn": "Geoje-daero",
-    "noref": "yes",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "7"
   }
 },
 {
@@ -121792,8 +121746,8 @@
     "name:en": "Geoje-daero",
     "name:ko": "거제대로",
     "name:ko-Latn": "Geoje-daero",
-    "noref": "yes",
     "oneway": "yes",
+    "ref": "7",
     "sidewalk": "both"
   }
 },
@@ -121811,8 +121765,7 @@
     "name": "원당로",
     "name:en": "Wondang-ro",
     "name:ko": "원당로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -121837,8 +121790,7 @@
     "name": "원당로",
     "name:en": "Wondang-ro",
     "name:ko": "원당로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -121861,8 +121813,7 @@
     "name": "원당로",
     "name:en": "Wondang-ro",
     "name:ko": "원당로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -121880,8 +121831,7 @@
     "name": "원당로",
     "name:en": "Wondang-ro",
     "name:ko": "원당로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -121898,8 +121848,7 @@
     "name": "원당로",
     "name:en": "Wondang-ro",
     "name:ko": "원당로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -121916,8 +121865,7 @@
     "name": "원당로",
     "name:en": "Wondang-ro",
     "name:ko": "원당로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -121943,8 +121891,7 @@
     "name": "원당로",
     "name:en": "Wondang-ro",
     "name:ko": "원당로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -121963,8 +121910,7 @@
     "name": "원당로",
     "name:en": "Wondang-ro",
     "name:ko": "원당로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -121982,8 +121928,7 @@
     "name": "원당로",
     "name:en": "Wondang-ro",
     "name:ko": "원당로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -122206,8 +122151,7 @@
     "name": "구성로",
     "name:en": "Guseong-ro",
     "name:ko": "구성로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -122227,8 +122171,7 @@
     "name": "구성로",
     "name:en": "Guseong-ro",
     "name:ko": "구성로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -122244,8 +122187,7 @@
     "name": "신재로",
     "name:en": "Sinjae-ro",
     "name:ko": "신재로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -122261,8 +122203,7 @@
     "highway": "primary",
     "name": "신재로",
     "name:en": "Sinjae-ro",
-    "name:ko": "신재로",
-    "ref": "36"
+    "name:ko": "신재로"
   }
 },
 {
@@ -122276,8 +122217,7 @@
     "highway": "primary",
     "name": "구성로",
     "name:en": "Guseong-ro",
-    "name:ko": "구성로",
-    "ref": "36"
+    "name:ko": "구성로"
   }
 },
 {
@@ -122294,8 +122234,7 @@
     "name": "신재로",
     "name:en": "Sinjae-ro",
     "name:ko": "신재로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -122317,8 +122256,7 @@
     "name": "신재로",
     "name:en": "Sinjae-ro",
     "name:ko": "신재로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -122334,8 +122272,7 @@
     "name": "신재로",
     "name:en": "Sinjae-ro",
     "name:ko": "신재로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -122355,8 +122292,7 @@
     "name": "신재로",
     "name:en": "Sinjae-ro",
     "name:ko": "신재로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -122373,8 +122309,7 @@
     "name": "신재로",
     "name:en": "Sinjae-ro",
     "name:ko": "신재로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -122394,8 +122329,7 @@
     "name": "신재로",
     "name:en": "Sinjae-ro",
     "name:ko": "신재로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -122418,8 +122352,7 @@
     "name": "신재로",
     "name:en": "Sinjae-ro",
     "name:ko": "신재로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -122441,8 +122374,7 @@
     "name": "신재로",
     "name:en": "Sinjae-ro",
     "name:ko": "신재로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -122465,8 +122397,7 @@
     "name": "신재로",
     "name:en": "Sinjae-ro",
     "name:ko": "신재로",
-    "oneway": "yes",
-    "ref": "36"
+    "oneway": "yes"
   }
 },
 {
@@ -122481,8 +122412,7 @@
     "name": "원당로",
     "name:en": "Wondang-ro",
     "name:ko": "원당로",
-    "oneway": "no",
-    "ref": "36"
+    "oneway": "no"
   }
 },
 {
@@ -123130,8 +123060,7 @@
     "name": "김해대로",
     "name:en": "Gimhae-daero",
     "name:ko": "김해대로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -123148,8 +123077,7 @@
     "name": "김해대로",
     "name:en": "Gimhae-daero",
     "name:ko": "김해대로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -123729,7 +123657,8 @@
     "name": "대경로",
     "name:en": "Daegyeong-ro",
     "name:ko": "대경로",
-    "name:zh": "大庆路"
+    "name:zh": "大庆路",
+    "ref": "4;35"
   }
 },
 {
@@ -128912,8 +128841,7 @@
     "name": "김해대로",
     "name:en": "Gimhae-daero",
     "name:ko": "김해대로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -128942,8 +128870,7 @@
     "name": "김해대로",
     "name:en": "Gimhae-daero",
     "name:ko": "김해대로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -132495,7 +132422,8 @@
     "highway": "primary",
     "name": "대경로",
     "name:en": "Daegyeong-ro",
-    "name:ko": "대경로"
+    "name:ko": "대경로",
+    "ref": "4;35"
   }
 },
 {
@@ -132645,7 +132573,8 @@
     "highway": "primary",
     "name": "대경로",
     "name:en": "Daegyeong-ro",
-    "name:ko": "대경로"
+    "name:ko": "대경로",
+    "ref": "4;35"
   }
 },
 {
@@ -132659,7 +132588,8 @@
     "highway": "primary",
     "name": "대경로",
     "name:en": "Daegyeong-ro",
-    "name:ko": "대경로"
+    "name:ko": "대경로",
+    "ref": "4;35"
   }
 },
 {
@@ -132673,7 +132603,8 @@
     "highway": "primary",
     "name": "대경로",
     "name:en": "Daegyeong-ro",
-    "name:ko": "대경로"
+    "name:ko": "대경로",
+    "ref": "4;35"
   }
 },
 {
@@ -135306,7 +135237,6 @@
     "name:ko": "김해대로",
     "name:zh": "金海大路",
     "oneway": "yes",
-    "ref": "14",
     "turn:lanes": "through|through|right"
   }
 },
@@ -135323,8 +135253,7 @@
     "name:en": "Gimhae-daero",
     "name:ko": "김해대로",
     "name:zh": "金海大路",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -135342,7 +135271,6 @@
     "name:ko": "김해대로",
     "name:zh": "金海大路",
     "oneway": "yes",
-    "ref": "14",
     "turn:lanes": "left|through|through"
   }
 },
@@ -135359,8 +135287,7 @@
     "name:en": "Gimhae-daero",
     "name:ko": "김해대로",
     "name:zh": "金海大路",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -141646,8 +141573,7 @@
     "name": "해맞이로",
     "name:en": "Haemaji-ro",
     "name:ja": "ヘマジ路",
-    "name:ko": "해맞이로",
-    "ref": "31"
+    "name:ko": "해맞이로"
   }
 },
 {
@@ -141688,8 +141614,7 @@
     "name": "해맞이로",
     "name:en": "Haemaji-ro",
     "name:ja": "ヘマジ路",
-    "name:ko": "해맞이로",
-    "ref": "31"
+    "name:ko": "해맞이로"
   }
 },
 {
@@ -145483,8 +145408,7 @@
     "name": "진산대로",
     "name:en": "Jinsan-daero",
     "name:ko": "진산대로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -145507,8 +145431,7 @@
     "name": "진산대로",
     "name:en": "Jinsan-daero",
     "name:ko": "진산대로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -145557,8 +145480,7 @@
     "name": "진산대로",
     "name:en": "Jinsan-daero",
     "name:ko": "진산대로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -145614,8 +145536,7 @@
     "name": "진산대로",
     "name:en": "Jinsan-daero",
     "name:ko": "진산대로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -148409,6 +148330,134 @@
     "name:ko": "남창로",
     "oneway": "yes",
     "ref": "14"
+  }
+},
+{
+  "type": "way",
+  "id": 1551249951,
+  "nodes": [
+    436513846,
+    14109429659,
+    14109429658,
+    14109429657,
+    14109429660
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "대가야로",
+    "name:en": "Daegaya-ro",
+    "name:ko": "대가야로",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1551249952,
+  "nodes": [
+    436513870,
+    14109429661,
+    14109429662,
+    14109429663,
+    14109429677
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "대가야로",
+    "name:en": "Daegaya-ro",
+    "name:ko": "대가야로",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1551249954,
+  "nodes": [
+    14109429683,
+    14109429682,
+    14109429681,
+    14109429691,
+    12270621627,
+    14109429680,
+    14109429679,
+    14109429678,
+    14109429677,
+    14109429666,
+    14109429676,
+    14109429684,
+    14109429675,
+    14109429692,
+    14109429674,
+    14109429673,
+    14109429672,
+    14109429671,
+    14109429670,
+    14109429660,
+    14109429669,
+    14109429668,
+    14109429683
+  ],
+  "tags": {
+    "highway": "primary",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1551249961,
+  "nodes": [
+    14109429673,
+    436513851,
+    14109429689,
+    436513849,
+    436513846
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "대가야로",
+    "name:en": "Daegaya-ro",
+    "name:ko": "대가야로",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1551249962,
+  "nodes": [
+    12270621627,
+    14109429664,
+    436513865,
+    14109429690,
+    436513870
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "대가야로",
+    "name:en": "Daegaya-ro",
+    "name:ko": "대가야로",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1551249964,
+  "nodes": [
+    436513870,
+    436513872,
+    436513875,
+    6542906343,
+    436513877,
+    436513880,
+    6542906344,
+    6542906342,
+    436513882,
+    436513884,
+    436513886
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "대가야로",
+    "name:en": "Daegaya-ro",
+    "name:ko": "대가야로"
   }
 },
 {
@@ -316042,14 +316091,14 @@
 {
   "type": "node",
   "id": 436513846,
-  "lat": 35.6922189,
+  "lat": 35.6921612,
   "lon": 128.2476433
 },
 {
   "type": "node",
   "id": 436513849,
-  "lat": 35.6924786,
-  "lon": 128.2477596
+  "lat": 35.6922510,
+  "lon": 128.2476617
 },
 {
   "type": "node",
@@ -316060,14 +316109,14 @@
 {
   "type": "node",
   "id": 436513865,
-  "lat": 35.6939470,
-  "lon": 128.2482989
+  "lat": 35.6941637,
+  "lon": 128.2484531
 },
 {
   "type": "node",
   "id": 12270621627,
-  "lat": 35.6934569,
-  "lon": 128.2480605
+  "lat": 35.6935290,
+  "lon": 128.2481654
 },
 {
   "type": "node",
@@ -316077,9 +316126,171 @@
 },
 {
   "type": "node",
+  "id": 14109429657,
+  "lat": 35.6932029,
+  "lon": 128.2480247
+},
+{
+  "type": "node",
+  "id": 14109429658,
+  "lat": 35.6926725,
+  "lon": 128.2478944
+},
+{
+  "type": "node",
+  "id": 14109429659,
+  "lat": 35.6922437,
+  "lon": 128.2477232
+},
+{
+  "type": "node",
+  "id": 14109429660,
+  "lat": 35.6933492,
+  "lon": 128.2480844
+},
+{
+  "type": "node",
+  "id": 14109429663,
+  "lat": 35.6937510,
+  "lon": 128.2481237
+},
+{
+  "type": "node",
+  "id": 14109429664,
+  "lat": 35.6936623,
+  "lon": 128.2482053
+},
+{
+  "type": "node",
+  "id": 14109429666,
+  "lat": 35.6935598,
+  "lon": 128.2479859
+},
+{
+  "type": "node",
+  "id": 14109429668,
+  "lat": 35.6933803,
+  "lon": 128.2481535
+},
+{
+  "type": "node",
+  "id": 14109429669,
+  "lat": 35.6933607,
+  "lon": 128.2481217
+},
+{
+  "type": "node",
+  "id": 14109429670,
+  "lat": 35.6933467,
+  "lon": 128.2480447
+},
+{
+  "type": "node",
+  "id": 14109429671,
+  "lat": 35.6933534,
+  "lon": 128.2480056
+},
+{
+  "type": "node",
+  "id": 14109429672,
+  "lat": 35.6933687,
+  "lon": 128.2479705
+},
+{
+  "type": "node",
+  "id": 14109429673,
+  "lat": 35.6933915,
+  "lon": 128.2479421
+},
+{
+  "type": "node",
+  "id": 14109429674,
+  "lat": 35.6934198,
+  "lon": 128.2479228
+},
+{
+  "type": "node",
+  "id": 14109429675,
+  "lat": 35.6934838,
+  "lon": 128.2479167
+},
+{
+  "type": "node",
+  "id": 14109429676,
+  "lat": 35.6935402,
+  "lon": 128.2479541
+},
+{
+  "type": "node",
+  "id": 14109429677,
+  "lat": 35.6935713,
+  "lon": 128.2480232
+},
+{
+  "type": "node",
+  "id": 14109429678,
+  "lat": 35.6935738,
+  "lon": 128.2480629
+},
+{
+  "type": "node",
+  "id": 14109429679,
+  "lat": 35.6935671,
+  "lon": 128.2481019
+},
+{
+  "type": "node",
+  "id": 14109429680,
+  "lat": 35.6935518,
+  "lon": 128.2481371
+},
+{
+  "type": "node",
+  "id": 14109429681,
+  "lat": 35.6934691,
+  "lon": 128.2481935
+},
+{
+  "type": "node",
+  "id": 14109429682,
+  "lat": 35.6934368,
+  "lon": 128.2481909
+},
+{
+  "type": "node",
+  "id": 14109429683,
+  "lat": 35.6934063,
+  "lon": 128.2481772
+},
+{
+  "type": "node",
+  "id": 14109429684,
+  "lat": 35.6935142,
+  "lon": 128.2479304
+},
+{
+  "type": "node",
+  "id": 14109429689,
+  "lat": 35.6926886,
+  "lon": 128.2478338
+},
+{
+  "type": "node",
+  "id": 14109429691,
+  "lat": 35.6935007,
+  "lon": 128.2481848
+},
+{
+  "type": "node",
+  "id": 14109429692,
+  "lat": 35.6934514,
+  "lon": 128.2479141
+},
+{
+  "type": "node",
   "id": 436513870,
-  "lat": 35.6947562,
-  "lon": 128.2488195
+  "lat": 35.6945449,
+  "lon": 128.2486612
 },
 {
   "type": "node",
@@ -316362,6 +316573,24 @@
   "id": 6542906354,
   "lat": 35.6980203,
   "lon": 128.2511097
+},
+{
+  "type": "node",
+  "id": 14109429661,
+  "lat": 35.6944815,
+  "lon": 128.2485887
+},
+{
+  "type": "node",
+  "id": 14109429662,
+  "lat": 35.6942020,
+  "lon": 128.2483951
+},
+{
+  "type": "node",
+  "id": 14109429690,
+  "lat": 35.6944759,
+  "lon": 128.2486546
 },
 {
   "type": "node",
@@ -367983,6 +368212,12 @@
 },
 {
   "type": "node",
+  "id": 14108924542,
+  "lat": 36.1062893,
+  "lon": 128.5514124
+},
+{
+  "type": "node",
   "id": 436698446,
   "lat": 36.1070998,
   "lon": 128.5522533
@@ -371565,6 +371800,12 @@
 },
 {
   "type": "node",
+  "id": 14109182767,
+  "lat": 36.2362211,
+  "lon": 128.5704134
+},
+{
+  "type": "node",
   "id": 330187492,
   "lat": 36.2500103,
   "lon": 128.5666185
@@ -371757,6 +371998,12 @@
 },
 {
   "type": "node",
+  "id": 14109205657,
+  "lat": 36.2641913,
+  "lon": 128.5723376
+},
+{
+  "type": "node",
   "id": 330187420,
   "lat": 36.2685530,
   "lon": 128.5734314
@@ -371856,6 +372103,12 @@
   "id": 13351270857,
   "lat": 36.2688753,
   "lon": 128.5736773
+},
+{
+  "type": "node",
+  "id": 14109205642,
+  "lat": 36.2648123,
+  "lon": 128.5722874
 },
 {
   "type": "node",
@@ -396466,8 +396719,8 @@
 {
   "type": "node",
   "id": 790834085,
-  "lat": 35.5491822,
-  "lon": 129.3081327
+  "lat": 35.5491834,
+  "lon": 129.3081329
 },
 {
   "type": "node",
@@ -396520,14 +396773,14 @@
 {
   "type": "node",
   "id": 11939830426,
-  "lat": 35.5486159,
-  "lon": 129.3083081
+  "lat": 35.5486141,
+  "lon": 129.3083097
 },
 {
   "type": "node",
   "id": 11939830429,
-  "lat": 35.5486911,
-  "lon": 129.3077681
+  "lat": 35.5486929,
+  "lon": 129.3077714
 },
 {
   "type": "node",
