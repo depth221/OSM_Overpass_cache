@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-20T19:17:51Z",
-    "timestamp_areas_base": "2026-08-20T02:52:51Z",
+    "timestamp_osm_base": "2026-08-21T19:13:51Z",
+    "timestamp_areas_base": "2026-08-21T02:48:51Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -7490,7 +7490,7 @@
     "name:en": "Jeonjin-ro",
     "name:ko": "전진로",
     "oneway": "yes",
-    "ref": "26"
+    "ref": "26;30"
   }
 },
 {
@@ -7527,7 +7527,7 @@
     "name:en": "Jeonjin-ro",
     "name:ko": "전진로",
     "oneway": "yes",
-    "ref": "26"
+    "ref": "26;30"
   }
 },
 {
@@ -60483,8 +60483,7 @@
   "tags": {
     "highway": "primary",
     "name": "진무로",
-    "oneway": "yes",
-    "ref": "30"
+    "oneway": "yes"
   }
 },
 {
@@ -60514,12 +60513,7 @@
     436560626,
     436560627,
     436560628,
-    763058891,
-    763058886,
-    763058851,
-    763058881,
-    7537607912,
-    763058945
+    763058891
   ],
   "tags": {
     "highway": "primary",
@@ -60557,8 +60551,7 @@
     "highway": "primary",
     "junction": "roundabout",
     "layer": "1",
-    "name": "진무로",
-    "ref": "30"
+    "name": "진무로"
   }
 },
 {
@@ -64327,7 +64320,7 @@
     "name:en": "Jeonjin-ro",
     "name:ko": "전진로",
     "oneway": "yes",
-    "ref": "26"
+    "ref": "26;30"
   }
 },
 {
@@ -64363,7 +64356,7 @@
     "name:en": "Jeonjin-ro",
     "name:ko": "전진로",
     "oneway": "yes",
-    "ref": "26"
+    "ref": "26;30"
   }
 },
 {
@@ -64566,7 +64559,8 @@
   ],
   "tags": {
     "highway": "primary",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "30"
   }
 },
 {
@@ -106739,6 +106733,7 @@
     13076186506,
     13574464252,
     13076186507,
+    14109815496,
     13076186514,
     13076186508,
     13076186515,
@@ -106746,6 +106741,7 @@
     13076186510,
     12615756755,
     13076186511,
+    14109815495,
     12615756765,
     13076186512,
     12615756762
@@ -106754,8 +106750,7 @@
     "highway": "primary",
     "junction": "roundabout",
     "name": "무장면사무소",
-    "name:ko": "무장면사무소",
-    "oneway": "yes"
+    "name:ko": "무장면사무소"
   }
 },
 {
@@ -117699,6 +117694,26 @@
     "name:ko": "전진로",
     "ref": "26",
     "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1551299979,
+  "nodes": [
+    763058891,
+    763058886,
+    763058851,
+    763058881,
+    7537607912,
+    763058945
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "진장로",
+    "name:en": "Jinjang-ro",
+    "name:ko": "진장로",
+    "oneway": "yes",
+    "ref": "26"
   }
 },
 {
@@ -215492,8 +215507,8 @@
 {
   "type": "node",
   "id": 13076186507,
-  "lat": 35.4189128,
-  "lon": 126.5595976
+  "lat": 35.4189150,
+  "lon": 126.5595969
 },
 {
   "type": "node",
@@ -215839,6 +215854,12 @@
 },
 {
   "type": "node",
+  "id": 14109815496,
+  "lat": 35.4189118,
+  "lon": 126.5596046
+},
+{
+  "type": "node",
   "id": 436910680,
   "lat": 35.4248727,
   "lon": 126.5557043
@@ -216082,6 +216103,12 @@
   "id": 13727770534,
   "lat": 35.4214385,
   "lon": 126.5577630
+},
+{
+  "type": "node",
+  "id": 14109815495,
+  "lat": 35.4193798,
+  "lon": 126.5596501
 },
 {
   "type": "node",
@@ -368835,7 +368862,7 @@
   "type": "node",
   "id": 763058775,
   "lat": 35.7846466,
-  "lon": 127.4466402
+  "lon": 127.4466940
 },
 {
   "type": "node",
