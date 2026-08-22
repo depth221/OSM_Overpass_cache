@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-21T19:03:36Z",
-    "timestamp_areas_base": "2026-08-21T02:48:51Z",
+    "timestamp_osm_base": "2026-08-22T18:55:06Z",
+    "timestamp_areas_base": "2026-08-22T04:56:35Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -10989,9 +10989,6 @@
   "type": "way",
   "id": 54228033,
   "nodes": [
-    669418090,
-    669418094,
-    669418099,
     669418102,
     669418107,
     669418111,
@@ -22917,7 +22914,7 @@
     "layer": "1",
     "maxspeed": "50",
     "oneway": "yes",
-    "ref": "30;67",
+    "ref": "30",
     "surface": "asphalt"
   }
 },
@@ -22942,7 +22939,7 @@
     "name:en": "Seongju-ro",
     "name:ko": "성주로",
     "oneway": "yes",
-    "ref": "30;67",
+    "ref": "30",
     "surface": "asphalt"
   }
 },
@@ -33679,7 +33676,6 @@
   "type": "way",
   "id": 107419042,
   "nodes": [
-    669408550,
     669408475,
     669408554,
     669408414
@@ -45803,9 +45799,7 @@
     1420068887,
     1420068891,
     1420068895,
-    1420068897,
-    7276686070,
-    436508496
+    1420068897
   ],
   "tags": {
     "expressway": "yes",
@@ -52001,7 +51995,6 @@
     "name:en": "Daesin-ro",
     "name:ko": "대신로",
     "oneway": "yes",
-    "ref": "33",
     "source": "bing",
     "surface": "asphalt"
   }
@@ -52033,7 +52026,6 @@
     "name:en": "Daesin-ro",
     "name:ko": "대신로",
     "oneway": "yes",
-    "ref": "33",
     "source": "bing",
     "surface": "asphalt"
   }
@@ -53661,7 +53653,7 @@
     "name:en": "Cheongnyang-ro",
     "name:ko": "청량로",
     "oneway": "no",
-    "ref": "7;14"
+    "ref": "14"
   }
 },
 {
@@ -57735,7 +57727,7 @@
     "name:en": "Uichang-daero",
     "name:ko": "의창대로",
     "oneway": "yes",
-    "ref": "14;25;30",
+    "ref": "14;30",
     "surface": "asphalt"
   }
 },
@@ -57757,7 +57749,7 @@
     "name:en": "Uichang-daero",
     "name:ko": "의창대로",
     "oneway": "yes",
-    "ref": "14;25;30",
+    "ref": "14;30",
     "surface": "asphalt"
   }
 },
@@ -57782,7 +57774,7 @@
     "name:en": "Uichang-daero",
     "name:ko": "의창대로",
     "oneway": "yes",
-    "ref": "14;25;30",
+    "ref": "14;30",
     "surface": "asphalt"
   }
 },
@@ -62237,8 +62229,7 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
-    "oneway": "yes",
-    "ref": "67"
+    "oneway": "yes"
   }
 },
 {
@@ -62256,8 +62247,7 @@
     "name": "강변대로",
     "name:en": "Gangbyeon-daero",
     "name:ko": "강변대로",
-    "oneway": "yes",
-    "ref": "67"
+    "oneway": "yes"
   }
 },
 {
@@ -62280,8 +62270,7 @@
     "name": "강변대로",
     "name:en": "Gangbyeon-daero",
     "name:ko": "강변대로",
-    "oneway": "yes",
-    "ref": "67"
+    "oneway": "yes"
   }
 },
 {
@@ -62327,7 +62316,6 @@
     "name:en": "Gangbyeon-daero",
     "name:ko": "강변대로",
     "oneway": "yes",
-    "ref": "67",
     "surface": "asphalt"
   }
 },
@@ -62344,8 +62332,7 @@
     "highway": "trunk",
     "layer": "1",
     "maxspeed": "70",
-    "oneway": "yes",
-    "ref": "67"
+    "oneway": "yes"
   }
 },
 {
@@ -73910,9 +73897,7 @@
     669417941,
     669417946,
     669417952,
-    9139340498,
-    669417958,
-    669417961
+    9139340498
   ],
   "tags": {
     "expressway": "yes",
@@ -82235,7 +82220,7 @@
     "name:en": "Seongju-ro",
     "name:ko": "성주로",
     "oneway": "yes",
-    "ref": "30;67",
+    "ref": "30",
     "surface": "asphalt"
   }
 },
@@ -82253,7 +82238,7 @@
     "layer": "1",
     "maxspeed": "70",
     "oneway": "yes",
-    "ref": "30;67",
+    "ref": "30",
     "surface": "asphalt"
   }
 },
@@ -84145,8 +84130,7 @@
     "name": "강변대로",
     "name:en": "Gangbyeon-daero",
     "name:ko": "강변대로",
-    "oneway": "yes",
-    "ref": "67"
+    "oneway": "yes"
   }
 },
 {
@@ -84167,7 +84151,6 @@
     "name:en": "Gangbyeon-daero",
     "name:ko": "강변대로",
     "oneway": "yes",
-    "ref": "67",
     "source": "bing"
   }
 },
@@ -84382,7 +84365,6 @@
   "type": "way",
   "id": 317363387,
   "nodes": [
-    3236155170,
     426561497,
     426561498,
     13403684945,
@@ -96100,6 +96082,7 @@
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -96158,6 +96141,7 @@
     "name:ko": "무점터널",
     "name:ko-Latn": "Mujeomteoneol",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt",
     "tunnel": "yes"
   }
@@ -96218,6 +96202,7 @@
     "name:ko": "무점터널",
     "name:ko-Latn": "Mujeomteoneol",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt",
     "tunnel": "yes"
   }
@@ -98543,6 +98528,7 @@
     "maxspeed": "80",
     "motorroad": "yes",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -98565,6 +98551,7 @@
     "maxspeed": "80",
     "motorroad": "yes",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -98591,6 +98578,7 @@
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -98995,6 +98983,7 @@
     "motorroad": "yes",
     "name": "해원로",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -99014,6 +99003,7 @@
     "motorroad": "yes",
     "name": "해원로",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -99065,6 +99055,7 @@
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -99458,6 +99449,7 @@
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
     "oneway": "yes",
+    "ref": "25",
     "surface": "asphalt"
   }
 },
@@ -103351,6 +103343,7 @@
     "motorroad": "yes",
     "name": "해원로",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -103370,6 +103363,7 @@
     "motorroad": "yes",
     "name": "해원로",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -103389,6 +103383,7 @@
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -103408,6 +103403,7 @@
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -149833,6 +149829,7 @@
     5135458426,
     5135458427,
     5135458428,
+    14111776583,
     5135458441,
     5135458442,
     5135458443,
@@ -167532,7 +167529,7 @@
     "name:en": "Uichang-daero",
     "name:ko": "의창대로",
     "oneway": "yes",
-    "ref": "14;25;30",
+    "ref": "14;30",
     "surface": "asphalt"
   }
 },
@@ -167550,7 +167547,7 @@
     "layer": "1",
     "name": "의창대로",
     "oneway": "yes",
-    "ref": "14;25;30",
+    "ref": "14;30",
     "surface": "asphalt"
   }
 },
@@ -167588,7 +167585,7 @@
     "name:en": "Uichang-daero",
     "name:ko": "의창대로",
     "oneway": "yes",
-    "ref": "14;25;30",
+    "ref": "14;30",
     "surface": "asphalt"
   }
 },
@@ -221994,7 +221991,6 @@
     "name:en": "Cheongnyang-ro",
     "name:ko": "청량로",
     "oneway": "yes",
-    "ref": "7;14",
     "surface": "asphalt"
   }
 },
@@ -232657,6 +232653,7 @@
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -232677,6 +232674,7 @@
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -232699,6 +232697,7 @@
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -232720,6 +232719,7 @@
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -240205,13 +240205,15 @@
     7502725444
   ],
   "tags": {
+    "bicycle": "yes",
     "expressway": "yes",
     "highway": "trunk",
     "name": "충서로",
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21;77"
+    "ref": "21;77",
+    "surface": "asphalt"
   }
 },
 {
@@ -257009,7 +257011,7 @@
     "name:en": "Cheongnyang-ro",
     "name:ko": "청량로",
     "oneway": "yes",
-    "ref": "7;14",
+    "ref": "14",
     "surface": "asphalt"
   }
 },
@@ -265296,7 +265298,7 @@
     "name:en": "Cheongnyang-ro",
     "name:ko": "청량로",
     "oneway": "yes",
-    "ref": "7;14",
+    "ref": "14",
     "surface": "asphalt"
   }
 },
@@ -277934,8 +277936,7 @@
     "name": "강변대로",
     "name:en": "Gangbyeon-daero",
     "name:ko": "강변대로",
-    "oneway": "yes",
-    "ref": "67"
+    "oneway": "yes"
   }
 },
 {
@@ -287095,8 +287096,7 @@
     "name": "강변대로",
     "name:en": "Gangbyeon-daero",
     "name:ko": "강변대로",
-    "oneway": "yes",
-    "ref": "67"
+    "oneway": "yes"
   }
 },
 {
@@ -302553,7 +302553,6 @@
     "name:en": "Daesin-ro",
     "name:ko": "대신로",
     "oneway": "yes",
-    "ref": "33",
     "source": "bing",
     "surface": "asphalt"
   }
@@ -302575,7 +302574,6 @@
     "name:en": "Daesin-ro",
     "name:ko": "대신로",
     "oneway": "yes",
-    "ref": "33",
     "source": "bing",
     "surface": "asphalt"
   }
@@ -302607,7 +302605,6 @@
     "name:en": "Daesin-ro",
     "name:ko": "대신로",
     "oneway": "yes",
-    "ref": "33",
     "source": "bing",
     "surface": "asphalt"
   }
@@ -302628,7 +302625,6 @@
     "name:en": "Daesin-ro",
     "name:ko": "대신로",
     "oneway": "yes",
-    "ref": "33",
     "source": "bing",
     "surface": "asphalt"
   }
@@ -305291,7 +305287,7 @@
     "name:en": "Seongju-ro",
     "name:ko": "성주로",
     "oneway": "yes",
-    "ref": "30;67",
+    "ref": "30",
     "surface": "asphalt"
   }
 },
@@ -319526,7 +319522,7 @@
     "name:en": "Uichang-daero",
     "name:ko": "의창대로",
     "oneway": "yes",
-    "ref": "14;25;30",
+    "ref": "14;30",
     "surface": "asphalt"
   }
 },
@@ -319566,7 +319562,7 @@
     "name:en": "Uichang-daero",
     "name:ko": "의창대로",
     "oneway": "yes",
-    "ref": "14;25;30",
+    "ref": "14;30",
     "surface": "asphalt"
   }
 },
@@ -319589,7 +319585,7 @@
     "name:en": "Uichang-daero",
     "name:ko": "의창대로",
     "oneway": "yes",
-    "ref": "14;25;30",
+    "ref": "14;30",
     "surface": "asphalt"
   }
 },
@@ -319619,7 +319615,7 @@
     "name:en": "Uichang-daero",
     "name:ko": "의창대로",
     "oneway": "yes",
-    "ref": "14;25;30",
+    "ref": "14;30",
     "surface": "asphalt"
   }
 },
@@ -319644,7 +319640,7 @@
     "name:en": "Uichang-daero",
     "name:ko": "의창대로",
     "oneway": "yes",
-    "ref": "14;25;30",
+    "ref": "14;30",
     "surface": "asphalt"
   }
 },
@@ -319662,7 +319658,7 @@
     "layer": "1",
     "name": "의창대로",
     "oneway": "yes",
-    "ref": "14;25;30",
+    "ref": "14;30",
     "surface": "asphalt"
   }
 },
@@ -319684,7 +319680,7 @@
     "name:en": "Uichang-daero",
     "name:ko": "의창대로",
     "oneway": "yes",
-    "ref": "14;25;30",
+    "ref": "14;30",
     "surface": "asphalt"
   }
 },
@@ -319709,7 +319705,7 @@
     "name:en": "Uichang-daero",
     "name:ko": "의창대로",
     "oneway": "yes",
-    "ref": "14;25;30",
+    "ref": "14;30",
     "surface": "asphalt"
   }
 },
@@ -319741,7 +319737,7 @@
     "name:en": "Uichang-daero",
     "name:ko": "의창대로",
     "oneway": "yes",
-    "ref": "14;25;30",
+    "ref": "14;30",
     "surface": "asphalt"
   }
 },
@@ -319759,7 +319755,7 @@
     "name:en": "Uichang-daero",
     "name:ko": "의창대로",
     "oneway": "yes",
-    "ref": "14;25"
+    "ref": "14;30"
   }
 },
 {
@@ -319779,7 +319775,7 @@
     "name:en": "Uichang-daero",
     "name:ko": "의창대로",
     "oneway": "yes",
-    "ref": "14;25;30",
+    "ref": "14;30",
     "surface": "asphalt"
   }
 },
@@ -336516,6 +336512,7 @@
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -336537,6 +336534,7 @@
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -336557,6 +336555,7 @@
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -336578,6 +336577,7 @@
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -336598,6 +336598,7 @@
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -336619,6 +336620,7 @@
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -336642,6 +336644,7 @@
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -336665,6 +336668,7 @@
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -336686,6 +336690,7 @@
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -336707,6 +336712,7 @@
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
     "oneway": "yes",
+    "ref": "14;25",
     "surface": "asphalt"
   }
 },
@@ -338519,6 +338525,104 @@
     "oneway": "yes",
     "ref": "26;33",
     "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1551423948,
+  "nodes": [
+    3236155170,
+    426561497
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "성주로",
+    "name:en": "Seongju-ro",
+    "name:ko": "성주로",
+    "oneway": "yes",
+    "ref": "30",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1551423952,
+  "nodes": [
+    669408550,
+    669408475
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "가야로",
+    "name:en": "Gaya-ro",
+    "name:ko": "가야로",
+    "oneway": "yes",
+    "ref": "33",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1551423953,
+  "nodes": [
+    669418090,
+    669418094,
+    669418099,
+    669418102
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "동고령로",
+    "name:en": "Donggoryeong-ro",
+    "name:ko": "동고령로",
+    "oneway": "yes",
+    "ref": "26",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1551423954,
+  "nodes": [
+    9139340498,
+    669417958,
+    669417961
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "동고령로",
+    "name:en": "Donggoryeong-ro",
+    "name:ko": "동고령로",
+    "oneway": "yes",
+    "ref": "26",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1551469609,
+  "nodes": [
+    1420068897,
+    7276686070,
+    436508496
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "보청대로",
+    "name:en": "Bocheong-daero",
+    "name:ko": "보청대로",
+    "oneway": "yes",
+    "ref": "25",
+    "review": "no",
+    "source": "Bing (adjusted)",
+    "wikidata": "Q12598444",
+    "wikipedia": "ko:보청대로"
   }
 },
 {
@@ -417556,14 +417660,14 @@
 {
   "type": "node",
   "id": 5383174846,
-  "lat": 36.4672909,
-  "lon": 127.2749912
+  "lat": 36.4672884,
+  "lon": 127.2749821
 },
 {
   "type": "node",
   "id": 5648709430,
   "lat": 36.4673619,
-  "lon": 127.2752007
+  "lon": 127.2751966
 },
 {
   "type": "node",
@@ -417628,14 +417732,14 @@
 {
   "type": "node",
   "id": 5648709429,
-  "lat": 36.4675265,
-  "lon": 127.2749393
+  "lat": 36.4675330,
+  "lon": 127.2749474
 },
 {
   "type": "node",
   "id": 5648709431,
-  "lat": 36.4675982,
-  "lon": 127.2751547
+  "lat": 36.4676031,
+  "lon": 127.2751689
 },
 {
   "type": "node",
@@ -474112,14 +474216,14 @@
 {
   "type": "node",
   "id": 1763782701,
-  "lat": 35.2347696,
-  "lon": 128.9930204
+  "lat": 35.2347254,
+  "lon": 128.9926689
 },
 {
   "type": "node",
   "id": 1763782775,
-  "lat": 35.2349117,
-  "lon": 128.9931860
+  "lat": 35.2348794,
+  "lon": 128.9927742
 },
 {
   "type": "node",
@@ -611832,6 +611936,12 @@
   "id": 5135458465,
   "lat": 36.6424978,
   "lon": 127.2762332
+},
+{
+  "type": "node",
+  "id": 14111776583,
+  "lat": 36.6414936,
+  "lon": 127.2774435
 },
 {
   "type": "node",
