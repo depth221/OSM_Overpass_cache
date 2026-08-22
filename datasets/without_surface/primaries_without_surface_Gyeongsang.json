@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-21T19:12:51Z",
-    "timestamp_areas_base": "2026-08-21T04:37:53Z",
+    "timestamp_osm_base": "2026-08-22T19:06:21Z",
+    "timestamp_areas_base": "2026-08-22T04:56:35Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1222,7 +1222,7 @@
     "name:en": "3·15-daero",
     "name:ko": "3·15대로",
     "oneway": "yes",
-    "ref": "14"
+    "ref": "14;79"
   }
 },
 {
@@ -2742,8 +2742,7 @@
     "name:en": "Changwon-daero",
     "name:ko": "창원대로",
     "name:zh": "昌原大路",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -2759,8 +2758,7 @@
     "highway": "primary",
     "name": "해원로",
     "name:en": "Haewon-ro",
-    "name:ko": "해원로",
-    "ref": "25"
+    "name:ko": "해원로"
   }
 },
 {
@@ -2777,8 +2775,7 @@
     "name": "창원대로",
     "name:en": "Changwon-daero",
     "name:ko": "창원대로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -2799,8 +2796,7 @@
     "name": "창원대로",
     "name:en": "Changwon-daero",
     "name:ko": "창원대로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -3580,8 +3576,7 @@
     "name": "금관대로",
     "name:en": "Geumgwan-daero",
     "name:ko": "금관대로",
-    "oneway": "yes",
-    "ref": "58"
+    "oneway": "yes"
   }
 },
 {
@@ -7591,8 +7586,7 @@
     "name": "삼정자교",
     "name:en": "Samjeongja Bridge",
     "name:ko": "삼정자교",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -10631,7 +10625,6 @@
     "name:ko-Latn": "Anminteoneol",
     "name:zh": "安民隧道",
     "oneway": "yes",
-    "ref": "25",
     "review": "no",
     "source": "gps",
     "tunnel": "yes"
@@ -10744,8 +10737,7 @@
     "name": "해원로",
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -16853,8 +16845,7 @@
     "name": "무학로",
     "name:en": "Muhak-ro",
     "name:ko": "무학로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -19402,8 +19393,7 @@
     "name": "창이대로",
     "name:en": "Changi-daero",
     "name:ko": "창이대로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -23489,7 +23479,6 @@
     "name:ko-Latn": "Anminteoneol",
     "name:zh": "安民隧道",
     "oneway": "yes",
-    "ref": "25",
     "tunnel": "yes"
   }
 },
@@ -23518,7 +23507,6 @@
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
     "oneway": "yes",
-    "ref": "25",
     "review": "no",
     "source": "gps"
   }
@@ -23544,7 +23532,6 @@
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
     "oneway": "yes",
-    "ref": "25",
     "review": "no",
     "source": "bing"
   }
@@ -26656,6 +26643,79 @@
 },
 {
   "type": "way",
+  "id": 229371709,
+  "nodes": [
+    394721719,
+    394721734,
+    3866854491,
+    394721738,
+    394721743,
+    10117816259,
+    4951345985,
+    4632256316,
+    8429860245,
+    394721748,
+    4632256321,
+    3866854517,
+    4951345994,
+    8428236600,
+    394725792,
+    414928958,
+    414928960,
+    394725809,
+    414928964,
+    394725814,
+    394725816,
+    394725818,
+    4681208808,
+    4681191040,
+    394725820,
+    394725822,
+    3866854553,
+    4681208821,
+    4681208826,
+    394725824,
+    3866854568,
+    394725828,
+    394725830,
+    394725832,
+    414928965,
+    414928966,
+    4662547099,
+    4662547135,
+    4662547137,
+    3866854625,
+    4662547130,
+    3866854636,
+    4662547092,
+    394725849,
+    395372566,
+    395372567,
+    395372569,
+    395372570,
+    395372571,
+    7491372108,
+    4621754345,
+    395372574,
+    3866323118,
+    4621754346,
+    395372575,
+    4661774921,
+    4681190653,
+    395372577
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "70",
+    "name": "3·15대로",
+    "name:en": "3·15-daero",
+    "name:ko": "3·15대로",
+    "ref": "14;79"
+  }
+},
+{
+  "type": "way",
   "id": 229371939,
   "nodes": [
     395372577,
@@ -26675,8 +26735,7 @@
     "name": "서성로",
     "name:en": "Seoseong-ro",
     "name:ko": "서성로",
-    "oneway": "no",
-    "ref": "14"
+    "oneway": "no"
   }
 },
 {
@@ -26709,8 +26768,7 @@
     "name": "창원대로",
     "name:en": "Changwon-daero",
     "name:ko": "창원대로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -26768,7 +26826,6 @@
     "name": "토월지하차도",
     "name:ko": "토월지하차도",
     "oneway": "yes",
-    "ref": "25",
     "tunnel": "yes"
   }
 },
@@ -30275,8 +30332,7 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -31151,7 +31207,6 @@
     "name:en": "Cheonseon Bridge",
     "name:ko": "천선교",
     "oneway": "yes",
-    "ref": "25",
     "source:bridge": "mp2osm"
   }
 },
@@ -31168,8 +31223,7 @@
     "name": "해원로",
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -32318,8 +32372,7 @@
     "name": "금관대로",
     "name:en": "Geumgwan-daero",
     "name:ko": "금관대로",
-    "oneway": "yes",
-    "ref": "58"
+    "oneway": "yes"
   }
 },
 {
@@ -35209,8 +35262,7 @@
     "name": "정천교",
     "name:en": "Jeongcheon Bridge",
     "name:ko": "정천교",
-    "oneway": "yes",
-    "ref": "58"
+    "oneway": "yes"
   }
 },
 {
@@ -35249,8 +35301,7 @@
     "name": "금관대로",
     "name:en": "Geumgwan-daero",
     "name:ko": "금관대로",
-    "oneway": "yes",
-    "ref": "58"
+    "oneway": "yes"
   }
 },
 {
@@ -35596,8 +35647,7 @@
     "name": "금관대로",
     "name:en": "Geumgwan-daero",
     "name:ko": "금관대로",
-    "oneway": "yes",
-    "ref": "58"
+    "oneway": "yes"
   }
 },
 {
@@ -35614,8 +35664,7 @@
     "name": "금관대로",
     "name:en": "Geumgwan-daero",
     "name:ko": "금관대로",
-    "oneway": "yes",
-    "ref": "58"
+    "oneway": "yes"
   }
 },
 {
@@ -35632,7 +35681,6 @@
     "name": "무계지하차도",
     "name:ko": "무계지하차도",
     "oneway": "yes",
-    "ref": "58",
     "tunnel": "yes"
   }
 },
@@ -35650,8 +35698,7 @@
     "name": "금관대로",
     "name:en": "Geumgwan-daero",
     "name:ko": "금관대로",
-    "oneway": "yes",
-    "ref": "58"
+    "oneway": "yes"
   }
 },
 {
@@ -35668,7 +35715,6 @@
     "name": "무계지하차도",
     "name:ko": "무계지하차도",
     "oneway": "yes",
-    "ref": "58",
     "tunnel": "yes"
   }
 },
@@ -35686,8 +35732,7 @@
     "name": "금관대로",
     "name:en": "Geumgwan-daero",
     "name:ko": "금관대로",
-    "oneway": "yes",
-    "ref": "58"
+    "oneway": "yes"
   }
 },
 {
@@ -35731,8 +35776,7 @@
     "name": "금관대로",
     "name:en": "Geumgwan-daero",
     "name:ko": "금관대로",
-    "oneway": "yes",
-    "ref": "58"
+    "oneway": "yes"
   }
 },
 {
@@ -39791,7 +39835,7 @@
     "name:en": "3·15-daero",
     "name:ko": "3·15대로",
     "oneway": "yes",
-    "ref": "14"
+    "ref": "14;79"
   }
 },
 {
@@ -39953,8 +39997,7 @@
     "name": "해안대로",
     "name:en": "Haean-daero",
     "name:ko": "해안대로",
-    "oneway": "no",
-    "ref": "14"
+    "oneway": "no"
   }
 },
 {
@@ -40316,7 +40359,6 @@
     "name": "무계지하차도",
     "name:ko": "무계지하차도",
     "oneway": "yes",
-    "ref": "58",
     "tunnel": "yes"
   }
 },
@@ -40334,8 +40376,7 @@
     "name": "금관대로",
     "name:en": "Geumgwan-daero",
     "name:ko": "금관대로",
-    "oneway": "yes",
-    "ref": "58"
+    "oneway": "yes"
   }
 },
 {
@@ -41362,8 +41403,7 @@
     "layer": "1",
     "name:en": "Gunamsan Bridge",
     "name:ko-Latn": "Gunamsangyo",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -41379,8 +41419,7 @@
     "name": "창원대로",
     "name:en": "Changwon-daero",
     "name:ko": "창원대로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -41438,8 +41477,7 @@
     "name:en": "Changwon-daero",
     "name:ko": "창원대로",
     "name:zh": "昌原大路",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -41943,7 +41981,6 @@
     "name": "무계지하차도",
     "name:ko": "무계지하차도",
     "oneway": "yes",
-    "ref": "58",
     "tunnel": "yes"
   }
 },
@@ -46798,8 +46835,7 @@
     "name": "무학로",
     "name:en": "Muhak-ro",
     "name:ko": "무학로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -47294,8 +47330,7 @@
     "name": "해원로",
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -51534,8 +51569,7 @@
     "name": "창이대로",
     "name:en": "Changi-daero",
     "name:ko": "창이대로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -57309,6 +57343,40 @@
 },
 {
   "type": "way",
+  "id": 553755609,
+  "nodes": [
+    436708562,
+    436708563
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "운전교",
+    "bridge:name:ko": "운전교",
+    "bridge:structure": "beam",
+    "highway": "primary",
+    "layer": "1",
+    "name:en": "Unjeon Bridge",
+    "ref": "58"
+  }
+},
+{
+  "type": "way",
+  "id": 553755610,
+  "nodes": [
+    436708563,
+    5344902900,
+    436708564
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "사포로",
+    "name:en": "Sapo-ro",
+    "name:ko": "사포로",
+    "ref": "58"
+  }
+},
+{
+  "type": "way",
   "id": 553755615,
   "nodes": [
     5344902906,
@@ -60252,8 +60320,7 @@
     "name": "창원대로",
     "name:en": "Changwon-daero",
     "name:ko": "창원대로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -60270,8 +60337,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -60525,8 +60591,7 @@
     "name": "창원대로",
     "name:en": "Changwon-daero",
     "name:ko": "창원대로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -62071,8 +62136,7 @@
     "layer": "1",
     "name:en": "Towolchon Bridge",
     "name:ko-Latn": "Towolchongyo",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -65999,6 +66063,33 @@
 },
 {
   "type": "way",
+  "id": 648961284,
+  "nodes": [
+    4438797534,
+    4438797522,
+    11461520128,
+    4438797513,
+    4438797507,
+    4438797493,
+    4438797487,
+    4438797483,
+    4438797479,
+    12556804743,
+    12556804742,
+    12556804744,
+    12556804745,
+    4438797473
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "위양로",
+    "name:en": "Wiyang-ro",
+    "name:ko": "위양로",
+    "ref": "58"
+  }
+},
+{
+  "type": "way",
   "id": 648961291,
   "nodes": [
     436707979,
@@ -67687,8 +67778,7 @@
     "name": "정천교",
     "name:en": "Jeongcheon Bridge",
     "name:ko": "정천교",
-    "oneway": "yes",
-    "ref": "58"
+    "oneway": "yes"
   }
 },
 {
@@ -67722,8 +67812,7 @@
     "name": "금관대로",
     "name:en": "Geumgwan-daero",
     "name:ko": "금관대로",
-    "oneway": "yes",
-    "ref": "58"
+    "oneway": "yes"
   }
 },
 {
@@ -70034,8 +70123,7 @@
   "tags": {
     "highway": "primary",
     "junction": "roundabout",
-    "lanes": "5",
-    "ref": "25"
+    "lanes": "5"
   }
 },
 {
@@ -71238,8 +71326,7 @@
     "name": "창원대로",
     "name:en": "Changwon-daero",
     "name:ko": "창원대로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -71288,8 +71375,7 @@
     "name": "창원대로",
     "name:en": "Changwon-daero",
     "name:ko": "창원대로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -71304,8 +71390,7 @@
     "name": "창원대로",
     "name:en": "Changwon-daero",
     "name:ko": "창원대로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -71320,8 +71405,7 @@
     "name": "창원대로",
     "name:en": "Changwon-daero",
     "name:ko": "창원대로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -71516,8 +71600,7 @@
     "name": "금관대로",
     "name:en": "Geumgwan-daero",
     "name:ko": "금관대로",
-    "oneway": "yes",
-    "ref": "58"
+    "oneway": "yes"
   }
 },
 {
@@ -80204,7 +80287,6 @@
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
     "oneway": "yes",
-    "ref": "25",
     "review": "no"
   }
 },
@@ -84523,7 +84605,7 @@
     "name": "충무공로",
     "name:en": "Chungmugong-ro",
     "name:ko": "충무공로",
-    "ref": "2"
+    "ref": "2;59"
   }
 },
 {
@@ -86422,8 +86504,7 @@
     "name": "드림베이대로",
     "name:en": "Haean-daero",
     "name:ko": "드림베이대로",
-    "oneway": "no",
-    "ref": "14"
+    "oneway": "no"
   }
 },
 {
@@ -88098,8 +88179,7 @@
     "name": "창이대로",
     "name:en": "Changi-daero",
     "name:ko": "창이대로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -89118,8 +89198,7 @@
     "name": "금관대로",
     "name:en": "Geumgwan-daero",
     "name:ko": "금관대로",
-    "oneway": "yes",
-    "ref": "58"
+    "oneway": "yes"
   }
 },
 {
@@ -90412,8 +90491,7 @@
     "name": "창원대로",
     "name:en": "Changwon-daero",
     "name:ko": "창원대로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -90433,8 +90511,7 @@
     "name": "창원대로",
     "name:en": "Changwon-daero",
     "name:ko": "창원대로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -95269,6 +95346,43 @@
 },
 {
   "type": "way",
+  "id": 1002840125,
+  "nodes": [
+    9254931241,
+    12556804747,
+    4438797463,
+    436708594,
+    12556804741,
+    12556804746,
+    4438797473
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "위양로",
+    "name:en": "Wiyang-ro",
+    "name:ko": "위양로",
+    "ref": "58"
+  }
+},
+{
+  "type": "way",
+  "id": 1002840126,
+  "nodes": [
+    9254931242,
+    9254931241
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "layer": "1",
+    "name": "위양로",
+    "name:en": "Wiyang-ro",
+    "name:ko": "위양로",
+    "ref": "58"
+  }
+},
+{
+  "type": "way",
   "id": 1003515480,
   "nodes": [
     2984430325,
@@ -95319,7 +95433,7 @@
     "name": "충무공로",
     "name:en": "Chungmugong-ro",
     "name:ko": "충무공로",
-    "ref": "2"
+    "ref": "2;59"
   }
 },
 {
@@ -95336,7 +95450,7 @@
     "name": "충무공로",
     "name:en": "Chungmugong-ro",
     "name:ko": "충무공로",
-    "ref": "2"
+    "ref": "2;59"
   }
 },
 {
@@ -99549,7 +99663,7 @@
     "name": "충무공로",
     "name:en": "Chungmugong-ro",
     "name:ko": "충무공로",
-    "ref": "2"
+    "ref": "2;59"
   }
 },
 {
@@ -100989,7 +101103,7 @@
     "name": "학리2터널",
     "name:en": "Hakri 2 Tunnel",
     "name:ko": "학리2터널",
-    "ref": "2",
+    "ref": "2;59",
     "tunnel": "yes"
   }
 },
@@ -101009,7 +101123,7 @@
     "name": "충무공로",
     "name:en": "Chungmugong-ro",
     "name:ko": "충무공로",
-    "ref": "2"
+    "ref": "2;59"
   }
 },
 {
@@ -101024,7 +101138,7 @@
     "name": "학리1터널",
     "name:en": "Hakri 1 Tunnel",
     "name:ko": "학리1터널",
-    "ref": "2",
+    "ref": "2;59",
     "tunnel": "yes"
   }
 },
@@ -101045,7 +101159,7 @@
     "name": "충무공로",
     "name:en": "Chungmugong-ro",
     "name:ko": "충무공로",
-    "ref": "2"
+    "ref": "2;59"
   }
 },
 {
@@ -101062,7 +101176,7 @@
     "name": "충무공로",
     "name:en": "Chungmugong-ro",
     "name:ko": "충무공로",
-    "ref": "2"
+    "ref": "2;59"
   }
 },
 {
@@ -101081,7 +101195,7 @@
     "name": "충무공로",
     "name:en": "Chungmugong-ro",
     "name:ko": "충무공로",
-    "ref": "2"
+    "ref": "2;59"
   }
 },
 {
@@ -101097,7 +101211,7 @@
     "highway": "primary",
     "layer": "1",
     "name:en": "Dongsan Bridge",
-    "ref": "2"
+    "ref": "2;59"
   }
 },
 {
@@ -101117,7 +101231,7 @@
     "name": "충무공로",
     "name:en": "Chungmugong-ro",
     "name:ko": "충무공로",
-    "ref": "2"
+    "ref": "2;59"
   }
 },
 {
@@ -101136,7 +101250,7 @@
     "highway": "primary",
     "layer": "1",
     "name:en": "Jeok-ryang Bridge",
-    "ref": "2"
+    "ref": "2;59"
   }
 },
 {
@@ -101159,7 +101273,7 @@
     "name": "충무공로",
     "name:en": "Chungmugong-ro",
     "name:ko": "충무공로",
-    "ref": "2",
+    "ref": "2;59",
     "tunnel": "yes"
   }
 },
@@ -101200,8 +101314,7 @@
     "name:en": "Changwon-daero",
     "name:ko": "창원대로",
     "name:zh": "昌原大路",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -101231,8 +101344,7 @@
     "name:en": "Changwon-daero",
     "name:ko": "창원대로",
     "name:zh": "昌原大路",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -101252,8 +101364,7 @@
     "name:en": "Changwon-daero",
     "name:ko": "창원대로",
     "name:zh": "昌原大路",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -101272,8 +101383,7 @@
     "layer": "1",
     "name:en": "Changwon-daero",
     "name:zh": "昌原大路",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -104832,7 +104942,7 @@
     "name:en": "Munsu-ro",
     "name:ko": "문수로",
     "oneway": "yes",
-    "ref": "30"
+    "ref": "14"
   }
 },
 {
@@ -104859,8 +104969,7 @@
     "name:en": "Daehak-ro",
     "name:ko": "대학로",
     "name:ko-Latn": "Daehangno",
-    "oneway": "yes",
-    "ref": "7;14"
+    "oneway": "yes"
   }
 },
 {
@@ -104876,8 +104985,7 @@
     "name": "웅촌로",
     "name:en": "Ungchon-ro",
     "name:ko": "웅촌로",
-    "oneway": "yes",
-    "ref": "7"
+    "oneway": "yes"
   }
 },
 {
@@ -104892,7 +105000,8 @@
     "name": "웅촌로",
     "name:en": "Ungchon-ro",
     "name:ko": "웅촌로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "ref": "14"
   }
 },
 {
@@ -106861,8 +106970,7 @@
     "name:en": "Changwon-daero",
     "name:ko": "창원대로",
     "name:zh": "昌原大路",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -106877,7 +106985,7 @@
     "name": "충무공로",
     "name:en": "Chungmugong-ro",
     "name:ko": "충무공로",
-    "ref": "2"
+    "ref": "2;59"
   }
 },
 {
@@ -106894,7 +107002,7 @@
     "name": "충무공로",
     "name:en": "Chungmugong-ro",
     "name:ko": "충무공로",
-    "ref": "2"
+    "ref": "2;59"
   }
 },
 {
@@ -115244,7 +115352,6 @@
     "highway": "primary",
     "lanes": "2",
     "oneway": "yes",
-    "ref": "25",
     "turn:lanes": "left|left"
   }
 },
@@ -121558,8 +121665,7 @@
     "name": "창원대로",
     "name:en": "Changwon-daero",
     "name:ko": "창원대로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -123138,8 +123244,7 @@
     "name": "해안대로",
     "name:en": "Haean-daero",
     "name:ko": "해안대로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -123159,8 +123264,7 @@
     "name": "해안대로",
     "name:en": "Haean-daero",
     "name:ko": "해안대로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -123193,8 +123297,7 @@
     "name": "해안대로",
     "name:en": "Haean-daero",
     "name:ko": "해안대로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -123752,8 +123855,7 @@
     "name": "사포로",
     "name:en": "Sapo-ro",
     "name:ko": "사포로",
-    "oneway": "yes",
-    "ref": "58"
+    "oneway": "yes"
   }
 },
 {
@@ -123772,7 +123874,22 @@
     "name": "사포로",
     "name:en": "Sapo-ro",
     "name:ko": "사포로",
-    "oneway": "yes",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1354000194,
+  "nodes": [
+    436900951,
+    12529827234,
+    436708532
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "사포로",
+    "name:en": "Sapo-ro",
+    "name:ko": "사포로",
     "ref": "58"
   }
 },
@@ -125732,7 +125849,7 @@
     "name": "충무공로",
     "name:en": "Chungmugong-ro",
     "name:ko": "충무공로",
-    "ref": "2"
+    "ref": "2;59"
   }
 },
 {
@@ -125747,7 +125864,7 @@
     "name": "충무공로",
     "name:en": "Chungmugong-ro",
     "name:ko": "충무공로",
-    "ref": "2"
+    "ref": "2;59"
   }
 },
 {
@@ -135597,8 +135714,7 @@
     "name": "서성로",
     "name:en": "Seoseong-ro",
     "name:ko": "서성로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -135615,8 +135731,7 @@
     "name": "서성로",
     "name:en": "Seoseong-ro",
     "name:ko": "서성로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -135633,8 +135748,7 @@
     "name": "서성로",
     "name:en": "Seoseong-ro",
     "name:ko": "서성로",
-    "oneway": "yes",
-    "ref": "14"
+    "oneway": "yes"
   }
 },
 {
@@ -139270,7 +139384,6 @@
     "name:en": "Geumgwan-daero",
     "name:ko": "금관대로",
     "oneway": "yes",
-    "ref": "58",
     "turn:lanes": "left|through|through|through;right"
   }
 },
@@ -139288,7 +139401,6 @@
     "name:en": "Geumgwan-daero",
     "name:ko": "금관대로",
     "oneway": "yes",
-    "ref": "58",
     "turn:lanes": "reverse;left|through|through|through;right"
   }
 },
@@ -139305,8 +139417,7 @@
     "name": "금관대로",
     "name:en": "Geumgwan-daero",
     "name:ko": "금관대로",
-    "oneway": "yes",
-    "ref": "58"
+    "oneway": "yes"
   }
 },
 {
@@ -139323,7 +139434,6 @@
     "name:en": "Geumgwan-daero",
     "name:ko": "금관대로",
     "oneway": "yes",
-    "ref": "58",
     "turn:lanes": "left|through|through|through;right"
   }
 },
@@ -140958,8 +141068,7 @@
     "highway": "primary",
     "name": "창이대로",
     "name:en": "Changi-daero",
-    "name:ko": "창이대로",
-    "ref": "25"
+    "name:ko": "창이대로"
   }
 },
 {
@@ -140979,8 +141088,7 @@
     "name": "창원대로",
     "name:en": "Changwon-daero",
     "name:ko": "창원대로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -141405,8 +141513,7 @@
     "name": "해원로",
     "name:en": "Haewon-ro",
     "name:ko": "해원로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -144235,8 +144342,7 @@
     "name": "창이대로",
     "name:en": "Changi-daero",
     "name:ko": "창이대로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -144256,8 +144362,7 @@
     "name": "창이대로",
     "name:en": "Changi-daero",
     "name:ko": "창이대로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -144273,7 +144378,6 @@
     "name": "토월지하차도",
     "name:ko": "토월지하차도",
     "oneway": "yes",
-    "ref": "25",
     "tunnel": "yes"
   }
 },
@@ -144355,8 +144459,7 @@
     "highway": "primary",
     "name": "창이대로",
     "name:en": "Changi-daero",
-    "name:ko": "창이대로",
-    "ref": "25"
+    "name:ko": "창이대로"
   }
 },
 {
@@ -144801,8 +144904,7 @@
     "name:en": "Changwon-daero",
     "name:ko": "창원대로",
     "name:zh": "昌原大路",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -144821,32 +144923,30 @@
     "layer": "1",
     "name:en": "Gunamsan Bridge",
     "name:ko-Latn": "Gunamsangyo",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
   "type": "way",
   "id": 1502441166,
   "nodes": [
-    13752224108,
-    13752224101,
-    13752224110,
-    13752224102,
-    13752224103,
-    13752224104,
-    13752224105,
-    13752224106,
+    13752224109,
     13752224107,
-    13752224109
+    13752224106,
+    13752224105,
+    13752224104,
+    13752224103,
+    13752224102,
+    13752224110,
+    13752224101,
+    13752224108
   ],
   "tags": {
     "highway": "primary",
     "name": "창원대로",
     "name:en": "Changwon-daero",
     "name:ko": "창원대로",
-    "oneway": "yes",
-    "ref": "25"
+    "oneway": "yes"
   }
 },
 {
@@ -148458,6 +148558,27 @@
     "name": "대가야로",
     "name:en": "Daegaya-ro",
     "name:ko": "대가야로"
+  }
+},
+{
+  "type": "way",
+  "id": 1551414822,
+  "nodes": [
+    4169129783,
+    13989189070,
+    13989188808,
+    13989189065,
+    13989189120,
+    6635768797,
+    4167754631
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "name": "금관대로",
+    "name:en": "Geumgwan-daero",
+    "name:ko": "금관대로",
+    "oneway": "yes"
   }
 },
 {
@@ -249268,6 +249389,24 @@
 },
 {
   "type": "node",
+  "id": 394721734,
+  "lat": 35.1811137,
+  "lon": 128.5585563
+},
+{
+  "type": "node",
+  "id": 394721738,
+  "lat": 35.1815321,
+  "lon": 128.5587850
+},
+{
+  "type": "node",
+  "id": 394721743,
+  "lat": 35.1822315,
+  "lon": 128.5591279
+},
+{
+  "type": "node",
   "id": 436456022,
   "lat": 35.1767623,
   "lon": 128.5565377
@@ -249343,6 +249482,24 @@
   "id": 3866854469,
   "lat": 35.1794460,
   "lon": 128.5562128
+},
+{
+  "type": "node",
+  "id": 3866854491,
+  "lat": 35.1813642,
+  "lon": 128.5586989
+},
+{
+  "type": "node",
+  "id": 4951345985,
+  "lat": 35.1827563,
+  "lon": 128.5593933
+},
+{
+  "type": "node",
+  "id": 10117816259,
+  "lat": 35.1826415,
+  "lon": 128.5593352
 },
 {
   "type": "node",
@@ -250060,9 +250217,93 @@
 },
 {
   "type": "node",
+  "id": 394721748,
+  "lat": 35.1837801,
+  "lon": 128.5599648
+},
+{
+  "type": "node",
+  "id": 394725792,
+  "lat": 35.1857430,
+  "lon": 128.5609417
+},
+{
+  "type": "node",
+  "id": 394725814,
+  "lat": 35.1891722,
+  "lon": 128.5618738
+},
+{
+  "type": "node",
+  "id": 414928958,
+  "lat": 35.1870154,
+  "lon": 128.5615934
+},
+{
+  "type": "node",
+  "id": 414928964,
+  "lat": 35.1891197,
+  "lon": 128.5618589
+},
+{
+  "type": "node",
+  "id": 3866854517,
+  "lat": 35.1847441,
+  "lon": 128.5604397
+},
+{
+  "type": "node",
+  "id": 4632256316,
+  "lat": 35.1831021,
+  "lon": 128.5595876
+},
+{
+  "type": "node",
+  "id": 4632256321,
+  "lat": 35.1840475,
+  "lon": 128.5600814
+},
+{
+  "type": "node",
+  "id": 4951345994,
+  "lat": 35.1851062,
+  "lon": 128.5606358
+},
+{
+  "type": "node",
+  "id": 8428236600,
+  "lat": 35.1855885,
+  "lon": 128.5608675
+},
+{
+  "type": "node",
+  "id": 8429860245,
+  "lat": 35.1835461,
+  "lon": 128.5598346
+},
+{
+  "type": "node",
+  "id": 394725809,
+  "lat": 35.1882982,
+  "lon": 128.5623026
+},
+{
+  "type": "node",
+  "id": 394725816,
+  "lat": 35.1893339,
+  "lon": 128.5619882
+},
+{
+  "type": "node",
   "id": 414928943,
   "lat": 35.1850587,
   "lon": 128.5635587
+},
+{
+  "type": "node",
+  "id": 414928960,
+  "lat": 35.1882013,
+  "lon": 128.5622414
 },
 {
   "type": "node",
@@ -250444,6 +250685,48 @@
 },
 {
   "type": "node",
+  "id": 394725818,
+  "lat": 35.1896192,
+  "lon": 128.5622581
+},
+{
+  "type": "node",
+  "id": 394725820,
+  "lat": 35.1904022,
+  "lon": 128.5629570
+},
+{
+  "type": "node",
+  "id": 394725822,
+  "lat": 35.1911788,
+  "lon": 128.5636559
+},
+{
+  "type": "node",
+  "id": 394725824,
+  "lat": 35.1935344,
+  "lon": 128.5657785
+},
+{
+  "type": "node",
+  "id": 394725828,
+  "lat": 35.1946762,
+  "lon": 128.5666569
+},
+{
+  "type": "node",
+  "id": 394725830,
+  "lat": 35.1950465,
+  "lon": 128.5668502
+},
+{
+  "type": "node",
+  "id": 394725832,
+  "lat": 35.1954460,
+  "lon": 128.5669967
+},
+{
+  "type": "node",
   "id": 1640409847,
   "lat": 35.1897186,
   "lon": 128.5653522
@@ -250471,6 +250754,42 @@
   "id": 3866854544,
   "lat": 35.1901444,
   "lon": 128.5657580
+},
+{
+  "type": "node",
+  "id": 3866854553,
+  "lat": 35.1916000,
+  "lon": 128.5640469
+},
+{
+  "type": "node",
+  "id": 3866854568,
+  "lat": 35.1939582,
+  "lon": 128.5660951
+},
+{
+  "type": "node",
+  "id": 4681191040,
+  "lat": 35.1902061,
+  "lon": 128.5627866
+},
+{
+  "type": "node",
+  "id": 4681208808,
+  "lat": 35.1900121,
+  "lon": 128.5626088
+},
+{
+  "type": "node",
+  "id": 4681208821,
+  "lat": 35.1923702,
+  "lon": 128.5647457
+},
+{
+  "type": "node",
+  "id": 4681208826,
+  "lat": 35.1930095,
+  "lon": 128.5652853
 },
 {
   "type": "node",
@@ -253504,6 +253823,90 @@
 },
 {
   "type": "node",
+  "id": 394725849,
+  "lat": 35.2018400,
+  "lon": 128.5674520
+},
+{
+  "type": "node",
+  "id": 395372566,
+  "lat": 35.2020695,
+  "lon": 128.5675822
+},
+{
+  "type": "node",
+  "id": 395372567,
+  "lat": 35.2023481,
+  "lon": 128.5677577
+},
+{
+  "type": "node",
+  "id": 395372569,
+  "lat": 35.2025222,
+  "lon": 128.5679767
+},
+{
+  "type": "node",
+  "id": 395372570,
+  "lat": 35.2026656,
+  "lon": 128.5682598
+},
+{
+  "type": "node",
+  "id": 414928965,
+  "lat": 35.1965032,
+  "lon": 128.5670955
+},
+{
+  "type": "node",
+  "id": 414928966,
+  "lat": 35.1966672,
+  "lon": 128.5671104
+},
+{
+  "type": "node",
+  "id": 3866854625,
+  "lat": 35.1993678,
+  "lon": 128.5672867
+},
+{
+  "type": "node",
+  "id": 3866854636,
+  "lat": 35.2005707,
+  "lon": 128.5673772
+},
+{
+  "type": "node",
+  "id": 4662547092,
+  "lat": 35.2012393,
+  "lon": 128.5674217
+},
+{
+  "type": "node",
+  "id": 4662547099,
+  "lat": 35.1974973,
+  "lon": 128.5671485
+},
+{
+  "type": "node",
+  "id": 4662547130,
+  "lat": 35.1997838,
+  "lon": 128.5673177
+},
+{
+  "type": "node",
+  "id": 4662547135,
+  "lat": 35.1982611,
+  "lon": 128.5672080
+},
+{
+  "type": "node",
+  "id": 4662547137,
+  "lat": 35.1987943,
+  "lon": 128.5672457
+},
+{
+  "type": "node",
   "id": 436413985,
   "lat": 35.2033583,
   "lon": 128.5590148
@@ -253591,6 +253994,12 @@
   "id": 4681208942,
   "lat": 35.2030262,
   "lon": 128.5590188
+},
+{
+  "type": "node",
+  "id": 395372571,
+  "lat": 35.2027399,
+  "lon": 128.5684342
 },
 {
   "type": "node",
@@ -254086,6 +254495,18 @@
 },
 {
   "type": "node",
+  "id": 395372574,
+  "lat": 35.2029010,
+  "lon": 128.5689173
+},
+{
+  "type": "node",
+  "id": 395372575,
+  "lat": 35.2029360,
+  "lon": 128.5699689
+},
+{
+  "type": "node",
   "id": 395372577,
   "lat": 35.2028505,
   "lon": 128.5720142
@@ -254218,6 +254639,12 @@
 },
 {
   "type": "node",
+  "id": 3866323118,
+  "lat": 35.2029223,
+  "lon": 128.5694011
+},
+{
+  "type": "node",
   "id": 3866323122,
   "lat": 35.2043777,
   "lon": 128.5720718
@@ -254233,6 +254660,24 @@
   "id": 4621754338,
   "lat": 35.2086540,
   "lon": 128.5731044
+},
+{
+  "type": "node",
+  "id": 4621754345,
+  "lat": 35.2028147,
+  "lon": 128.5686151
+},
+{
+  "type": "node",
+  "id": 4621754346,
+  "lat": 35.2029303,
+  "lon": 128.5696906
+},
+{
+  "type": "node",
+  "id": 4661774921,
+  "lat": 35.2029038,
+  "lon": 128.5706870
 },
 {
   "type": "node",
@@ -254266,6 +254711,12 @@
 },
 {
   "type": "node",
+  "id": 4681190653,
+  "lat": 35.2028735,
+  "lon": 128.5715515
+},
+{
+  "type": "node",
   "id": 4681190656,
   "lat": 35.2031687,
   "lon": 128.5720227
@@ -254293,6 +254744,12 @@
   "id": 4681209127,
   "lat": 35.2061916,
   "lon": 128.5731969
+},
+{
+  "type": "node",
+  "id": 7491372108,
+  "lat": 35.2027978,
+  "lon": 128.5685741
 },
 {
   "type": "node",
@@ -273718,6 +274175,12 @@
 },
 {
   "type": "node",
+  "id": 6635768797,
+  "lat": 35.2049847,
+  "lon": 128.8225261
+},
+{
+  "type": "node",
   "id": 7902567655,
   "lat": 35.2050794,
   "lon": 128.8237016
@@ -273736,9 +274199,33 @@
 },
 {
   "type": "node",
+  "id": 13989188808,
+  "lat": 35.2047921,
+  "lon": 128.8216821
+},
+{
+  "type": "node",
   "id": 13989189030,
   "lat": 35.2047702,
   "lon": 128.8212293
+},
+{
+  "type": "node",
+  "id": 13989189065,
+  "lat": 35.2048607,
+  "lon": 128.8219284
+},
+{
+  "type": "node",
+  "id": 13989189070,
+  "lat": 35.2047174,
+  "lon": 128.8214492
+},
+{
+  "type": "node",
+  "id": 13989189120,
+  "lat": 35.2049253,
+  "lon": 128.8221914
 },
 {
   "type": "node",
@@ -279041,14 +279528,14 @@
 {
   "type": "node",
   "id": 436820190,
-  "lat": 35.2100617,
-  "lon": 128.9845796
+  "lat": 35.2100660,
+  "lon": 128.9845162
 },
 {
   "type": "node",
   "id": 436820192,
-  "lat": 35.2102363,
-  "lon": 128.9847644
+  "lat": 35.2102406,
+  "lon": 128.9847186
 },
 {
   "type": "node",
@@ -279071,8 +279558,8 @@
 {
   "type": "node",
   "id": 1770256691,
-  "lat": 35.2101514,
-  "lon": 128.9844437
+  "lat": 35.2101583,
+  "lon": 128.9843786
 },
 {
   "type": "node",
@@ -279101,8 +279588,8 @@
 {
   "type": "node",
   "id": 1770256773,
-  "lat": 35.2103195,
-  "lon": 128.9846342
+  "lat": 35.2103292,
+  "lon": 128.9845799
 },
 {
   "type": "node",
@@ -289642,6 +290129,12 @@
 },
 {
   "type": "node",
+  "id": 436708532,
+  "lat": 35.4865911,
+  "lon": 128.7305169
+},
+{
+  "type": "node",
   "id": 436900951,
   "lat": 35.4863098,
   "lon": 128.7306508
@@ -289729,6 +290222,12 @@
   "id": 12529827233,
   "lat": 35.4861679,
   "lon": 128.7303671
+},
+{
+  "type": "node",
+  "id": 12529827234,
+  "lat": 35.4864504,
+  "lon": 128.7305839
 },
 {
   "type": "node",
@@ -290296,6 +290795,30 @@
 },
 {
   "type": "node",
+  "id": 436708562,
+  "lat": 35.5107788,
+  "lon": 128.7272663
+},
+{
+  "type": "node",
+  "id": 436708563,
+  "lat": 35.5109254,
+  "lon": 128.7278380
+},
+{
+  "type": "node",
+  "id": 436708564,
+  "lat": 35.5110700,
+  "lon": 128.7283900
+},
+{
+  "type": "node",
+  "id": 5344902900,
+  "lat": 35.5109449,
+  "lon": 128.7279124
+},
+{
+  "type": "node",
   "id": 414669342,
   "lat": 35.5265730,
   "lon": 128.7200488
@@ -290425,6 +290948,132 @@
   "id": 13049530385,
   "lat": 35.5122925,
   "lon": 128.7634782
+},
+{
+  "type": "node",
+  "id": 436708594,
+  "lat": 35.5388171,
+  "lon": 128.7177569
+},
+{
+  "type": "node",
+  "id": 4438797463,
+  "lat": 35.5386733,
+  "lon": 128.7177580
+},
+{
+  "type": "node",
+  "id": 4438797473,
+  "lat": 35.5392740,
+  "lon": 128.7177889
+},
+{
+  "type": "node",
+  "id": 4438797479,
+  "lat": 35.5398120,
+  "lon": 128.7177260
+},
+{
+  "type": "node",
+  "id": 4438797483,
+  "lat": 35.5405192,
+  "lon": 128.7175115
+},
+{
+  "type": "node",
+  "id": 4438797487,
+  "lat": 35.5410255,
+  "lon": 128.7174900
+},
+{
+  "type": "node",
+  "id": 4438797493,
+  "lat": 35.5421600,
+  "lon": 128.7178287
+},
+{
+  "type": "node",
+  "id": 9254931241,
+  "lat": 35.5380137,
+  "lon": 128.7178211
+},
+{
+  "type": "node",
+  "id": 9254931242,
+  "lat": 35.5379322,
+  "lon": 128.7178347
+},
+{
+  "type": "node",
+  "id": 12556804741,
+  "lat": 35.5389233,
+  "lon": 128.7177633
+},
+{
+  "type": "node",
+  "id": 12556804742,
+  "lat": 35.5395554,
+  "lon": 128.7177763
+},
+{
+  "type": "node",
+  "id": 12556804743,
+  "lat": 35.5396626,
+  "lon": 128.7177598
+},
+{
+  "type": "node",
+  "id": 12556804744,
+  "lat": 35.5394794,
+  "lon": 128.7177852
+},
+{
+  "type": "node",
+  "id": 12556804745,
+  "lat": 35.5393894,
+  "lon": 128.7177890
+},
+{
+  "type": "node",
+  "id": 12556804746,
+  "lat": 35.5390961,
+  "lon": 128.7177724
+},
+{
+  "type": "node",
+  "id": 12556804747,
+  "lat": 35.5385317,
+  "lon": 128.7177711
+},
+{
+  "type": "node",
+  "id": 4438797507,
+  "lat": 35.5446833,
+  "lon": 128.7186863
+},
+{
+  "type": "node",
+  "id": 4438797513,
+  "lat": 35.5458269,
+  "lon": 128.7188097
+},
+{
+  "type": "node",
+  "id": 4438797522,
+  "lat": 35.5465602,
+  "lon": 128.7186487
+},
+{
+  "type": "node",
+  "id": 4438797534,
+  "lat": 35.5478892,
+  "lon": 128.7189545
+},
+{
+  "type": "node",
+  "id": 11461520128,
+  "lat": 35.5459873,
+  "lon": 128.7188110
 },
 {
   "type": "node",
