@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-22T19:00:21Z",
-    "timestamp_areas_base": "2026-08-22T08:13:05Z",
+    "timestamp_osm_base": "2026-08-23T18:59:19Z",
+    "timestamp_areas_base": "2026-08-22T22:50:01Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -20910,7 +20910,8 @@
     "name": "대천항로",
     "name:en": "Daecheonhang-ro",
     "name:ko": "대천항로",
-    "ref": "36;77"
+    "ref": "36;77",
+    "surface": "asphalt"
   }
 },
 {
@@ -45745,7 +45746,8 @@
     "name:en": "Daehae-ro",
     "name:ko": "대해로",
     "oneway": "yes",
-    "ref": "36;77"
+    "ref": "36;77",
+    "surface": "asphalt"
   }
 },
 {
@@ -45775,7 +45777,8 @@
     "name:en": "Daehae-ro",
     "name:ko": "대해로",
     "oneway": "yes",
-    "ref": "36;77"
+    "ref": "36;77",
+    "surface": "asphalt"
   }
 },
 {
@@ -45792,7 +45795,8 @@
     "name:en": "Daehae-ro",
     "name:ko": "대해로",
     "oneway": "yes",
-    "ref": "36;77"
+    "ref": "36;77",
+    "surface": "asphalt"
   }
 },
 {
@@ -45812,7 +45816,8 @@
     "name:en": "Daehae-ro",
     "name:ko": "대해로",
     "oneway": "yes",
-    "ref": "36;77"
+    "ref": "36;77",
+    "surface": "asphalt"
   }
 },
 {
@@ -63368,6 +63373,72 @@
     "ref": "25",
     "wikidata": "Q12598444",
     "wikipedia": "ko:보청대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1551682099,
+  "nodes": [
+    7865393953,
+    14114334810
+  ],
+  "tags": {
+    "highway": "primary",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1551682101,
+  "nodes": [
+    14114334811,
+    7865393954
+  ],
+  "tags": {
+    "highway": "primary",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1551682104,
+  "nodes": [
+    14114334810,
+    14114334812,
+    14114334813,
+    14114334814,
+    14114334815,
+    14114334816,
+    1550035474
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "세종로",
+    "name:en": "Sejong-ro",
+    "name:ko": "세종로",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1551682105,
+  "nodes": [
+    6154716569,
+    14114334817,
+    14114334818,
+    14114334828,
+    14114334819,
+    14114334834,
+    14114334820,
+    14114334821,
+    14114334811
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "세종로",
+    "name:en": "Sejong-ro",
+    "name:ko": "세졸로",
+    "oneway": "yes"
   }
 },
 {
@@ -175509,6 +175580,114 @@
   "id": 12994415970,
   "lat": 36.5952280,
   "lon": 127.2909862
+},
+{
+  "type": "node",
+  "id": 1550035474,
+  "lat": 36.6050767,
+  "lon": 127.2895142
+},
+{
+  "type": "node",
+  "id": 6154716569,
+  "lat": 36.6050233,
+  "lon": 127.2894013
+},
+{
+  "type": "node",
+  "id": 7865393953,
+  "lat": 36.6030207,
+  "lon": 127.2898346
+},
+{
+  "type": "node",
+  "id": 7865393954,
+  "lat": 36.6030123,
+  "lon": 127.2897258
+},
+{
+  "type": "node",
+  "id": 14114334810,
+  "lat": 36.6031747,
+  "lon": 127.2898091
+},
+{
+  "type": "node",
+  "id": 14114334811,
+  "lat": 36.6031647,
+  "lon": 127.2897038
+},
+{
+  "type": "node",
+  "id": 14114334812,
+  "lat": 36.6033093,
+  "lon": 127.2897890
+},
+{
+  "type": "node",
+  "id": 14114334813,
+  "lat": 36.6041605,
+  "lon": 127.2896497
+},
+{
+  "type": "node",
+  "id": 14114334814,
+  "lat": 36.6047098,
+  "lon": 127.2895619
+},
+{
+  "type": "node",
+  "id": 14114334815,
+  "lat": 36.6049523,
+  "lon": 127.2895229
+},
+{
+  "type": "node",
+  "id": 14114334816,
+  "lat": 36.6050229,
+  "lon": 127.2895142
+},
+{
+  "type": "node",
+  "id": 14114334817,
+  "lat": 36.6049195,
+  "lon": 127.2894089
+},
+{
+  "type": "node",
+  "id": 14114334818,
+  "lat": 36.6046972,
+  "lon": 127.2894471
+},
+{
+  "type": "node",
+  "id": 14114334819,
+  "lat": 36.6037067,
+  "lon": 127.2896195
+},
+{
+  "type": "node",
+  "id": 14114334820,
+  "lat": 36.6033011,
+  "lon": 127.2896834
+},
+{
+  "type": "node",
+  "id": 14114334821,
+  "lat": 36.6032490,
+  "lon": 127.2896912
+},
+{
+  "type": "node",
+  "id": 14114334828,
+  "lat": 36.6045660,
+  "lon": 127.2894700
+},
+{
+  "type": "node",
+  "id": 14114334834,
+  "lat": 36.6036073,
+  "lon": 127.2896351
 },
 {
   "type": "node",
