@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-24T19:13:36Z",
-    "timestamp_areas_base": "2026-08-23T12:13:01Z",
+    "timestamp_osm_base": "2026-08-25T19:14:03Z",
+    "timestamp_areas_base": "2026-08-24T23:37:21Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -34914,9 +34914,7 @@
     7497397620,
     7497397619,
     7497397617,
-    4403589954,
-    7497397637,
-    2055472302
+    4403589954
   ],
   "tags": {
     "highway": "primary",
@@ -63438,6 +63436,23 @@
     "name": "세종로",
     "name:en": "Sejong-ro",
     "name:ko": "세졸로",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1552207700,
+  "nodes": [
+    4403589954,
+    7497397637,
+    2055472302
+  ],
+  "tags": {
+    "highway": "primary",
+    "junction": "roundabout",
+    "name": "세종로",
+    "name:en": "Sejong-ro",
+    "name:ko": "세종로",
     "oneway": "yes"
   }
 },
