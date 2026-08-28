@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-26T21:01:04Z",
-    "timestamp_areas_base": "2026-08-26T06:17:32Z",
+    "timestamp_osm_base": "2026-08-28T02:16:41Z",
+    "timestamp_areas_base": "2026-08-27T07:07:26Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -132873,7 +132873,8 @@
     "name:en": "Seodong-daero",
     "name:ko": "서동대로",
     "oneway": "yes",
-    "ref": "38"
+    "ref": "38",
+    "surface": "asphalt"
   }
 },
 {
@@ -198560,7 +198561,8 @@
     "name:en": "Seodong-daero",
     "name:ko": "서동대로",
     "oneway": "yes",
-    "ref": "38"
+    "ref": "38",
+    "surface": "asphalt"
   }
 },
 {
@@ -306661,8 +306663,8 @@
 {
   "type": "node",
   "id": 7802600164,
-  "lat": 37.4550344,
-  "lon": 126.7879938
+  "lat": 37.4550047,
+  "lon": 126.7880038
 },
 {
   "type": "node",
@@ -321145,8 +321147,8 @@
 {
   "type": "node",
   "id": 4614388895,
-  "lat": 37.5029380,
-  "lon": 126.9358789
+  "lat": 37.5029265,
+  "lon": 126.9358609
 },
 {
   "type": "node",
@@ -330415,8 +330417,8 @@
 {
   "type": "node",
   "id": 5851158299,
-  "lat": 37.5410892,
-  "lon": 126.9729290
+  "lat": 37.5411203,
+  "lon": 126.9729205
 },
 {
   "type": "node",
