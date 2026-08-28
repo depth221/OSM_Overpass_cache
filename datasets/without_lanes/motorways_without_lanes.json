@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-26T20:05:02Z",
-    "timestamp_areas_base": "2026-08-26T06:17:32Z",
+    "timestamp_osm_base": "2026-08-28T02:10:36Z",
+    "timestamp_areas_base": "2026-08-27T09:36:50Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -28796,7 +28796,6 @@
     13308285770,
     13308285769,
     13308285768,
-    14125549336,
     13293902882,
     13308285767,
     9034389906,
@@ -32722,6 +32721,104 @@
     "toll": "yes",
     "tunnel": "yes"
   }
+},
+{
+  "type": "way",
+  "id": 1552905901,
+  "nodes": [
+    14128702588,
+    14128702587,
+    14128702586,
+    14128702567,
+    14128702585,
+    14128702584,
+    14128702568,
+    14128702583,
+    14128702573,
+    14128702582,
+    14128702592
+  ],
+  "tags": {
+    "highway": "motorway",
+    "maxspeed": "20",
+    "name": "호남고속도로",
+    "name:ko": "호남고속도로",
+    "oneway": "yes",
+    "operator": "한국도로공사",
+    "operator:en": "Korea Expressway Corporation",
+    "operator:ko": "한국도로공사",
+    "operator:short": "ex",
+    "operator:type": "public",
+    "operator:website": "https://www.ex.co.kr",
+    "operator:wikidata": "Q489325",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 14128702567,
+  "lat": 35.2087311,
+  "lon": 126.9405761
+},
+{
+  "type": "node",
+  "id": 14128702568,
+  "lat": 35.2083406,
+  "lon": 126.9396337
+},
+{
+  "type": "node",
+  "id": 14128702573,
+  "lat": 35.2077808,
+  "lon": 126.9383909
+},
+{
+  "type": "node",
+  "id": 14128702582,
+  "lat": 35.2075016,
+  "lon": 126.9377840
+},
+{
+  "type": "node",
+  "id": 14128702583,
+  "lat": 35.2081635,
+  "lon": 126.9392230
+},
+{
+  "type": "node",
+  "id": 14128702584,
+  "lat": 35.2085185,
+  "lon": 126.9400424
+},
+{
+  "type": "node",
+  "id": 14128702585,
+  "lat": 35.2086215,
+  "lon": 126.9403186
+},
+{
+  "type": "node",
+  "id": 14128702586,
+  "lat": 35.2088713,
+  "lon": 126.9408819
+},
+{
+  "type": "node",
+  "id": 14128702587,
+  "lat": 35.2092023,
+  "lon": 126.9418207
+},
+{
+  "type": "node",
+  "id": 14128702592,
+  "lat": 35.2071028,
+  "lon": 126.9373924
+},
+{
+  "type": "node",
+  "id": 14128702588,
+  "lat": 35.2094493,
+  "lon": 126.9426920
 },
 {
   "type": "node",
@@ -43832,8 +43929,8 @@
 {
   "type": "node",
   "id": 13293902882,
-  "lat": 36.3473295,
-  "lon": 129.3581616
+  "lat": 36.3474272,
+  "lon": 129.3581048
 },
 {
   "type": "node",
@@ -43882,12 +43979,6 @@
   "id": 13308285770,
   "lat": 36.3491051,
   "lon": 129.3572196
-},
-{
-  "type": "node",
-  "id": 14125549336,
-  "lat": 36.3474963,
-  "lon": 129.3580659
 },
 {
   "type": "node",
