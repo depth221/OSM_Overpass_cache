@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-28T02:17:46Z",
-    "timestamp_areas_base": "2026-08-27T09:36:50Z",
+    "timestamp_osm_base": "2026-08-29T21:11:34Z",
+    "timestamp_areas_base": "2026-08-29T08:46:41Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -11257,6 +11257,7 @@
     1772625285,
     420549316,
     1772625281,
+    14131011541,
     420549317,
     1772625228,
     437087475
@@ -26990,24 +26991,6 @@
 },
 {
   "type": "way",
-  "id": 653673069,
-  "nodes": [
-    6125868222,
-    6125868221
-  ],
-  "tags": {
-    "bridge": "yes",
-    "bridge:name": "영양교",
-    "bridge:name:ko": "영양교",
-    "highway": "primary",
-    "layer": "1",
-    "name:en": "Yeongyang Bridge",
-    "name:ko-Latn": "Yeongyanggyo",
-    "ref": "70;645"
-  }
-},
-{
-  "type": "way",
   "id": 653684279,
   "nodes": [
     414951717,
@@ -27653,24 +27636,6 @@
 },
 {
   "type": "way",
-  "id": 660143010,
-  "nodes": [
-    1335172544,
-    408398562,
-    408398563
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "익산대로",
-    "name:en": "Iksan-daero",
-    "name:ko": "익산대로",
-    "ref": "23;68",
-    "wikidata": "Q28700088",
-    "wikipedia": "ko:익산대로"
-  }
-},
-{
-  "type": "way",
   "id": 660876093,
   "nodes": [
     436670997,
@@ -27926,7 +27891,8 @@
     "name": "홍남로",
     "name:en": "Hongnam-ro",
     "name:ko": "홍남로",
-    "ref": "96"
+    "ref": "96",
+    "surface": "asphalt"
   }
 },
 {
@@ -28742,7 +28708,8 @@
     "name": "홍남로",
     "name:en": "Hongnam-ro",
     "name:ko": "홍남로",
-    "ref": "96"
+    "ref": "96",
+    "surface": "asphalt"
   }
 },
 {
@@ -34913,9 +34880,7 @@
     7497397622,
     7497397621,
     7497397620,
-    7497397619,
-    7497397617,
-    4403589954
+    7497397619
   ],
   "tags": {
     "highway": "primary",
@@ -37390,28 +37355,6 @@
     "name:en": "Jewon-ro",
     "name:ko": "제원로",
     "ref": "5"
-  }
-},
-{
-  "type": "way",
-  "id": 884610636,
-  "nodes": [
-    1335172544,
-    9059481956,
-    11033837013,
-    6006381890,
-    9059481955,
-    6006381683
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "익산대로",
-    "name:en": "Iksan-daero",
-    "name:ko": "익산대로",
-    "oneway": "yes",
-    "ref": "23;68",
-    "wikidata": "Q28700088",
-    "wikipedia": "ko:익산대로"
   }
 },
 {
@@ -40557,44 +40500,6 @@
     "name:en": "Gangbyeon-ro",
     "name:ko": "강변로",
     "ref": "23"
-  }
-},
-{
-  "type": "way",
-  "id": 979190868,
-  "nodes": [
-    6006381683,
-    6006381663
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "익산대로",
-    "name:en": "Iksan-daero",
-    "name:ko": "익산대로",
-    "oneway": "yes",
-    "ref": "23;68",
-    "wikidata": "Q28700088",
-    "wikipedia": "ko:익산대로"
-  }
-},
-{
-  "type": "way",
-  "id": 979190869,
-  "nodes": [
-    6006381889,
-    11339212696,
-    9059481958,
-    1335172544
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "익산대로",
-    "name:en": "Iksan-daero",
-    "name:ko": "익산대로",
-    "oneway": "yes",
-    "ref": "23;68",
-    "wikidata": "Q28700088",
-    "wikipedia": "ko:익산대로"
   }
 },
 {
@@ -46776,7 +46681,8 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21"
+    "ref": "21",
+    "surface": "asphalt"
   }
 },
 {
@@ -46794,7 +46700,8 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21"
+    "ref": "21",
+    "surface": "asphalt"
   }
 },
 {
@@ -48185,26 +48092,6 @@
     "name:ko": "계백로",
     "ref": "23;68",
     "source": "Bing (adjusted)"
-  }
-},
-{
-  "type": "way",
-  "id": 1222619876,
-  "nodes": [
-    408398563,
-    1351002942,
-    12051681713,
-    14128064168,
-    5190634963
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "익산대로",
-    "name:en": "Iksan-daero",
-    "name:ko": "익산대로",
-    "ref": "23;68",
-    "wikidata": "Q28700088",
-    "wikipedia": "ko:익산대로"
   }
 },
 {
@@ -51271,7 +51158,8 @@
   "tags": {
     "highway": "primary",
     "junction": "roundabout",
-    "ref": "96"
+    "ref": "96",
+    "surface": "asphalt"
   }
 },
 {
@@ -56225,7 +56113,8 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21"
+    "ref": "21",
+    "surface": "asphalt"
   }
 },
 {
@@ -60770,7 +60659,8 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21"
+    "ref": "21",
+    "surface": "asphalt"
   }
 },
 {
@@ -60788,7 +60678,8 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21"
+    "ref": "21",
+    "surface": "asphalt"
   }
 },
 {
@@ -60863,7 +60754,8 @@
     "name:en": "Chungseo-ro",
     "name:ko": "충서로",
     "oneway": "yes",
-    "ref": "21"
+    "ref": "21",
+    "surface": "asphalt"
   }
 },
 {
@@ -63448,6 +63340,23 @@
     4403589954,
     7497397637,
     2055472302
+  ],
+  "tags": {
+    "highway": "primary",
+    "junction": "roundabout",
+    "name": "세종로",
+    "name:en": "Sejong-ro",
+    "name:ko": "세종로",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1553349605,
+  "nodes": [
+    7497397619,
+    7497397617,
+    4403589954
   ],
   "tags": {
     "highway": "primary",
@@ -89068,78 +88977,6 @@
 },
 {
   "type": "node",
-  "id": 408398562,
-  "lat": 36.1453606,
-  "lon": 127.0058792
-},
-{
-  "type": "node",
-  "id": 408398563,
-  "lat": 36.1460412,
-  "lon": 127.0060050
-},
-{
-  "type": "node",
-  "id": 1335172544,
-  "lat": 36.1449367,
-  "lon": 127.0057765
-},
-{
-  "type": "node",
-  "id": 6006381663,
-  "lat": 36.1430738,
-  "lon": 127.0048425
-},
-{
-  "type": "node",
-  "id": 6006381683,
-  "lat": 36.1435060,
-  "lon": 127.0050789
-},
-{
-  "type": "node",
-  "id": 6006381889,
-  "lat": 36.1438306,
-  "lon": 127.0053581
-},
-{
-  "type": "node",
-  "id": 6006381890,
-  "lat": 36.1440922,
-  "lon": 127.0053604
-},
-{
-  "type": "node",
-  "id": 9059481955,
-  "lat": 36.1436082,
-  "lon": 127.0051335
-},
-{
-  "type": "node",
-  "id": 9059481956,
-  "lat": 36.1447978,
-  "lon": 127.0056760
-},
-{
-  "type": "node",
-  "id": 9059481958,
-  "lat": 36.1447866,
-  "lon": 127.0057777
-},
-{
-  "type": "node",
-  "id": 11033837013,
-  "lat": 36.1442154,
-  "lon": 127.0054207
-},
-{
-  "type": "node",
-  "id": 11339212696,
-  "lat": 36.1443508,
-  "lon": 127.0055976
-},
-{
-  "type": "node",
   "id": 408398564,
   "lat": 36.1473292,
   "lon": 127.0062564
@@ -89155,12 +88992,6 @@
   "id": 408398566,
   "lat": 36.1504317,
   "lon": 127.0087128
-},
-{
-  "type": "node",
-  "id": 1351002942,
-  "lat": 36.1465550,
-  "lon": 127.0060993
 },
 {
   "type": "node",
@@ -89203,18 +89034,6 @@
   "id": 12051673064,
   "lat": 36.1494699,
   "lon": 127.0077860
-},
-{
-  "type": "node",
-  "id": 12051681713,
-  "lat": 36.1469670,
-  "lon": 127.0061731
-},
-{
-  "type": "node",
-  "id": 14128064168,
-  "lat": 36.1471434,
-  "lon": 127.0062047
 },
 {
   "type": "node",
@@ -111610,6 +111429,12 @@
 },
 {
   "type": "node",
+  "id": 14131011541,
+  "lat": 36.1050545,
+  "lon": 127.4890624
+},
+{
+  "type": "node",
   "id": 420549630,
   "lat": 36.1076543,
   "lon": 127.4898943
@@ -116579,14 +116404,14 @@
 {
   "type": "node",
   "id": 10186069446,
-  "lat": 36.4918987,
-  "lon": 127.2695264
+  "lat": 36.4919014,
+  "lon": 127.2695246
 },
 {
   "type": "node",
   "id": 10186069448,
-  "lat": 36.4919232,
-  "lon": 127.2695893
+  "lat": 36.4919274,
+  "lon": 127.2695866
 },
 {
   "type": "node",
@@ -163825,18 +163650,6 @@
   "id": 9378414546,
   "lat": 36.5331717,
   "lon": 126.7879287
-},
-{
-  "type": "node",
-  "id": 6125868221,
-  "lat": 36.5403841,
-  "lon": 126.8517296
-},
-{
-  "type": "node",
-  "id": 6125868222,
-  "lat": 36.5402209,
-  "lon": 126.8517770
 },
 {
   "type": "node",
