@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-28T02:14:36Z",
-    "timestamp_areas_base": "2026-08-27T07:07:26Z",
+    "timestamp_osm_base": "2026-08-29T01:48:21Z",
+    "timestamp_areas_base": "2026-08-28T22:51:21Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -331105,6 +331105,7 @@
     7259801520,
     7259801525,
     7259801521,
+    14131522704,
     7259801526,
     7259801529
   ],
@@ -358589,8 +358590,10 @@
     14104554652
   ],
   "tags": {
+    "bridge": "yes",
     "expressway": "yes",
     "highway": "trunk",
+    "layer": "1",
     "maxspeed": "70",
     "name": "용구대로",
     "name:en": "Yonggu-daero",
@@ -664750,14 +664753,14 @@
 {
   "type": "node",
   "id": 14104554640,
-  "lat": 37.2334501,
-  "lon": 127.1146160
+  "lat": 37.2334138,
+  "lon": 127.1146670
 },
 {
   "type": "node",
   "id": 14104554652,
-  "lat": 37.2333512,
-  "lon": 127.1147859
+  "lat": 37.2333437,
+  "lon": 127.1147939
 },
 {
   "type": "node",
@@ -832662,6 +832665,12 @@
   "id": 7259801529,
   "lat": 37.8934455,
   "lon": 128.8214137
+},
+{
+  "type": "node",
+  "id": 14131522704,
+  "lat": 37.8911234,
+  "lon": 128.8208984
 },
 {
   "type": "node",
