@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-28T02:19:50Z",
-    "timestamp_areas_base": "2026-08-27T07:07:26Z",
+    "timestamp_osm_base": "2026-08-29T01:53:18Z",
+    "timestamp_areas_base": "2026-08-28T10:47:21Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -90257,7 +90257,7 @@
     8704319115,
     8704319116,
     8704319118,
-    11524014432
+    14131302067
   ],
   "tags": {
     "highway": "primary",
@@ -148562,6 +148562,40 @@
     "name:ko": "동서고가로",
     "oneway": "yes",
     "ref": "22"
+  }
+},
+{
+  "type": "way",
+  "id": 1553214549,
+  "nodes": [
+    14131302066,
+    11524014432
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "경북대로",
+    "name:en": "Gyeongbuk-daero",
+    "name:ko": "경북대로",
+    "oneway": "yes",
+    "ref": "5"
+  }
+},
+{
+  "type": "way",
+  "id": 1553214550,
+  "nodes": [
+    14131302067,
+    14131302066
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "layer": "1",
+    "name": "경북대로",
+    "name:en": "Gyeongbuk-daero",
+    "name:ko": "경북대로",
+    "oneway": "yes",
+    "ref": "5"
   }
 },
 {
@@ -372373,14 +372407,26 @@
 {
   "type": "node",
   "id": 14074005858,
-  "lat": 36.2513166,
-  "lon": 128.5673572
+  "lat": 36.2513156,
+  "lon": 128.5673700
 },
 {
   "type": "node",
   "id": 14074005859,
-  "lat": 36.2515564,
-  "lon": 128.5674915
+  "lat": 36.2515492,
+  "lon": 128.5675107
+},
+{
+  "type": "node",
+  "id": 14131302066,
+  "lat": 36.2513608,
+  "lon": 128.5673324
+},
+{
+  "type": "node",
+  "id": 14131302067,
+  "lat": 36.2515477,
+  "lon": 128.5674474
 },
 {
   "type": "node",
