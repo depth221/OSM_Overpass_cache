@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-08-31T23:01:01Z",
-    "timestamp_areas_base": "2026-08-31T02:26:05Z",
+    "timestamp_osm_base": "2026-09-01T21:23:11Z",
+    "timestamp_areas_base": "2026-09-01T01:22:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -88664,50 +88664,6 @@
     "highway": "primary",
     "layer": "1",
     "oneway": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 957036994,
-  "nodes": [
-    2489019908,
-    9391320206,
-    2266216802,
-    9417028500,
-    9417028488
-  ],
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "70",
-    "name": "거제대로",
-    "name:en": "Geoje-daero",
-    "name:ko": "거제대로",
-    "name:ko-Latn": "Geoje-daero",
-    "oneway": "yes",
-    "ref": "5;1018"
-  }
-},
-{
-  "type": "way",
-  "id": 957036996,
-  "nodes": [
-    9417028491,
-    8681983312,
-    9417028501,
-    2481288013,
-    2489019907,
-    4716456087
-  ],
-  "tags": {
-    "highway": "primary",
-    "lanes": "3",
-    "name": "거제대로",
-    "name:en": "Geoje-daero",
-    "name:ko": "거제대로",
-    "name:ko-Latn": "Geoje-daero",
-    "oneway": "yes",
-    "ref": "5;1018"
   }
 },
 {
@@ -235177,12 +235133,6 @@
 },
 {
   "type": "node",
-  "id": 2266216802,
-  "lat": 34.8916561,
-  "lon": 128.6226130
-},
-{
-  "type": "node",
   "id": 2266216977,
   "lat": 34.8918964,
   "lon": 128.6243207
@@ -235225,12 +235175,6 @@
 },
 {
   "type": "node",
-  "id": 2481288013,
-  "lat": 34.8916154,
-  "lon": 128.6231203
-},
-{
-  "type": "node",
   "id": 2481288032,
   "lat": 34.8908202,
   "lon": 128.6219321
@@ -235246,12 +235190,6 @@
   "id": 2482385337,
   "lat": 34.8882744,
   "lon": 128.6231739
-},
-{
-  "type": "node",
-  "id": 2489019907,
-  "lat": 34.8917689,
-  "lon": 128.6241420
 },
 {
   "type": "node",
@@ -235321,12 +235259,6 @@
 },
 {
   "type": "node",
-  "id": 9391320206,
-  "lat": 34.8917274,
-  "lon": 128.6231300
-},
-{
-  "type": "node",
   "id": 9396012121,
   "lat": 34.8917936,
   "lon": 128.6242956
@@ -235360,18 +235292,6 @@
   "id": 9417028492,
   "lat": 34.8912181,
   "lon": 128.6217449
-},
-{
-  "type": "node",
-  "id": 9417028500,
-  "lat": 34.8915641,
-  "lon": 128.6218271
-},
-{
-  "type": "node",
-  "id": 9417028501,
-  "lat": 34.8914211,
-  "lon": 128.6218525
 },
 {
   "type": "node",
