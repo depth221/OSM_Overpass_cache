@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-09-06T20:36:51Z",
-    "timestamp_areas_base": "2026-09-05T18:22:06Z",
+    "timestamp_osm_base": "2026-09-07T21:39:51Z",
+    "timestamp_areas_base": "2026-09-07T02:39:53Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -299998,7 +299998,7 @@
     3812289665,
     9346099548,
     9346099536,
-    9346099520
+    14159295545
   ],
   "tags": {
     "highway": "trunk",
@@ -300032,6 +300032,7 @@
     9346099533,
     9346099534,
     13328416010,
+    14159295545,
     9346099520
   ],
   "tags": {
@@ -324744,7 +324745,6 @@
   "type": "way",
   "id": 1192164433,
   "nodes": [
-    11067592302,
     5310848917,
     11067592303,
     11067602505,
@@ -373426,6 +373426,23 @@
     "toll": "no",
     "wikidata": "Q21709702",
     "wikipedia": "ko:동해대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1556744420,
+  "nodes": [
+    11067592302,
+    5310848917
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "예당평야로",
+    "name:en": "Yedangpyeongya-ro",
+    "name:ko": "예당평야로",
+    "oneway": "yes",
+    "ref": "32"
   }
 },
 {
@@ -451937,6 +451954,12 @@
   "id": 13328416010,
   "lat": 36.4767293,
   "lon": 127.2960291
+},
+{
+  "type": "node",
+  "id": 14159295545,
+  "lat": 36.4767144,
+  "lon": 127.2960616
 },
 {
   "type": "node",
