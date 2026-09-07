@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-09-06T20:44:00Z",
-    "timestamp_areas_base": "2026-09-05T18:22:06Z",
+    "timestamp_osm_base": "2026-09-07T21:43:01Z",
+    "timestamp_areas_base": "2026-09-06T23:47:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -10735,6 +10735,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "60",
     "name": "동해대로",
     "name:el": "Ντόγχε-ντέρο",
     "name:en": "Donghae-daero",
@@ -21302,6 +21303,7 @@
   "tags": {
     "highway": "primary",
     "lanes": "2",
+    "maxspeed": "60",
     "name": "동해대로",
     "name:el": "Ντόγχε-ντέρο",
     "name:en": "Donghae-daero",
@@ -52922,6 +52924,7 @@
   "tags": {
     "highway": "primary",
     "lanes": "4",
+    "maxspeed": "60",
     "name": "동해대로",
     "name:el": "Ντόγχε-ντέρο",
     "name:en": "Donghae-daero",
@@ -270969,14 +270972,14 @@
 {
   "type": "node",
   "id": 10316019376,
-  "lat": 37.2420003,
-  "lon": 127.5014878
+  "lat": 37.2419651,
+  "lon": 127.5015146
 },
 {
   "type": "node",
   "id": 10316019377,
-  "lat": 37.2419374,
-  "lon": 127.5017855
+  "lat": 37.2419043,
+  "lon": 127.5018204
 },
 {
   "type": "node",
@@ -422865,8 +422868,8 @@
 {
   "type": "node",
   "id": 10316019441,
-  "lat": 37.2405557,
-  "lon": 127.5108679
+  "lat": 37.2405343,
+  "lon": 127.5109014
 },
 {
   "type": "node",
