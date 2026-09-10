@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-09-09T21:01:46Z",
-    "timestamp_areas_base": "2026-09-08T23:13:50Z",
+    "timestamp_osm_base": "2026-09-10T20:59:51Z",
+    "timestamp_areas_base": "2026-09-10T05:27:21Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -294493,6 +294493,7 @@
     "bridge": "yes",
     "expressway": "yes",
     "highway": "trunk",
+    "layer": "1",
     "motorroad": "yes",
     "oneway": "yes",
     "ref": "58"
@@ -294514,6 +294515,7 @@
     "bridge": "yes",
     "expressway": "yes",
     "highway": "trunk",
+    "layer": "1",
     "motorroad": "yes",
     "oneway": "yes",
     "ref": "58"
