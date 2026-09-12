@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-09-11T21:10:41Z",
-    "timestamp_areas_base": "2026-09-11T03:06:20Z",
+    "timestamp_osm_base": "2026-09-12T20:51:20Z",
+    "timestamp_areas_base": "2026-09-12T05:28:50Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -14167,6 +14167,7 @@
     "bridge:name:ko": "신정교",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "50",
     "name": "도림천로",
     "name:en": "Dorimcheon-ro",
     "name:ko": "도림천로",
@@ -25045,6 +25046,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "60",
     "name": "노들로",
     "name:en": "Nodeul-ro",
     "name:ko": "노들로",
@@ -29156,6 +29158,7 @@
   "tags": {
     "bicycle": "no",
     "highway": "primary",
+    "maxspeed": "50",
     "name": "노들로",
     "name:en": "Nodeul-ro",
     "name:ko": "노들로",
@@ -33361,6 +33364,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "60",
     "name": "노들로",
     "name:en": "Nodeul-ro",
     "name:ko": "노들로",
@@ -34327,22 +34331,6 @@
 },
 {
   "type": "way",
-  "id": 275627419,
-  "nodes": [
-    2956961440,
-    3399760400
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "양재대로",
-    "name:en": "Yangjae-daero",
-    "name:ko": "양재대로",
-    "oneway": "yes",
-    "ref": "47"
-  }
-},
-{
-  "type": "way",
   "id": 275627431,
   "nodes": [
     436822951,
@@ -34365,23 +34353,6 @@
 },
 {
   "type": "way",
-  "id": 275628718,
-  "nodes": [
-    2802920772,
-    13671774908,
-    2802920771
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "양재대로",
-    "name:en": "Yangjae-daero",
-    "name:ko": "양재대로",
-    "oneway": "yes",
-    "ref": "47"
-  }
-},
-{
-  "type": "way",
   "id": 275628719,
   "nodes": [
     2802920772,
@@ -34395,41 +34366,6 @@
     "name:en": "Yangjae-daero",
     "name:ko": "양재대로",
     "oneway": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 275631099,
-  "nodes": [
-    2802920769,
-    13671774906,
-    3488653615
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "양재대로",
-    "name:en": "Yangjae-daero",
-    "name:ko": "양재대로",
-    "oneway": "yes",
-    "ref": "47"
-  }
-},
-{
-  "type": "way",
-  "id": 275631780,
-  "nodes": [
-    2802920771,
-    13671774909,
-    14013841937,
-    4643770728
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "양재대로",
-    "name:en": "Yangjae-daero",
-    "name:ko": "양재대로",
-    "oneway": "yes",
-    "ref": "47"
   }
 },
 {
@@ -37861,26 +37797,6 @@
 },
 {
   "type": "way",
-  "id": 332867113,
-  "nodes": [
-    3399760400,
-    13671771082,
-    13671771081,
-    11640074921,
-    3341930828
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "양재대로",
-    "name:en": "Yangjae-daero",
-    "name:ja": "良才大路",
-    "name:ko": "양재대로",
-    "oneway": "yes",
-    "ref": "47"
-  }
-},
-{
-  "type": "way",
   "id": 332867115,
   "nodes": [
     436843863,
@@ -38615,6 +38531,7 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "2",
+    "maxspeed": "60",
     "name": "서강로",
     "name:en": "Seogang-ro",
     "name:ja": "西江路",
@@ -38720,25 +38637,6 @@
 },
 {
   "type": "way",
-  "id": 341767217,
-  "nodes": [
-    3488653627,
-    3488653621,
-    3488653620,
-    11212130988,
-    2802935566
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "양재대로",
-    "name:en": "Yangjae-daero",
-    "name:ko": "양재대로",
-    "oneway": "yes",
-    "ref": "23"
-  }
-},
-{
-  "type": "way",
   "id": 341767218,
   "nodes": [
     3488653622,
@@ -38761,27 +38659,6 @@
     3488653624,
     3488653625,
     3488653615
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "양재대로",
-    "name:en": "Yangjae-daero",
-    "name:ko": "양재대로",
-    "oneway": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 341768338,
-  "nodes": [
-    2802935566,
-    13671774914,
-    2802948055,
-    4643770744,
-    13671774916,
-    13671774915,
-    13671774913,
-    2802920769
   ],
   "tags": {
     "highway": "primary",
@@ -40784,30 +40661,8 @@
     614825027,
     7521833561,
     13671774917,
+    14174626850,
     2802920772
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "양재대로",
-    "name:en": "Yangjae-daero",
-    "name:ja": "良才大路",
-    "name:ko": "양재대로",
-    "oneway": "yes",
-    "ref": "47"
-  }
-},
-{
-  "type": "way",
-  "id": 362076269,
-  "nodes": [
-    3488653609,
-    13671771077,
-    13671771078,
-    3488653608,
-    13671771076,
-    2802957632,
-    13671771075,
-    3660661457
   ],
   "tags": {
     "highway": "primary",
@@ -48431,6 +48286,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "50",
     "name": "국회대로",
     "name:en": "Gukhoe-daero",
     "name:ja": "国会大路",
@@ -48527,6 +48383,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "60",
     "name": "노들로",
     "name:en": "Nodeul-ro",
     "name:ko": "노들로",
@@ -48563,6 +48420,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "60",
     "name": "노들로",
     "name:en": "Nodeul-ro",
     "name:ko": "노들로",
@@ -48762,6 +48620,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "50",
     "name": "국회대로",
     "name:en": "Gukhoe-daero",
     "name:ja": "国会大路",
@@ -67879,6 +67738,7 @@
     "cycleway:left": "separate",
     "cycleway:right": "lane",
     "highway": "primary",
+    "maxspeed": "50",
     "name": "국회대로",
     "name:en": "Gukhoe-daero",
     "name:ja": "国会大路",
@@ -68740,24 +68600,6 @@
 },
 {
   "type": "way",
-  "id": 522341591,
-  "nodes": [
-    2802920775,
-    2802920778,
-    2802920777,
-    2802920774
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "양재대로",
-    "name:en": "Yangjae-daero",
-    "name:ko": "양재대로",
-    "oneway": "yes",
-    "ref": "23"
-  }
-},
-{
-  "type": "way",
   "id": 522341592,
   "nodes": [
     2802920774,
@@ -68868,27 +68710,6 @@
     "ref": "41",
     "source:highway": "서울시 도로 기능별 구분정보 2025년, 서울 열린데이터 광장",
     "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 522343754,
-  "nodes": [
-    3341930828,
-    13671771083,
-    7521833562,
-    3341441994,
-    13671771084,
-    414683147
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "양재대로",
-    "name:en": "Yangjae-daero",
-    "name:ja": "良才大路",
-    "name:ko": "양재대로",
-    "oneway": "yes",
-    "ref": "47"
   }
 },
 {
@@ -71314,6 +71135,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "60",
     "name": "노들로",
     "name:en": "Nodeul-ro",
     "name:ko": "노들로",
@@ -89109,22 +88931,6 @@
 },
 {
   "type": "way",
-  "id": 566179763,
-  "nodes": [
-    3660661457,
-    2281748364
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "양재대로",
-    "name:en": "Yangjae-daero",
-    "name:ko": "양재대로",
-    "oneway": "yes",
-    "ref": "47"
-  }
-},
-{
-  "type": "way",
   "id": 566179764,
   "nodes": [
     2281748364,
@@ -101447,6 +101253,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "2",
+    "maxspeed": "60",
     "name": "서강로",
     "name:en": "Seogang-ro",
     "name:ja": "西江路",
@@ -105317,22 +105124,6 @@
     "name": "양재대로",
     "name:en": "Yangjae-daero",
     "name:ja": "良才大路",
-    "name:ko": "양재대로",
-    "oneway": "yes",
-    "ref": "47"
-  }
-},
-{
-  "type": "way",
-  "id": 649926120,
-  "nodes": [
-    4643770728,
-    4643770725
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "양재대로",
-    "name:en": "Yangjae-daero",
     "name:ko": "양재대로",
     "oneway": "yes",
     "ref": "47"
@@ -134756,6 +134547,7 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "60",
     "name": "국회대로",
     "name:en": "Gukhoe-daero",
     "name:ja": "国会大路",
@@ -134776,6 +134568,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "50",
     "name": "국회대로",
     "name:en": "Gukhoe-daero",
     "name:ja": "国会大路",
@@ -147739,23 +147532,6 @@
     "name:en": "Gwangpyeong-ro",
     "name:ko": "광평로",
     "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 981882988,
-  "nodes": [
-    4643770725,
-    2932859114,
-    2802920775
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "양재대로",
-    "name:en": "Yangjae-daero",
-    "name:ko": "양재대로",
-    "oneway": "yes",
-    "ref": "23"
   }
 },
 {
@@ -160814,6 +160590,7 @@
     "bridge:name:ko": "신정교",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "50",
     "name": "도림천로",
     "name:en": "Dorimcheon-ro",
     "name:ko": "도림천로",
@@ -176089,6 +175866,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "60",
     "name": "노들로",
     "name:en": "Nodeul-ro",
     "name:ko": "노들로",
@@ -193855,6 +193633,7 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "2",
+    "maxspeed": "50",
     "name": "양재대로",
     "name:en": "Yangjae-daero",
     "name:ko": "양재대로",
@@ -193996,25 +193775,6 @@
 },
 {
   "type": "way",
-  "id": 1491841407,
-  "nodes": [
-    3488653611,
-    3488653610,
-    11640074920,
-    3488653609
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "양재대로",
-    "name:en": "Yangjae-daero",
-    "name:ja": "良才大路",
-    "name:ko": "양재대로",
-    "oneway": "yes",
-    "ref": "47"
-  }
-},
-{
-  "type": "way",
   "id": 1491841408,
   "nodes": [
     3488653612,
@@ -194034,25 +193794,6 @@
 },
 {
   "type": "way",
-  "id": 1491841409,
-  "nodes": [
-    414683147,
-    13671771085,
-    13671771100,
-    13671771086
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "양재대로",
-    "name:en": "Yangjae-daero",
-    "name:ja": "良才大路",
-    "name:ko": "양재대로",
-    "oneway": "yes",
-    "ref": "47"
-  }
-},
-{
-  "type": "way",
   "id": 1491841410,
   "nodes": [
     13671771086,
@@ -194068,6 +193809,113 @@
     "oneway": "yes",
     "ref": "47",
     "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1491841412,
+  "nodes": [
+    13671774902,
+    14175304493,
+    13671774903
+  ],
+  "tags": {
+    "highway": "primary",
+    "layer": "-1",
+    "name": "대모지하차도",
+    "name:en": "Yangjae-daero",
+    "name:ja": "良才大路",
+    "name:ko": "대모지하차도",
+    "oneway": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1491841414,
+  "nodes": [
+    13671774920,
+    14175304495,
+    14175304494,
+    13671774921
+  ],
+  "tags": {
+    "highway": "primary",
+    "layer": "-1",
+    "name": "대모지하차도",
+    "name:en": "Yangjae-daero",
+    "name:ja": "良才大路",
+    "name:ko": "대모지하차도",
+    "oneway": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1491841415,
+  "nodes": [
+    13671774921,
+    2802957632,
+    3660661458,
+    2281748364
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "양재대로",
+    "name:en": "Yangjae-daero",
+    "name:ja": "良才大路",
+    "name:ko": "양재대로",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1491841416,
+  "nodes": [
+    14174626847,
+    13671774901,
+    13671774902
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "양재대로",
+    "name:en": "Yangjae-daero",
+    "name:ja": "良才大路",
+    "name:ko": "양재대로",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1491841417,
+  "nodes": [
+    3488653615,
+    14174626850,
+    13671774920
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "양재대로",
+    "name:en": "Yangjae-daero",
+    "name:ja": "良才大路",
+    "name:ko": "양재대로",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1491841418,
+  "nodes": [
+    13671774903,
+    2802920772
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "양재대로",
+    "name:en": "Yangjae-daero",
+    "name:ja": "良才大路",
+    "name:ko": "양재대로",
+    "oneway": "yes"
   }
 },
 {
@@ -196575,6 +196423,27 @@
     "name:ko": "올림픽로",
     "name:ko-Latn": "Ollimpingno",
     "oneway": "yes",
+    "ref": "90",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1498168922,
+  "nodes": [
+    11177272203,
+    6960603045,
+    436859347
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "올림픽로",
+    "name:en": "Olympic-ro",
+    "name:ja": "オリンピック路",
+    "name:ko": "올림픽로",
+    "name:ko-Latn": "Ollimpingno",
     "ref": "90",
     "surface": "asphalt"
   }
@@ -202789,6 +202658,19 @@
     "surface": "asphalt",
     "wikidata": "Q12583519",
     "wikipedia": "ko:경강로"
+  }
+},
+{
+  "type": "way",
+  "id": 1558319769,
+  "nodes": [
+    2956961440,
+    14175304489,
+    14174626847
+  ],
+  "tags": {
+    "highway": "primary",
+    "oneway": "yes"
   }
 },
 {
@@ -330288,8 +330170,8 @@
 {
   "type": "node",
   "id": 13838662927,
-  "lat": 37.4603672,
-  "lon": 127.0236530
+  "lat": 37.4603991,
+  "lon": 127.0232574
 },
 {
   "type": "node",
@@ -334211,21 +334093,9 @@
 },
 {
   "type": "node",
-  "id": 2802957632,
-  "lat": 37.4767370,
-  "lon": 127.0601911
-},
-{
-  "type": "node",
   "id": 2956961440,
   "lat": 37.4759261,
   "lon": 127.0589522
-},
-{
-  "type": "node",
-  "id": 3399760400,
-  "lat": 37.4764555,
-  "lon": 127.0599940
 },
 {
   "type": "node",
@@ -334235,9 +334105,9 @@
 },
 {
   "type": "node",
-  "id": 3660661457,
-  "lat": 37.4762125,
-  "lon": 127.0591543
+  "id": 3660661458,
+  "lat": 37.4762377,
+  "lon": 127.0591077
 },
 {
   "type": "node",
@@ -334295,15 +334165,9 @@
 },
 {
   "type": "node",
-  "id": 13671771075,
-  "lat": 37.4765114,
-  "lon": 127.0597795
-},
-{
-  "type": "node",
-  "id": 13671771082,
-  "lat": 37.4766082,
-  "lon": 127.0602708
+  "id": 14175304489,
+  "lat": 37.4765899,
+  "lon": 127.0602249
 },
 {
   "type": "node",
@@ -334554,14 +334418,14 @@
 {
   "type": "node",
   "id": 1970950026,
-  "lat": 37.4580268,
-  "lon": 127.0732534
+  "lat": 37.4579719,
+  "lon": 127.0732493
 },
 {
   "type": "node",
   "id": 2037079250,
-  "lat": 37.4573554,
-  "lon": 127.0714725
+  "lat": 37.4573937,
+  "lon": 127.0714390
 },
 {
   "type": "node",
@@ -335681,6 +335545,12 @@
 },
 {
   "type": "node",
+  "id": 2802957632,
+  "lat": 37.4768050,
+  "lon": 127.0603689
+},
+{
+  "type": "node",
   "id": 2820559277,
   "lat": 37.4778612,
   "lon": 127.0570424
@@ -335723,9 +335593,9 @@
 },
 {
   "type": "node",
-  "id": 13671771081,
-  "lat": 37.4771735,
-  "lon": 127.0610206
+  "id": 14174626847,
+  "lat": 37.4770694,
+  "lon": 127.0611444
 },
 {
   "type": "node",
@@ -336587,105 +336457,33 @@
 },
 {
   "type": "node",
-  "id": 414683147,
-  "lat": 37.4791117,
-  "lon": 127.0648390
+  "id": 13671774901,
+  "lat": 37.4773260,
+  "lon": 127.0616305
 },
 {
   "type": "node",
-  "id": 3341441994,
-  "lat": 37.4789591,
-  "lon": 127.0644198
+  "id": 13671774902,
+  "lat": 37.4786168,
+  "lon": 127.0639317
 },
 {
   "type": "node",
-  "id": 3341930828,
-  "lat": 37.4780809,
-  "lon": 127.0624656
+  "id": 13671774921,
+  "lat": 37.4787104,
+  "lon": 127.0638517
 },
 {
   "type": "node",
-  "id": 3488653608,
-  "lat": 37.4778959,
-  "lon": 127.0618556
-},
-{
-  "type": "node",
-  "id": 3488653609,
-  "lat": 37.4793488,
-  "lon": 127.0645543
-},
-{
-  "type": "node",
-  "id": 3488653610,
-  "lat": 37.4797601,
-  "lon": 127.0654528
-},
-{
-  "type": "node",
-  "id": 7521833562,
-  "lat": 37.4788600,
-  "lon": 127.0638536
-},
-{
-  "type": "node",
-  "id": 11640074920,
-  "lat": 37.4794309,
-  "lon": 127.0648161
-},
-{
-  "type": "node",
-  "id": 11640074921,
-  "lat": 37.4775172,
-  "lon": 127.0614480
-},
-{
-  "type": "node",
-  "id": 13671771076,
-  "lat": 37.4775680,
-  "lon": 127.0613252
-},
-{
-  "type": "node",
-  "id": 13671771077,
-  "lat": 37.4792293,
-  "lon": 127.0642301
-},
-{
-  "type": "node",
-  "id": 13671771078,
-  "lat": 37.4782101,
-  "lon": 127.0624326
-},
-{
-  "type": "node",
-  "id": 13671771083,
-  "lat": 37.4788191,
-  "lon": 127.0637178
-},
-{
-  "type": "node",
-  "id": 13671771084,
-  "lat": 37.4789892,
-  "lon": 127.0645229
-},
-{
-  "type": "node",
-  "id": 13671771085,
-  "lat": 37.4795339,
-  "lon": 127.0655836
-},
-{
-  "type": "node",
-  "id": 13671771100,
-  "lat": 37.4795580,
-  "lon": 127.0656268
+  "id": 14175304494,
+  "lat": 37.4809675,
+  "lon": 127.0677432
 },
 {
   "type": "node",
   "id": 614825027,
-  "lat": 37.4826453,
-  "lon": 127.0701594
+  "lat": 37.4826282,
+  "lon": 127.0701871
 },
 {
   "type": "node",
@@ -336767,6 +336565,30 @@
 },
 {
   "type": "node",
+  "id": 13671774903,
+  "lat": 37.4826321,
+  "lon": 127.0705564
+},
+{
+  "type": "node",
+  "id": 13671774920,
+  "lat": 37.4826985,
+  "lon": 127.0704858
+},
+{
+  "type": "node",
+  "id": 14175304493,
+  "lat": 37.4809006,
+  "lon": 127.0677995
+},
+{
+  "type": "node",
+  "id": 14175304495,
+  "lat": 37.4814564,
+  "lon": 127.0685962
+},
+{
+  "type": "node",
   "id": 2802920772,
   "lat": 37.4845668,
   "lon": 127.0732999
@@ -336821,21 +336643,9 @@
 },
 {
   "type": "node",
-  "id": 13671774906,
-  "lat": 37.4850002,
-  "lon": 127.0735939
-},
-{
-  "type": "node",
   "id": 13671774907,
   "lat": 37.4847820,
   "lon": 127.0736528
-},
-{
-  "type": "node",
-  "id": 13671774908,
-  "lat": 37.4847189,
-  "lon": 127.0737471
 },
 {
   "type": "node",
@@ -336854,6 +336664,12 @@
   "id": 13671774919,
   "lat": 37.4846660,
   "lon": 127.0732159
+},
+{
+  "type": "node",
+  "id": 14174626850,
+  "lat": 37.4843475,
+  "lon": 127.0727931
 },
 {
   "type": "node",
@@ -337001,18 +336817,6 @@
 },
 {
   "type": "node",
-  "id": 2802920769,
-  "lat": 37.4857989,
-  "lon": 127.0747297
-},
-{
-  "type": "node",
-  "id": 2802920771,
-  "lat": 37.4855736,
-  "lon": 127.0749623
-},
-{
-  "type": "node",
   "id": 2802920773,
   "lat": 37.4873040,
   "lon": 127.0775956
@@ -337022,24 +336826,6 @@
   "id": 2802920774,
   "lat": 37.4876837,
   "lon": 127.0787324
-},
-{
-  "type": "node",
-  "id": 2802920775,
-  "lat": 37.4863754,
-  "lon": 127.0762561
-},
-{
-  "type": "node",
-  "id": 2802920777,
-  "lat": 37.4874328,
-  "lon": 127.0783370
-},
-{
-  "type": "node",
-  "id": 2802920778,
-  "lat": 37.4871080,
-  "lon": 127.0776485
 },
 {
   "type": "node",
@@ -337115,12 +336901,6 @@
 },
 {
   "type": "node",
-  "id": 2802935566,
-  "lat": 37.4866208,
-  "lon": 127.0760184
-},
-{
-  "type": "node",
   "id": 2802948055,
   "lat": 37.4861963,
   "lon": 127.0756120
@@ -337130,24 +336910,6 @@
   "id": 2802948097,
   "lat": 37.4861947,
   "lon": 127.0756332
-},
-{
-  "type": "node",
-  "id": 2932859114,
-  "lat": 37.4862320,
-  "lon": 127.0759138
-},
-{
-  "type": "node",
-  "id": 3488653620,
-  "lat": 37.4870710,
-  "lon": 127.0768736
-},
-{
-  "type": "node",
-  "id": 3488653621,
-  "lat": 37.4875680,
-  "lon": 127.0780309
 },
 {
   "type": "node",
@@ -337194,8 +336956,8 @@
 {
   "type": "node",
   "id": 4643770725,
-  "lat": 37.4860761,
-  "lon": 127.0756378
+  "lat": 37.4860773,
+  "lon": 127.0756748
 },
 {
   "type": "node",
@@ -337254,8 +337016,8 @@
 {
   "type": "node",
   "id": 4643770744,
-  "lat": 37.4860962,
-  "lon": 127.0754725
+  "lat": 37.4861378,
+  "lon": 127.0754463
 },
 {
   "type": "node",
@@ -337271,57 +337033,15 @@
 },
 {
   "type": "node",
-  "id": 11212130988,
-  "lat": 37.4870421,
-  "lon": 127.0768227
-},
-{
-  "type": "node",
   "id": 13022211569,
   "lat": 37.4839213,
   "lon": 127.0760764
 },
 {
   "type": "node",
-  "id": 13671774909,
-  "lat": 37.4856502,
-  "lon": 127.0750601
-},
-{
-  "type": "node",
-  "id": 13671774913,
-  "lat": 37.4858742,
-  "lon": 127.0748544
-},
-{
-  "type": "node",
-  "id": 13671774914,
-  "lat": 37.4864102,
-  "lon": 127.0758054
-},
-{
-  "type": "node",
-  "id": 13671774915,
-  "lat": 37.4860220,
-  "lon": 127.0750864
-},
-{
-  "type": "node",
-  "id": 13671774916,
-  "lat": 37.4860824,
-  "lon": 127.0752642
-},
-{
-  "type": "node",
-  "id": 14013841937,
-  "lat": 37.4858405,
-  "lon": 127.0753152
-},
-{
-  "type": "node",
   "id": 14013841975,
-  "lat": 37.4858697,
-  "lon": 127.0757180
+  "lat": 37.4858783,
+  "lon": 127.0757534
 },
 {
   "type": "node",
@@ -389171,6 +388891,12 @@
 },
 {
   "type": "node",
+  "id": 436859347,
+  "lat": 37.5201358,
+  "lon": 127.1142960
+},
+{
+  "type": "node",
   "id": 845893207,
   "lat": 37.5172148,
   "lon": 127.1140206
@@ -389210,6 +388936,12 @@
   "id": 4679959424,
   "lat": 37.5167637,
   "lon": 127.1144404
+},
+{
+  "type": "node",
+  "id": 6960603045,
+  "lat": 37.5202476,
+  "lon": 127.1143799
 },
 {
   "type": "node",
