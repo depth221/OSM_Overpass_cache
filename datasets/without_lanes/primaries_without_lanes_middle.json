@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-09-12T20:51:20Z",
-    "timestamp_areas_base": "2026-09-12T05:28:50Z",
+    "timestamp_osm_base": "2026-09-13T21:04:06Z",
+    "timestamp_areas_base": "2026-09-13T07:08:17Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -25175,6 +25175,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "50",
     "name": "경인로",
     "name:en": "Gyeongin-ro",
     "name:ja": "京仁路",
@@ -28140,7 +28141,6 @@
   "id": 218966983,
   "nodes": [
     3488653615,
-    13671774919,
     13671774918,
     3488653614,
     2802928774,
@@ -34355,15 +34355,15 @@
   "type": "way",
   "id": 275628719,
   "nodes": [
-    2802920772,
-    13671774907,
-    11212130987,
+    13671774903,
+    14176229146,
     2802928777
   ],
   "tags": {
     "highway": "primary",
     "name": "양재대로",
     "name:en": "Yangjae-daero",
+    "name:ja": "良才大路",
     "name:ko": "양재대로",
     "oneway": "yes"
   }
@@ -38657,13 +38657,14 @@
   "id": 341767219,
   "nodes": [
     3488653624,
-    3488653625,
-    3488653615
+    14176229147,
+    13671774920
   ],
   "tags": {
     "highway": "primary",
     "name": "양재대로",
     "name:en": "Yangjae-daero",
+    "name:ja": "良才大路",
     "name:ko": "양재대로",
     "oneway": "yes"
   }
@@ -40655,13 +40656,8 @@
   "nodes": [
     2802928780,
     13671771095,
-    13671771094,
-    13671771093,
-    13671771096,
     614825027,
     7521833561,
-    13671774917,
-    14174626850,
     2802920772
   ],
   "tags": {
@@ -50714,6 +50710,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "60",
     "name": "노들로",
     "name:en": "Nodeul-ro",
     "name:ko": "노들로",
@@ -50748,6 +50745,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "60",
     "name": "노들로",
     "name:en": "Nodeul-ro",
     "name:ko": "노들로",
@@ -57152,6 +57150,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "50",
     "name": "경인로",
     "name:en": "Gyeongin-ro",
     "name:ko": "경인로",
@@ -99000,6 +98999,7 @@
   "id": 607596355,
   "nodes": [
     3006264671,
+    14177500873,
     7587871148,
     13167977618,
     5757938411
@@ -172694,6 +172694,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "50",
     "name": "경인로",
     "name:en": "Gyeongin-ro",
     "name:ja": "京仁路",
@@ -172716,6 +172717,7 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "50",
     "name": "경인로",
     "name:en": "Gyeongin-ro",
     "name:ja": "京仁路",
@@ -176046,6 +176048,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "50",
     "name": "경인로",
     "name:en": "Gyeongin-ro",
     "name:ja": "京仁路",
@@ -176066,6 +176069,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "50",
     "name": "경인로",
     "name:en": "Gyeongin-ro",
     "name:ja": "京仁路",
@@ -176158,6 +176162,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "50",
     "name": "경인로",
     "name:en": "Gyeongin-ro",
     "name:ja": "京仁路",
@@ -176221,6 +176226,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "50",
     "name": "경인로",
     "name:en": "Gyeongin-ro",
     "name:ja": "京仁路",
@@ -176292,6 +176298,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "50",
     "name": "경인로",
     "name:en": "Gyeongin-ro",
     "name:ja": "京仁路",
@@ -188076,6 +188083,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "50",
     "name": "경인로",
     "name:en": "Gyeongin-ro",
     "name:ja": "京仁路",
@@ -193875,39 +193883,6 @@
     14174626847,
     13671774901,
     13671774902
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "양재대로",
-    "name:en": "Yangjae-daero",
-    "name:ja": "良才大路",
-    "name:ko": "양재대로",
-    "oneway": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 1491841417,
-  "nodes": [
-    3488653615,
-    14174626850,
-    13671774920
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "양재대로",
-    "name:en": "Yangjae-daero",
-    "name:ja": "良才大路",
-    "name:ko": "양재대로",
-    "oneway": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 1491841418,
-  "nodes": [
-    13671774903,
-    2802920772
   ],
   "tags": {
     "highway": "primary",
@@ -336482,8 +336457,8 @@
 {
   "type": "node",
   "id": 614825027,
-  "lat": 37.4826282,
-  "lon": 127.0701871
+  "lat": 37.4823685,
+  "lon": 127.0704553
 },
 {
   "type": "node",
@@ -336541,27 +336516,9 @@
 },
 {
   "type": "node",
-  "id": 13671771093,
-  "lat": 37.4822046,
-  "lon": 127.0695743
-},
-{
-  "type": "node",
-  "id": 13671771094,
-  "lat": 37.4816053,
-  "lon": 127.0691144
-},
-{
-  "type": "node",
   "id": 13671771095,
   "lat": 37.4813971,
   "lon": 127.0688808
-},
-{
-  "type": "node",
-  "id": 13671771096,
-  "lat": 37.4822697,
-  "lon": 127.0696401
 },
 {
   "type": "node",
@@ -336590,8 +336547,8 @@
 {
   "type": "node",
   "id": 2802920772,
-  "lat": 37.4845668,
-  "lon": 127.0732999
+  "lat": 37.4845564,
+  "lon": 127.0734940
 },
 {
   "type": "node",
@@ -336602,8 +336559,8 @@
 {
   "type": "node",
   "id": 3488653615,
-  "lat": 37.4847529,
-  "lon": 127.0733609
+  "lat": 37.4846379,
+  "lon": 127.0730751
 },
 {
   "type": "node",
@@ -336626,8 +336583,8 @@
 {
   "type": "node",
   "id": 7521833561,
-  "lat": 37.4840100,
-  "lon": 127.0720671
+  "lat": 37.4838142,
+  "lon": 127.0724319
 },
 {
   "type": "node",
@@ -336643,33 +336600,21 @@
 },
 {
   "type": "node",
-  "id": 13671774907,
-  "lat": 37.4847820,
-  "lon": 127.0736528
-},
-{
-  "type": "node",
-  "id": 13671774917,
-  "lat": 37.4841259,
-  "lon": 127.0722809
-},
-{
-  "type": "node",
   "id": 13671774918,
   "lat": 37.4842242,
   "lon": 127.0721878
 },
 {
   "type": "node",
-  "id": 13671774919,
-  "lat": 37.4846660,
-  "lon": 127.0732159
+  "id": 14176229146,
+  "lat": 37.4843391,
+  "lon": 127.0729906
 },
 {
   "type": "node",
-  "id": 14174626850,
-  "lat": 37.4843475,
-  "lon": 127.0727931
+  "id": 14176229147,
+  "lat": 37.4847704,
+  "lon": 127.0734351
 },
 {
   "type": "node",
@@ -336931,12 +336876,6 @@
 },
 {
   "type": "node",
-  "id": 3488653625,
-  "lat": 37.4854237,
-  "lon": 127.0743593
-},
-{
-  "type": "node",
   "id": 3488653627,
   "lat": 37.4879074,
   "lon": 127.0788923
@@ -337024,12 +336963,6 @@
   "id": 8563286713,
   "lat": 37.4883482,
   "lon": 127.0807615
-},
-{
-  "type": "node",
-  "id": 11212130987,
-  "lat": 37.4853401,
-  "lon": 127.0744256
 },
 {
   "type": "node",
@@ -393028,6 +392961,12 @@
   "id": 13167977618,
   "lat": 37.5520928,
   "lon": 127.1898119
+},
+{
+  "type": "node",
+  "id": 14177500873,
+  "lat": 37.5528757,
+  "lon": 127.1912831
 },
 {
   "type": "node",
