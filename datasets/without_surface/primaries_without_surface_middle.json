@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-09-13T21:04:06Z",
-    "timestamp_areas_base": "2026-09-13T07:08:17Z",
+    "timestamp_osm_base": "2026-09-14T21:58:06Z",
+    "timestamp_areas_base": "2026-09-13T18:41:35Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -119926,28 +119926,6 @@
 },
 {
   "type": "way",
-  "id": 877866002,
-  "nodes": [
-    436660301,
-    8167751474,
-    8167751460,
-    436660299,
-    8167751459,
-    11110064280,
-    11110064276
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "호국로",
-    "name:el": "Χόγκουκ-ρο",
-    "name:en": "Hoguk-ro",
-    "name:ko": "호국로",
-    "official_ref": "32",
-    "oneway": "yes"
-  }
-},
-{
-  "type": "way",
   "id": 877866007,
   "nodes": [
     8167751491,
@@ -149463,26 +149441,6 @@
     "name": "송파대로",
     "name:en": "Songpa-daero",
     "name:ko": "송파대로",
-    "oneway": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 1197440265,
-  "nodes": [
-    11110064276,
-    436660298,
-    5281083456,
-    11111347871,
-    8167751452
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "호국로",
-    "name:el": "Χόγκουκ-ρο",
-    "name:en": "Hoguk-ro",
-    "name:ko": "호국로",
-    "official_ref": "32",
     "oneway": "yes"
   }
 },
@@ -336784,72 +336742,6 @@
 },
 {
   "type": "node",
-  "id": 436660298,
-  "lat": 37.7310319,
-  "lon": 126.9969376
-},
-{
-  "type": "node",
-  "id": 436660299,
-  "lat": 37.7317256,
-  "lon": 126.9979150
-},
-{
-  "type": "node",
-  "id": 5281083456,
-  "lat": 37.7303618,
-  "lon": 126.9961158
-},
-{
-  "type": "node",
-  "id": 8167751452,
-  "lat": 37.7302273,
-  "lon": 126.9959463
-},
-{
-  "type": "node",
-  "id": 8167751459,
-  "lat": 37.7313928,
-  "lon": 126.9973975
-},
-{
-  "type": "node",
-  "id": 8167751460,
-  "lat": 37.7322387,
-  "lon": 126.9987544
-},
-{
-  "type": "node",
-  "id": 11110064276,
-  "lat": 37.7311940,
-  "lon": 126.9971442
-},
-{
-  "type": "node",
-  "id": 11110064280,
-  "lat": 37.7312897,
-  "lon": 126.9972661
-},
-{
-  "type": "node",
-  "id": 11111347871,
-  "lat": 37.7303136,
-  "lon": 126.9960550
-},
-{
-  "type": "node",
-  "id": 436660301,
-  "lat": 37.7324650,
-  "lon": 126.9992801
-},
-{
-  "type": "node",
-  "id": 8167751474,
-  "lat": 37.7324285,
-  "lon": 126.9990832
-},
-{
-  "type": "node",
   "id": 5504199662,
   "lat": 37.7369436,
   "lon": 127.0107712
@@ -350813,8 +350705,8 @@
 {
   "type": "node",
   "id": 7195640303,
-  "lat": 37.4580117,
-  "lon": 127.1642842
+  "lat": 37.4580053,
+  "lon": 127.1642949
 },
 {
   "type": "node",
