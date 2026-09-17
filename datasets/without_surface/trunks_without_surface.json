@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-09-16T21:29:36Z",
-    "timestamp_areas_base": "2026-09-16T05:04:09Z",
+    "timestamp_osm_base": "2026-09-17T21:33:34Z",
+    "timestamp_areas_base": "2026-09-17T02:16:50Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -187077,7 +187077,6 @@
     "destination:lang:en": "Anjung;West Pyeongtaek IC;Dangjin",
     "expressway": "yes",
     "highway": "trunk",
-    "layer": "1",
     "name": "아산로",
     "name:en": "Asan-ro",
     "name:ko": "아산로",
