@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-09-19T20:51:20Z",
-    "timestamp_areas_base": "2026-09-18T11:19:50Z",
+    "timestamp_osm_base": "2026-09-20T20:55:34Z",
+    "timestamp_areas_base": "2026-09-19T05:38:29Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -333780,7 +333780,7 @@
   "tags": {
     "bridge": "yes",
     "highway": "trunk",
-    "layer": "1",
+    "layer": "2",
     "maxspeed": "90",
     "motorroad": "yes",
     "name": "충청내륙로",
@@ -333832,7 +333832,7 @@
   "tags": {
     "bridge": "yes",
     "highway": "trunk",
-    "layer": "1",
+    "layer": "2",
     "maxspeed": "90",
     "motorroad": "yes",
     "name": "충청내륙로",
