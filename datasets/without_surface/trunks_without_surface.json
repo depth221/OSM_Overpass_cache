@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-09-19T20:52:17Z",
-    "timestamp_areas_base": "2026-09-18T13:42:06Z",
+    "timestamp_osm_base": "2026-09-20T20:56:36Z",
+    "timestamp_areas_base": "2026-09-20T02:36:50Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -243592,7 +243592,7 @@
     1334136381,
     1334136430,
     1334136489,
-    1341214675,
+    414666312,
     1334136504,
     1334136521
   ],
@@ -350930,7 +350930,7 @@
   "tags": {
     "bridge": "yes",
     "highway": "trunk",
-    "layer": "1",
+    "layer": "2",
     "maxspeed": "90",
     "motorroad": "yes",
     "name": "충청내륙로",
@@ -350982,7 +350982,7 @@
   "tags": {
     "bridge": "yes",
     "highway": "trunk",
-    "layer": "1",
+    "layer": "2",
     "maxspeed": "90",
     "motorroad": "yes",
     "name": "충청내륙로",
@@ -444045,6 +444045,12 @@
 },
 {
   "type": "node",
+  "id": 414666312,
+  "lat": 36.5049813,
+  "lon": 127.1258618
+},
+{
+  "type": "node",
   "id": 1334136501,
   "lat": 36.5042824,
   "lon": 127.1262578
@@ -444090,12 +444096,6 @@
   "id": 1341214674,
   "lat": 36.5049217,
   "lon": 127.1257959
-},
-{
-  "type": "node",
-  "id": 1341214675,
-  "lat": 36.5049813,
-  "lon": 127.1258618
 },
 {
   "type": "node",
