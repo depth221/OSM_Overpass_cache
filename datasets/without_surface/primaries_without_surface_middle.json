@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-09-21T22:07:35Z",
-    "timestamp_areas_base": "2026-09-21T05:11:49Z",
+    "timestamp_osm_base": "2026-09-22T08:45:51Z",
+    "timestamp_areas_base": "2026-09-20T02:55:01Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -107021,6 +107021,7 @@
     "highway": "primary",
     "name": "금강산로",
     "name:en": "Geumgangsan-ro",
+    "name:ja": "金剛山路",
     "name:ko": "금강산로",
     "name:zh": "金刚山路",
     "ref": "31"
@@ -122004,6 +122005,7 @@
     "highway": "primary",
     "name": "통일전망대로",
     "name:en": "Tongiljeonmangdae-ro",
+    "name:ja": "統一展望大路",
     "name:ko": "통일전망대로",
     "ref": "7",
     "source": "gps"
@@ -152176,26 +152178,6 @@
     "ref": "3;71",
     "sidewalk": "separate",
     "turn:lanes": "left|through|through|through|through;right"
-  }
-},
-{
-  "type": "way",
-  "id": 1209313356,
-  "nodes": [
-    287521281,
-    2281134385,
-    2281134363,
-    2281134361,
-    2281134374
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "한남대로",
-    "name:en": "Hannam-daero",
-    "name:ja": "漢南大路",
-    "name:ko": "한남대로",
-    "name:ko-Latn": "Hannam-daero",
-    "oneway": "yes"
   }
 },
 {
@@ -318021,27 +318003,9 @@
 },
 {
   "type": "node",
-  "id": 2281134361,
-  "lat": 37.5471286,
-  "lon": 127.0026618
-},
-{
-  "type": "node",
-  "id": 2281134363,
-  "lat": 37.5472380,
-  "lon": 127.0027384
-},
-{
-  "type": "node",
   "id": 2281134374,
   "lat": 37.5469459,
   "lon": 127.0025996
-},
-{
-  "type": "node",
-  "id": 2281134385,
-  "lat": 37.5473085,
-  "lon": 127.0028407
 },
 {
   "type": "node",
