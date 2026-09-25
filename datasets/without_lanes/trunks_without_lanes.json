@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-09-24T21:37:30Z",
-    "timestamp_areas_base": "2026-09-22T08:45:51Z",
+    "timestamp_osm_base": "2026-09-25T21:42:06Z",
+    "timestamp_areas_base": "2026-09-24T08:34:49Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -11564,6 +11564,7 @@
     "hazmat": "permit",
     "hazmat:conditional": "yes @ (military)",
     "highway": "trunk",
+    "maxspeed": "70",
     "name": "경강로",
     "name:en": "Gyeonggang-ro",
     "name:ko": "경강로",
@@ -60807,6 +60808,8 @@
   "id": 164837700,
   "nodes": [
     4665610355,
+    14214239743,
+    14214239742,
     4665610354
   ],
   "tags": {
@@ -99110,6 +99113,7 @@
     "hazmat:conditional": "yes @ (military)",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "70",
     "name": "경강로",
     "name:en": "Gyeonggang-ro",
     "name:ko": "경강로",
@@ -99187,6 +99191,7 @@
     "hazmat": "permit",
     "hazmat:conditional": "yes @ (military)",
     "highway": "trunk",
+    "maxspeed": "70",
     "name": "경강로",
     "name:en": "Gyeonggang-ro",
     "name:ko": "경강로",
@@ -112208,6 +112213,7 @@
     "hazmat": "permit",
     "hazmat:conditional": "yes @ (military)",
     "highway": "trunk",
+    "maxspeed": "70",
     "name": "경강로",
     "name:en": "Gyeonggang-ro",
     "name:ko": "경강로",
@@ -164947,6 +164953,7 @@
     "hazmat": "permit",
     "hazmat:conditional": "yes @ (military)",
     "highway": "trunk",
+    "maxspeed": "70",
     "name": "경강로",
     "name:en": "Gyeonggang-ro",
     "name:ko": "경강로",
@@ -164997,6 +165004,7 @@
     "hazmat": "permit",
     "hazmat:conditional": "yes @ (military)",
     "highway": "trunk",
+    "maxspeed": "70",
     "name": "경강로",
     "name:en": "Gyeonggang-ro",
     "name:ko": "경강로",
@@ -279294,6 +279302,7 @@
     "hazmat": "permit",
     "hazmat:conditional": "yes @ (military)",
     "highway": "trunk",
+    "maxspeed": "70",
     "name": "경강로",
     "name:en": "Gyeonggang-ro",
     "name:ko": "경강로",
@@ -280777,6 +280786,7 @@
     "hazmat": "permit",
     "hazmat:conditional": "yes @ (military)",
     "highway": "trunk",
+    "maxspeed": "70",
     "name": "경강로",
     "name:en": "Gyeonggang-ro",
     "name:ko": "경강로",
@@ -280798,6 +280808,7 @@
     "hazmat": "permit",
     "hazmat:conditional": "yes @ (military)",
     "highway": "trunk",
+    "maxspeed": "70",
     "name": "경강로",
     "name:en": "Gyeonggang-ro",
     "name:ko": "경강로",
@@ -511290,8 +511301,20 @@
 {
   "type": "node",
   "id": 4665610355,
-  "lat": 35.2555290,
-  "lon": 129.0109061
+  "lat": 35.2561644,
+  "lon": 129.0113031
+},
+{
+  "type": "node",
+  "id": 14214239742,
+  "lat": 35.2555768,
+  "lon": 129.0109033
+},
+{
+  "type": "node",
+  "id": 14214239743,
+  "lat": 35.2559476,
+  "lon": 129.0110976
 },
 {
   "type": "node",
