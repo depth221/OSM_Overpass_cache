@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-09-27T21:24:36Z",
-    "timestamp_areas_base": "2026-09-26T19:18:54Z",
+    "timestamp_osm_base": "2026-09-28T23:19:38Z",
+    "timestamp_areas_base": "2026-09-27T13:54:01Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -488510,6 +488510,8 @@
   "tags": {
     "change": "no",
     "highway": "motorway",
+    "lane_markings": "yes",
+    "lanes": "2",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
     "minspeed": "50",
@@ -488544,6 +488546,8 @@
   ],
   "tags": {
     "highway": "motorway",
+    "lane_markings": "yes",
+    "lanes": "2",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
     "minspeed": "50",
@@ -492608,6 +492612,8 @@
     "bridge": "yes",
     "bridge:name": "삼천교",
     "highway": "motorway",
+    "lane_markings": "yes",
+    "lanes": "2",
     "layer": "1",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
@@ -492644,6 +492650,8 @@
     "bridge:name": "삼천교",
     "change": "yes",
     "highway": "motorway",
+    "lane_markings": "yes",
+    "lanes": "2",
     "layer": "1",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
@@ -492745,6 +492753,8 @@
   ],
   "tags": {
     "highway": "motorway",
+    "lane_markings": "yes",
+    "lanes": "2",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
     "minspeed": "50",
@@ -492785,6 +492795,8 @@
   ],
   "tags": {
     "highway": "motorway",
+    "lane_markings": "yes",
+    "lanes": "2",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
     "minspeed": "50",
@@ -492817,6 +492829,8 @@
   ],
   "tags": {
     "highway": "motorway",
+    "lane_markings": "yes",
+    "lanes": "2",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
     "minspeed": "50",
@@ -492850,6 +492864,8 @@
   "tags": {
     "change": "no",
     "highway": "motorway",
+    "lane_markings": "yes",
+    "lanes": "2",
     "maxspeed": "100",
     "maxspeed:hgv": "80",
     "minspeed": "50",
