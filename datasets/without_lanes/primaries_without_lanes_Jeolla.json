@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-09-28T23:33:06Z",
-    "timestamp_areas_base": "2026-09-27T20:29:35Z",
+    "timestamp_osm_base": "2026-09-29T22:40:02Z",
+    "timestamp_areas_base": "2026-09-28T16:30:26Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -83131,6 +83131,7 @@
     12543711246,
     1263169655,
     436434326,
+    14231326811,
     436434328,
     436434329,
     436434330,
@@ -83172,7 +83173,8 @@
     "name": "춘향로",
     "name:en": "Chunhyang-ro",
     "name:ko": "춘향로",
-    "ref": "17"
+    "ref": "17",
+    "surface": "asphalt"
   }
 },
 {
@@ -83189,7 +83191,8 @@
     "name": "춘향로",
     "name:en": "Chunhyang-ro",
     "name:ko": "춘향로",
-    "ref": "17"
+    "ref": "17",
+    "surface": "asphalt"
   }
 },
 {
@@ -97204,6 +97207,7 @@
     12165726645,
     404170526,
     12165726640,
+    14231536992,
     12165743817,
     404170530,
     12165743818,
@@ -97236,7 +97240,8 @@
     "name": "비행로",
     "name:en": "Bihaeng-ro",
     "name:ko": "비행로",
-    "ref": "13"
+    "ref": "13",
+    "surface": "asphalt"
   }
 },
 {
@@ -308853,6 +308858,12 @@
 },
 {
   "type": "node",
+  "id": 14231536992,
+  "lat": 35.5852309,
+  "lon": 127.3980107
+},
+{
+  "type": "node",
   "id": 403840745,
   "lat": 35.6266046,
   "lon": 127.2972972
@@ -342606,6 +342617,12 @@
   "id": 12543711246,
   "lat": 35.7221465,
   "lon": 127.2324791
+},
+{
+  "type": "node",
+  "id": 14231326811,
+  "lat": 35.7230789,
+  "lon": 127.2321476
 },
 {
   "type": "node",
