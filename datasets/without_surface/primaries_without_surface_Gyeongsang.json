@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-09-29T22:39:02Z",
-    "timestamp_areas_base": "2026-09-28T16:30:26Z",
+    "timestamp_osm_base": "2026-09-30T22:36:50Z",
+    "timestamp_areas_base": "2026-09-30T00:32:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -23929,6 +23929,7 @@
     "bridge:name:en": "Ganggyeonggyo",
     "bridge:name:ko-Latn": "Ganggyeonggyo",
     "highway": "primary",
+    "lanes": "3",
     "layer": "1",
     "name": "비슬로",
     "name:el": "Μπίσουλ-ρο",
@@ -23942,7 +23943,6 @@
   "type": "way",
   "id": 199573297,
   "nodes": [
-    11217043049,
     5590041539,
     1338093880,
     13516602144,
@@ -49547,7 +49547,7 @@
     13516602143,
     13516602145,
     13516602146,
-    13516602148
+    14234232860
   ],
   "tags": {
     "highway": "primary",
@@ -109068,26 +109068,20 @@
   "type": "way",
   "id": 1210661311,
   "nodes": [
-    414665685,
-    1338093877,
     1338093898,
-    1338093887,
-    1338093901,
-    1338093886,
-    13516602151,
-    13516602150,
-    1338093916,
-    1338093907,
-    11217043050
+    14234057976,
+    1338093887
   ],
   "tags": {
     "highway": "primary",
+    "lanes": "3",
     "name": "비슬로",
     "name:el": "Μπίσουλ-ρο",
     "name:en": "Biseul-ro",
     "name:ko": "비슬로",
     "oneway": "yes",
-    "ref": "5;26"
+    "ref": "5;26",
+    "turn:lanes": "through|through|through;right"
   }
 },
 {
@@ -109100,6 +109094,7 @@
   "tags": {
     "bridge": "yes",
     "highway": "primary",
+    "lanes": "3",
     "layer": "1",
     "name": "비슬로",
     "name:el": "Μπίσουλ-ρο",
@@ -135663,7 +135658,6 @@
   "type": "way",
   "id": 1466376659,
   "nodes": [
-    13516602168,
     13516602164,
     13516602163,
     13449399979,
@@ -137952,41 +137946,36 @@
   "tags": {
     "bridge": "yes",
     "highway": "primary",
+    "lanes": "3",
     "layer": "1",
     "name": "비슬로",
     "name:el": "Μπίσουλ-ρο",
     "name:en": "Biseul-ro",
     "name:ko": "비슬로",
     "oneway": "yes",
-    "ref": "5;26"
+    "ref": "5;26",
+    "turn:lanes": "through|through|through"
   }
 },
 {
   "type": "way",
   "id": 1473327684,
   "nodes": [
-    13516602149,
-    13516602147,
     13516602152,
     13516602153,
     13516602154,
-    13516602155,
-    13516602156,
-    13516602162,
-    13516602157,
-    13516602158,
-    13516602159,
-    13516602160,
-    13516602161
+    14234232847
   ],
   "tags": {
     "highway": "primary",
+    "lanes": "4",
     "name": "비슬로",
     "name:el": "Μπίσουλ-ρο",
     "name:en": "Biseul-ro",
     "name:ko": "비슬로",
     "oneway": "yes",
-    "ref": "5;26"
+    "ref": "5;26",
+    "turn:lanes": "reverse|through|through|through"
   }
 },
 {
@@ -138006,7 +137995,8 @@
     "name:en": "Biseul-ro",
     "name:ko": "비슬로",
     "oneway": "yes",
-    "ref": "5;26"
+    "ref": "5;26",
+    "turn:lanes": "left;through|through|through;right"
   }
 },
 {
@@ -138014,7 +138004,7 @@
   "id": 1473327686,
   "nodes": [
     13516602165,
-    13516602168
+    14234057975
   ],
   "tags": {
     "bridge": "yes",
@@ -138026,7 +138016,8 @@
     "name:en": "Biseul-ro",
     "name:ko": "비슬로",
     "oneway": "yes",
-    "ref": "5;26"
+    "ref": "5;26",
+    "turn:lanes": "left;through|through|through;right"
   }
 },
 {
@@ -145313,6 +145304,302 @@
     "name:ko": "비슬로",
     "oneway": "yes",
     "ref": "5;26"
+  }
+},
+{
+  "type": "way",
+  "id": 1563744876,
+  "nodes": [
+    1338093886,
+    13516602151,
+    13516602150,
+    1338093916,
+    1338093907,
+    11217043050
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "비슬로",
+    "name:el": "Μπίσουλ-ρο",
+    "name:en": "Biseul-ro",
+    "name:ko": "비슬로",
+    "oneway": "yes",
+    "ref": "5;26"
+  }
+},
+{
+  "type": "way",
+  "id": 1563744877,
+  "nodes": [
+    13516602162,
+    13516602157,
+    14234018075,
+    13516602158,
+    13516602159,
+    13516602160,
+    13516602161
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "name": "비슬로",
+    "name:el": "Μπίσουλ-ρο",
+    "name:en": "Biseul-ro",
+    "name:ko": "비슬로",
+    "oneway": "yes",
+    "ref": "5;26",
+    "turn:lanes": "left;through|through|through;right"
+  }
+},
+{
+  "type": "way",
+  "id": 1563750110,
+  "nodes": [
+    1338093887,
+    14234057977
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "4",
+    "name": "비슬로",
+    "name:el": "Μπίσουλ-ρο",
+    "name:en": "Biseul-ro",
+    "name:ko": "비슬로",
+    "oneway": "yes",
+    "ref": "5;26"
+  }
+},
+{
+  "type": "way",
+  "id": 1563750111,
+  "nodes": [
+    414665685,
+    1338093877,
+    1338093898
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "name": "비슬로",
+    "name:el": "Μπίσουλ-ρο",
+    "name:en": "Biseul-ro",
+    "name:ko": "비슬로",
+    "oneway": "yes",
+    "ref": "5;26"
+  }
+},
+{
+  "type": "way",
+  "id": 1563750112,
+  "nodes": [
+    13516602168,
+    13516602164
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "name": "비슬로",
+    "name:el": "Μπίσουλ-ρο",
+    "name:en": "Biseul-ro",
+    "name:ko": "비슬로",
+    "oneway": "yes",
+    "ref": "5;26"
+  }
+},
+{
+  "type": "way",
+  "id": 1563750113,
+  "nodes": [
+    14234057975,
+    13516602168
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "lanes": "4",
+    "layer": "1",
+    "name": "비슬로",
+    "name:el": "Μπίσουλ-ρο",
+    "name:en": "Biseul-ro",
+    "name:ko": "비슬로",
+    "oneway": "yes",
+    "ref": "5;26",
+    "turn:lanes": "left|through|through|through;right"
+  }
+},
+{
+  "type": "way",
+  "id": 1563750114,
+  "nodes": [
+    14234057977,
+    1338093901,
+    14234018083
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "5",
+    "name": "비슬로",
+    "name:el": "Μπίσουλ-ρο",
+    "name:en": "Biseul-ro",
+    "name:ko": "비슬로",
+    "oneway": "yes",
+    "ref": "5;26",
+    "turn:lanes": "reverse|through|through|through|right"
+  }
+},
+{
+  "type": "way",
+  "id": 1563750115,
+  "nodes": [
+    14234018083,
+    1338093886
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "4",
+    "name": "비슬로",
+    "name:el": "Μπίσουλ-ρο",
+    "name:en": "Biseul-ro",
+    "name:ko": "비슬로",
+    "oneway": "yes",
+    "ref": "5;26",
+    "turn:lanes": "left|through|through|right"
+  }
+},
+{
+  "type": "way",
+  "id": 1563753498,
+  "nodes": [
+    14234232847,
+    13516602155,
+    13516602156,
+    13516602162
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "4",
+    "name": "비슬로",
+    "name:el": "Μπίσουλ-ρο",
+    "name:en": "Biseul-ro",
+    "name:ko": "비슬로",
+    "oneway": "yes",
+    "ref": "5;26",
+    "turn:lanes": "left|through|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 1563753500,
+  "nodes": [
+    13516602149,
+    13516602147,
+    13516602152
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "name": "비슬로",
+    "name:el": "Μπίσουλ-ρο",
+    "name:en": "Biseul-ro",
+    "name:ko": "비슬로",
+    "oneway": "yes",
+    "ref": "5;26",
+    "turn:lanes": "through|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 1563753501,
+  "nodes": [
+    14234232858,
+    5590041539
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "name": "비슬로",
+    "name:el": "Μπίσουλ-ρο",
+    "name:en": "Biseul-ro",
+    "name:ko": "비슬로",
+    "oneway": "yes",
+    "ref": "5;26",
+    "turn:lanes": "left|through|right"
+  }
+},
+{
+  "type": "way",
+  "id": 1563753502,
+  "nodes": [
+    11217043049,
+    14234232848
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "name": "비슬로",
+    "name:el": "Μπίσουλ-ρο",
+    "name:en": "Biseul-ro",
+    "name:ko": "비슬로",
+    "oneway": "yes",
+    "ref": "5;26",
+    "turn:lanes": "left;through|through|through;right"
+  }
+},
+{
+  "type": "way",
+  "id": 1563753503,
+  "nodes": [
+    1338093907,
+    11217043050
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "name": "비슬로",
+    "name:el": "Μπίσουλ-ρο",
+    "name:en": "Biseul-ro",
+    "name:ko": "비슬로",
+    "oneway": "yes",
+    "ref": "5;26"
+  }
+},
+{
+  "type": "way",
+  "id": 1563753504,
+  "nodes": [
+    14234232860,
+    14234232851,
+    13516602148
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "name": "비슬로",
+    "name:el": "Μπίσουλ-ρο",
+    "name:en": "Biseul-ro",
+    "name:ko": "비슬로",
+    "oneway": "yes",
+    "ref": "5;26",
+    "turn:lanes": "through|through|through;right"
+  }
+},
+{
+  "type": "way",
+  "id": 1563753505,
+  "nodes": [
+    14234232848,
+    14234232858
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "4",
+    "name": "비슬로",
+    "name:el": "Μπίσουλ-ρο",
+    "name:en": "Biseul-ro",
+    "name:ko": "비슬로",
+    "oneway": "yes",
+    "ref": "5;26",
+    "turn:lanes": "reverse|through|through|through;right"
   }
 },
 {
@@ -333520,8 +333807,8 @@
 {
   "type": "node",
   "id": 1338093880,
-  "lat": 35.7883917,
-  "lon": 128.4624958
+  "lat": 35.7884004,
+  "lon": 128.4625085
 },
 {
   "type": "node",
@@ -333568,8 +333855,8 @@
 {
   "type": "node",
   "id": 5590041539,
-  "lat": 35.7884728,
-  "lon": 128.4626962
+  "lat": 35.7884603,
+  "lon": 128.4626607
 },
 {
   "type": "node",
@@ -333681,6 +333968,30 @@
 },
 {
   "type": "node",
+  "id": 14234232848,
+  "lat": 35.7887276,
+  "lon": 128.4633594
+},
+{
+  "type": "node",
+  "id": 14234232851,
+  "lat": 35.7884720,
+  "lon": 128.4629986
+},
+{
+  "type": "node",
+  "id": 14234232858,
+  "lat": 35.7886480,
+  "lon": 128.4631604
+},
+{
+  "type": "node",
+  "id": 14234232860,
+  "lat": 35.7883671,
+  "lon": 128.4627220
+},
+{
+  "type": "node",
   "id": 414665685,
   "lat": 35.7896231,
   "lon": 128.4693129
@@ -333694,14 +334005,14 @@
 {
   "type": "node",
   "id": 1338093886,
-  "lat": 35.7894951,
-  "lon": 128.4664100
+  "lat": 35.7894733,
+  "lon": 128.4664073
 },
 {
   "type": "node",
   "id": 1338093887,
-  "lat": 35.7893100,
-  "lon": 128.4677949
+  "lat": 35.7893149,
+  "lon": 128.4678492
 },
 {
   "type": "node",
@@ -333760,8 +334071,8 @@
 {
   "type": "node",
   "id": 13516602151,
-  "lat": 35.7894836,
-  "lon": 128.4659042
+  "lat": 35.7894820,
+  "lon": 128.4658995
 },
 {
   "type": "node",
@@ -333826,8 +334137,8 @@
 {
   "type": "node",
   "id": 13516602162,
-  "lat": 35.7893424,
-  "lon": 128.4663831
+  "lat": 35.7893402,
+  "lon": 128.4663979
 },
 {
   "type": "node",
@@ -333846,6 +334157,42 @@
   "id": 13516602167,
   "lat": 35.7893197,
   "lon": 128.4687865
+},
+{
+  "type": "node",
+  "id": 14234018075,
+  "lat": 35.7893002,
+  "lon": 128.4667595
+},
+{
+  "type": "node",
+  "id": 14234018083,
+  "lat": 35.7893786,
+  "lon": 128.4671226
+},
+{
+  "type": "node",
+  "id": 14234057975,
+  "lat": 35.7897023,
+  "lon": 128.4698698
+},
+{
+  "type": "node",
+  "id": 14234057976,
+  "lat": 35.7893161,
+  "lon": 128.4680526
+},
+{
+  "type": "node",
+  "id": 14234057977,
+  "lat": 35.7893281,
+  "lon": 128.4675819
+},
+{
+  "type": "node",
+  "id": 14234232847,
+  "lat": 35.7893562,
+  "lon": 128.4659061
 },
 {
   "type": "node",
