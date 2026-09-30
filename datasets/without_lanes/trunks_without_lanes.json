@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-09-29T22:27:50Z",
-    "timestamp_areas_base": "2026-09-29T04:46:06Z",
+    "timestamp_osm_base": "2026-09-30T22:25:42Z",
+    "timestamp_areas_base": "2026-09-29T07:52:35Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -28584,32 +28584,6 @@
     "name:ko-Latn": "bundangsuseoro",
     "oneway": "yes",
     "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 78991163,
-  "nodes": [
-    923879618,
-    923879198
-  ],
-  "tags": {
-    "bridge": "yes",
-    "expressway": "yes",
-    "highway": "trunk",
-    "layer": "1"
-  }
-},
-{
-  "type": "way",
-  "id": 78991217,
-  "nodes": [
-    305547174,
-    923879618
-  ],
-  "tags": {
-    "expressway": "yes",
-    "highway": "trunk"
   }
 },
 {
@@ -125155,11 +125129,12 @@
   "id": 478621098,
   "nodes": [
     4718336420,
-    4726263548
+    4718336421
   ],
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "60",
     "name": "삼성대로",
     "name:en": "Samsung-daero",
     "name:ko": "삼성대로",
@@ -125392,11 +125367,13 @@
   "id": 479544505,
   "nodes": [
     4718336141,
+    14235224613,
     4718336142
   ],
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "60",
     "name": "삼성대로",
     "name:en": "Samsung-daero",
     "name:ko": "삼성대로",
@@ -286104,7 +286081,9 @@
     9060310932,
     9060310933,
     9060310934,
+    14233079109,
     9060310935,
+    14233079119,
     9060310936,
     9060310938,
     9060310939,
@@ -298673,6 +298652,14 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "name": "삼성대로",
+    "name:en": "Samsung-daero",
+    "name:ja": "三星大路",
+    "name:ko": "삼성대로",
+    "name:ko-Hani": "三星大路",
+    "name:zh": "三星大路",
+    "name:zh-Hans": "三星大路",
+    "name:zh-Hant": "三星大路",
     "oneway": "yes"
   }
 },
@@ -427214,6 +427201,12 @@
 },
 {
   "type": "node",
+  "id": 14233079119,
+  "lat": 35.9880364,
+  "lon": 126.9190870
+},
+{
+  "type": "node",
   "id": 9060310923,
   "lat": 35.9950179,
   "lon": 126.9195979
@@ -427271,6 +427264,12 @@
   "id": 9060310935,
   "lat": 35.9892121,
   "lon": 126.9194002
+},
+{
+  "type": "node",
+  "id": 14233079109,
+  "lat": 35.9895836,
+  "lon": 126.9194726
 },
 {
   "type": "node",
@@ -531623,24 +531622,6 @@
   "id": 2630912636,
   "lat": 36.2510902,
   "lon": 127.5097370
-},
-{
-  "type": "node",
-  "id": 305547174,
-  "lat": 36.2532416,
-  "lon": 127.5115220
-},
-{
-  "type": "node",
-  "id": 923879198,
-  "lat": 36.2527842,
-  "lon": 127.5109550
-},
-{
-  "type": "node",
-  "id": 923879618,
-  "lat": 36.2530663,
-  "lon": 127.5112973
 },
 {
   "type": "node",
@@ -645567,26 +645548,32 @@
 {
   "type": "node",
   "id": 4718336141,
-  "lat": 36.8313132,
-  "lon": 127.1618040
+  "lat": 36.8310890,
+  "lon": 127.1618981
 },
 {
   "type": "node",
   "id": 4718336142,
-  "lat": 36.8336651,
-  "lon": 127.1620198
+  "lat": 36.8337049,
+  "lon": 127.1619184
 },
 {
   "type": "node",
   "id": 4718336420,
-  "lat": 36.8336363,
-  "lon": 127.1615499
+  "lat": 36.8337382,
+  "lon": 127.1614514
 },
 {
   "type": "node",
-  "id": 4726263548,
-  "lat": 36.8312922,
-  "lon": 127.1615940
+  "id": 4718336421,
+  "lat": 36.8310886,
+  "lon": 127.1617194
+},
+{
+  "type": "node",
+  "id": 14235224613,
+  "lat": 36.8322992,
+  "lon": 127.1618756
 },
 {
   "type": "node",
