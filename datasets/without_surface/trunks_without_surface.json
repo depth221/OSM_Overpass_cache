@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-09-29T22:28:49Z",
-    "timestamp_areas_base": "2026-09-29T04:46:06Z",
+    "timestamp_osm_base": "2026-09-30T22:26:44Z",
+    "timestamp_areas_base": "2026-09-30T00:32:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -29557,32 +29557,6 @@
 },
 {
   "type": "way",
-  "id": 78991163,
-  "nodes": [
-    923879618,
-    923879198
-  ],
-  "tags": {
-    "bridge": "yes",
-    "expressway": "yes",
-    "highway": "trunk",
-    "layer": "1"
-  }
-},
-{
-  "type": "way",
-  "id": 78991217,
-  "nodes": [
-    305547174,
-    923879618
-  ],
-  "tags": {
-    "expressway": "yes",
-    "highway": "trunk"
-  }
-},
-{
-  "type": "way",
   "id": 79505683,
   "nodes": [
     1806881690,
@@ -37720,6 +37694,78 @@
     "oneway": "yes",
     "ref": "58",
     "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 116446438,
+  "nodes": [
+    1312764984,
+    1312765016,
+    1312765004
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "3",
+    "name": "삼성대로",
+    "name:en": "Samseong-daero",
+    "name:ja": "三星大路",
+    "name:ko": "삼성대로",
+    "name:ko-Hani": "三星大路",
+    "name:ko-Latn": "Samseongdaero",
+    "name:zh": "三星大路",
+    "name:zh-Hans": "三星大路",
+    "name:zh-Hant": "三星大路",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 116562462,
+  "nodes": [
+    1312765004,
+    1313830416
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "3",
+    "layer": "-1",
+    "maxspeed": "80",
+    "name": "삼성대로",
+    "name:en": "Samseong-daero",
+    "name:ja": "北部地下車道",
+    "name:ko": "삼성대로",
+    "name:ko-Hani": "北部地下車道",
+    "name:ko-Latn": "Samseongdaero",
+    "name:zh": "北部地下車道",
+    "name:zh-Hans": "北部地下车道",
+    "name:zh-Hant": "北部地下車道",
+    "oneway": "yes",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 117173150,
+  "nodes": [
+    1313830416,
+    1319859682,
+    4681078561
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "3",
+    "maxspeed": "80",
+    "name": "삼성대로",
+    "name:en": "Samseong-daero",
+    "name:ja": "三星大路",
+    "name:ko": "삼성대로",
+    "name:ko-Hani": "三星大路",
+    "name:ko-Latn": "Samseongdaero",
+    "name:zh": "三星大路",
+    "name:zh-Hans": "三星大路",
+    "name:zh-Hant": "三星大路",
+    "oneway": "yes"
   }
 },
 {
@@ -51894,16 +51940,33 @@
 },
 {
   "type": "way",
+  "id": 124321263,
+  "nodes": [
+    1384050853,
+    1384074184
+  ],
+  "tags": {
+    "highway": "trunk",
+    "int_name": "Samsung Street",
+    "lanes": "4",
+    "name": "삼성대로",
+    "name:en": "Samsung-daero",
+    "name:ko": "삼성대로",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
   "id": 124323600,
   "nodes": [
     1384074184,
-    1384074232,
     1384074205
   ],
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
     "lanes": "3",
+    "maxspeed": "60",
     "name": "삼성대로",
     "name:en": "Samsung-daero",
     "name:ja": "三星大路",
@@ -51928,6 +51991,15 @@
     "highway": "trunk",
     "lanes": "3",
     "layer": "1",
+    "maxspeed": "60",
+    "name": "삼성대로",
+    "name:en": "Samsung-daero",
+    "name:ja": "三星大路",
+    "name:ko": "삼성대로",
+    "name:ko-Hani": "三星大路",
+    "name:zh": "三星大路",
+    "name:zh-Hans": "三星大路",
+    "name:zh-Hant": "三星大路",
     "oneway": "yes"
   }
 },
@@ -137315,6 +137387,29 @@
 },
 {
   "type": "way",
+  "id": 477693801,
+  "nodes": [
+    1384050835,
+    1384050879,
+    1019504440
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "4",
+    "maxspeed": "80",
+    "name": "삼성대로",
+    "name:en": "Samsung-daero",
+    "name:ja": "三星大路",
+    "name:ko": "삼성대로",
+    "name:ko-Hani": "三星大路",
+    "name:zh": "三星大路",
+    "name:zh-Hans": "三星大路",
+    "name:zh-Hant": "三星大路",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
   "id": 477966011,
   "nodes": [
     2364565248,
@@ -137376,11 +137471,12 @@
   "id": 478621098,
   "nodes": [
     4718336420,
-    4726263548
+    4718336421
   ],
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "60",
     "name": "삼성대로",
     "name:en": "Samsung-daero",
     "name:ko": "삼성대로",
@@ -137718,11 +137814,13 @@
   "id": 479544505,
   "nodes": [
     4718336141,
+    14235224613,
     4718336142
   ],
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "60",
     "name": "삼성대로",
     "name:en": "Samsung-daero",
     "name:ko": "삼성대로",
@@ -163259,6 +163357,118 @@
 },
 {
   "type": "way",
+  "id": 506253559,
+  "nodes": [
+    1963766107,
+    1312764991
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "4",
+    "maxspeed": "80",
+    "name": "삼성대로",
+    "name:en": "Samseong-daero",
+    "name:ja": "三星大路",
+    "name:ko": "삼성대로",
+    "name:ko-Hani": "三星大路",
+    "name:ko-Latn": "Samseongdaero",
+    "name:zh": "三星大路",
+    "name:zh-Hans": "三星大路",
+    "name:zh-Hant": "三星大路",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 506253560,
+  "nodes": [
+    1312764991,
+    1312764984
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "4",
+    "maxspeed": "80",
+    "name": "삼성대로",
+    "name:en": "Samseong-daero",
+    "name:ko": "삼성대로",
+    "name:ko-Latn": "Samseongdaero",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 506253564,
+  "nodes": [
+    4726068597,
+    9473418672,
+    1810053233,
+    1810053235,
+    4725113961,
+    1307728609,
+    4752299355
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "4",
+    "maxspeed": "80",
+    "name": "삼성대로",
+    "name:en": "Samseong-daero",
+    "name:ja": "三星大路",
+    "name:ko": "삼성대로",
+    "name:ko-Hani": "三星大路",
+    "name:ko-Latn": "Samseongdaero",
+    "name:zh": "三星大路",
+    "name:zh-Hans": "三星大路",
+    "name:zh-Hant": "三星大路",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 506253565,
+  "nodes": [
+    4752299355,
+    1313795545
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "4",
+    "maxspeed": "80",
+    "name": "삼성대로",
+    "name:en": "Samseong-daero",
+    "name:ko": "삼성대로",
+    "name:ko-Latn": "Samseongdaero",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 506253566,
+  "nodes": [
+    1313795545,
+    1312765001,
+    1312764975,
+    1963766107
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "4",
+    "maxspeed": "80",
+    "name": "삼성대로",
+    "name:en": "Samseong-daero",
+    "name:ja": "三星大路",
+    "name:ko": "삼성대로",
+    "name:ko-Hani": "三星大路",
+    "name:ko-Latn": "Samseongdaero",
+    "name:zh": "三星大路",
+    "name:zh-Hans": "三星大路",
+    "name:zh-Hant": "三星大路",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
   "id": 506566963,
   "nodes": [
     4962751681,
@@ -187283,6 +187493,28 @@
     "ref": "38",
     "wikidata": "Q21709812",
     "wikipedia": "ko:서동대로"
+  }
+},
+{
+  "type": "way",
+  "id": 551331039,
+  "nodes": [
+    4681078561,
+    1384050835
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "5",
+    "maxspeed": "80",
+    "name": "삼성대로",
+    "name:en": "Samsung-daero",
+    "name:ja": "三星大路",
+    "name:ko": "삼성대로",
+    "name:ko-Hani": "三星大路",
+    "name:zh": "三星大路",
+    "name:zh-Hans": "三星大路",
+    "name:zh-Hant": "三星大路",
+    "oneway": "yes"
   }
 },
 {
@@ -227446,10 +227678,12 @@
   "nodes": [
     6141609428,
     1226482962,
+    14233079114,
     9060310937,
     9060310928,
     9060310929,
     1226483013,
+    14233076000,
     9060310927,
     1226482993,
     5312120409
@@ -297738,7 +297972,9 @@
     9060310932,
     9060310933,
     9060310934,
+    14233079109,
     9060310935,
+    14233079119,
     9060310936,
     9060310938,
     9060310939,
@@ -317858,6 +318094,14 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "name": "삼성대로",
+    "name:en": "Samsung-daero",
+    "name:ja": "三星大路",
+    "name:ko": "삼성대로",
+    "name:ko-Hani": "三星大路",
+    "name:zh": "三星大路",
+    "name:zh-Hans": "三星大路",
+    "name:zh-Hant": "三星大路",
     "oneway": "yes"
   }
 },
@@ -420309,6 +420553,18 @@
 },
 {
   "type": "node",
+  "id": 14233079114,
+  "lat": 35.9861978,
+  "lon": 126.9184995
+},
+{
+  "type": "node",
+  "id": 14233079119,
+  "lat": 35.9880364,
+  "lon": 126.9190870
+},
+{
+  "type": "node",
   "id": 1226482844,
   "lat": 35.9934611,
   "lon": 126.9198478
@@ -420408,6 +420664,18 @@
   "id": 9060310935,
   "lat": 35.9892121,
   "lon": 126.9194002
+},
+{
+  "type": "node",
+  "id": 14233076000,
+  "lat": 35.9895339,
+  "lon": 126.9195564
+},
+{
+  "type": "node",
+  "id": 14233079109,
+  "lat": 35.9895836,
+  "lon": 126.9194726
 },
 {
   "type": "node",
@@ -521412,24 +521680,6 @@
   "id": 2630912636,
   "lat": 36.2510902,
   "lon": 127.5097370
-},
-{
-  "type": "node",
-  "id": 305547174,
-  "lat": 36.2532416,
-  "lon": 127.5115220
-},
-{
-  "type": "node",
-  "id": 923879198,
-  "lat": 36.2527842,
-  "lon": 127.5109550
-},
-{
-  "type": "node",
-  "id": 923879618,
-  "lat": 36.2530663,
-  "lon": 127.5112973
 },
 {
   "type": "node",
@@ -661857,6 +662107,102 @@
 },
 {
   "type": "node",
+  "id": 4726068597,
+  "lat": 36.8392287,
+  "lon": 127.1201235
+},
+{
+  "type": "node",
+  "id": 1307728609,
+  "lat": 36.8391542,
+  "lon": 127.1239543
+},
+{
+  "type": "node",
+  "id": 1810053233,
+  "lat": 36.8391668,
+  "lon": 127.1230926
+},
+{
+  "type": "node",
+  "id": 1810053235,
+  "lat": 36.8391564,
+  "lon": 127.1238062
+},
+{
+  "type": "node",
+  "id": 4725113961,
+  "lat": 36.8391549,
+  "lon": 127.1239054
+},
+{
+  "type": "node",
+  "id": 9473418672,
+  "lat": 36.8392245,
+  "lon": 127.1203251
+},
+{
+  "type": "node",
+  "id": 1312764975,
+  "lat": 36.8390514,
+  "lon": 127.1311103
+},
+{
+  "type": "node",
+  "id": 1312765001,
+  "lat": 36.8390582,
+  "lon": 127.1306329
+},
+{
+  "type": "node",
+  "id": 1313795545,
+  "lat": 36.8391049,
+  "lon": 127.1289376
+},
+{
+  "type": "node",
+  "id": 4752299355,
+  "lat": 36.8391161,
+  "lon": 127.1281975
+},
+{
+  "type": "node",
+  "id": 1312764984,
+  "lat": 36.8390395,
+  "lon": 127.1346230
+},
+{
+  "type": "node",
+  "id": 1312764991,
+  "lat": 36.8390472,
+  "lon": 127.1340845
+},
+{
+  "type": "node",
+  "id": 1312765004,
+  "lat": 36.8390405,
+  "lon": 127.1378807
+},
+{
+  "type": "node",
+  "id": 1312765016,
+  "lat": 36.8390647,
+  "lon": 127.1354052
+},
+{
+  "type": "node",
+  "id": 1313830416,
+  "lat": 36.8390290,
+  "lon": 127.1386884
+},
+{
+  "type": "node",
+  "id": 1963766107,
+  "lat": 36.8390554,
+  "lon": 127.1334966
+},
+{
+  "type": "node",
   "id": 4718336417,
   "lat": 36.8273531,
   "lon": 127.1638016
@@ -661876,50 +662222,86 @@
 {
   "type": "node",
   "id": 4718336141,
-  "lat": 36.8313132,
-  "lon": 127.1618040
+  "lat": 36.8310890,
+  "lon": 127.1618981
 },
 {
   "type": "node",
   "id": 4718336142,
-  "lat": 36.8336651,
-  "lon": 127.1620198
+  "lat": 36.8337049,
+  "lon": 127.1619184
 },
 {
   "type": "node",
   "id": 4718336420,
-  "lat": 36.8336363,
-  "lon": 127.1615499
+  "lat": 36.8337382,
+  "lon": 127.1614514
 },
 {
   "type": "node",
-  "id": 4726263548,
-  "lat": 36.8312922,
-  "lon": 127.1615940
+  "id": 4718336421,
+  "lat": 36.8310886,
+  "lon": 127.1617194
+},
+{
+  "type": "node",
+  "id": 14235224613,
+  "lat": 36.8322992,
+  "lon": 127.1618756
+},
+{
+  "type": "node",
+  "id": 1319859682,
+  "lat": 36.8389727,
+  "lon": 127.1411057
+},
+{
+  "type": "node",
+  "id": 1384050835,
+  "lat": 36.8388785,
+  "lon": 127.1452794
+},
+{
+  "type": "node",
+  "id": 1384050879,
+  "lat": 36.8388599,
+  "lon": 127.1460882
+},
+{
+  "type": "node",
+  "id": 4681078561,
+  "lat": 36.8389106,
+  "lon": 127.1422977
 },
 {
   "type": "node",
   "id": 1015980908,
-  "lat": 36.8389082,
-  "lon": 127.1516716
+  "lat": 36.8388923,
+  "lon": 127.1516734
+},
+{
+  "type": "node",
+  "id": 1019504440,
+  "lat": 36.8388444,
+  "lon": 127.1475892
+},
+{
+  "type": "node",
+  "id": 1384050853,
+  "lat": 36.8388041,
+  "lon": 127.1493429
 },
 {
   "type": "node",
   "id": 1384074184,
-  "lat": 36.8387911,
-  "lon": 127.1493761
+  "lat": 36.8388032,
+  "lon": 127.1494379
 },
 {
   "type": "node",
   "id": 1384074205,
-  "lat": 36.8388779,
-  "lon": 127.1511011
-},
-{
-  "type": "node",
-  "id": 1384074232,
-  "lat": 36.8388156,
-  "lon": 127.1497323
+  "lat": 36.8388624,
+  "lon": 127.1511621
 },
 {
   "type": "node",
