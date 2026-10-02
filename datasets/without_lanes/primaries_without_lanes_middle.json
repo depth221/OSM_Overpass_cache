@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-01T22:50:34Z",
-    "timestamp_areas_base": "2026-09-30T08:16:49Z",
+    "timestamp_osm_base": "2026-10-02T22:28:35Z",
+    "timestamp_areas_base": "2026-10-01T13:42:51Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3486,6 +3486,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxheight": "4.2",
     "name": "녹사평대로",
     "name:en": "Noksapyeong-daero",
     "name:ja": "緑莎坪大路",
@@ -5026,7 +5027,8 @@
     "name:en": "Noksapyeong-daero",
     "name:ja": "緑莎坪大路",
     "name:ko": "녹사평대로",
-    "ref": "31"
+    "ref": "31",
+    "surface": "asphalt"
   }
 },
 {
@@ -6444,6 +6446,7 @@
     "not:name": "강남대로 (Gangnam-daero)",
     "oneway": "yes",
     "ref": "41;AH1",
+    "sidewalk:both": "no",
     "surface": "asphalt"
   }
 },
@@ -20881,14 +20884,16 @@
   "type": "way",
   "id": 176767459,
   "nodes": [
-    5716957031,
+    14241354276,
     1834821189,
+    14241354274,
     1883279808,
     1834821191,
     13231900614,
     1883279816,
     1843504786,
     5300185588,
+    14241354266,
     5716957029,
     6673585408
   ],
@@ -27059,6 +27064,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "테헤란로",
     "name:en": "Teheran-ro",
     "name:ja": "テヘラン路",
@@ -27085,6 +27091,7 @@
     "destination:lang:en:backward": "Sapyeong-daero;Sinnonhyeon Station;Banpo IC",
     "destination:lang:en:forward": "Nat'l Cemetery;Isu Jct;Seoul St. Mary's Hospital",
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "사평대로",
     "name:en": "Sapyeong-daero",
     "name:ja": "砂坪大路",
@@ -27319,11 +27326,13 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "녹사평대로",
     "name:en": "Noksapyeong-daero",
     "name:ja": "緑莎坪大路",
     "name:ko": "녹사평대로",
-    "ref": "31"
+    "ref": "31",
+    "surface": "asphalt"
   }
 },
 {
@@ -27782,6 +27791,7 @@
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
     "oneway": "yes",
+    "surface": "asphalt",
     "wikidata": "Q16101567",
     "wikipedia": "ko:한강대로"
   }
@@ -31256,11 +31266,13 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "녹사평대로",
     "name:en": "Noksapyeong-daero",
     "name:ja": "緑莎坪大路",
     "name:ko": "녹사평대로",
-    "ref": "31"
+    "ref": "31",
+    "surface": "asphalt"
   }
 },
 {
@@ -31906,6 +31918,7 @@
     "cycleway:left": "no",
     "cycleway:right": "shared_lane",
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "한강대로",
     "name:en": "Hangang-daero",
     "name:ja": "漢江大路",
@@ -36253,23 +36266,6 @@
     "sidewalk": "separate",
     "source:highway": "성남시 내부도로망 현황, 2035년 성남 도시기본계획, 페이지 185",
     "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 309355890,
-  "nodes": [
-    1132502920,
-    3146887529,
-    7888119754,
-    1132502922
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "사평대로",
-    "name:en": "Sapyeong-daero",
-    "name:ko": "사평대로",
-    "oneway": "yes"
   }
 },
 {
@@ -46980,26 +46976,6 @@
 },
 {
   "type": "way",
-  "id": 438360327,
-  "nodes": [
-    4360970517,
-    2385986710
-  ],
-  "tags": {
-    "highway": "primary",
-    "lane_markings": "yes",
-    "name": "한남대로",
-    "name:en": "Hannam-daero",
-    "name:ja": "江南大路",
-    "name:ko": "한남대로",
-    "name:ko-Latn": "Hannam-daero",
-    "oneway": "yes",
-    "ref": "41;AH1",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
   "id": 438360328,
   "nodes": [
     2385986721,
@@ -56038,6 +56014,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "강남터미널고가도로",
     "name:en": "Gangnamteomineolgogado-ro",
     "name:ko": "강남터미널고가도로",
@@ -56174,6 +56151,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "남부순환로",
     "name:en": "Nambusunhwan-ro",
     "name:ja": "南部循環路",
@@ -61169,10 +61147,12 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "사평대로",
     "name:en": "Sapyeong-daero",
     "name:ja": "沙平大路",
-    "name:ko": "사평대로"
+    "name:ko": "사평대로",
+    "surface": "asphalt"
   }
 },
 {
@@ -61432,6 +61412,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "서초대로",
     "name:en": "Seocho-daero",
     "name:ko": "서초대로",
@@ -64035,6 +64016,7 @@
     "cycleway:left": "no",
     "cycleway:right": "shared_lane",
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "한강대로",
     "name:en": "Hangang-daero",
     "name:ja": "漢江大路",
@@ -64042,6 +64024,7 @@
     "name:ko-Latn": "Hangang-daero",
     "oneway": "yes",
     "oneway:bus": "no",
+    "surface": "asphalt",
     "wikidata": "Q16101567",
     "wikipedia": "ko:한강대로"
   }
@@ -64059,12 +64042,14 @@
     "cycleway:left": "no",
     "cycleway:right": "shared_lane",
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "한강대로",
     "name:en": "Hangang-daero",
     "name:ja": "漢江大路",
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
     "oneway": "yes",
+    "surface": "asphalt",
     "wikidata": "Q16101567",
     "wikipedia": "ko:한강대로"
   }
@@ -64965,6 +64950,8 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "50",
+    "maxspeed:type": "sign",
     "name": "대학로",
     "name:en": "Daehak-ro",
     "name:ja": "テハクロ(大学路)",
@@ -68727,11 +68714,13 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "반포대로",
     "name:en": "Banpo-daero",
     "name:ko": "반포대로",
     "oneway": "yes",
-    "ref": "31"
+    "ref": "31",
+    "surface": "asphalt"
   }
 },
 {
@@ -68743,6 +68732,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "반포대로",
     "name:en": "Banpo-daero",
     "name:ko": "반포대로",
@@ -86109,29 +86099,6 @@
 },
 {
   "type": "way",
-  "id": 560607456,
-  "nodes": [
-    5406399766,
-    11204519578,
-    5406399772,
-    5406399767
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "남부순환로",
-    "name:en": "Nambusunhwan-ro",
-    "name:ja": "南部循環路",
-    "name:ko": "남부순환로",
-    "name:zh": "南部循环路",
-    "oneway": "yes",
-    "ref": "92",
-    "surface": "asphalt",
-    "wikidata": "Q12589834",
-    "wikipedia": "ko:남부순환로"
-  }
-},
-{
-  "type": "way",
   "id": 560607457,
   "nodes": [
     5406399765,
@@ -86160,6 +86127,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "남부순환로",
     "name:en": "Nambusunhwan-ro",
     "name:ja": "南部循環路",
@@ -86236,6 +86204,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "남부순환로",
     "name:en": "Nambusunhwan-ro",
     "name:ja": "南部循環路",
@@ -93957,6 +93926,7 @@
     "cycleway:left": "no",
     "cycleway:right": "shared_lane",
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "한강대로",
     "name:en": "Hangang-daero",
     "name:ja": "漢江大路",
@@ -93964,6 +93934,7 @@
     "name:ko-Latn": "Hangang-daero",
     "oneway": "yes",
     "oneway:bus": "no",
+    "surface": "asphalt",
     "wikidata": "Q16101567",
     "wikipedia": "ko:한강대로"
   }
@@ -94092,28 +94063,6 @@
 },
 {
   "type": "way",
-  "id": 585341901,
-  "nodes": [
-    5593950706,
-    5593950713,
-    5593950705,
-    5936945095,
-    5593950704
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "세종대로",
-    "name:en": "Sejong-daero",
-    "name:ja": "世宗大路",
-    "name:ko": "세종대로",
-    "name:zh": "世宗大路",
-    "oneway": "yes",
-    "wikidata": "Q623632",
-    "wikipedia": "ko:세종대로"
-  }
-},
-{
-  "type": "way",
   "id": 585341902,
   "nodes": [
     5593950674,
@@ -94121,10 +94070,12 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "퇴계로",
     "name:en": "Toegye-ro",
     "name:ko": "퇴계로",
     "oneway": "yes",
+    "surface": "asphalt",
     "wikidata": "Q16101532",
     "wikipedia": "ko:퇴계로 (서울)"
   }
@@ -94366,6 +94317,7 @@
     "name:en": "Hangang-daero",
     "name:ko": "한강대로",
     "oneway": "yes",
+    "surface": "asphalt",
     "wikidata": "Q16101567",
     "wikipedia": "ko:한강대로"
   }
@@ -97815,11 +97767,11 @@
     5742447723,
     5742447730,
     5742447728,
-    5742410656,
-    1835221243,
-    1835221145,
-    13231900613,
-    5297289075,
+    14241354284,
+    14241354283,
+    14241354282,
+    14241354281,
+    14241354280,
     14235877098,
     14235997815,
     14235877099,
@@ -97828,6 +97780,7 @@
     14235997816,
     14235997802,
     14235997803,
+    14241365526,
     14235997804,
     14235997805,
     14235997806,
@@ -97835,6 +97788,7 @@
     14235997808,
     14235997809,
     14235997810,
+    14241101157,
     14235997811,
     14235997812,
     14235997813,
@@ -99298,6 +99252,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "퇴계로",
     "name:en": "Toegye-ro",
     "name:ja": "退渓路",
@@ -99317,6 +99272,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "한강대로",
     "name:en": "Hangang-daero",
     "name:ko": "한강대로",
@@ -99863,12 +99819,14 @@
     "cycleway:left": "no",
     "cycleway:right": "shared_lane",
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "한강대로",
     "name:en": "Hangang-daero",
     "name:ja": "漢江大路",
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
     "oneway": "yes",
+    "surface": "asphalt",
     "wikidata": "Q16101567",
     "wikipedia": "ko:한강대로"
   }
@@ -99892,6 +99850,7 @@
     "cycleway:left": "no",
     "cycleway:right": "shared_lane",
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "한강대로",
     "name:en": "Hangang-daero",
     "name:ja": "漢江大路",
@@ -99980,12 +99939,14 @@
     "cycleway:left": "no",
     "cycleway:right": "shared_lane",
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "한강대로",
     "name:en": "Hangang-daero",
     "name:ja": "漢江大路",
     "name:ko": "한강대로",
     "name:ko-Latn": "Hangang-daero",
     "oneway": "yes",
+    "surface": "asphalt",
     "wikidata": "Q16101567",
     "wikipedia": "ko:한강대로"
   }
@@ -100111,6 +100072,7 @@
     "bicycle": "designated",
     "cycleway": "shared_lane",
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "세종대로",
     "name:en": "Sejong-daero",
     "name:ja": "世宗大路",
@@ -100154,12 +100116,14 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "세종대로",
     "name:en": "Sejong-daero",
     "name:ja": "世宗大路",
     "name:ko": "세종대로",
     "name:zh": "世宗大路",
     "oneway": "yes",
+    "surface": "asphalt",
     "wikidata": "Q623632",
     "wikipedia": "ko:세종대로"
   }
@@ -107592,6 +107556,7 @@
     10695336498,
     1000489042,
     1000488942,
+    14242004504,
     5262198867,
     7852232340
   ],
@@ -111090,10 +111055,12 @@
     "destination:lang:en:backward": "Sapyeong-daero;Sinnonhyeon Station;Banpo IC",
     "destination:lang:en:forward": "Nat'l Cemetery;Isu Jct;Seoul St. Mary's Hospital",
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "사평대로",
     "name:en": "Sapyeong-daero",
     "name:ja": "砂坪大路",
-    "name:ko": "사평대로"
+    "name:ko": "사평대로",
+    "surface": "asphalt"
   }
 },
 {
@@ -121826,6 +121793,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "세종대로",
     "name:en": "Sejong-daero",
     "name:ja": "世宗大路",
@@ -135719,6 +135687,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "테헤란로",
     "name:en": "Teheran-ro",
     "name:ja": "テヘラン路",
@@ -135765,6 +135734,7 @@
     "bicycle": "designated",
     "cycleway": "shared_lane",
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "세종대로",
     "name:en": "Sejong-daero",
     "name:ja": "世宗大路",
@@ -154413,6 +154383,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "서초대로",
     "name:en": "Seocho-daero",
     "name:ja": "瑞草大路",
@@ -165037,6 +165008,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "퇴계로",
     "name:en": "Toegye-ro",
     "name:ja": "退渓路",
@@ -165058,6 +165030,7 @@
     "alt_name:cs": "silnice Sjednocení",
     "alt_name:en": "Unification Road",
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "통일로",
     "name:el": "Τόνγιλ-ρο",
     "name:en": "Tongil-ro",
@@ -165081,6 +165054,7 @@
     "name:en": "Toegye-ro",
     "name:ko": "퇴계로",
     "oneway": "yes",
+    "surface": "asphalt",
     "wikidata": "Q16101532",
     "wikipedia": "ko:퇴계로 (서울)"
   }
@@ -165115,6 +165089,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "세종대로",
     "name:en": "Sejong-daero",
     "name:ja": "世宗大路",
@@ -180801,13 +180776,16 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
+    "maxheight": "4.3",
     "name": "한남대로",
     "name:en": "Hannam-daero",
     "name:ja": "漢南大路",
     "name:ko": "한남대로",
     "name:ko-Latn": "Hannam-daero",
     "oneway": "yes",
-    "ref": "41;AH1"
+    "ref": "41;AH1",
+    "surface": "asphalt"
   }
 },
 {
@@ -185531,6 +185509,7 @@
     "name:ko": "삼일대로",
     "name:ko-Latn": "Samil-daero",
     "oneway": "yes",
+    "surface": "asphalt",
     "wikidata": "Q12600302",
     "wikipedia": "ko:삼일대로"
   }
@@ -189470,6 +189449,8 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "50",
+    "maxspeed:type": "sign",
     "name": "대학로",
     "name:en": "Daehak-ro",
     "name:ja": "テハクロ(大学路)",
@@ -189509,6 +189490,8 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "50",
+    "maxspeed:type": "sign",
     "name": "대학로",
     "name:en": "Daehak-ro",
     "name:ja": "テハクロ(大学路)",
@@ -189530,6 +189513,8 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "50",
+    "maxspeed:type": "sign",
     "name": "대학로",
     "name:en": "Daehak-ro",
     "name:ja": "テハクロ(大学路)",
@@ -197376,7 +197361,8 @@
     "name": "사평지하도로",
     "name:en": "Sapyeongjihado-ro",
     "name:ko": "사평지하도로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "surface": "asphalt"
   }
 },
 {
@@ -197392,7 +197378,8 @@
     "name": "사평지하도로",
     "name:en": "Sapyeongjihado-ro",
     "name:ko": "사평지하도로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "surface": "asphalt"
   }
 },
 {
@@ -316578,56 +316565,38 @@
 {
   "type": "node",
   "id": 1834821191,
-  "lat": 37.4675473,
-  "lon": 126.9494148
-},
-{
-  "type": "node",
-  "id": 1835221145,
-  "lat": 37.4673034,
-  "lon": 126.9494116
-},
-{
-  "type": "node",
-  "id": 1835221243,
-  "lat": 37.4671510,
-  "lon": 126.9491159
+  "lat": 37.4675433,
+  "lon": 126.9494271
 },
 {
   "type": "node",
   "id": 1843504786,
-  "lat": 37.4675275,
-  "lon": 126.9489708
+  "lat": 37.4675073,
+  "lon": 126.9489748
 },
 {
   "type": "node",
   "id": 1883279808,
-  "lat": 37.4676003,
-  "lon": 126.9496333
+  "lat": 37.4676285,
+  "lon": 126.9496046
 },
 {
   "type": "node",
   "id": 1883279816,
-  "lat": 37.4675129,
-  "lon": 126.9492263
+  "lat": 37.4674980,
+  "lon": 126.9492303
 },
 {
   "type": "node",
   "id": 5300185588,
-  "lat": 37.4675404,
-  "lon": 126.9487563
+  "lat": 37.4675276,
+  "lon": 126.9487617
 },
 {
   "type": "node",
   "id": 5716957029,
   "lat": 37.4675634,
   "lon": 126.9485356
-},
-{
-  "type": "node",
-  "id": 5742410656,
-  "lat": 37.4670231,
-  "lon": 126.9486916
 },
 {
   "type": "node",
@@ -316655,33 +316624,51 @@
 },
 {
   "type": "node",
-  "id": 13231900613,
-  "lat": 37.4673519,
-  "lon": 126.9494916
+  "id": 13231900614,
+  "lat": 37.4675373,
+  "lon": 126.9493945
 },
 {
   "type": "node",
-  "id": 13231900614,
-  "lat": 37.4675423,
-  "lon": 126.9493873
+  "id": 14241354266,
+  "lat": 37.4675606,
+  "lon": 126.9485534
+},
+{
+  "type": "node",
+  "id": 14241354274,
+  "lat": 37.4676496,
+  "lon": 126.9496541
+},
+{
+  "type": "node",
+  "id": 14241354281,
+  "lat": 37.4673578,
+  "lon": 126.9494714
+},
+{
+  "type": "node",
+  "id": 14241354282,
+  "lat": 37.4673237,
+  "lon": 126.9493967
+},
+{
+  "type": "node",
+  "id": 14241354283,
+  "lat": 37.4671510,
+  "lon": 126.9491159
+},
+{
+  "type": "node",
+  "id": 14241354284,
+  "lat": 37.4670231,
+  "lon": 126.9486916
 },
 {
   "type": "node",
   "id": 1834821189,
-  "lat": 37.4676651,
-  "lon": 126.9498265
-},
-{
-  "type": "node",
-  "id": 5297289075,
-  "lat": 37.4675774,
-  "lon": 126.9498633
-},
-{
-  "type": "node",
-  "id": 5716957031,
-  "lat": 37.4678830,
-  "lon": 126.9503449
+  "lat": 37.4677308,
+  "lon": 126.9498366
 },
 {
   "type": "node",
@@ -316704,8 +316691,8 @@
 {
   "type": "node",
   "id": 14235997801,
-  "lat": 37.4690343,
-  "lon": 126.9519048
+  "lat": 37.4690155,
+  "lon": 126.9518119
 },
 {
   "type": "node",
@@ -316721,6 +316708,18 @@
 },
 {
   "type": "node",
+  "id": 14241354276,
+  "lat": 37.4678548,
+  "lon": 126.9501624
+},
+{
+  "type": "node",
+  "id": 14241354280,
+  "lat": 37.4675774,
+  "lon": 126.9498633
+},
+{
+  "type": "node",
   "id": 14235997802,
   "lat": 37.4702386,
   "lon": 126.9523441
@@ -316728,38 +316727,44 @@
 {
   "type": "node",
   "id": 14235997803,
-  "lat": 37.4715153,
-  "lon": 126.9527970
+  "lat": 37.4715068,
+  "lon": 126.9528480
 },
 {
   "type": "node",
   "id": 14235997804,
   "lat": 37.4727788,
-  "lon": 126.9531473
+  "lon": 126.9532419
 },
 {
   "type": "node",
   "id": 14235997805,
-  "lat": 37.4734329,
-  "lon": 126.9531315
+  "lat": 37.4734785,
+  "lon": 126.9532194
 },
 {
   "type": "node",
   "id": 14235997806,
-  "lat": 37.4745035,
-  "lon": 126.9529775
+  "lat": 37.4745303,
+  "lon": 126.9530485
 },
 {
   "type": "node",
   "id": 14235997807,
-  "lat": 37.4756958,
-  "lon": 126.9527566
+  "lat": 37.4757065,
+  "lon": 126.9528309
 },
 {
   "type": "node",
   "id": 14235997808,
-  "lat": 37.4767460,
-  "lon": 126.9525501
+  "lat": 37.4767514,
+  "lon": 126.9526042
+},
+{
+  "type": "node",
+  "id": 14241365526,
+  "lat": 37.4720918,
+  "lon": 126.9531154
 },
 {
   "type": "node",
@@ -318151,13 +318156,13 @@
   "type": "node",
   "id": 14235997809,
   "lat": 37.4777561,
-  "lon": 126.9523602
+  "lon": 126.9524041
 },
 {
   "type": "node",
   "id": 14235997810,
   "lat": 37.4781772,
-  "lon": 126.9523576
+  "lon": 126.9523880
 },
 {
   "type": "node",
@@ -318182,6 +318187,12 @@
   "id": 14235997814,
   "lat": 37.4804237,
   "lon": 126.9526899
+},
+{
+  "type": "node",
+  "id": 14241101157,
+  "lat": 37.4786649,
+  "lon": 126.9524140
 },
 {
   "type": "node",
@@ -331421,12 +331432,6 @@
 },
 {
   "type": "node",
-  "id": 3146887529,
-  "lat": 37.5020917,
-  "lon": 127.0037128
-},
-{
-  "type": "node",
   "id": 4662293277,
   "lat": 37.4976027,
   "lon": 127.0048131
@@ -331460,12 +331465,6 @@
   "id": 7888119750,
   "lat": 37.5017850,
   "lon": 127.0029462
-},
-{
-  "type": "node",
-  "id": 7888119754,
-  "lat": 37.5021847,
-  "lon": 127.0039903
 },
 {
   "type": "node",
@@ -332285,12 +332284,6 @@
 },
 {
   "type": "node",
-  "id": 5406399772,
-  "lat": 37.4842981,
-  "lon": 127.0321824
-},
-{
-  "type": "node",
   "id": 5406399785,
   "lat": 37.4838688,
   "lon": 127.0286561
@@ -332348,12 +332341,6 @@
   "id": 9852383864,
   "lat": 37.4897675,
   "lon": 127.0316455
-},
-{
-  "type": "node",
-  "id": 11204519578,
-  "lat": 37.4843923,
-  "lon": 127.0328517
 },
 {
   "type": "node",
@@ -339398,12 +339385,6 @@
   "id": 4360970514,
   "lat": 37.5320961,
   "lon": 127.0087274
-},
-{
-  "type": "node",
-  "id": 4360970517,
-  "lat": 37.5320651,
-  "lon": 127.0086357
 },
 {
   "type": "node",
@@ -356633,18 +356614,6 @@
 },
 {
   "type": "node",
-  "id": 5593950704,
-  "lat": 37.5575967,
-  "lon": 126.9728702
-},
-{
-  "type": "node",
-  "id": 5593950705,
-  "lat": 37.5588133,
-  "lon": 126.9739196
-},
-{
-  "type": "node",
   "id": 5593950706,
   "lat": 37.5593404,
   "lon": 126.9743497
@@ -356678,12 +356647,6 @@
   "id": 5593950711,
   "lat": 37.5600467,
   "lon": 126.9748208
-},
-{
-  "type": "node",
-  "id": 5593950713,
-  "lat": 37.5591634,
-  "lon": 126.9741965
 },
 {
   "type": "node",
@@ -356744,12 +356707,6 @@
   "id": 5851251703,
   "lat": 37.5567755,
   "lon": 126.9742637
-},
-{
-  "type": "node",
-  "id": 5936945095,
-  "lat": 37.5579951,
-  "lon": 126.9731992
 },
 {
   "type": "node",
@@ -403290,8 +403247,8 @@
 {
   "type": "node",
   "id": 1000489165,
-  "lat": 37.6166175,
-  "lon": 127.1379465
+  "lat": 37.6166664,
+  "lon": 127.1379559
 },
 {
   "type": "node",
@@ -403424,6 +403381,12 @@
   "id": 13808019076,
   "lat": 37.6160853,
   "lon": 127.1379442
+},
+{
+  "type": "node",
+  "id": 14242004504,
+  "lat": 37.6169546,
+  "lon": 127.1378745
 },
 {
   "type": "node",
