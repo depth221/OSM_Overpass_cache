@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-03T21:35:16Z",
-    "timestamp_areas_base": "2026-10-03T05:54:12Z",
+    "timestamp_osm_base": "2026-10-04T21:42:05Z",
+    "timestamp_areas_base": "2026-10-04T05:50:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3617,6 +3617,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "lane_markings": "yes",
     "maxspeed": "80",
     "motorroad": "yes",
     "name": "강변북로",
@@ -22257,6 +22258,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "lane_markings": "yes",
     "maxspeed": "80",
     "motorroad": "yes",
     "name": "강변북로",
@@ -22278,6 +22280,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "lane_markings": "yes",
     "maxspeed": "80",
     "motorroad": "yes",
     "name": "강변북로",
@@ -22299,6 +22302,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "lane_markings": "yes",
     "maxspeed": "80",
     "motorroad": "yes",
     "name": "강변북로",
@@ -97957,6 +97961,7 @@
     "bicycle": "no",
     "expressway": "yes",
     "highway": "trunk",
+    "lane_markings": "yes",
     "maxspeed": "80",
     "motorroad": "yes",
     "name": "강변북로",
