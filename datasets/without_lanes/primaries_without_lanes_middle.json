@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-03T21:40:21Z",
-    "timestamp_areas_base": "2026-10-03T05:54:12Z",
+    "timestamp_osm_base": "2026-10-04T21:49:41Z",
+    "timestamp_areas_base": "2026-10-04T05:50:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -17363,6 +17363,7 @@
     1149547138,
     1149547143,
     1149288259,
+    14247836220,
     1149547145
   ],
   "tags": {
@@ -24773,10 +24774,12 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "서강로",
     "name:en": "Seogang-ro",
     "name:ko": "서강로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "surface": "asphalt"
   }
 },
 {
@@ -24789,6 +24792,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "서강로",
     "name:en": "Seogang-ro",
     "name:ja": "西江路",
@@ -25582,6 +25586,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "사평대로",
     "name:en": "Sapyeong-daero",
     "name:ja": "砂坪大路",
@@ -25607,6 +25612,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "maxheight": "4.5",
     "name": "사평대로",
     "name:en": "Sapyeong-daero",
@@ -27959,10 +27965,12 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "논현로",
     "name:en": "Nonhyeon-ro",
     "name:ja": "論峴路",
-    "name:ko": "논현로"
+    "name:ko": "논현로",
+    "surface": "asphalt"
   }
 },
 {
@@ -29075,6 +29083,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "사평대로",
     "name:en": "Sapyeong-daero",
     "name:ja": "砂坪大路",
@@ -29277,6 +29286,7 @@
     3355067050,
     3153683163,
     2368063910,
+    14248040415,
     3355067046,
     3355067044,
     2386012700,
@@ -31573,7 +31583,8 @@
     "name": "자하문로",
     "name:en": "Jahamun-ro",
     "name:ko": "자하문로",
-    "sidewalk:both": "separate"
+    "sidewalk:both": "separate",
+    "surface": "asphalt"
   }
 },
 {
@@ -36710,11 +36721,13 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "사평대로",
     "name:en": "Sapyeong-daero",
     "name:ja": "砂坪大路",
     "name:ko": "사평대로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "surface": "asphalt"
   }
 },
 {
@@ -41877,7 +41890,8 @@
     "name:ja": "彦州路",
     "name:ko": "언주로",
     "oneway": "yes",
-    "ref": "51"
+    "ref": "51",
+    "surface": "asphalt"
   }
 },
 {
@@ -53348,7 +53362,8 @@
     "name:en": "Seogang-ro",
     "name:ja": "西江路",
     "name:ko": "서강로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "surface": "asphalt"
   }
 },
 {
@@ -53362,11 +53377,13 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "서강로",
     "name:en": "Seogang-ro",
     "name:ja": "西江路",
     "name:ko": "서강로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "surface": "asphalt"
   }
 },
 {
@@ -54443,93 +54460,7 @@
   "type": "way",
   "id": 477123811,
   "nodes": [
-    436578356,
-    436578357,
-    436578358,
-    436578359,
-    4234689207,
-    4234689206,
-    4234689205,
-    436578363,
-    436578364,
-    436578365,
-    436578366,
-    4234689204,
-    436578367,
-    11230608803,
-    436578368,
-    436578369,
-    436578370,
-    436578372,
-    436578373,
-    436578374,
-    436578375,
-    436578376,
-    436578377,
-    436578378,
-    436578380,
-    436578381,
-    436578382,
-    436578383,
-    14221476121,
-    436578384,
-    436578385,
-    436578386,
-    436578387,
-    436578388,
-    436578389,
-    436578390,
-    436578391,
-    436578392,
-    436578393,
-    436578394,
-    436578395,
-    436578396,
-    436578397,
-    436578398,
-    436578399,
-    436578400,
-    436578401,
-    436578402,
-    436578403,
-    436578405,
-    436578407,
-    436578408,
-    436578410,
-    436578411,
-    436578413,
-    436578414,
-    436578416,
-    436578418,
-    436578419,
-    436578420,
-    436578422,
-    436578423,
-    436578425,
-    436578426,
-    436578428,
-    436578429,
-    436578430,
-    436578431,
-    436578432,
-    436578433,
-    436578435,
-    436578436,
-    436578437,
-    436578439,
-    436578440,
-    436578441,
-    436578443,
-    436578444,
-    436578446,
-    436578448,
-    436578449,
-    436578451,
-    436578453,
-    436578454,
-    436578455,
-    436578456,
-    436578457,
+    14247796607,
     436578460,
     436578462,
     436578463,
@@ -55683,10 +55614,12 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "서강로",
     "name:en": "Seogang-ro",
     "name:ko": "서강로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "surface": "asphalt"
   }
 },
 {
@@ -56000,6 +55933,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "oneway": "yes",
     "ref": "31",
     "surface": "asphalt"
@@ -69192,6 +69126,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "사평대로",
     "name:en": "Sapyeong-daero",
     "name:ja": "砂坪大路",
@@ -70197,6 +70132,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "반포대로",
     "name:en": "Banpo-daero",
     "name:ko": "반포대로",
@@ -72575,6 +72511,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "사평대로",
     "name:en": "Sapyeong-daero",
     "name:ja": "砂坪大路",
@@ -94358,6 +94295,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "oneway": "yes",
     "ref": "31",
     "surface": "asphalt"
@@ -100545,6 +100483,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "서강로",
     "name:en": "Seogang-ro",
     "name:ja": "西江路",
@@ -102190,11 +102129,13 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "서강로",
     "name:en": "Seogang-ro",
     "name:ja": "西江路",
     "name:ko": "서강로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "surface": "asphalt"
   }
 },
 {
@@ -102209,11 +102150,13 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "서강로",
     "name:en": "Seogang-ro",
     "name:ja": "西江路",
     "name:ko": "서강로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "surface": "asphalt"
   }
 },
 {
@@ -102231,7 +102174,8 @@
     "name:en": "Seogang-ro",
     "name:ja": "西江路",
     "name:ko": "서강로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "surface": "asphalt"
   }
 },
 {
@@ -102246,7 +102190,8 @@
     "name": "서강로",
     "name:en": "Seogang-ro",
     "name:ko": "서강로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "surface": "asphalt"
   }
 },
 {
@@ -108985,6 +108930,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "반포대로",
     "name:en": "Banpo-daero",
     "name:ko": "반포대로",
@@ -124578,6 +124524,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "반포대로",
     "name:en": "Banpo-daero",
     "name:ko": "반포대로",
@@ -135663,7 +135610,8 @@
     "name": "논현로",
     "name:en": "Nonhyeon-ro",
     "name:ja": "論峴路",
-    "name:ko": "논현로"
+    "name:ko": "논현로",
+    "surface": "asphalt"
   }
 },
 {
@@ -135715,10 +135663,12 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "논현로",
     "name:en": "Nonhyeon-ro",
     "name:ja": "論峴路",
-    "name:ko": "논현로"
+    "name:ko": "논현로",
+    "surface": "asphalt"
   }
 },
 {
@@ -149367,11 +149317,13 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "서강로",
     "name:en": "Seogang-ro",
     "name:ja": "西江路",
     "name:ko": "서강로",
-    "oneway": "yes"
+    "oneway": "yes",
+    "surface": "asphalt"
   }
 },
 {
@@ -167211,6 +167163,7 @@
   "id": 1214479807,
   "nodes": [
     436868026,
+    14247836214,
     11252413237,
     11252413192,
     4450237060,
@@ -184098,6 +184051,7 @@
     11252413243,
     11252413191,
     11252413242,
+    14247836225,
     11252413241,
     436868026
   ],
@@ -191722,11 +191676,13 @@
     "destination:lang:en:backward": "Sapyeong-daero;Sinnonhyeon Station;Banpo IC",
     "destination:lang:en:forward": "Nat'l Cemetery;Isu Jct;Seoul St. Mary's Hospital",
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "사평대로",
     "name:en": "Sapyeong-daero",
     "name:ja": "砂坪大路",
     "name:ko": "사평대로",
-    "oneway": "no"
+    "oneway": "no",
+    "surface": "asphalt"
   }
 },
 {
@@ -197358,6 +197314,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "사평지하도로",
     "name:en": "Sapyeongjihado-ro",
     "name:ko": "사평지하도로",
@@ -197375,6 +197332,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "lane_markings": "yes",
     "name": "사평지하도로",
     "name:en": "Sapyeongjihado-ro",
     "name:ko": "사평지하도로",
@@ -202335,25 +202293,6 @@
 },
 {
   "type": "way",
-  "id": 1562434561,
-  "nodes": [
-    2477256602,
-    14218583938,
-    4182408163,
-    14218583930,
-    414684639
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "논현로",
-    "name:en": "Nonhyeon-ro",
-    "name:ja": "論峴路",
-    "name:ko": "논현로",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
   "id": 1563919533,
   "nodes": [
     2787260850,
@@ -202362,6 +202301,160 @@
   "tags": {
     "highway": "primary",
     "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1564858365,
+  "nodes": [
+    436578356,
+    436578357,
+    436578358,
+    436578359,
+    4234689207,
+    4234689206,
+    4234689205,
+    436578363,
+    436578364,
+    436578365,
+    436578366,
+    4234689204,
+    436578367,
+    11230608803,
+    436578368,
+    436578369,
+    436578370,
+    436578372,
+    436578373,
+    436578374,
+    436578375,
+    436578376,
+    436578377,
+    436578378,
+    436578380,
+    436578381,
+    436578382,
+    436578383,
+    14221476121,
+    436578384,
+    436578385,
+    436578386,
+    14247796609
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "운두령로",
+    "name:en": "Unduryeong-ro",
+    "name:ko": "운두령로",
+    "ref": "31"
+  }
+},
+{
+  "type": "way",
+  "id": 1564858366,
+  "nodes": [
+    14247796606,
+    436578457,
+    14247796607
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "layer": "1",
+    "maxspeed": "50",
+    "name": "운두령로",
+    "name:en": "Unduryeong-ro",
+    "name:ko": "운두령로",
+    "ref": "31"
+  }
+},
+{
+  "type": "way",
+  "id": 1564858367,
+  "nodes": [
+    14247796608,
+    436578388,
+    436578389,
+    436578390,
+    436578391,
+    436578392,
+    436578393,
+    436578394,
+    436578395,
+    436578396,
+    436578397,
+    436578398,
+    436578399,
+    436578400,
+    436578401,
+    436578402,
+    436578403,
+    436578405,
+    436578407,
+    436578408,
+    436578410,
+    436578411,
+    436578413,
+    436578414,
+    436578416,
+    436578418,
+    436578419,
+    436578420,
+    436578422,
+    436578423,
+    436578425,
+    436578426,
+    436578428,
+    436578429,
+    436578430,
+    436578431,
+    436578432,
+    436578433,
+    436578435,
+    436578436,
+    436578437,
+    436578439,
+    436578440,
+    436578441,
+    436578443,
+    436578444,
+    436578446,
+    436578448,
+    436578449,
+    436578451,
+    436578453,
+    436578454,
+    436578455,
+    436578456,
+    14247796606
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "운두령로",
+    "name:en": "Unduryeong-ro",
+    "name:ko": "운두령로",
+    "ref": "31"
+  }
+},
+{
+  "type": "way",
+  "id": 1564858368,
+  "nodes": [
+    14247796609,
+    436578387,
+    14247796608
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "layer": "1",
+    "maxspeed": "50",
+    "name": "운두령로",
+    "name:en": "Unduryeong-ro",
+    "name:ko": "운두령로",
+    "ref": "31"
   }
 },
 {
@@ -332476,6 +332569,12 @@
 },
 {
   "type": "node",
+  "id": 14248040415,
+  "lat": 37.4929263,
+  "lon": 127.0112346
+},
+{
+  "type": "node",
   "id": 1982932598,
   "lat": 37.4959779,
   "lon": 127.0210116
@@ -338680,27 +338779,9 @@
 },
 {
   "type": "node",
-  "id": 4182408163,
-  "lat": 37.5068729,
-  "lon": 127.0341318
-},
-{
-  "type": "node",
-  "id": 14218583930,
-  "lat": 37.5071170,
-  "lon": 127.0340255
-},
-{
-  "type": "node",
   "id": 14218583935,
   "lat": 37.5074890,
   "lon": 127.0338466
-},
-{
-  "type": "node",
-  "id": 14218583938,
-  "lat": 37.5067781,
-  "lon": 127.0341749
 },
 {
   "type": "node",
@@ -357949,6 +358030,24 @@
   "id": 13778685025,
   "lat": 37.5713306,
   "lon": 126.9588715
+},
+{
+  "type": "node",
+  "id": 14247836214,
+  "lat": 37.5724399,
+  "lon": 126.9601441
+},
+{
+  "type": "node",
+  "id": 14247836220,
+  "lat": 37.5720281,
+  "lon": 126.9601574
+},
+{
+  "type": "node",
+  "id": 14247836225,
+  "lat": 37.5720727,
+  "lon": 126.9604918
 },
 {
   "type": "node",
@@ -585989,8 +586088,8 @@
 {
   "type": "node",
   "id": 436578457,
-  "lat": 37.6757624,
-  "lon": 128.4629438
+  "lat": 37.6757433,
+  "lon": 128.4629492
 },
 {
   "type": "node",
@@ -586027,6 +586126,18 @@
   "id": 436578466,
   "lat": 37.6736100,
   "lon": 128.4627200
+},
+{
+  "type": "node",
+  "id": 14247796606,
+  "lat": 37.6759237,
+  "lon": 128.4629833
+},
+{
+  "type": "node",
+  "id": 14247796607,
+  "lat": 37.6755321,
+  "lon": 128.4629151
 },
 {
   "type": "node",
@@ -586403,8 +586514,8 @@
 {
   "type": "node",
   "id": 436578388,
-  "lat": 37.6889700,
-  "lon": 128.4688900
+  "lat": 37.6889505,
+  "lon": 128.4689008
 },
 {
   "type": "node",
@@ -586465,6 +586576,18 @@
   "id": 14221476121,
   "lat": 37.6899758,
   "lon": 128.4691111
+},
+{
+  "type": "node",
+  "id": 14247796608,
+  "lat": 37.6891168,
+  "lon": 128.4689320
+},
+{
+  "type": "node",
+  "id": 14247796609,
+  "lat": 37.6895031,
+  "lon": 128.4690445
 },
 {
   "type": "node",
