@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-06T00:13:40Z",
-    "timestamp_areas_base": "2026-10-04T19:59:06Z",
+    "timestamp_osm_base": "2026-10-06T22:42:05Z",
+    "timestamp_areas_base": "2026-10-05T17:16:21Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -19637,6 +19637,7 @@
     884174817,
     14123632012,
     13280446578,
+    14255278481,
     731823091
   ],
   "tags": {
@@ -53380,6 +53381,7 @@
     "bridge": "viaduct",
     "expressway": "yes",
     "highway": "trunk",
+    "lane_markings": "yes",
     "layer": "1",
     "oneway": "yes"
   }
@@ -348969,6 +348971,7 @@
   "tags": {
     "bridge": "yes",
     "highway": "trunk",
+    "layer": "1",
     "maxspeed": "70",
     "name": "금강로",
     "name:en": "Geumgang-ro",
@@ -349065,6 +349068,7 @@
   "tags": {
     "bridge": "yes",
     "highway": "trunk",
+    "layer": "1",
     "maxspeed": "70",
     "name": "금강로",
     "name:en": "Geumgang-ro",
@@ -349224,11 +349228,13 @@
   "id": 1516216306,
   "nodes": [
     13844708210,
+    14255070080,
     13844708206
   ],
   "tags": {
     "bridge": "yes",
     "highway": "trunk",
+    "layer": "1",
     "maxspeed": "70",
     "name": "금강로",
     "name:en": "Geumgang-ro",
@@ -349243,11 +349249,13 @@
   "id": 1516216307,
   "nodes": [
     13844708084,
+    14255070079,
     13844707973
   ],
   "tags": {
     "bridge": "yes",
     "highway": "trunk",
+    "layer": "1",
     "maxspeed": "70",
     "name": "금강로",
     "name:en": "Geumgang-ro",
@@ -500983,6 +500991,12 @@
   "id": 14123632012,
   "lat": 35.1667128,
   "lon": 129.0283343
+},
+{
+  "type": "node",
+  "id": 14255278481,
+  "lat": 35.1679745,
+  "lon": 129.0277458
 },
 {
   "type": "node",
@@ -715229,14 +715243,26 @@
 {
   "type": "node",
   "id": 13844708084,
-  "lat": 38.0536572,
-  "lon": 127.3748489
+  "lat": 38.0536319,
+  "lon": 127.3748865
 },
 {
   "type": "node",
   "id": 13844708206,
-  "lat": 38.0537118,
-  "lon": 127.3747560
+  "lat": 38.0536822,
+  "lon": 127.3748043
+},
+{
+  "type": "node",
+  "id": 14255070079,
+  "lat": 38.0542585,
+  "lon": 127.3755218
+},
+{
+  "type": "node",
+  "id": 14255070080,
+  "lat": 38.0543124,
+  "lon": 127.3754346
 },
 {
   "type": "node",
