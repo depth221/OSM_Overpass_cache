@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-06T00:12:24Z",
-    "timestamp_areas_base": "2026-10-04T21:27:58Z",
+    "timestamp_osm_base": "2026-10-06T22:42:05Z",
+    "timestamp_areas_base": "2026-10-05T17:16:21Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -23261,6 +23261,7 @@
     884174817,
     14123632012,
     13280446578,
+    14255278481,
     731823091
   ],
   "tags": {
@@ -63528,6 +63529,7 @@
     "bridge": "viaduct",
     "expressway": "yes",
     "highway": "trunk",
+    "lane_markings": "yes",
     "layer": "1",
     "oneway": "yes"
   }
@@ -146099,6 +146101,7 @@
     "foot": "no",
     "highway": "trunk",
     "lanes": "4",
+    "maxheight": "4.7",
     "maxspeed": "80",
     "oneway": "yes",
     "ref": "88"
@@ -503893,6 +503896,12 @@
   "id": 14123632012,
   "lat": 35.1667128,
   "lon": 129.0283343
+},
+{
+  "type": "node",
+  "id": 14255278481,
+  "lat": 35.1679745,
+  "lon": 129.0277458
 },
 {
   "type": "node",
