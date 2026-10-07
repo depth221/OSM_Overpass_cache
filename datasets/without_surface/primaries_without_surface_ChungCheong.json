@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-06T22:45:59Z",
-    "timestamp_areas_base": "2026-10-05T16:01:51Z",
+    "timestamp_osm_base": "2026-10-07T23:16:26Z",
+    "timestamp_areas_base": "2026-10-06T11:51:19Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -11787,6 +11787,8 @@
   ],
   "tags": {
     "bridge": "yes",
+    "destination": "태안;서산;성연",
+    "destination:lang:en": "Taean;Seosan;Seongyeon",
     "highway": "primary",
     "lanes": "2",
     "layer": "1",
@@ -22379,7 +22381,7 @@
     "highway": "primary",
     "lanes": "2",
     "layer": "1",
-    "maxspeed": "70",
+    "maxspeed": "20",
     "maxspeed:advisory": "60",
     "oneway": "yes",
     "ref": "29"
@@ -23429,7 +23431,7 @@
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "70",
-    "maxspeed:advisory": "60",
+    "maxspeed:advisory": "70",
     "name": "중앙로",
     "name:en": "Jungang-ro",
     "name:ko": "중앙로",
@@ -31787,7 +31789,7 @@
     "highway": "primary",
     "lanes": "2",
     "layer": "1",
-    "maxspeed": "70",
+    "maxspeed": "20",
     "maxspeed:advisory": "60",
     "name": "평신1로",
     "oneway": "yes",
@@ -36033,6 +36035,7 @@
     1156275683,
     8140406398,
     13176127062,
+    14256724739,
     13687629636,
     13687629642,
     8955760733
@@ -39670,7 +39673,7 @@
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "70",
-    "maxspeed:advisory": "60",
+    "maxspeed:advisory": "70",
     "name": "중앙로",
     "name:en": "Jungang-ro",
     "name:ko": "중앙로",
@@ -50180,8 +50183,10 @@
     436700853,
     7377684466,
     436700855,
+    14256801039,
     539352528,
     7537538014,
+    14256786384,
     6660691291
   ],
   "tags": {
@@ -50207,6 +50212,7 @@
     6661460277,
     436700859,
     6661460278,
+    14256794949,
     3371572492,
     6661460280,
     3371583293,
@@ -63227,8 +63233,11 @@
     10185092165,
     10185092164,
     10185092163,
+    14256815950,
+    14256815964,
     10185092162,
     10185092161,
+    14256815978,
     10185092160,
     10185092159,
     10185092158,
@@ -63259,6 +63268,7 @@
     10185092119,
     10185092150,
     10185092151,
+    14256815951,
     10185092152,
     10185092153,
     10185092154,
@@ -63423,7 +63433,7 @@
     "destination:lang:en": "Hwanggeum Mountain",
     "highway": "primary",
     "lanes": "2",
-    "maxspeed": "70",
+    "maxspeed": "20",
     "maxspeed:advisory": "60",
     "name": "평신1로",
     "name:en": "Pyeongsin 1-ro",
@@ -63446,7 +63456,7 @@
     "highway": "primary",
     "lanes": "2",
     "layer": "1",
-    "maxspeed": "70",
+    "maxspeed": "20",
     "maxspeed:advisory": "60",
     "name": "평신1로",
     "oneway": "yes",
@@ -63473,7 +63483,7 @@
     "destination:lang:en": "Dangjin;Seosan;Daesan",
     "highway": "primary",
     "lanes": "2",
-    "maxspeed": "70",
+    "maxspeed": "20",
     "maxspeed:advisory": "60",
     "name": "평신1로",
     "name:en": "Pyeongsin 1-ro",
@@ -63504,7 +63514,7 @@
     "destination:lang:en": "Hwanggeum Mountain;Dokgot-ri;Daesan Petrochemical Complex",
     "highway": "primary",
     "lanes": "2",
-    "maxspeed": "70",
+    "maxspeed": "20",
     "maxspeed:advisory": "60",
     "name": "평신1로",
     "name:en": "Pyeongsin 1-ro",
@@ -63538,8 +63548,8 @@
     10185165374,
     5327762121,
     10185165420,
+    14256869141,
     10185165375,
-    10185165376,
     702374336
   ],
   "tags": {
@@ -63547,7 +63557,7 @@
     "destination:lang:en": "Dangjin;Seosan;Daesan",
     "highway": "primary",
     "lanes": "2",
-    "maxspeed": "70",
+    "maxspeed": "20",
     "maxspeed:advisory": "60",
     "name": "평신1로",
     "name:en": "Pyeongsin 1-ro",
@@ -63591,7 +63601,7 @@
     "destination:lang:en": "Hwanggeum Mountain;Dokgot-ri;Daesan Petrochemical Complex",
     "highway": "primary",
     "lanes": "2",
-    "maxspeed": "70",
+    "maxspeed": "20",
     "maxspeed:advisory": "60",
     "name": "평신1로",
     "name:en": "Pyeongsin 1-ro",
@@ -63614,7 +63624,7 @@
     "highway": "primary",
     "lanes": "2",
     "layer": "1",
-    "maxspeed": "70",
+    "maxspeed": "20",
     "maxspeed:advisory": "60",
     "oneway": "yes",
     "ref": "29"
@@ -63657,7 +63667,7 @@
     10185165491,
     10185165490,
     10185165489,
-    10185165533
+    1104631578
   ],
   "tags": {
     "destination": "황금산;독곶리;대산항",
@@ -63677,7 +63687,6 @@
   "id": 1113251608,
   "nodes": [
     702374342,
-    10576491096,
     10185165561,
     10185165357,
     10185165461,
@@ -63715,7 +63724,7 @@
     "destination:lang:en": "Dangjin;Seosan;Daesan",
     "highway": "primary",
     "lanes": "2",
-    "maxspeed": "70",
+    "maxspeed": "20",
     "maxspeed:advisory": "60",
     "name": "평신1로",
     "name:en": "Pyeongsin 1-ro",
@@ -63728,8 +63737,8 @@
   "type": "way",
   "id": 1113251611,
   "nodes": [
-    10185165533,
-    10185165488,
+    1104631578,
+    14256869083,
     10185165487,
     10185165460,
     10185165355
@@ -63739,7 +63748,7 @@
     "destination:lang:en": "Hwanggeum Mountain;Dokgot-ri;Daesan Petrochemical Complex",
     "highway": "primary",
     "lanes": "2",
-    "maxspeed": "70",
+    "maxspeed": "20",
     "maxspeed:advisory": "60",
     "name": "평신1로",
     "name:en": "Pyeongsin 1-ro",
@@ -64580,6 +64589,7 @@
     "destination:lang:en:backward": "Seosan;Daesan;Daero-ri",
     "destination:lang:en:forward": "Dokgot-ri;Daesan Petrochemical Complex",
     "highway": "primary",
+    "lanes": "2",
     "maxspeed": "60",
     "name": "명지1로",
     "name:en": "Myeongji 1-ro",
@@ -64604,6 +64614,7 @@
     "destination:lang:en:backward": "Seosan;Daesan;Daero-ri",
     "destination:lang:en:forward": "Dokgot-ri;Daesan Petrochemical Complex",
     "highway": "primary",
+    "lanes": "2",
     "maxspeed": "30",
     "name": "명지1로",
     "name:en": "Myeongji 1-ro",
@@ -65513,7 +65524,7 @@
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
-    "maxspeed:advisory": "60",
+    "maxspeed:advisory": "70",
     "name": "중앙로",
     "name:en": "Jungang-ro",
     "name:ko": "중앙로",
@@ -65570,7 +65581,7 @@
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "80",
-    "maxspeed:advisory": "60",
+    "maxspeed:advisory": "70",
     "name": "중앙로",
     "name:en": "Jungang-ro",
     "name:ko": "중앙로",
@@ -68818,9 +68829,6 @@
   "type": "way",
   "id": 1137745556,
   "nodes": [
-    4289912983,
-    8861911637,
-    8861911657,
     8861911430,
     10224928689,
     10605335782,
@@ -68831,7 +68839,8 @@
     "destination:lang:en": "Yesan;Hongseong;Haemi IC",
     "highway": "primary",
     "lanes": "2",
-    "maxspeed": "70",
+    "maxspeed": "60",
+    "maxspeed:advisory": "70",
     "name": "중앙로",
     "name:en": "Jungang-ro",
     "name:ko": "중앙로",
@@ -68847,18 +68856,15 @@
     8107421684,
     4638554553,
     10603872453,
-    8861911429,
-    8861911658,
-    8861911663,
-    8861911530,
-    4289912984
+    8861911429
   ],
   "tags": {
     "destination": "대산;태안;서산",
     "destination:lang:en": "Daesan;Taean;Seosan",
     "highway": "primary",
     "lanes": "2",
-    "maxspeed": "70",
+    "maxspeed": "60",
+    "maxspeed:advisory": "70",
     "name": "중앙로",
     "name:en": "Jungang-ro",
     "name:ko": "중앙로",
@@ -72276,7 +72282,7 @@
     "destination:lang:en": "Dangjin;Seosan;Daesan",
     "highway": "primary",
     "lanes": "2",
-    "maxspeed": "70",
+    "maxspeed": "20",
     "maxspeed:advisory": "60",
     "name": "평신1로",
     "name:en": "Pyeongsin 1-ro",
@@ -79136,7 +79142,7 @@
     "destination:lang:en": "Dangjin;Seosan;Daesan",
     "highway": "primary",
     "lanes": "2",
-    "maxspeed": "80",
+    "maxspeed": "20",
     "name": "평신1로",
     "name:en": "Pyeongsin 1-ro",
     "name:ko": "평신1로",
@@ -93337,6 +93343,53 @@
     "name:ko": "칠갑산로",
     "oneway": "yes",
     "ref": "36"
+  }
+},
+{
+  "type": "way",
+  "id": 1565670482,
+  "nodes": [
+    8861911429,
+    8861911658,
+    8861911663,
+    8861911530,
+    4289912984
+  ],
+  "tags": {
+    "destination": "대산;태안;서산",
+    "destination:lang:en": "Daesan;Taean;Seosan",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "70",
+    "maxspeed:advisory": "70",
+    "name": "중앙로",
+    "name:en": "Jungang-ro",
+    "name:ko": "중앙로",
+    "oneway": "yes",
+    "ref": "29;70"
+  }
+},
+{
+  "type": "way",
+  "id": 1565670483,
+  "nodes": [
+    4289912983,
+    8861911637,
+    8861911657,
+    8861911430
+  ],
+  "tags": {
+    "destination": "예산;홍성;해미IC",
+    "destination:lang:en": "Yesan;Hongseong;Haemi IC",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "70",
+    "maxspeed:advisory": "70",
+    "name": "중앙로",
+    "name:en": "Jungang-ro",
+    "name:ko": "중앙로",
+    "oneway": "yes",
+    "ref": "29;70"
   }
 },
 {
@@ -137046,8 +137099,8 @@
 {
   "type": "node",
   "id": 499979972,
-  "lat": 36.3909997,
-  "lon": 127.3153349
+  "lat": 36.3909931,
+  "lon": 127.3153431
 },
 {
   "type": "node",
@@ -201605,6 +201658,12 @@
 },
 {
   "type": "node",
+  "id": 14256724739,
+  "lat": 36.7741619,
+  "lon": 126.4658764
+},
+{
+  "type": "node",
   "id": 4264775942,
   "lat": 36.7698205,
   "lon": 126.4722020
@@ -209472,20 +209531,20 @@
 {
   "type": "node",
   "id": 10185165370,
-  "lat": 36.9921087,
-  "lon": 126.4055085
+  "lat": 36.9920589,
+  "lon": 126.4053750
 },
 {
   "type": "node",
   "id": 10185165393,
-  "lat": 36.9921068,
-  "lon": 126.4051178
+  "lat": 36.9920598,
+  "lon": 126.4049964
 },
 {
   "type": "node",
   "id": 10185165394,
-  "lat": 36.9922379,
-  "lon": 126.4057670
+  "lat": 36.9922328,
+  "lon": 126.4057913
 },
 {
   "type": "node",
@@ -210245,189 +210304,213 @@
 },
 {
   "type": "node",
+  "id": 14256815950,
+  "lat": 36.9899138,
+  "lon": 126.4288669
+},
+{
+  "type": "node",
+  "id": 14256815951,
+  "lat": 36.9898158,
+  "lon": 126.4288749
+},
+{
+  "type": "node",
+  "id": 14256815964,
+  "lat": 36.9899069,
+  "lon": 126.4286668
+},
+{
+  "type": "node",
+  "id": 14256815978,
+  "lat": 36.9898662,
+  "lon": 126.4278624
+},
+{
+  "type": "node",
   "id": 702374336,
-  "lat": 36.9925109,
-  "lon": 126.4104197
+  "lat": 36.9924895,
+  "lon": 126.4103788
 },
 {
   "type": "node",
   "id": 702374342,
-  "lat": 36.9924827,
-  "lon": 126.4107788
+  "lat": 36.9924643,
+  "lon": 126.4107238
 },
 {
   "type": "node",
   "id": 5327762121,
-  "lat": 36.9925422,
-  "lon": 126.4097384
+  "lat": 36.9925121,
+  "lon": 126.4095505
 },
 {
   "type": "node",
   "id": 8298763970,
-  "lat": 36.9924141,
-  "lon": 126.4073737
+  "lat": 36.9923860,
+  "lon": 126.4072380
 },
 {
   "type": "node",
   "id": 10185165355,
-  "lat": 36.9925813,
-  "lon": 126.4107774
+  "lat": 36.9925386,
+  "lon": 126.4107485
 },
 {
   "type": "node",
   "id": 10185165356,
-  "lat": 36.9926098,
-  "lon": 126.4104231
+  "lat": 36.9925662,
+  "lon": 126.4103797
 },
 {
   "type": "node",
   "id": 10185165357,
-  "lat": 36.9924356,
-  "lon": 126.4112849
+  "lat": 36.9924060,
+  "lon": 126.4113475
 },
 {
   "type": "node",
   "id": 10185165371,
-  "lat": 36.9923379,
-  "lon": 126.4068086
+  "lat": 36.9923190,
+  "lon": 126.4067681
 },
 {
   "type": "node",
   "id": 10185165372,
-  "lat": 36.9924481,
-  "lon": 126.4076191
+  "lat": 36.9924454,
+  "lon": 126.4077709
 },
 {
   "type": "node",
   "id": 10185165373,
-  "lat": 36.9925020,
-  "lon": 126.4083085
+  "lat": 36.9924831,
+  "lon": 126.4083321
 },
 {
   "type": "node",
   "id": 10185165374,
-  "lat": 36.9925267,
-  "lon": 126.4089586
+  "lat": 36.9925092,
+  "lon": 126.4089215
 },
 {
   "type": "node",
   "id": 10185165375,
-  "lat": 36.9925388,
-  "lon": 126.4099940
-},
-{
-  "type": "node",
-  "id": 10185165376,
-  "lat": 36.9925287,
-  "lon": 126.4102093
+  "lat": 36.9925005,
+  "lon": 126.4100931
 },
 {
   "type": "node",
   "id": 10185165395,
-  "lat": 36.9923846,
-  "lon": 126.4065778
+  "lat": 36.9923739,
+  "lon": 126.4066101
 },
 {
   "type": "node",
   "id": 10185165396,
-  "lat": 36.9925001,
-  "lon": 126.4073373
+  "lat": 36.9924832,
+  "lon": 126.4074386
 },
 {
   "type": "node",
   "id": 10185165397,
-  "lat": 36.9925568,
-  "lon": 126.4079645
+  "lat": 36.9925284,
+  "lon": 126.4078888
 },
 {
   "type": "node",
   "id": 10185165398,
-  "lat": 36.9925999,
-  "lon": 126.4088170
+  "lat": 36.9925759,
+  "lon": 126.4086946
 },
 {
   "type": "node",
   "id": 10185165399,
-  "lat": 36.9926234,
-  "lon": 126.4094294
+  "lat": 36.9925905,
+  "lon": 126.4092313
 },
 {
   "type": "node",
   "id": 10185165400,
-  "lat": 36.9926253,
-  "lon": 126.4099660
+  "lat": 36.9925889,
+  "lon": 126.4097278
 },
 {
   "type": "node",
   "id": 10185165420,
-  "lat": 36.9925410,
-  "lon": 126.4098267
+  "lat": 36.9925078,
+  "lon": 126.4098938
 },
 {
   "type": "node",
   "id": 10185165449,
-  "lat": 36.9925877,
-  "lon": 126.4085766
+  "lat": 36.9925593,
+  "lon": 126.4083685
 },
 {
   "type": "node",
   "id": 10185165460,
-  "lat": 36.9925268,
-  "lon": 126.4113173
+  "lat": 36.9924912,
+  "lon": 126.4112884
 },
 {
   "type": "node",
   "id": 10185165461,
-  "lat": 36.9923674,
-  "lon": 126.4118958
-},
-{
-  "type": "node",
-  "id": 10185165487,
-  "lat": 36.9924559,
-  "lon": 126.4118112
-},
-{
-  "type": "node",
-  "id": 10185165488,
-  "lat": 36.9923723,
-  "lon": 126.4123107
-},
-{
-  "type": "node",
-  "id": 10185165560,
-  "lat": 36.9926172,
-  "lon": 126.4102053
-},
-{
-  "type": "node",
-  "id": 10185165561,
-  "lat": 36.9924654,
-  "lon": 126.4109650
-},
-{
-  "type": "node",
-  "id": 10576491096,
-  "lat": 36.9924700,
-  "lon": 126.4109150
-},
-{
-  "type": "node",
-  "id": 12139544245,
-  "lat": 36.9922221,
-  "lon": 126.4060945
+  "lat": 36.9923347,
+  "lon": 126.4119201
 },
 {
   "type": "node",
   "id": 10185165462,
-  "lat": 36.9922844,
-  "lon": 126.4124144
+  "lat": 36.9922691,
+  "lon": 126.4123658
+},
+{
+  "type": "node",
+  "id": 10185165487,
+  "lat": 36.9924328,
+  "lon": 126.4117556
+},
+{
+  "type": "node",
+  "id": 10185165560,
+  "lat": 36.9925816,
+  "lon": 126.4101018
+},
+{
+  "type": "node",
+  "id": 10185165561,
+  "lat": 36.9924378,
+  "lon": 126.4110276
+},
+{
+  "type": "node",
+  "id": 12139544245,
+  "lat": 36.9922097,
+  "lon": 126.4061257
+},
+{
+  "type": "node",
+  "id": 14256869083,
+  "lat": 36.9923826,
+  "lon": 126.4121344
+},
+{
+  "type": "node",
+  "id": 14256869141,
+  "lat": 36.9925036,
+  "lon": 126.4100079
+},
+{
+  "type": "node",
+  "id": 1104631578,
+  "lat": 36.9923177,
+  "lon": 126.4125197
 },
 {
   "type": "node",
   "id": 10185165463,
-  "lat": 36.9921754,
-  "lon": 126.4129604
+  "lat": 36.9921928,
+  "lon": 126.4127955
 },
 {
   "type": "node",
@@ -210439,7 +210522,7 @@
   "type": "node",
   "id": 10185165489,
   "lat": 36.9922656,
-  "lon": 126.4128862
+  "lon": 126.4128072
 },
 {
   "type": "node",
@@ -210452,12 +210535,6 @@
   "id": 10185165491,
   "lat": 36.9918933,
   "lon": 126.4143864
-},
-{
-  "type": "node",
-  "id": 10185165533,
-  "lat": 36.9923175,
-  "lon": 126.4126064
 },
 {
   "type": "node",
@@ -272507,6 +272584,18 @@
 },
 {
   "type": "node",
+  "id": 14256786384,
+  "lat": 36.8987023,
+  "lon": 128.4355299
+},
+{
+  "type": "node",
+  "id": 14256801039,
+  "lat": 36.8984365,
+  "lon": 128.4359609
+},
+{
+  "type": "node",
   "id": 436701009,
   "lat": 36.9127820,
   "lon": 128.4041618
@@ -273860,6 +273949,12 @@
   "id": 6661460280,
   "lat": 36.9012848,
   "lon": 128.4330446
+},
+{
+  "type": "node",
+  "id": 14256794949,
+  "lat": 36.9011242,
+  "lon": 128.4331293
 },
 {
   "type": "node",
