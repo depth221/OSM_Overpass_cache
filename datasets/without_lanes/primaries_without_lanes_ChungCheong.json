@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-07T23:16:26Z",
-    "timestamp_areas_base": "2026-10-06T13:12:56Z",
+    "timestamp_osm_base": "2026-10-08T23:31:54Z",
+    "timestamp_areas_base": "2026-10-08T05:09:19Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -43531,8 +43531,7 @@
     "highway": "primary",
     "junction": "roundabout",
     "name": "양청사거리",
-    "name:ko": "양청사거리",
-    "oneway": "yes"
+    "name:ko": "양청사거리"
   }
 },
 {
@@ -43548,8 +43547,7 @@
     "highway": "primary",
     "junction": "roundabout",
     "name": "읍내사거리",
-    "name:ko": "읍내사거리",
-    "oneway": "yes"
+    "name:ko": "읍내사거리"
   }
 },
 {
@@ -56535,8 +56533,7 @@
     "highway": "primary",
     "junction": "roundabout",
     "name": "읍내사거리",
-    "name:ko": "읍내사거리",
-    "oneway": "yes"
+    "name:ko": "읍내사거리"
   }
 },
 {
@@ -56553,8 +56550,7 @@
     "highway": "primary",
     "junction": "roundabout",
     "name": "읍내사거리",
-    "name:ko": "읍내사거리",
-    "oneway": "yes"
+    "name:ko": "읍내사거리"
   }
 },
 {
@@ -56569,8 +56565,7 @@
     "highway": "primary",
     "junction": "roundabout",
     "name": "읍내사거리",
-    "name:ko": "읍내사거리",
-    "oneway": "yes"
+    "name:ko": "읍내사거리"
   }
 },
 {
@@ -56584,8 +56579,7 @@
     "highway": "primary",
     "junction": "roundabout",
     "name": "읍내사거리",
-    "name:ko": "읍내사거리",
-    "oneway": "yes"
+    "name:ko": "읍내사거리"
   }
 },
 {
@@ -56602,8 +56596,7 @@
     "highway": "primary",
     "junction": "roundabout",
     "name": "읍내사거리",
-    "name:ko": "읍내사거리",
-    "oneway": "yes"
+    "name:ko": "읍내사거리"
   }
 },
 {
@@ -56618,8 +56611,7 @@
     "highway": "primary",
     "junction": "roundabout",
     "name": "읍내사거리",
-    "name:ko": "읍내사거리",
-    "oneway": "yes"
+    "name:ko": "읍내사거리"
   }
 },
 {
@@ -56635,8 +56627,7 @@
     "highway": "primary",
     "junction": "roundabout",
     "name": "읍내사거리",
-    "name:ko": "읍내사거리",
-    "oneway": "yes"
+    "name:ko": "읍내사거리"
   }
 },
 {
