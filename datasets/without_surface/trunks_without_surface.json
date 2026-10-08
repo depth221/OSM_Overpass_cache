@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-07T23:13:20Z",
-    "timestamp_areas_base": "2026-10-06T11:51:19Z",
+    "timestamp_osm_base": "2026-10-08T23:27:46Z",
+    "timestamp_areas_base": "2026-10-08T05:09:19Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -86337,7 +86337,11 @@
     9385171738,
     2271060934,
     9385171741,
+    14263427784,
     2271060983,
+    14263427783,
+    14262883840,
+    14262883841,
     2271061052,
     2271061069
   ],
@@ -370304,6 +370308,7 @@
   "tags": {
     "bridge": "yes",
     "highway": "trunk",
+    "layer": "1",
     "maxspeed": "70",
     "name": "조종로",
     "name:en": "Jojong-ro",
@@ -370328,6 +370333,7 @@
   "tags": {
     "bridge": "yes",
     "highway": "trunk",
+    "layer": "1",
     "maxspeed": "70",
     "name": "조종로",
     "name:en": "Jojong-ro",
@@ -478974,6 +478980,30 @@
   "id": 9385171747,
   "lat": 34.8716145,
   "lon": 128.6789617
+},
+{
+  "type": "node",
+  "id": 14262883840,
+  "lat": 34.8716234,
+  "lon": 128.6774046
+},
+{
+  "type": "node",
+  "id": 14262883841,
+  "lat": 34.8716325,
+  "lon": 128.6776317
+},
+{
+  "type": "node",
+  "id": 14263427783,
+  "lat": 34.8716094,
+  "lon": 128.6770549
+},
+{
+  "type": "node",
+  "id": 14263427784,
+  "lat": 34.8715726,
+  "lon": 128.6763860
 },
 {
   "type": "node",
