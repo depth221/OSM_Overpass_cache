@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-10T21:52:51Z",
-    "timestamp_areas_base": "2026-10-09T22:12:50Z",
+    "timestamp_osm_base": "2026-10-11T22:15:01Z",
+    "timestamp_areas_base": "2026-10-11T19:11:40Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -352137,7 +352137,7 @@
     "bridge:name:ko": "노량대교",
     "expressway": "yes",
     "highway": "trunk",
-    "lanes": "4",
+    "lanes": "2",
     "layer": "1",
     "maxspeed": "80",
     "maxweight": "40",
@@ -717412,8 +717412,8 @@
 {
   "type": "node",
   "id": 436763862,
-  "lat": 37.5152998,
-  "lon": 126.9528443
+  "lat": 37.5153206,
+  "lon": 126.9528564
 },
 {
   "type": "node",
@@ -717466,8 +717466,8 @@
 {
   "type": "node",
   "id": 12815139665,
-  "lat": 37.5144825,
-  "lon": 126.9553690
+  "lat": 37.5144966,
+  "lon": 126.9553719
 },
 {
   "type": "node",
@@ -717634,44 +717634,44 @@
 {
   "type": "node",
   "id": 12815139666,
-  "lat": 37.5141316,
-  "lon": 126.9564237
+  "lat": 37.5141571,
+  "lon": 126.9564463
 },
 {
   "type": "node",
   "id": 12815139667,
-  "lat": 37.5139116,
-  "lon": 126.9570335
+  "lat": 37.5139295,
+  "lon": 126.9570652
 },
 {
   "type": "node",
   "id": 12815139668,
-  "lat": 37.5136043,
-  "lon": 126.9578538
+  "lat": 37.5134518,
+  "lon": 126.9582868
 },
 {
   "type": "node",
   "id": 12815139669,
-  "lat": 37.5130902,
+  "lat": 37.5131121,
   "lon": 126.9590662
 },
 {
   "type": "node",
   "id": 12815139670,
-  "lat": 37.5125287,
-  "lon": 126.9602404
+  "lat": 37.5125589,
+  "lon": 126.9602252
 },
 {
   "type": "node",
   "id": 12815139671,
-  "lat": 37.5116827,
-  "lon": 126.9618236
+  "lat": 37.5117076,
+  "lon": 126.9618379
 },
 {
   "type": "node",
   "id": 12815139672,
-  "lat": 37.5100057,
-  "lon": 126.9648440
+  "lat": 37.5100080,
+  "lon": 126.9649011
 },
 {
   "type": "node",
