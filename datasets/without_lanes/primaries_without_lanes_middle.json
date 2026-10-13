@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-11T22:22:06Z",
-    "timestamp_areas_base": "2026-10-10T17:47:19Z",
+    "timestamp_osm_base": "2026-10-13T00:54:34Z",
+    "timestamp_areas_base": "2026-10-11T17:41:06Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -63116,6 +63116,7 @@
     4984575390,
     436838053,
     4185991244,
+    14276100623,
     8485212887,
     4984575382
   ],
@@ -90360,8 +90361,8 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
-    "name": "설악로",
-    "name:en": "Seorak-ro",
+    "name": "오색1교",
+    "name:en": "Osaek 1 kyo",
     "name:ko": "설악로",
     "oneway": "no",
     "ref": "44",
@@ -176935,8 +176936,11 @@
     5323895393
   ],
   "tags": {
+    "cycleway:right": "no",
     "highway": "primary",
-    "oneway": "yes"
+    "lane_markings": "no",
+    "oneway": "yes",
+    "surface": "asphalt"
   }
 },
 {
@@ -176951,8 +176955,11 @@
     5363003993
   ],
   "tags": {
+    "cycleway:right": "no",
     "highway": "primary",
-    "oneway": "yes"
+    "lane_markings": "no",
+    "oneway": "yes",
+    "surface": "asphalt"
   }
 },
 {
@@ -202602,6 +202609,21 @@
     14250985403,
     14250985407,
     14250985404
+  ],
+  "tags": {
+    "highway": "primary",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1567545270,
+  "nodes": [
+    4867773810,
+    14276130385,
+    14276130386,
+    14276130387,
+    4888858376
   ],
   "tags": {
     "highway": "primary",
@@ -304203,8 +304225,8 @@
 {
   "type": "node",
   "id": 2826803135,
-  "lat": 37.5257386,
-  "lon": 126.7646037
+  "lat": 37.5257437,
+  "lon": 126.7646382
 },
 {
   "type": "node",
@@ -304215,8 +304237,8 @@
 {
   "type": "node",
   "id": 2826811541,
-  "lat": 37.5257389,
-  "lon": 126.7646788
+  "lat": 37.5257416,
+  "lon": 126.7646989
 },
 {
   "type": "node",
@@ -318152,9 +318174,21 @@
 },
 {
   "type": "node",
+  "id": 4867773810,
+  "lat": 37.4746814,
+  "lon": 126.9819782
+},
+{
+  "type": "node",
   "id": 4888858374,
   "lat": 37.4765957,
   "lon": 126.9816624
+},
+{
+  "type": "node",
+  "id": 4888858376,
+  "lat": 37.4758939,
+  "lon": 126.9817420
 },
 {
   "type": "node",
@@ -318401,6 +318435,24 @@
   "id": 13478426768,
   "lat": 37.4766278,
   "lon": 126.9821337
+},
+{
+  "type": "node",
+  "id": 14276130385,
+  "lat": 37.4749825,
+  "lon": 126.9818876
+},
+{
+  "type": "node",
+  "id": 14276130386,
+  "lat": 37.4752751,
+  "lon": 126.9818192
+},
+{
+  "type": "node",
+  "id": 14276130387,
+  "lat": 37.4756008,
+  "lon": 126.9817843
 },
 {
   "type": "node",
@@ -320441,6 +320493,12 @@
   "id": 13911396773,
   "lat": 37.4853207,
   "lon": 126.9819321
+},
+{
+  "type": "node",
+  "id": 14276100623,
+  "lat": 37.4848057,
+  "lon": 126.9821986
 },
 {
   "type": "node",
@@ -386625,14 +386683,14 @@
 {
   "type": "node",
   "id": 12599776283,
-  "lat": 37.4633016,
-  "lon": 127.1701855
+  "lat": 37.4633284,
+  "lon": 127.1701669
 },
 {
   "type": "node",
   "id": 12599776284,
-  "lat": 37.4633754,
-  "lon": 127.1703069
+  "lat": 37.4633888,
+  "lon": 127.1702917
 },
 {
   "type": "node",
