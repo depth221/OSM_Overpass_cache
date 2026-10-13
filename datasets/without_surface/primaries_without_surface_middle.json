@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-13T00:54:34Z",
-    "timestamp_areas_base": "2026-10-12T20:52:06Z",
+    "timestamp_osm_base": "2026-10-13T23:03:26Z",
+    "timestamp_areas_base": "2026-10-13T15:50:24Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -6183,6 +6183,99 @@
     "ref": "47",
     "wikidata": "Q12593533",
     "wikipedia": "ko:동일로"
+  }
+},
+{
+  "type": "way",
+  "id": 47376931,
+  "nodes": [
+    603146398,
+    2394892306
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 47376939,
+  "nodes": [
+    603146627,
+    603146632
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "오정2육교",
+    "bridge:name:ko": "오정2육교",
+    "bridge:structure": "beam",
+    "highway": "primary",
+    "layer": "1",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 47376943,
+  "nodes": [
+    603146632,
+    2347386800,
+    11295610806,
+    14280188373,
+    5359294016
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 47376947,
+  "nodes": [
+    603146635,
+    603146398
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "오정2육교",
+    "bridge:name:ko": "오정2육교",
+    "bridge:structure": "beam",
+    "highway": "primary",
+    "layer": "1",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2"
   }
 },
 {
@@ -27185,6 +27278,132 @@
 },
 {
   "type": "way",
+  "id": 225915610,
+  "nodes": [
+    2347375259,
+    2347375265
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 225915625,
+  "nodes": [
+    14280187971,
+    2347375283
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 225915635,
+  "nodes": [
+    14280187965,
+    11295610827,
+    14280187988
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 225915637,
+  "nodes": [
+    2347375104,
+    2347375259
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 225915641,
+  "nodes": [
+    14280187992,
+    14280187964
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 225915643,
+  "nodes": [
+    2347375075,
+    2347375246
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
   "id": 226072632,
   "nodes": [
     2349316876,
@@ -27503,6 +27722,230 @@
     "name:ko": "녹사평대로",
     "ref": "31",
     "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 231078568,
+  "nodes": [
+    2364696346,
+    12164747182,
+    11295610813,
+    4674225116,
+    11295610810,
+    2394892312
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 231078569,
+  "nodes": [
+    2394892306,
+    2347386791
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "layer": "1",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ko": "봉오대로",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 231078574,
+  "nodes": [
+    2394892312,
+    14280188112
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "layer": "1",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ko": "봉오대로",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 231078577,
+  "nodes": [
+    2394892316,
+    2394892315
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 231078579,
+  "nodes": [
+    2394892310,
+    2394892311
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "layer": "1",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 231078580,
+  "nodes": [
+    2347386791,
+    11295610809,
+    2394892308,
+    14280188091,
+    4674225985,
+    4674225986,
+    11295610811,
+    4674225291,
+    12164747181,
+    14280188076
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 231078583,
+  "nodes": [
+    2394892315,
+    12307222463,
+    4674225314,
+    12164797707,
+    2364696346
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 231078584,
+  "nodes": [
+    2394892311,
+    2826466682,
+    364889931,
+    11295610815,
+    605037494,
+    11295610816,
+    11295610823,
+    11295610824,
+    11295610825,
+    11295610826,
+    364890280,
+    12246081918
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 231078585,
+  "nodes": [
+    2347375087,
+    14280187993,
+    11295610820,
+    11295610821,
+    11295610819,
+    11295610818,
+    11295610817,
+    2347375255,
+    2347375253,
+    10244439746,
+    2394892316
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
   }
 },
 {
@@ -47782,6 +48225,7 @@
     2289980946,
     2826791499,
     4820718606,
+    14280188132,
     4820718605
   ],
   "tags": {
@@ -59955,40 +60399,6 @@
 },
 {
   "type": "way",
-  "id": 516647742,
-  "nodes": [
-    999136626,
-    436677764
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "아차산로",
-    "name:en": "Achasan-ro",
-    "name:ko": "아차산로",
-    "name:ko-Latn": "Achasan-ro",
-    "ref": "43;46"
-  }
-},
-{
-  "type": "way",
-  "id": 516647749,
-  "nodes": [
-    1859287341,
-    999136480,
-    6204213274,
-    999136626
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "아차산로",
-    "name:en": "Achasan-ro",
-    "name:ko": "아차산로",
-    "name:ko-Latn": "Achasan-ro",
-    "ref": "43;46"
-  }
-},
-{
-  "type": "way",
   "id": 516647750,
   "nodes": [
     436677761,
@@ -60213,7 +60623,8 @@
   "nodes": [
     4674225304,
     12164747190,
-    2364696346
+    14280188076,
+    14280188075
   ],
   "tags": {
     "highway": "primary",
@@ -60225,6 +60636,28 @@
     "ref": "6;77",
     "wikidata": "Q16101068",
     "wikipedia": "ko:오정로"
+  }
+},
+{
+  "type": "way",
+  "id": 516736335,
+  "nodes": [
+    12164797706,
+    12246081917,
+    2826466688
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
   }
 },
 {
@@ -82999,6 +83432,76 @@
     "ref": "41",
     "wikidata": "Q7223951",
     "wikipedia": "ko:강남대로"
+  }
+},
+{
+  "type": "way",
+  "id": 582449901,
+  "nodes": [
+    1618157634,
+    5570418428
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "5",
+    "lanes:psv": "1",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 582449903,
+  "nodes": [
+    14280188376,
+    595740007
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "5",
+    "lanes:psv": "1",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 582449904,
+  "nodes": [
+    14280188375,
+    11295610805,
+    11295610803,
+    2347386799,
+    603146635
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
   }
 },
 {
@@ -148740,6 +149243,48 @@
 },
 {
   "type": "way",
+  "id": 1203067167,
+  "nodes": [
+    2347375306,
+    2347375104
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1203067168,
+  "nodes": [
+    2347375283,
+    2347375275
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
   "id": 1203262873,
   "nodes": [
     5520426652,
@@ -163400,21 +163945,17 @@
   "type": "way",
   "id": 1315716936,
   "nodes": [
-    12546547638,
-    4636726899,
-    4652727646,
+    2443038592,
+    14280188420,
+    4652727645,
     436676223,
     2852183115,
-    2833622249,
     12546561004,
-    436676224,
-    12546561003,
+    14280188413,
     2443038584,
     436676225,
-    12546561002,
-    436676226,
-    9049874462,
-    2315561885
+    14280188414,
+    436676226
   ],
   "tags": {
     "highway": "primary",
@@ -163424,6 +163965,7 @@
     "name:ko": "백범로",
     "name:ko-Hani": "白凡路",
     "name:zh": "白凡路",
+    "oneway": "yes",
     "ref": "42",
     "wikidata": "Q12597773",
     "wikipedia": "ko:백범로 (인천)"
@@ -168304,7 +168846,7 @@
   "type": "way",
   "id": 1352530983,
   "nodes": [
-    414693698,
+    14280188204,
     12364554805
   ],
   "tags": {
@@ -168317,6 +168859,45 @@
     "ref": "6;77",
     "wikidata": "Q16101068",
     "wikipedia": "ko:오정로"
+  }
+},
+{
+  "type": "way",
+  "id": 1353669361,
+  "nodes": [
+    2826466688,
+    2394892310
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1353669363,
+  "nodes": [
+    2347375267,
+    2347375087
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ko": "봉오대로",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
   }
 },
 {
@@ -168350,8 +168931,7 @@
     436676220,
     12546547639,
     436676221,
-    2443038592,
-    12546547638
+    2443038592
   ],
   "tags": {
     "highway": "primary",
@@ -191636,6 +192216,465 @@
   "tags": {
     "highway": "primary",
     "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943263,
+  "nodes": [
+    14280187955,
+    2347375306
+  ],
+  "tags": {
+    "bridge": "viaduct",
+    "highway": "primary",
+    "layer": "1",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943268,
+  "nodes": [
+    2347375275,
+    14280187958
+  ],
+  "tags": {
+    "bridge": "viaduct",
+    "highway": "primary",
+    "layer": "1",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943270,
+  "nodes": [
+    14280187963,
+    14280187955
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943271,
+  "nodes": [
+    14280187964,
+    14280187963
+  ],
+  "tags": {
+    "bridge": "viaduct",
+    "highway": "primary",
+    "layer": "1",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943272,
+  "nodes": [
+    14280187958,
+    14280187966
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943273,
+  "nodes": [
+    14280187966,
+    14280187965
+  ],
+  "tags": {
+    "bridge": "viaduct",
+    "highway": "primary",
+    "layer": "1",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943275,
+  "nodes": [
+    2347375246,
+    14280187971
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943278,
+  "nodes": [
+    14280187988,
+    2347375267
+  ],
+  "tags": {
+    "bridge": "viaduct",
+    "highway": "primary",
+    "layer": "1",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943282,
+  "nodes": [
+    12246081918,
+    14280187992
+  ],
+  "tags": {
+    "bridge": "viaduct",
+    "highway": "primary",
+    "layer": "1",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943307,
+  "nodes": [
+    14280188076,
+    12164797706
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943308,
+  "nodes": [
+    14280188075,
+    2364696346
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "오정로",
+    "name:en": "Ojeong-ro",
+    "name:ko": "오정로",
+    "name:ko-Latn": "ojeongno",
+    "oneway": "no",
+    "ref": "6;77",
+    "wikidata": "Q16101068",
+    "wikipedia": "ko:오정로"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943317,
+  "nodes": [
+    14280188112,
+    14280188122
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ko": "봉오대로",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943319,
+  "nodes": [
+    14280188122,
+    603146627
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "layer": "1",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ko": "봉오대로",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943332,
+  "nodes": [
+    14280188226,
+    14280188204
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "오정로",
+    "name:en": "Ojeong-ro",
+    "name:ko": "오정로",
+    "name:ko-Latn": "ojeongno",
+    "oneway": "no",
+    "ref": "6;77",
+    "wikidata": "Q16101068",
+    "wikipedia": "ko:오정로"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943333,
+  "nodes": [
+    414693698,
+    14280188226
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "오정로",
+    "name:en": "Ojeong-ro",
+    "name:ko": "오정로",
+    "name:ko-Latn": "ojeongno",
+    "oneway": "no",
+    "ref": "6;39;77"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943337,
+  "nodes": [
+    5359294016,
+    14280188374
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "5",
+    "lanes:psv": "1",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943338,
+  "nodes": [
+    5570418428,
+    14280188375
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "layer": "1",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943340,
+  "nodes": [
+    14280188374,
+    14280188376
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "lanes": "5",
+    "lanes:psv": "1",
+    "layer": "1",
+    "name": "봉오대로",
+    "name:en": "Bongo-daero",
+    "name:ja": "烽梧大路",
+    "name:ko": "봉오대로",
+    "name:ko-Hani": "烽梧大路",
+    "name:zh": "烽梧大路",
+    "oneway": "yes",
+    "ref": "2",
+    "wikidata": "Q12598619",
+    "wikipedia": "ko:봉오대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943351,
+  "nodes": [
+    436676226,
+    9049874462,
+    2315561885
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "백범로",
+    "name:en": "Baekbeom-ro",
+    "name:ja": "白凡路",
+    "name:ko": "백범로",
+    "name:ko-Hani": "白凡路",
+    "name:zh": "白凡路",
+    "oneway": "no",
+    "ref": "42",
+    "wikidata": "Q12597773",
+    "wikipedia": "ko:백범로 (인천)"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943352,
+  "nodes": [
+    436676226,
+    14280188415,
+    12546561002,
+    14280188416,
+    14280188417,
+    14280188418,
+    12546561003,
+    2833622249,
+    14280188419,
+    14280188412,
+    12546547638
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "백범로",
+    "name:en": "Baekbeom-ro",
+    "name:ja": "白凡路",
+    "name:ko": "백범로",
+    "name:ko-Hani": "白凡路",
+    "name:zh": "白凡路",
+    "oneway": "yes",
+    "ref": "42",
+    "wikidata": "Q12597773",
+    "wikipedia": "ko:백범로 (인천)"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943353,
+  "nodes": [
+    12546547638,
+    2443038592
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "백범로",
+    "name:en": "Baekbeom-ro",
+    "name:ja": "白凡路",
+    "name:ko": "백범로",
+    "name:ko-Hani": "白凡路",
+    "name:zh": "白凡路",
+    "oneway": "yes",
+    "ref": "42",
+    "wikidata": "Q12597773",
+    "wikipedia": "ko:백범로 (인천)"
   }
 },
 {
@@ -285757,14 +286796,8 @@
 {
   "type": "node",
   "id": 436676223,
-  "lat": 37.4518217,
-  "lon": 126.7382138
-},
-{
-  "type": "node",
-  "id": 436676224,
-  "lat": 37.4515496,
-  "lon": 126.7389733
+  "lat": 37.4517709,
+  "lon": 126.7382006
 },
 {
   "type": "node",
@@ -285775,8 +286808,8 @@
 {
   "type": "node",
   "id": 2443038584,
-  "lat": 37.4513032,
-  "lon": 126.7397978
+  "lat": 37.4512802,
+  "lon": 126.7397000
 },
 {
   "type": "node",
@@ -285787,8 +286820,8 @@
 {
   "type": "node",
   "id": 2833622249,
-  "lat": 37.4516870,
-  "lon": 126.7385897
+  "lat": 37.4517386,
+  "lon": 126.7386293
 },
 {
   "type": "node",
@@ -285799,26 +286832,20 @@
 {
   "type": "node",
   "id": 2852183115,
-  "lat": 37.4517167,
-  "lon": 126.7385068
+  "lat": 37.4516731,
+  "lon": 126.7384628
 },
 {
   "type": "node",
-  "id": 4636726899,
-  "lat": 37.4520744,
-  "lon": 126.7376470
-},
-{
-  "type": "node",
-  "id": 4652727646,
-  "lat": 37.4520253,
-  "lon": 126.7377571
+  "id": 4652727645,
+  "lat": 37.4519529,
+  "lon": 126.7377665
 },
 {
   "type": "node",
   "id": 12546547638,
-  "lat": 37.4521171,
-  "lon": 126.7375512
+  "lat": 37.4521381,
+  "lon": 126.7376039
 },
 {
   "type": "node",
@@ -285835,20 +286862,56 @@
 {
   "type": "node",
   "id": 12546561003,
-  "lat": 37.4514913,
-  "lon": 126.7391682
+  "lat": 37.4515544,
+  "lon": 126.7391834
 },
 {
   "type": "node",
   "id": 12546561004,
-  "lat": 37.4515637,
-  "lon": 126.7389339
+  "lat": 37.4515167,
+  "lon": 126.7389086
+},
+{
+  "type": "node",
+  "id": 14280188412,
+  "lat": 37.4521229,
+  "lon": 126.7376962
+},
+{
+  "type": "node",
+  "id": 14280188413,
+  "lat": 37.4514161,
+  "lon": 126.7392207
+},
+{
+  "type": "node",
+  "id": 14280188417,
+  "lat": 37.4513375,
+  "lon": 126.7399505
+},
+{
+  "type": "node",
+  "id": 14280188418,
+  "lat": 37.4514815,
+  "lon": 126.7394113
+},
+{
+  "type": "node",
+  "id": 14280188419,
+  "lat": 37.4519201,
+  "lon": 126.7381726
+},
+{
+  "type": "node",
+  "id": 14280188420,
+  "lat": 37.4520403,
+  "lon": 126.7375953
 },
 {
   "type": "node",
   "id": 436676225,
-  "lat": 37.4510900,
-  "lon": 126.7407800
+  "lat": 37.4510707,
+  "lon": 126.7405809
 },
 {
   "type": "node",
@@ -285859,8 +286922,26 @@
 {
   "type": "node",
   "id": 12546561002,
-  "lat": 37.4507916,
-  "lon": 126.7423017
+  "lat": 37.4508536,
+  "lon": 126.7423213
+},
+{
+  "type": "node",
+  "id": 14280188414,
+  "lat": 37.4507125,
+  "lon": 126.7425049
+},
+{
+  "type": "node",
+  "id": 14280188415,
+  "lat": 37.4508100,
+  "lon": 126.7425439
+},
+{
+  "type": "node",
+  "id": 14280188416,
+  "lat": 37.4511990,
+  "lon": 126.7405668
 },
 {
   "type": "node",
@@ -286146,9 +287227,21 @@
 },
 {
   "type": "node",
+  "id": 595740007,
+  "lat": 37.5319283,
+  "lon": 126.7647568
+},
+{
+  "type": "node",
+  "id": 1618157634,
+  "lat": 37.5317656,
+  "lon": 126.7647590
+},
+{
+  "type": "node",
   "id": 2289980922,
-  "lat": 37.5303697,
-  "lon": 126.7683644
+  "lat": 37.5304670,
+  "lon": 126.7683211
 },
 {
   "type": "node",
@@ -286171,8 +287264,8 @@
 {
   "type": "node",
   "id": 4820718605,
-  "lat": 37.5300546,
-  "lon": 126.7685158
+  "lat": 37.5301534,
+  "lon": 126.7684749
 },
 {
   "type": "node",
@@ -286182,15 +287275,75 @@
 },
 {
   "type": "node",
+  "id": 5359294016,
+  "lat": 37.5319682,
+  "lon": 126.7684948
+},
+{
+  "type": "node",
+  "id": 5570418428,
+  "lat": 37.5317546,
+  "lon": 126.7669053
+},
+{
+  "type": "node",
   "id": 7257399240,
-  "lat": 37.5307133,
-  "lon": 126.7681392
+  "lat": 37.5306742,
+  "lon": 126.7682244
+},
+{
+  "type": "node",
+  "id": 11295610803,
+  "lat": 37.5317668,
+  "lon": 126.7694128
+},
+{
+  "type": "node",
+  "id": 11295610805,
+  "lat": 37.5317635,
+  "lon": 126.7689181
+},
+{
+  "type": "node",
+  "id": 11295610806,
+  "lat": 37.5319770,
+  "lon": 126.7707437
 },
 {
   "type": "node",
   "id": 12309546082,
   "lat": 37.5318426,
   "lon": 126.7669990
+},
+{
+  "type": "node",
+  "id": 14280188132,
+  "lat": 37.5300907,
+  "lon": 126.7685042
+},
+{
+  "type": "node",
+  "id": 14280188373,
+  "lat": 37.5319707,
+  "lon": 126.7691418
+},
+{
+  "type": "node",
+  "id": 14280188374,
+  "lat": 37.5319528,
+  "lon": 126.7670590
+},
+{
+  "type": "node",
+  "id": 14280188375,
+  "lat": 37.5317512,
+  "lon": 126.7672695
+},
+{
+  "type": "node",
+  "id": 14280188376,
+  "lat": 37.5319492,
+  "lon": 126.7667022
 },
 {
   "type": "node",
@@ -289855,8 +291008,8 @@
 {
   "type": "node",
   "id": 414693698,
-  "lat": 37.5258481,
-  "lon": 126.7780668
+  "lat": 37.5258498,
+  "lon": 126.7779587
 },
 {
   "type": "node",
@@ -289899,6 +291052,18 @@
   "id": 12364554805,
   "lat": 37.5258447,
   "lon": 126.7783987
+},
+{
+  "type": "node",
+  "id": 14280188204,
+  "lat": 37.5258478,
+  "lon": 126.7780963
+},
+{
+  "type": "node",
+  "id": 14280188226,
+  "lat": 37.5258483,
+  "lon": 126.7780364
 },
 {
   "type": "node",
@@ -290016,15 +291181,129 @@
 },
 {
   "type": "node",
+  "id": 603146398,
+  "lat": 37.5318579,
+  "lon": 126.7787687
+},
+{
+  "type": "node",
+  "id": 603146627,
+  "lat": 37.5320555,
+  "lon": 126.7783582
+},
+{
+  "type": "node",
+  "id": 603146632,
+  "lat": 37.5320326,
+  "lon": 126.7777290
+},
+{
+  "type": "node",
+  "id": 603146635,
+  "lat": 37.5318470,
+  "lon": 126.7776371
+},
+{
+  "type": "node",
+  "id": 2347386799,
+  "lat": 37.5318018,
+  "lon": 126.7751468
+},
+{
+  "type": "node",
+  "id": 2347386800,
+  "lat": 37.5320065,
+  "lon": 126.7751962
+},
+{
+  "type": "node",
+  "id": 14280188122,
+  "lat": 37.5320536,
+  "lon": 126.7788537
+},
+{
+  "type": "node",
+  "id": 2347386791,
+  "lat": 37.5318368,
+  "lon": 126.7809331
+},
+{
+  "type": "node",
+  "id": 2394892306,
+  "lat": 37.5318557,
+  "lon": 126.7804833
+},
+{
+  "type": "node",
+  "id": 2394892308,
+  "lat": 37.5318524,
+  "lon": 126.7844761
+},
+{
+  "type": "node",
+  "id": 2394892312,
+  "lat": 37.5320545,
+  "lon": 126.7809341
+},
+{
+  "type": "node",
   "id": 2826410768,
   "lat": 37.5293298,
   "lon": 126.7858738
 },
 {
   "type": "node",
+  "id": 4674225116,
+  "lat": 37.5320961,
+  "lon": 126.7851072
+},
+{
+  "type": "node",
+  "id": 4674225985,
+  "lat": 37.5318573,
+  "lon": 126.7852951
+},
+{
+  "type": "node",
+  "id": 4674225986,
+  "lat": 37.5318604,
+  "lon": 126.7856321
+},
+{
+  "type": "node",
+  "id": 11295610809,
+  "lat": 37.5318643,
+  "lon": 126.7832101
+},
+{
+  "type": "node",
+  "id": 11295610810,
+  "lat": 37.5320696,
+  "lon": 126.7847642
+},
+{
+  "type": "node",
+  "id": 11295610811,
+  "lat": 37.5318824,
+  "lon": 126.7858754
+},
+{
+  "type": "node",
   "id": 12246081915,
   "lat": 37.5293601,
   "lon": 126.7859138
+},
+{
+  "type": "node",
+  "id": 14280188091,
+  "lat": 37.5318562,
+  "lon": 126.7851026
+},
+{
+  "type": "node",
+  "id": 14280188112,
+  "lat": 37.5320500,
+  "lon": 126.7804829
 },
 {
   "type": "node",
@@ -290035,8 +291314,8 @@
 {
   "type": "node",
   "id": 2364696346,
-  "lat": 37.5320189,
-  "lon": 126.7894445
+  "lat": 37.5321053,
+  "lon": 126.7895591
 },
 {
   "type": "node",
@@ -290049,6 +291328,12 @@
   "id": 4664879009,
   "lat": 37.5329401,
   "lon": 126.7906664
+},
+{
+  "type": "node",
+  "id": 4674225291,
+  "lat": 37.5319361,
+  "lon": 126.7884482
 },
 {
   "type": "node",
@@ -290070,6 +291355,12 @@
 },
 {
   "type": "node",
+  "id": 4674225314,
+  "lat": 37.5321177,
+  "lon": 126.7904068
+},
+{
+  "type": "node",
   "id": 4674226036,
   "lat": 37.5308881,
   "lon": 126.7879278
@@ -290082,9 +291373,39 @@
 },
 {
   "type": "node",
+  "id": 11295610813,
+  "lat": 37.5321108,
+  "lon": 126.7867589
+},
+{
+  "type": "node",
+  "id": 12164747181,
+  "lat": 37.5319409,
+  "lon": 126.7889739
+},
+{
+  "type": "node",
+  "id": 12164747182,
+  "lat": 37.5321047,
+  "lon": 126.7889729
+},
+{
+  "type": "node",
   "id": 12164747190,
   "lat": 37.5317569,
   "lon": 126.7890711
+},
+{
+  "type": "node",
+  "id": 12164797706,
+  "lat": 37.5319493,
+  "lon": 126.7898940
+},
+{
+  "type": "node",
+  "id": 12164797707,
+  "lat": 37.5321131,
+  "lon": 126.7898937
 },
 {
   "type": "node",
@@ -290103,6 +291424,12 @@
   "id": 12246081916,
   "lat": 37.5303198,
   "lon": 126.7871787
+},
+{
+  "type": "node",
+  "id": 12246081917,
+  "lat": 37.5319515,
+  "lon": 126.7901462
 },
 {
   "type": "node",
@@ -290130,6 +291457,48 @@
 },
 {
   "type": "node",
+  "id": 14280188075,
+  "lat": 37.5320189,
+  "lon": 126.7894445
+},
+{
+  "type": "node",
+  "id": 14280188076,
+  "lat": 37.5319501,
+  "lon": 126.7893464
+},
+{
+  "type": "node",
+  "id": 2394892310,
+  "lat": 37.5319997,
+  "lon": 126.7959050
+},
+{
+  "type": "node",
+  "id": 2394892311,
+  "lat": 37.5320044,
+  "lon": 126.7961199
+},
+{
+  "type": "node",
+  "id": 2394892315,
+  "lat": 37.5321644,
+  "lon": 126.7958426
+},
+{
+  "type": "node",
+  "id": 2394892316,
+  "lat": 37.5321680,
+  "lon": 126.7960635
+},
+{
+  "type": "node",
+  "id": 2826466688,
+  "lat": 37.5319884,
+  "lon": 126.7943026
+},
+{
+  "type": "node",
   "id": 4665074531,
   "lat": 37.5343859,
   "lon": 126.7925807
@@ -290145,6 +291514,18 @@
   "id": 10244439718,
   "lat": 37.5355661,
   "lon": 126.7941434
+},
+{
+  "type": "node",
+  "id": 10244439746,
+  "lat": 37.5321767,
+  "lon": 126.7969527
+},
+{
+  "type": "node",
+  "id": 12307222463,
+  "lat": 37.5321619,
+  "lon": 126.7953062
 },
 {
   "type": "node",
@@ -290196,6 +291577,210 @@
 },
 {
   "type": "node",
+  "id": 364889931,
+  "lat": 37.5320428,
+  "lon": 126.8001229
+},
+{
+  "type": "node",
+  "id": 364890280,
+  "lat": 37.5326269,
+  "lon": 126.8033569
+},
+{
+  "type": "node",
+  "id": 605037494,
+  "lat": 37.5320797,
+  "lon": 126.8010134
+},
+{
+  "type": "node",
+  "id": 2347375087,
+  "lat": 37.5328985,
+  "lon": 126.8034260
+},
+{
+  "type": "node",
+  "id": 2347375253,
+  "lat": 37.5322011,
+  "lon": 126.7996475
+},
+{
+  "type": "node",
+  "id": 2347375255,
+  "lat": 37.5322242,
+  "lon": 126.8002026
+},
+{
+  "type": "node",
+  "id": 2347375267,
+  "lat": 37.5330424,
+  "lon": 126.8038350
+},
+{
+  "type": "node",
+  "id": 2826466682,
+  "lat": 37.5320209,
+  "lon": 126.7991192
+},
+{
+  "type": "node",
+  "id": 11295610815,
+  "lat": 37.5320548,
+  "lon": 126.8005870
+},
+{
+  "type": "node",
+  "id": 11295610816,
+  "lat": 37.5321281,
+  "lon": 126.8014435
+},
+{
+  "type": "node",
+  "id": 11295610817,
+  "lat": 37.5322479,
+  "lon": 126.8007158
+},
+{
+  "type": "node",
+  "id": 11295610818,
+  "lat": 37.5323140,
+  "lon": 126.8013517
+},
+{
+  "type": "node",
+  "id": 11295610819,
+  "lat": 37.5324428,
+  "lon": 126.8020147
+},
+{
+  "type": "node",
+  "id": 11295610820,
+  "lat": 37.5326263,
+  "lon": 126.8026321
+},
+{
+  "type": "node",
+  "id": 11295610821,
+  "lat": 37.5324813,
+  "lon": 126.8021827
+},
+{
+  "type": "node",
+  "id": 11295610823,
+  "lat": 37.5321942,
+  "lon": 126.8018738
+},
+{
+  "type": "node",
+  "id": 11295610824,
+  "lat": 37.5323196,
+  "lon": 126.8024230
+},
+{
+  "type": "node",
+  "id": 11295610825,
+  "lat": 37.5323971,
+  "lon": 126.8027231
+},
+{
+  "type": "node",
+  "id": 11295610826,
+  "lat": 37.5325848,
+  "lon": 126.8032495
+},
+{
+  "type": "node",
+  "id": 11295610827,
+  "lat": 37.5332338,
+  "lon": 126.8043787
+},
+{
+  "type": "node",
+  "id": 12246081918,
+  "lat": 37.5328600,
+  "lon": 126.8039487
+},
+{
+  "type": "node",
+  "id": 14280187988,
+  "lat": 37.5331175,
+  "lon": 126.8040357
+},
+{
+  "type": "node",
+  "id": 14280187992,
+  "lat": 37.5329386,
+  "lon": 126.8041456
+},
+{
+  "type": "node",
+  "id": 14280187993,
+  "lat": 37.5327533,
+  "lon": 126.8030348
+},
+{
+  "type": "node",
+  "id": 2347375104,
+  "lat": 37.5350478,
+  "lon": 126.8094987
+},
+{
+  "type": "node",
+  "id": 2347375275,
+  "lat": 37.5349219,
+  "lon": 126.8086648
+},
+{
+  "type": "node",
+  "id": 2347375283,
+  "lat": 37.5351001,
+  "lon": 126.8090900
+},
+{
+  "type": "node",
+  "id": 2347375306,
+  "lat": 37.5347766,
+  "lon": 126.8087544
+},
+{
+  "type": "node",
+  "id": 14280187955,
+  "lat": 37.5346144,
+  "lon": 126.8083530
+},
+{
+  "type": "node",
+  "id": 14280187958,
+  "lat": 37.5347638,
+  "lon": 126.8082594
+},
+{
+  "type": "node",
+  "id": 14280187963,
+  "lat": 37.5338837,
+  "lon": 126.8065111
+},
+{
+  "type": "node",
+  "id": 14280187964,
+  "lat": 37.5337555,
+  "lon": 126.8061913
+},
+{
+  "type": "node",
+  "id": 14280187965,
+  "lat": 37.5339442,
+  "lon": 126.8062051
+},
+{
+  "type": "node",
+  "id": 14280187966,
+  "lat": 37.5340691,
+  "lon": 126.8065236
+},
+{
+  "type": "node",
   "id": 1795220873,
   "lat": 37.5409128,
   "lon": 126.8012186
@@ -290217,6 +291802,36 @@
   "id": 4665074587,
   "lat": 37.5408113,
   "lon": 126.8010817
+},
+{
+  "type": "node",
+  "id": 14280187971,
+  "lat": 37.5361242,
+  "lon": 126.8116981
+},
+{
+  "type": "node",
+  "id": 2347375075,
+  "lat": 37.5377362,
+  "lon": 126.8158368
+},
+{
+  "type": "node",
+  "id": 2347375246,
+  "lat": 37.5367772,
+  "lon": 126.8133339
+},
+{
+  "type": "node",
+  "id": 2347375259,
+  "lat": 37.5365921,
+  "lon": 126.8132983
+},
+{
+  "type": "node",
+  "id": 2347375265,
+  "lat": 37.5376182,
+  "lon": 126.8158978
 },
 {
   "type": "node",
@@ -348804,27 +350419,9 @@
 },
 {
   "type": "node",
-  "id": 999136480,
-  "lat": 37.5473613,
-  "lon": 127.1063934
-},
-{
-  "type": "node",
   "id": 999136519,
   "lat": 37.5457441,
   "lon": 127.1049887
-},
-{
-  "type": "node",
-  "id": 999136626,
-  "lat": 37.5467434,
-  "lon": 127.1058268
-},
-{
-  "type": "node",
-  "id": 6204213274,
-  "lat": 37.5468803,
-  "lon": 127.1059488
 },
 {
   "type": "node",
