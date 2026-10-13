@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-13T00:51:35Z",
-    "timestamp_areas_base": "2026-10-11T17:41:06Z",
+    "timestamp_osm_base": "2026-10-13T22:57:30Z",
+    "timestamp_areas_base": "2026-10-13T15:50:24Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -26873,6 +26873,102 @@
     "name:ko": "양곡로",
     "oneway": "yes",
     "ref": "356"
+  }
+},
+{
+  "type": "way",
+  "id": 71382388,
+  "nodes": [
+    614558396,
+    2440094756
+  ],
+  "tags": {
+    "highway": "trunk",
+    "motorroad": "yes",
+    "name": "무네미로",
+    "name:en": "Munemi-ro",
+    "name:ko": "무네미로",
+    "oneway": "yes",
+    "ref": "71",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 71382391,
+  "nodes": [
+    2947032907,
+    2947032910
+  ],
+  "tags": {
+    "bicycle": "no",
+    "foot": "no",
+    "highway": "trunk",
+    "layer": "-1",
+    "maxheight": "4.5",
+    "motorroad": "yes",
+    "name": "무네미로",
+    "name:en": "Munemi-ro",
+    "name:ko": "무네미로",
+    "oneway": "yes",
+    "ref": "71",
+    "sidewalk": "no",
+    "surface": "asphalt",
+    "tunnel": "yes",
+    "tunnel:name": "대공원앞지하차도",
+    "wikidata": "Q12595508",
+    "wikipedia": "ko:무네미로"
+  }
+},
+{
+  "type": "way",
+  "id": 71382396,
+  "nodes": [
+    2947032908,
+    614558356,
+    614558362,
+    2315604033,
+    614558367,
+    2443038629
+  ],
+  "tags": {
+    "bicycle": "no",
+    "foot": "no",
+    "highway": "trunk",
+    "motorroad": "yes",
+    "name": "무네미로",
+    "name:en": "Munemi-ro",
+    "name:ko": "무네미로",
+    "oneway": "yes",
+    "ref": "71",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 71382407,
+  "nodes": [
+    614558387,
+    614558389,
+    614558390,
+    614558391,
+    614558392,
+    14280171254
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "장수고가교",
+    "highway": "trunk",
+    "layer": "1",
+    "motorroad": "yes",
+    "name": "장수고가도로",
+    "name:en": "Jangsugogado-ro",
+    "name:ko": "장수고가도로",
+    "name:ko-Latn": "Jangsugogadoro",
+    "oneway": "yes",
+    "ref": "71",
+    "surface": "asphalt"
   }
 },
 {
@@ -75488,6 +75584,225 @@
 },
 {
   "type": "way",
+  "id": 235925683,
+  "nodes": [
+    2440094721,
+    2440094729,
+    2440094731,
+    2440094737,
+    2440094741,
+    2440094743,
+    7928074346,
+    2440094747,
+    2440094748,
+    2440094749,
+    2440094751,
+    2440094754
+  ],
+  "tags": {
+    "highway": "trunk",
+    "motorroad": "yes",
+    "name": "무네미로",
+    "name:en": "Munemi-ro",
+    "name:ko": "무네미로",
+    "oneway": "yes",
+    "ref": "71",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 235925686,
+  "nodes": [
+    2440094753,
+    614558397,
+    614558398,
+    614558407,
+    614558409,
+    5359158798,
+    614558414,
+    614558416,
+    614558419,
+    614558421,
+    14280171213,
+    14280171212,
+    2440094723
+  ],
+  "tags": {
+    "highway": "trunk",
+    "motorroad": "yes",
+    "name": "무네미로",
+    "name:en": "Munemi-ro",
+    "name:ko": "무네미로",
+    "oneway": "yes",
+    "ref": "71",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 235925690,
+  "nodes": [
+    2440094754,
+    2440094757
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "maxweight:signed": "no",
+    "motorroad": "yes",
+    "name": "무네미로",
+    "name:en": "Munemi-ro",
+    "name:ko": "무네미로",
+    "oneway": "yes",
+    "ref": "71",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 235925692,
+  "nodes": [
+    2440094756,
+    2440094753
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "maxweight:signed": "no",
+    "motorroad": "yes",
+    "name": "무네미로",
+    "name:en": "Munemi-ro",
+    "name:ko": "무네미로",
+    "oneway": "yes",
+    "ref": "71",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 235925695,
+  "nodes": [
+    2440094757,
+    2440094759
+  ],
+  "tags": {
+    "highway": "trunk",
+    "motorroad": "yes",
+    "name": "무네미로",
+    "name:en": "Munemi-ro",
+    "name:ko": "무네미로",
+    "oneway": "yes",
+    "ref": "71",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 236251144,
+  "nodes": [
+    2443038606,
+    2443038619,
+    2443038621,
+    2443038624,
+    2443038630
+  ],
+  "tags": {
+    "highway": "trunk",
+    "motorroad": "yes",
+    "name": "무네미로",
+    "name:en": "Munemi-ro",
+    "name:ko": "무네미로",
+    "name:zh": "宗美路",
+    "oneway": "yes",
+    "ref": "71",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 236251145,
+  "nodes": [
+    2947032910,
+    2443038814,
+    2443038818,
+    2443038822,
+    2443038828,
+    2443038831
+  ],
+  "tags": {
+    "bicycle": "no",
+    "foot": "no",
+    "highway": "trunk",
+    "motorroad": "yes",
+    "name": "무네미로",
+    "name:en": "Munemi-ro",
+    "name:ko": "무네미로",
+    "oneway": "yes",
+    "ref": "71",
+    "sidewalk": "no",
+    "surface": "asphalt",
+    "wikidata": "Q12595508",
+    "wikipedia": "ko:무네미로"
+  }
+},
+{
+  "type": "way",
+  "id": 236251146,
+  "nodes": [
+    2947032909,
+    2947032908
+  ],
+  "tags": {
+    "bicycle": "no",
+    "foot": "no",
+    "highway": "trunk",
+    "layer": "-1",
+    "maxheight": "4.5",
+    "motorroad": "yes",
+    "name": "무네미로",
+    "name:en": "Munemi-ro",
+    "name:ko": "무네미로",
+    "oneway": "yes",
+    "ref": "71",
+    "sidewalk": "no",
+    "surface": "asphalt",
+    "tunnel": "yes",
+    "tunnel:name": "대공원앞지하차도",
+    "wikidata": "Q12595508",
+    "wikipedia": "ko:무네미로"
+  }
+},
+{
+  "type": "way",
+  "id": 236251147,
+  "nodes": [
+    14280171253,
+    2443038526,
+    2443038537,
+    2443038569,
+    2443038576,
+    2443038594
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "장수고가교",
+    "highway": "trunk",
+    "layer": "1",
+    "motorroad": "yes",
+    "name": "장수고가도로",
+    "name:en": "Jangsugogado-ro",
+    "name:ko": "장수고가도로",
+    "name:ko-Latn": "Jangsugogadoro",
+    "oneway": "yes",
+    "ref": "71",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
   "id": 237355051,
   "nodes": [
     2452655281,
@@ -93149,6 +93464,129 @@
 },
 {
   "type": "way",
+  "id": 361724852,
+  "nodes": [
+    614558321,
+    614558322,
+    614558323,
+    614558325,
+    614558326,
+    614558327,
+    614558329,
+    12546432327
+  ],
+  "tags": {
+    "highway": "trunk",
+    "motorroad": "yes",
+    "name": "무네미로",
+    "name:en": "Munemi-ro",
+    "name:ko": "무네미로",
+    "oneway": "yes",
+    "ref": "71",
+    "sidewalk": "right",
+    "surface": "asphalt",
+    "wikidata": "Q12595508",
+    "wikipedia": "ko:무네미로"
+  }
+},
+{
+  "type": "way",
+  "id": 361724855,
+  "nodes": [
+    2443038831,
+    12546432324,
+    14280171215
+  ],
+  "tags": {
+    "highway": "trunk",
+    "motorroad": "yes",
+    "name": "무네미로",
+    "name:en": "Munemi-ro",
+    "name:ko": "무네미로",
+    "oneway": "yes",
+    "ref": "71",
+    "sidewalk": "right",
+    "surface": "asphalt",
+    "wikidata": "Q12595508",
+    "wikipedia": "ko:무네미로"
+  }
+},
+{
+  "type": "way",
+  "id": 361724867,
+  "nodes": [
+    614558340,
+    614558342,
+    614558345,
+    614558347,
+    2947032909
+  ],
+  "tags": {
+    "bicycle": "no",
+    "foot": "no",
+    "highway": "trunk",
+    "motorroad": "yes",
+    "name": "무네미로",
+    "name:en": "Munemi-ro",
+    "name:ko": "무네미로",
+    "oneway": "yes",
+    "ref": "71",
+    "sidewalk": "no",
+    "surface": "asphalt",
+    "wikidata": "Q12595508",
+    "wikipedia": "ko:무네미로"
+  }
+},
+{
+  "type": "way",
+  "id": 361724870,
+  "nodes": [
+    2443038630,
+    2443038640,
+    2443038649,
+    2443038666,
+    2443038680,
+    2947032907
+  ],
+  "tags": {
+    "bicycle": "no",
+    "foot": "no",
+    "highway": "trunk",
+    "motorroad": "yes",
+    "name": "무네미로",
+    "name:en": "Munemi-ro",
+    "name:ko": "무네미로",
+    "oneway": "yes",
+    "ref": "71",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 361724879,
+  "nodes": [
+    2443038629,
+    614558369,
+    614558372,
+    614558374,
+    614558377,
+    614558383
+  ],
+  "tags": {
+    "highway": "trunk",
+    "motorroad": "yes",
+    "name": "무네미로",
+    "name:en": "Munemi-ro",
+    "name:ko": "무네미로",
+    "name:zh": "宗美路",
+    "oneway": "yes",
+    "ref": "71",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
   "id": 361901643,
   "nodes": [
     4278630537,
@@ -98587,6 +99025,27 @@
     "ref": "14;25",
     "surface": "asphalt",
     "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 387706040,
+  "nodes": [
+    12546432327,
+    4664780644
+  ],
+  "tags": {
+    "highway": "trunk",
+    "motorroad": "yes",
+    "name": "무네미로",
+    "name:en": "Munemi-ro",
+    "name:ko": "무네미로",
+    "oneway": "yes",
+    "ref": "71",
+    "sidewalk": "right",
+    "surface": "asphalt",
+    "wikidata": "Q12595508",
+    "wikipedia": "ko:무네미로"
   }
 },
 {
@@ -154335,6 +154794,24 @@
     "name:ko-Latn": "Gangbyeonbungno",
     "oneway": "yes",
     "ref": "23;70;30",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 524657947,
+  "nodes": [
+    2440094723,
+    614555030
+  ],
+  "tags": {
+    "highway": "trunk",
+    "motorroad": "yes",
+    "name": "무네미로",
+    "name:en": "Munemi-ro",
+    "name:ko": "무네미로",
+    "oneway": "yes",
+    "ref": "71",
     "surface": "asphalt"
   }
 },
@@ -241512,7 +241989,6 @@
     5394235337,
     14232479001,
     7276538334,
-    7276538333,
     14232479000,
     7276538332,
     7276538331,
@@ -352968,6 +353444,159 @@
   }
 },
 {
+  "type": "way",
+  "id": 1567943220,
+  "nodes": [
+    2440094759,
+    14280171250,
+    2443038452,
+    2443038463,
+    14280171253
+  ],
+  "tags": {
+    "highway": "trunk",
+    "motorroad": "yes",
+    "name": "장수고가도로",
+    "name:en": "Jangsugogado-ro",
+    "name:ko": "장수고가도로",
+    "name:ko-Latn": "Jangsugogadoro",
+    "oneway": "yes",
+    "ref": "71",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943221,
+  "nodes": [
+    14280171254,
+    614558394,
+    614558395,
+    14280171251,
+    614558396
+  ],
+  "tags": {
+    "highway": "trunk",
+    "motorroad": "yes",
+    "name": "장수고가도로",
+    "name:en": "Jangsugogado-ro",
+    "name:ko": "장수고가도로",
+    "name:ko-Latn": "Jangsugogadoro",
+    "oneway": "yes",
+    "ref": "71",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943222,
+  "nodes": [
+    614558383,
+    614558386,
+    614558387
+  ],
+  "tags": {
+    "highway": "trunk",
+    "motorroad": "yes",
+    "name": "장수고가도로",
+    "name:en": "Jangsugogado-ro",
+    "name:ko": "장수고가도로",
+    "name:ko-Latn": "Jangsugogadoro",
+    "name:zh": "宗美路",
+    "oneway": "yes",
+    "ref": "71",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943223,
+  "nodes": [
+    2443038594,
+    2443038601,
+    2443038606
+  ],
+  "tags": {
+    "highway": "trunk",
+    "motorroad": "yes",
+    "name": "장수고가도로",
+    "name:en": "Jangsugogado-ro",
+    "name:ko": "장수고가도로",
+    "name:ko-Latn": "Jangsugogadoro",
+    "name:zh": "宗美路",
+    "oneway": "yes",
+    "ref": "71",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943229,
+  "nodes": [
+    14280171215,
+    2443038847
+  ],
+  "tags": {
+    "highway": "trunk",
+    "motorroad": "yes",
+    "name": "무네미로",
+    "name:en": "Munemi-ro",
+    "name:ko": "무네미로",
+    "oneway": "yes",
+    "ref": "71",
+    "sidewalk": "right",
+    "surface": "asphalt",
+    "wikidata": "Q12595508",
+    "wikipedia": "ko:무네미로"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943231,
+  "nodes": [
+    4664780644,
+    14280171267
+  ],
+  "tags": {
+    "highway": "trunk",
+    "motorroad": "yes",
+    "name": "무네미로",
+    "name:en": "Munemi-ro",
+    "name:ko": "무네미로",
+    "oneway": "yes",
+    "ref": "71",
+    "sidewalk": "right",
+    "surface": "asphalt",
+    "wikidata": "Q12595508",
+    "wikipedia": "ko:무네미로"
+  }
+},
+{
+  "type": "way",
+  "id": 1567943232,
+  "nodes": [
+    14280171267,
+    14280171214,
+    12546432325,
+    614558331,
+    614558337,
+    614558340
+  ],
+  "tags": {
+    "highway": "trunk",
+    "motorroad": "yes",
+    "name": "무네미로",
+    "name:en": "Munemi-ro",
+    "name:ko": "무네미로",
+    "oneway": "yes",
+    "ref": "71",
+    "sidewalk": "right",
+    "surface": "asphalt",
+    "wikidata": "Q12595508",
+    "wikipedia": "ko:무네미로"
+  }
+},
+{
   "type": "node",
   "id": 3740766568,
   "lat": 33.2502132,
@@ -440092,12 +440721,6 @@
   "id": 7276538332,
   "lat": 36.4087335,
   "lon": 126.9844091
-},
-{
-  "type": "node",
-  "id": 7276538333,
-  "lat": 36.4087675,
-  "lon": 126.9854348
 },
 {
   "type": "node",
@@ -684400,6 +685023,600 @@
   "id": 6268284846,
   "lat": 37.6663355,
   "lon": 126.6677027
+},
+{
+  "type": "node",
+  "id": 614555030,
+  "lat": 37.4378811,
+  "lon": 126.7395967
+},
+{
+  "type": "node",
+  "id": 2440094721,
+  "lat": 37.4378564,
+  "lon": 126.7397967
+},
+{
+  "type": "node",
+  "id": 2440094723,
+  "lat": 37.4384036,
+  "lon": 126.7397050
+},
+{
+  "type": "node",
+  "id": 2440094729,
+  "lat": 37.4385701,
+  "lon": 126.7399883
+},
+{
+  "type": "node",
+  "id": 14280171212,
+  "lat": 37.4387844,
+  "lon": 126.7398250
+},
+{
+  "type": "node",
+  "id": 14280171213,
+  "lat": 37.4391397,
+  "lon": 126.7399704
+},
+{
+  "type": "node",
+  "id": 614558397,
+  "lat": 37.4432741,
+  "lon": 126.7431635
+},
+{
+  "type": "node",
+  "id": 614558398,
+  "lat": 37.4426562,
+  "lon": 126.7428270
+},
+{
+  "type": "node",
+  "id": 614558407,
+  "lat": 37.4422145,
+  "lon": 126.7425637
+},
+{
+  "type": "node",
+  "id": 614558409,
+  "lat": 37.4417983,
+  "lon": 126.7422089
+},
+{
+  "type": "node",
+  "id": 614558414,
+  "lat": 37.4403696,
+  "lon": 126.7408674
+},
+{
+  "type": "node",
+  "id": 614558416,
+  "lat": 37.4400043,
+  "lon": 126.7405446
+},
+{
+  "type": "node",
+  "id": 614558419,
+  "lat": 37.4397425,
+  "lon": 126.7403500
+},
+{
+  "type": "node",
+  "id": 614558421,
+  "lat": 37.4394881,
+  "lon": 126.7401692
+},
+{
+  "type": "node",
+  "id": 2440094731,
+  "lat": 37.4389518,
+  "lon": 126.7401326
+},
+{
+  "type": "node",
+  "id": 2440094737,
+  "lat": 37.4393154,
+  "lon": 126.7403043
+},
+{
+  "type": "node",
+  "id": 2440094741,
+  "lat": 37.4396753,
+  "lon": 126.7405378
+},
+{
+  "type": "node",
+  "id": 2440094743,
+  "lat": 37.4400443,
+  "lon": 126.7408216
+},
+{
+  "type": "node",
+  "id": 2440094747,
+  "lat": 37.4417510,
+  "lon": 126.7424035
+},
+{
+  "type": "node",
+  "id": 2440094748,
+  "lat": 37.4421454,
+  "lon": 126.7427194
+},
+{
+  "type": "node",
+  "id": 2440094749,
+  "lat": 37.4426089,
+  "lon": 126.7430170
+},
+{
+  "type": "node",
+  "id": 2440094751,
+  "lat": 37.4432596,
+  "lon": 126.7433604
+},
+{
+  "type": "node",
+  "id": 2440094753,
+  "lat": 37.4439579,
+  "lon": 126.7434695
+},
+{
+  "type": "node",
+  "id": 5359158798,
+  "lat": 37.4415431,
+  "lon": 126.7419692
+},
+{
+  "type": "node",
+  "id": 7928074346,
+  "lat": 37.4414486,
+  "lon": 126.7421232
+},
+{
+  "type": "node",
+  "id": 614558389,
+  "lat": 37.4496425,
+  "lon": 126.7457755
+},
+{
+  "type": "node",
+  "id": 614558390,
+  "lat": 37.4491882,
+  "lon": 126.7455328
+},
+{
+  "type": "node",
+  "id": 614558391,
+  "lat": 37.4484903,
+  "lon": 126.7452398
+},
+{
+  "type": "node",
+  "id": 614558392,
+  "lat": 37.4480268,
+  "lon": 126.7450749
+},
+{
+  "type": "node",
+  "id": 614558394,
+  "lat": 37.4460757,
+  "lon": 126.7444567
+},
+{
+  "type": "node",
+  "id": 614558395,
+  "lat": 37.4457997,
+  "lon": 126.7443427
+},
+{
+  "type": "node",
+  "id": 614558396,
+  "lat": 37.4447067,
+  "lon": 126.7438230
+},
+{
+  "type": "node",
+  "id": 2440094754,
+  "lat": 37.4441702,
+  "lon": 126.7437797
+},
+{
+  "type": "node",
+  "id": 2440094756,
+  "lat": 37.4443861,
+  "lon": 126.7436795
+},
+{
+  "type": "node",
+  "id": 2440094757,
+  "lat": 37.4445068,
+  "lon": 126.7439483
+},
+{
+  "type": "node",
+  "id": 2440094759,
+  "lat": 37.4447155,
+  "lon": 126.7440444
+},
+{
+  "type": "node",
+  "id": 2443038452,
+  "lat": 37.4458206,
+  "lon": 126.7445336
+},
+{
+  "type": "node",
+  "id": 2443038463,
+  "lat": 37.4461055,
+  "lon": 126.7446422
+},
+{
+  "type": "node",
+  "id": 2443038526,
+  "lat": 37.4479908,
+  "lon": 126.7452461
+},
+{
+  "type": "node",
+  "id": 2443038537,
+  "lat": 37.4484569,
+  "lon": 126.7454070
+},
+{
+  "type": "node",
+  "id": 2443038569,
+  "lat": 37.4491371,
+  "lon": 126.7456787
+},
+{
+  "type": "node",
+  "id": 2443038576,
+  "lat": 37.4495900,
+  "lon": 126.7459190
+},
+{
+  "type": "node",
+  "id": 14280171250,
+  "lat": 37.4454793,
+  "lon": 126.7443914
+},
+{
+  "type": "node",
+  "id": 14280171251,
+  "lat": 37.4454192,
+  "lon": 126.7441739
+},
+{
+  "type": "node",
+  "id": 14280171253,
+  "lat": 37.4463689,
+  "lon": 126.7447367
+},
+{
+  "type": "node",
+  "id": 14280171254,
+  "lat": 37.4464021,
+  "lon": 126.7445711
+},
+{
+  "type": "node",
+  "id": 614558367,
+  "lat": 37.4567498,
+  "lon": 126.7480474
+},
+{
+  "type": "node",
+  "id": 614558369,
+  "lat": 37.4559627,
+  "lon": 126.7480026
+},
+{
+  "type": "node",
+  "id": 614558372,
+  "lat": 37.4550691,
+  "lon": 126.7479480
+},
+{
+  "type": "node",
+  "id": 614558374,
+  "lat": 37.4544340,
+  "lon": 126.7478958
+},
+{
+  "type": "node",
+  "id": 614558377,
+  "lat": 37.4539467,
+  "lon": 126.7478262
+},
+{
+  "type": "node",
+  "id": 614558383,
+  "lat": 37.4534129,
+  "lon": 126.7476884
+},
+{
+  "type": "node",
+  "id": 614558386,
+  "lat": 37.4529880,
+  "lon": 126.7475454
+},
+{
+  "type": "node",
+  "id": 614558387,
+  "lat": 37.4512465,
+  "lon": 126.7466621
+},
+{
+  "type": "node",
+  "id": 2443038594,
+  "lat": 37.4511974,
+  "lon": 126.7468044
+},
+{
+  "type": "node",
+  "id": 2443038601,
+  "lat": 37.4529598,
+  "lon": 126.7477067
+},
+{
+  "type": "node",
+  "id": 2443038606,
+  "lat": 37.4533852,
+  "lon": 126.7478648
+},
+{
+  "type": "node",
+  "id": 2443038619,
+  "lat": 37.4539334,
+  "lon": 126.7479966
+},
+{
+  "type": "node",
+  "id": 2443038621,
+  "lat": 37.4544216,
+  "lon": 126.7480739
+},
+{
+  "type": "node",
+  "id": 2443038624,
+  "lat": 37.4550590,
+  "lon": 126.7481248
+},
+{
+  "type": "node",
+  "id": 2443038629,
+  "lat": 37.4561363,
+  "lon": 126.7480125
+},
+{
+  "type": "node",
+  "id": 2443038630,
+  "lat": 37.4561396,
+  "lon": 126.7481721
+},
+{
+  "type": "node",
+  "id": 2443038640,
+  "lat": 37.4567412,
+  "lon": 126.7482143
+},
+{
+  "type": "node",
+  "id": 614558329,
+  "lat": 37.4636436,
+  "lon": 126.7528379
+},
+{
+  "type": "node",
+  "id": 614558331,
+  "lat": 37.4623152,
+  "lon": 126.7510184
+},
+{
+  "type": "node",
+  "id": 614558337,
+  "lat": 37.4620225,
+  "lon": 126.7506550
+},
+{
+  "type": "node",
+  "id": 614558340,
+  "lat": 37.4618092,
+  "lon": 126.7504503
+},
+{
+  "type": "node",
+  "id": 614558342,
+  "lat": 37.4613950,
+  "lon": 126.7500576
+},
+{
+  "type": "node",
+  "id": 614558345,
+  "lat": 37.4609373,
+  "lon": 126.7497147
+},
+{
+  "type": "node",
+  "id": 614558347,
+  "lat": 37.4604600,
+  "lon": 126.7494116
+},
+{
+  "type": "node",
+  "id": 614558356,
+  "lat": 37.4582587,
+  "lon": 126.7483803
+},
+{
+  "type": "node",
+  "id": 614558362,
+  "lat": 37.4576630,
+  "lon": 126.7482089
+},
+{
+  "type": "node",
+  "id": 2315604033,
+  "lat": 37.4571581,
+  "lon": 126.7481020
+},
+{
+  "type": "node",
+  "id": 2443038649,
+  "lat": 37.4571397,
+  "lon": 126.7482789
+},
+{
+  "type": "node",
+  "id": 2443038666,
+  "lat": 37.4576427,
+  "lon": 126.7483771
+},
+{
+  "type": "node",
+  "id": 2443038680,
+  "lat": 37.4582255,
+  "lon": 126.7485522
+},
+{
+  "type": "node",
+  "id": 2443038814,
+  "lat": 37.4604087,
+  "lon": 126.7495756
+},
+{
+  "type": "node",
+  "id": 2443038818,
+  "lat": 37.4608861,
+  "lon": 126.7498738
+},
+{
+  "type": "node",
+  "id": 2443038822,
+  "lat": 37.4613318,
+  "lon": 126.7502142
+},
+{
+  "type": "node",
+  "id": 2443038828,
+  "lat": 37.4617283,
+  "lon": 126.7505820
+},
+{
+  "type": "node",
+  "id": 2443038831,
+  "lat": 37.4619829,
+  "lon": 126.7508905
+},
+{
+  "type": "node",
+  "id": 2443038847,
+  "lat": 37.4634903,
+  "lon": 126.7529405
+},
+{
+  "type": "node",
+  "id": 2947032907,
+  "lat": 37.4586409,
+  "lon": 126.7487076
+},
+{
+  "type": "node",
+  "id": 2947032908,
+  "lat": 37.4586848,
+  "lon": 126.7485518
+},
+{
+  "type": "node",
+  "id": 2947032909,
+  "lat": 37.4598635,
+  "lon": 126.7491260
+},
+{
+  "type": "node",
+  "id": 2947032910,
+  "lat": 37.4598269,
+  "lon": 126.7492675
+},
+{
+  "type": "node",
+  "id": 4664780644,
+  "lat": 37.4631833,
+  "lon": 126.7522203
+},
+{
+  "type": "node",
+  "id": 12546432324,
+  "lat": 37.4623615,
+  "lon": 126.7513547
+},
+{
+  "type": "node",
+  "id": 12546432325,
+  "lat": 37.4625634,
+  "lon": 126.7513418
+},
+{
+  "type": "node",
+  "id": 12546432327,
+  "lat": 37.4632667,
+  "lon": 126.7523309
+},
+{
+  "type": "node",
+  "id": 14280171214,
+  "lat": 37.4630856,
+  "lon": 126.7520808
+},
+{
+  "type": "node",
+  "id": 14280171215,
+  "lat": 37.4630622,
+  "lon": 126.7523422
+},
+{
+  "type": "node",
+  "id": 14280171267,
+  "lat": 37.4631078,
+  "lon": 126.7521115
+},
+{
+  "type": "node",
+  "id": 614558321,
+  "lat": 37.4656537,
+  "lon": 126.7542091
+},
+{
+  "type": "node",
+  "id": 614558322,
+  "lat": 37.4652175,
+  "lon": 126.7541027
+},
+{
+  "type": "node",
+  "id": 614558323,
+  "lat": 37.4649219,
+  "lon": 126.7539845
+},
+{
+  "type": "node",
+  "id": 614558325,
+  "lat": 37.4646358,
+  "lon": 126.7538486
+},
+{
+  "type": "node",
+  "id": 614558326,
+  "lat": 37.4642933,
+  "lon": 126.7535531
+},
+{
+  "type": "node",
+  "id": 614558327,
+  "lat": 37.4640142,
+  "lon": 126.7532782
 },
 {
   "type": "node",
