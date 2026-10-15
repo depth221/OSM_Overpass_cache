@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-14T21:56:05Z",
-    "timestamp_areas_base": "2026-10-13T12:19:00Z",
+    "timestamp_osm_base": "2026-10-15T21:49:30Z",
+    "timestamp_areas_base": "2026-10-14T11:21:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -18651,23 +18651,6 @@
     "name:en": "Songjeonjongbang-gil",
     "name:ko": "송전종방길",
     "ref": "13"
-  }
-},
-{
-  "type": "way",
-  "id": 288759088,
-  "nodes": [
-    414679132,
-    2923094463
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "선덕로",
-    "name:en": "Seondeok-ro",
-    "name:ko": "선덕로",
-    "ref": "1136",
-    "review": "no",
-    "source": "Bing (adjusted)"
   }
 },
 {
@@ -112018,18 +112001,6 @@
   "id": 12662511508,
   "lat": 33.4531105,
   "lon": 126.3495887
-},
-{
-  "type": "node",
-  "id": 414679132,
-  "lat": 33.4856711,
-  "lon": 126.4964973
-},
-{
-  "type": "node",
-  "id": 2923094463,
-  "lat": 33.4856742,
-  "lon": 126.4963792
 },
 {
   "type": "node",
