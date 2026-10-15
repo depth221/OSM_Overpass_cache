@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-14T21:50:05Z",
+    "timestamp_osm_base": "2026-10-15T21:35:19Z",
     "timestamp_areas_base": "2026-10-14T11:21:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -319958,42 +319958,6 @@
 },
 {
   "type": "way",
-  "id": 1152587913,
-  "nodes": [
-    8074397601,
-    10720408007
-  ],
-  "tags": {
-    "expressway": "yes",
-    "highway": "trunk",
-    "name": "일주서로",
-    "name:el": "Ίλτσουσο-ρο",
-    "name:en": "Iljuseo-ro",
-    "name:ko": "일주서로",
-    "oneway": "yes",
-    "ref": "1132"
-  }
-},
-{
-  "type": "way",
-  "id": 1152587915,
-  "nodes": [
-    10720408006,
-    3740766568
-  ],
-  "tags": {
-    "expressway": "yes",
-    "highway": "trunk",
-    "name": "일주서로",
-    "name:el": "Ίλτσουσο-ρο",
-    "name:en": "Iljuseo-ro",
-    "name:ko": "일주서로",
-    "oneway": "yes",
-    "ref": "1132"
-  }
-},
-{
-  "type": "way",
   "id": 1154510262,
   "nodes": [
     1855309345,
@@ -375869,30 +375833,6 @@
     "oneway": "yes",
     "ref": "36"
   }
-},
-{
-  "type": "node",
-  "id": 3740766568,
-  "lat": 33.2502132,
-  "lon": 126.4996765
-},
-{
-  "type": "node",
-  "id": 8074397601,
-  "lat": 33.2500881,
-  "lon": 126.4996835
-},
-{
-  "type": "node",
-  "id": 10720408006,
-  "lat": 33.2502148,
-  "lon": 126.4997453
-},
-{
-  "type": "node",
-  "id": 10720408007,
-  "lat": 33.2500889,
-  "lon": 126.4997487
 },
 {
   "type": "node",
@@ -590919,14 +590859,14 @@
 {
   "type": "node",
   "id": 4721673915,
-  "lat": 36.0510651,
-  "lon": 129.3317623
+  "lat": 36.0510965,
+  "lon": 129.3317703
 },
 {
   "type": "node",
   "id": 4721673916,
-  "lat": 36.0510373,
-  "lon": 129.3321927
+  "lat": 36.0510265,
+  "lon": 129.3321592
 },
 {
   "type": "node",
