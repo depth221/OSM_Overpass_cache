@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-17T20:46:18Z",
-    "timestamp_areas_base": "2026-10-17T13:48:36Z",
+    "timestamp_osm_base": "2026-10-18T20:55:37Z",
+    "timestamp_areas_base": "2026-10-18T18:24:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -110439,11 +110439,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "-1",
-    "name": "사북2터널",
-    "name:ko": "사북2터널",
+    "name": "강원남로",
+    "name:en": "Gangwonnam-ro",
+    "name:ko": "강원남로",
     "oneway": "yes",
     "ref": "38",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "tunnel:name": "사북2터널",
+    "tunnel:name:en": "Sabuk 2 Tunnel",
+    "tunnelname:ko": "사북2터널"
   }
 },
 {
@@ -110465,11 +110469,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "-1",
-    "name": "사북2터널",
-    "name:ko": "사북2터널",
+    "name": "강원남로",
+    "name:en": "Gangwonnam-ro",
+    "name:ko": "강원남로",
     "oneway": "yes",
     "ref": "38",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "tunnel:name": "사북2터널",
+    "tunnel:name:en": "Sabuk 2 Tunnel",
+    "tunnelname:ko": "사북2터널"
   }
 },
 {
@@ -130725,6 +130733,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "예영로",
     "name:en": "Yeyeong-ro",
@@ -158684,6 +158693,7 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "motorroad": "yes",
     "oneway": "yes",
     "ref": "28"
@@ -158715,6 +158725,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "예영로",
     "name:en": "Yeyeong-ro",
@@ -158737,6 +158748,7 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "motorroad": "yes",
     "oneway": "yes",
     "ref": "28"
@@ -158785,6 +158797,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "60",
     "name": "가흥로",
     "name:en": "Gaheung-ro",
     "name:ko": "가흥로",
@@ -332715,6 +332728,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "60",
     "name": "가흥로",
     "name:en": "Gaheung-ro",
     "name:ko": "가흥로",
@@ -332921,6 +332935,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "60",
     "name": "가흥로",
     "name:en": "Gaheung-ro",
     "name:ko": "가흥로",
@@ -332938,6 +332953,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "60",
     "motorroad": "yes",
     "name": "가흥로",
     "name:en": "Gaheung-ro",
