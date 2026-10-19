@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-18T20:55:37Z",
-    "timestamp_areas_base": "2026-10-18T13:59:05Z",
+    "timestamp_osm_base": "2026-10-19T22:30:36Z",
+    "timestamp_areas_base": "2026-10-19T18:25:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -21181,6 +21181,10 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
+    "name": "서동로",
+    "name:en": "Seodong-ro",
+    "name:ko": "서동로",
     "oneway": "yes",
     "ref": "42",
     "sidewalk": "no",
@@ -21208,6 +21212,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "서동로",
     "name:en": "Seodong-ro",
     "name:ko": "서동로",
@@ -21230,6 +21235,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "70",
     "name": "서동로",
     "name:en": "Seodong-ro",
     "name:ko": "서동로",
@@ -98216,8 +98222,7 @@
     11047224414,
     11047224413,
     11047224412,
-    11827622927,
-    11047224411
+    11827622927
   ],
   "tags": {
     "expressway": "yes",
@@ -124753,6 +124758,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "70",
     "name": "서동로",
     "name:en": "Seodong-ro",
     "name:ko": "서동로",
@@ -124777,6 +124783,10 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
+    "name": "서동로",
+    "name:en": "Seodong-ro",
+    "name:ko": "서동로",
     "oneway": "yes",
     "ref": "42",
     "sidewalk": "no",
@@ -124802,6 +124812,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "서동로",
     "name:en": "Seodong-ro",
     "name:ko": "서동로",
@@ -312114,6 +312125,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "서동로",
     "name:en": "Seodong-ro",
     "name:ko": "서동로",
@@ -312135,6 +312147,7 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "70",
     "name": "서동로",
     "name:en": "Seodong-ro",
     "name:ko": "서동로",
@@ -312154,6 +312167,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "서동로",
     "name:en": "Seodong-ro",
     "name:ko": "서동로",
@@ -312175,6 +312189,7 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "70",
     "name": "서동로",
     "name:en": "Seodong-ro",
     "name:ko": "서동로",
@@ -353321,6 +353336,23 @@
     "oneway": "yes",
     "ref": "44",
     "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1569661317,
+  "nodes": [
+    11827622927,
+    11047224411
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "강원남로",
+    "name:en": "Gangwonnam-ro",
+    "name:ko": "강원남로",
+    "oneway": "yes",
+    "ref": "38"
   }
 },
 {
