@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-18T20:58:51Z",
-    "timestamp_areas_base": "2026-10-18T13:59:05Z",
+    "timestamp_osm_base": "2026-10-19T22:34:35Z",
+    "timestamp_areas_base": "2026-10-19T19:20:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -10621,8 +10621,7 @@
   "id": 60254037,
   "nodes": [
     748749660,
-    12075645528,
-    7808475547
+    12075645528
   ],
   "tags": {
     "highway": "primary",
@@ -126978,10 +126977,7 @@
   "id": 970277089,
   "nodes": [
     7808475546,
-    4641284058,
-    6790734720,
-    436734773,
-    436734774
+    4641284058
   ],
   "tags": {
     "highway": "primary",
@@ -139546,6 +139542,7 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "40",
     "name": "서동로",
     "name:en": "Seodong-ro",
     "name:ko": "서동로",
@@ -152214,7 +152211,6 @@
   "type": "way",
   "id": 1214305596,
   "nodes": [
-    436604065,
     436674882,
     4656116360,
     4656116348,
@@ -165979,6 +165975,7 @@
     "dual_carriageway": "yes",
     "highway": "primary",
     "lanes": "2",
+    "maxspeed": "60",
     "name": "서동로",
     "name:en": "Seodong-ro",
     "name:ko": "서동로",
@@ -190698,6 +190695,64 @@
     "name:en": "Baekdudaegan-ro",
     "name:ko": "백두대간로",
     "ref": "35"
+  }
+},
+{
+  "type": "way",
+  "id": 1569665575,
+  "nodes": [
+    436604065,
+    436674882
+  ],
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "30",
+    "name": "백두대간로",
+    "name:en": "Baekdudaegan-ro",
+    "name:ko": "백두대간로",
+    "ref": "35"
+  }
+},
+{
+  "type": "way",
+  "id": 1569665593,
+  "nodes": [
+    12075645528,
+    7808475547
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "4",
+    "name": "동해대로",
+    "name:el": "Ντόγχε-ντέρο",
+    "name:en": "Donghae-daero",
+    "name:ko": "동해대로",
+    "oneway": "no",
+    "ref": "7",
+    "wikidata": "Q21709702",
+    "wikipedia": "ko:동해대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1569665594,
+  "nodes": [
+    4641284058,
+    6790734720,
+    436734773,
+    436734774
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "4",
+    "name": "동해대로",
+    "name:el": "Ντόγχε-ντέρο",
+    "name:en": "Donghae-daero",
+    "name:ko": "동해대로",
+    "oneway": "no",
+    "ref": "7",
+    "wikidata": "Q21709702",
+    "wikipedia": "ko:동해대로"
   }
 },
 {
@@ -475763,20 +475818,20 @@
 {
   "type": "node",
   "id": 436696421,
-  "lat": 38.0907851,
-  "lon": 127.6856811
+  "lat": 38.0907531,
+  "lon": 127.6857705
 },
 {
   "type": "node",
   "id": 5451885411,
-  "lat": 38.0905064,
-  "lon": 127.6855678
+  "lat": 38.0904680,
+  "lon": 127.6856491
 },
 {
   "type": "node",
   "id": 5451885412,
-  "lat": 38.0910292,
-  "lon": 127.6857770
+  "lat": 38.0910525,
+  "lon": 127.6859101
 },
 {
   "type": "node",
@@ -519911,8 +519966,8 @@
 {
   "type": "node",
   "id": 4656116348,
-  "lat": 37.4960596,
-  "lon": 128.8500063
+  "lat": 37.4961208,
+  "lon": 128.8500194
 },
 {
   "type": "node",
@@ -519923,8 +519978,8 @@
 {
   "type": "node",
   "id": 436604071,
-  "lat": 37.4973446,
-  "lon": 128.8502471
+  "lat": 37.4973455,
+  "lon": 128.8502473
 },
 {
   "type": "node",
