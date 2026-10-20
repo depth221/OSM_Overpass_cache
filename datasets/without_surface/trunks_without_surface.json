@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-19T22:31:36Z",
-    "timestamp_areas_base": "2026-10-19T18:25:02Z",
+    "timestamp_osm_base": "2026-10-20T21:45:20Z",
+    "timestamp_areas_base": "2026-10-20T17:11:48Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -8218,6 +8218,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -8239,6 +8240,10 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
+    "name": "파인토피아로",
+    "name:en": "Pinetopia-ro",
+    "name:ko": "파인토피아로",
     "oneway": "yes",
     "ref": "36"
   }
@@ -104861,6 +104866,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -104882,6 +104888,10 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
+    "name": "파인토피아로",
+    "name:en": "Pinetopia-ro",
+    "name:ko": "파인토피아로",
     "oneway": "yes",
     "ref": "36"
   }
@@ -104947,6 +104957,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -104966,6 +104977,10 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
+    "name": "파인토피아로",
+    "name:en": "Pinetopia-ro",
+    "name:ko": "파인토피아로",
     "oneway": "yes",
     "ref": "36"
   }
@@ -104982,6 +104997,10 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
+    "name": "파인토피아로",
+    "name:en": "Pinetopia-ro",
+    "name:ko": "파인토피아로",
     "oneway": "yes",
     "ref": "36"
   }
@@ -105007,6 +105026,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -105021,14 +105041,19 @@
     13694692298,
     416865444,
     416865442,
+    14302703799,
+    14302703800,
     416865440,
+    14302704301,
     416865439,
     416865436,
+    14302704302,
     4054952811
   ],
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -105041,6 +105066,7 @@
   "id": 330321969,
   "nodes": [
     416865417,
+    14302703796,
     416865416,
     416865415
   ],
@@ -105049,6 +105075,10 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
+    "name": "파인토피아로",
+    "name:en": "Pinetopia-ro",
+    "name:ko": "파인토피아로",
     "oneway": "yes",
     "ref": "36"
   }
@@ -105059,9 +105089,11 @@
   "nodes": [
     4054952813,
     3371687592,
+    14302704315,
     3371689295,
     3371689296,
     3371689298,
+    14302704316,
     3371689300,
     3371689297,
     3371689299,
@@ -105073,6 +105105,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -105094,6 +105127,10 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
+    "name": "파인토피아로",
+    "name:en": "Pinetopia-ro",
+    "name:ko": "파인토피아로",
     "oneway": "yes",
     "ref": "36"
   }
@@ -105112,6 +105149,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -105126,12 +105164,16 @@
     3372823681,
     416865420,
     416865419,
+    14302703793,
+    14302703790,
     3372822600,
+    14302703791,
     416865417
   ],
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -105163,6 +105205,7 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -105181,6 +105224,10 @@
     "bridge": "yes",
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
+    "name": "파인토피아로",
+    "name:en": "Pinetopia-ro",
+    "name:ko": "파인토피아로",
     "oneway": "yes",
     "ref": "36"
   }
@@ -105198,6 +105245,10 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
+    "name": "파인토피아로",
+    "name:en": "Pinetopia-ro",
+    "name:ko": "파인토피아로",
     "oneway": "yes",
     "ref": "36"
   }
@@ -105209,14 +105260,16 @@
     416865415,
     416865414,
     416865413,
+    14302703797,
+    14302703798,
     416865412,
     416865411,
-    416865410,
     416865409
   ],
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -105241,6 +105294,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -105266,6 +105320,7 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -105284,6 +105339,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -110509,11 +110565,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "-1",
-    "name": "고한터널",
-    "name:ko": "고한터널",
+    "name": "강원남로",
+    "name:en": "Gangwonnam-ro",
+    "name:ko": "강원남로",
     "oneway": "yes",
     "ref": "38",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "tunnel:name": "고한터널",
+    "tunnel:name:en": "Gohan Tunnel",
+    "tunnel:name:ko": "고한터널"
   }
 },
 {
@@ -110527,11 +110587,15 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "-1",
-    "name": "고한터널",
-    "name:ko": "고한터널",
+    "name": "강원남로",
+    "name:en": "Gangwonnam-ro",
+    "name:ko": "강원남로",
     "oneway": "yes",
     "ref": "38",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "tunnel:name": "고한터널",
+    "tunnel:name:en": "Gohan Tunnel",
+    "tunnel:name:ko": "고한터널"
   }
 },
 {
@@ -110619,9 +110683,11 @@
     11047224418,
     11047224417,
     11047224416,
+    14302748947,
     11047224415,
     11047224414,
     11047224413,
+    14302748946,
     11047224412,
     11827622927
   ],
@@ -113819,7 +113885,10 @@
     4054952810,
     3371687591,
     3371687582,
+    14302704311,
+    14302704312,
     416865429,
+    14302704313,
     416865428,
     5313774921,
     416865427,
@@ -113834,6 +113903,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -113857,14 +113927,17 @@
     3372818187,
     3372818189,
     3372818191,
+    14302704314,
     3372822593,
     3371687583,
+    14302704305,
     3371687590,
     4054952812
   ],
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -113884,6 +113957,10 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
+    "name": "파인토피아로",
+    "name:en": "Pinetopia-ro",
+    "name:ko": "파인토피아로",
     "oneway": "yes",
     "ref": "36"
   }
@@ -113900,6 +113977,10 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
+    "name": "파인토피아로",
+    "name:en": "Pinetopia-ro",
+    "name:ko": "파인토피아로",
     "oneway": "yes",
     "ref": "36"
   }
@@ -247079,6 +247160,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -247105,6 +247187,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -323660,6 +323743,7 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -323682,6 +323766,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -323769,6 +323854,7 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -324094,6 +324180,7 @@
   "nodes": [
     11047224562,
     11047224410,
+    14302748943,
     11047224409,
     4779079537,
     3814942107,
@@ -324114,6 +324201,8 @@
   "id": 1189740861,
   "nodes": [
     11047224411,
+    14302748945,
+    14302748944,
     11047224562
   ],
   "tags": {
@@ -369765,6 +369854,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -369784,6 +369874,7 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -369808,6 +369899,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -369827,6 +369919,7 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "name": "파인토피아로",
     "name:en": "Pinetopia-ro",
     "name:ko": "파인토피아로",
@@ -839662,38 +839755,38 @@
 {
   "type": "node",
   "id": 416865436,
-  "lat": 36.9222998,
-  "lon": 128.9075197
+  "lat": 36.9221791,
+  "lon": 128.9077723
 },
 {
   "type": "node",
   "id": 416865439,
-  "lat": 36.9224242,
-  "lon": 128.9068113
+  "lat": 36.9223150,
+  "lon": 128.9071861
 },
 {
   "type": "node",
   "id": 416865440,
-  "lat": 36.9225094,
-  "lon": 128.9058388
+  "lat": 36.9224609,
+  "lon": 128.9061785
 },
 {
   "type": "node",
   "id": 3371687592,
-  "lat": 36.9220529,
-  "lon": 128.9087003
+  "lat": 36.9220984,
+  "lon": 128.9084015
 },
 {
   "type": "node",
   "id": 3371689295,
-  "lat": 36.9223333,
-  "lon": 128.9076708
+  "lat": 36.9223772,
+  "lon": 128.9073232
 },
 {
   "type": "node",
   "id": 3371689296,
-  "lat": 36.9224850,
-  "lon": 128.9069469
+  "lat": 36.9224606,
+  "lon": 128.9068920
 },
 {
   "type": "node",
@@ -839704,14 +839797,62 @@
 {
   "type": "node",
   "id": 3371689298,
-  "lat": 36.9225493,
-  "lon": 128.9063420
+  "lat": 36.9225184,
+  "lon": 128.9064457
 },
 {
   "type": "node",
   "id": 3371689300,
-  "lat": 36.9225905,
-  "lon": 128.9053157
+  "lat": 36.9225694,
+  "lon": 128.9051876
+},
+{
+  "type": "node",
+  "id": 4054952811,
+  "lat": 36.9217770,
+  "lon": 128.9091157
+},
+{
+  "type": "node",
+  "id": 4054952813,
+  "lat": 36.9218989,
+  "lon": 128.9090736
+},
+{
+  "type": "node",
+  "id": 14302703799,
+  "lat": 36.9225008,
+  "lon": 128.9052882
+},
+{
+  "type": "node",
+  "id": 14302703800,
+  "lat": 36.9224911,
+  "lon": 128.9056966
+},
+{
+  "type": "node",
+  "id": 14302704301,
+  "lat": 36.9224089,
+  "lon": 128.9066140
+},
+{
+  "type": "node",
+  "id": 14302704302,
+  "lat": 36.9220248,
+  "lon": 128.9083169
+},
+{
+  "type": "node",
+  "id": 14302704315,
+  "lat": 36.9222646,
+  "lon": 128.9078024
+},
+{
+  "type": "node",
+  "id": 14302704316,
+  "lat": 36.9225593,
+  "lon": 128.9058929
 },
 {
   "type": "node",
@@ -839728,32 +839869,32 @@
 {
   "type": "node",
   "id": 416865429,
-  "lat": 36.9204376,
-  "lon": 128.9137457
+  "lat": 36.9204100,
+  "lon": 128.9138006
 },
 {
   "type": "node",
   "id": 3371687582,
-  "lat": 36.9208032,
-  "lon": 128.9123662
+  "lat": 36.9210384,
+  "lon": 128.9115221
 },
 {
   "type": "node",
   "id": 3371687583,
-  "lat": 36.9210159,
-  "lon": 128.9119662
+  "lat": 36.9209554,
+  "lon": 128.9120123
 },
 {
   "type": "node",
   "id": 3371687590,
-  "lat": 36.9216094,
-  "lon": 128.9100589
+  "lat": 36.9215655,
+  "lon": 128.9101158
 },
 {
   "type": "node",
   "id": 3371687591,
-  "lat": 36.9216333,
-  "lon": 128.9097949
+  "lat": 36.9213857,
+  "lon": 128.9104143
 },
 {
   "type": "node",
@@ -839782,38 +839923,26 @@
 {
   "type": "node",
   "id": 3372818191,
-  "lat": 36.9205337,
-  "lon": 128.9136421
+  "lat": 36.9205435,
+  "lon": 128.9135445
 },
 {
   "type": "node",
   "id": 3372822593,
-  "lat": 36.9206715,
-  "lon": 128.9131196
+  "lat": 36.9208031,
+  "lon": 128.9125321
 },
 {
   "type": "node",
   "id": 4054952810,
-  "lat": 36.9217187,
-  "lon": 128.9095034
-},
-{
-  "type": "node",
-  "id": 4054952811,
-  "lat": 36.9217696,
-  "lon": 128.9093298
+  "lat": 36.9216571,
+  "lon": 128.9095065
 },
 {
   "type": "node",
   "id": 4054952812,
-  "lat": 36.9217818,
-  "lon": 128.9095309
-},
-{
-  "type": "node",
-  "id": 4054952813,
-  "lat": 36.9218501,
-  "lon": 128.9093216
+  "lat": 36.9217542,
+  "lon": 128.9095248
 },
 {
   "type": "node",
@@ -839823,9 +839952,39 @@
 },
 {
   "type": "node",
+  "id": 14302704305,
+  "lat": 36.9211085,
+  "lon": 128.9115062
+},
+{
+  "type": "node",
+  "id": 14302704311,
+  "lat": 36.9207173,
+  "lon": 128.9125661
+},
+{
+  "type": "node",
+  "id": 14302704312,
+  "lat": 36.9205157,
+  "lon": 128.9132880
+},
+{
+  "type": "node",
+  "id": 14302704313,
+  "lat": 36.9203570,
+  "lon": 128.9141980
+},
+{
+  "type": "node",
+  "id": 14302704314,
+  "lat": 36.9206332,
+  "lon": 128.9131503
+},
+{
+  "type": "node",
   "id": 416865417,
-  "lat": 36.9207198,
-  "lon": 128.9223356
+  "lat": 36.9207841,
+  "lon": 128.9223088
 },
 {
   "type": "node",
@@ -839908,14 +840067,14 @@
 {
   "type": "node",
   "id": 3372822600,
-  "lat": 36.9210530,
-  "lon": 128.9215605
+  "lat": 36.9209212,
+  "lon": 128.9219836
 },
 {
   "type": "node",
   "id": 3372822602,
-  "lat": 36.9209996,
-  "lon": 128.9220144
+  "lat": 36.9209481,
+  "lon": 128.9221244
 },
 {
   "type": "node",
@@ -839973,27 +840132,39 @@
 },
 {
   "type": "node",
+  "id": 14302703790,
+  "lat": 36.9209771,
+  "lon": 128.9218431
+},
+{
+  "type": "node",
+  "id": 14302703791,
+  "lat": 36.9208291,
+  "lon": 128.9222154
+},
+{
+  "type": "node",
+  "id": 14302703793,
+  "lat": 36.9210530,
+  "lon": 128.9215605
+},
+{
+  "type": "node",
   "id": 416865409,
   "lat": 36.9184809,
   "lon": 128.9282480
 },
 {
   "type": "node",
-  "id": 416865410,
-  "lat": 36.9187697,
-  "lon": 128.9268522
-},
-{
-  "type": "node",
   "id": 416865411,
-  "lat": 36.9189350,
-  "lon": 128.9260396
+  "lat": 36.9188857,
+  "lon": 128.9263802
 },
 {
   "type": "node",
   "id": 416865412,
-  "lat": 36.9191071,
-  "lon": 128.9253196
+  "lat": 36.9190513,
+  "lon": 128.9256683
 },
 {
   "type": "node",
@@ -840042,6 +840213,18 @@
   "id": 3372818183,
   "lat": 36.9196577,
   "lon": 128.9244009
+},
+{
+  "type": "node",
+  "id": 14302703797,
+  "lat": 36.9193062,
+  "lon": 128.9248684
+},
+{
+  "type": "node",
+  "id": 14302703798,
+  "lat": 36.9191852,
+  "lon": 128.9252120
 },
 {
   "type": "node",
@@ -840232,14 +840415,14 @@
 {
   "type": "node",
   "id": 416865415,
-  "lat": 36.9201647,
-  "lon": 128.9233436
+  "lat": 36.9201733,
+  "lon": 128.9233812
 },
 {
   "type": "node",
   "id": 416865416,
-  "lat": 36.9204499,
-  "lon": 128.9228742
+  "lat": 36.9203513,
+  "lon": 128.9231156
 },
 {
   "type": "node",
@@ -840264,6 +840447,12 @@
   "id": 3372822594,
   "lat": 36.9206653,
   "lon": 128.9227637
+},
+{
+  "type": "node",
+  "id": 14302703796,
+  "lat": 36.9205756,
+  "lon": 128.9227408
 },
 {
   "type": "node",
@@ -852340,50 +852529,74 @@
 {
   "type": "node",
   "id": 11047224410,
-  "lat": 37.1948432,
-  "lon": 128.8674801
+  "lat": 37.1948124,
+  "lon": 128.8675086
 },
 {
   "type": "node",
   "id": 11047224411,
-  "lat": 37.1945508,
-  "lon": 128.8681389
+  "lat": 37.1945589,
+  "lon": 128.8681653
 },
 {
   "type": "node",
   "id": 11047224412,
-  "lat": 37.1944943,
-  "lon": 128.8685495
+  "lat": 37.1944992,
+  "lon": 128.8686776
 },
 {
   "type": "node",
   "id": 11047224413,
-  "lat": 37.1944929,
-  "lon": 128.8689968
+  "lat": 37.1945366,
+  "lon": 128.8691980
 },
 {
   "type": "node",
   "id": 11047224414,
-  "lat": 37.1945611,
-  "lon": 128.8694543
+  "lat": 37.1946145,
+  "lon": 128.8695051
 },
 {
   "type": "node",
   "id": 11047224415,
-  "lat": 37.1947168,
-  "lon": 128.8699114
+  "lat": 37.1947573,
+  "lon": 128.8699419
 },
 {
   "type": "node",
   "id": 11047224562,
-  "lat": 37.1947358,
-  "lon": 128.8677221
+  "lat": 37.1947353,
+  "lon": 128.8676519
 },
 {
   "type": "node",
   "id": 11827622927,
-  "lat": 37.1945074,
-  "lon": 128.8684541
+  "lat": 37.1945123,
+  "lon": 128.8684561
+},
+{
+  "type": "node",
+  "id": 14302748943,
+  "lat": 37.1949425,
+  "lon": 128.8672737
+},
+{
+  "type": "node",
+  "id": 14302748944,
+  "lat": 37.1946526,
+  "lon": 128.8678499
+},
+{
+  "type": "node",
+  "id": 14302748945,
+  "lat": 37.1945880,
+  "lon": 128.8680409
+},
+{
+  "type": "node",
+  "id": 14302748946,
+  "lat": 37.1945009,
+  "lon": 128.8689124
 },
 {
   "type": "node",
@@ -852436,14 +852649,14 @@
 {
   "type": "node",
   "id": 3814942107,
-  "lat": 37.1955649,
-  "lon": 128.8663045
+  "lat": 37.1957592,
+  "lon": 128.8658959
 },
 {
   "type": "node",
   "id": 4779079537,
-  "lat": 37.1954074,
-  "lon": 128.8665759
+  "lat": 37.1954463,
+  "lon": 128.8664580
 },
 {
   "type": "node",
@@ -852454,8 +852667,8 @@
 {
   "type": "node",
   "id": 11047224409,
-  "lat": 37.1951261,
-  "lon": 128.8670754
+  "lat": 37.1951002,
+  "lon": 128.8670388
 },
 {
   "type": "node",
@@ -853545,9 +853758,15 @@
 },
 {
   "type": "node",
+  "id": 14302748947,
+  "lat": 37.1949184,
+  "lon": 128.8703253
+},
+{
+  "type": "node",
   "id": 11047224416,
-  "lat": 37.1949857,
-  "lon": 128.8704648
+  "lat": 37.1951379,
+  "lon": 128.8706640
 },
 {
   "type": "node",
