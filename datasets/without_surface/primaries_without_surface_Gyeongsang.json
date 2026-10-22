@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-21T21:59:21Z",
-    "timestamp_areas_base": "2026-10-21T15:57:29Z",
+    "timestamp_osm_base": "2026-10-22T21:55:48Z",
+    "timestamp_areas_base": "2026-10-22T14:42:37Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -76758,6 +76758,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "60",
     "name": "경북대로",
     "name:en": "Gyeongbuk-daero",
     "name:ko": "경북대로",
@@ -77184,9 +77185,7 @@
     436541709,
     436541710,
     436541711,
-    12813161781,
-    436541712,
-    414668366
+    12813161781
   ],
   "tags": {
     "highway": "primary",
@@ -145677,6 +145676,22 @@
     "name": "만덕대로",
     "name:en": "Mandeok-daero",
     "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1570755769,
+  "nodes": [
+    12813161781,
+    436541712,
+    414668366
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "남김천대로",
+    "name:en": "Namgimcheon-daero",
+    "name:ko": "남김천대로",
+    "ref": "3"
   }
 },
 {
