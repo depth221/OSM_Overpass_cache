@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-21T21:55:21Z",
-    "timestamp_areas_base": "2026-10-21T16:34:59Z",
+    "timestamp_osm_base": "2026-10-22T21:51:43Z",
+    "timestamp_areas_base": "2026-10-22T14:42:37Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -109240,6 +109240,8 @@
     360171137
   ],
   "tags": {
+    "destination": "영월;태백산국립공원;석탄박물관;오투리조트",
+    "destination:ref": "31",
     "highway": "primary",
     "name": "태백산로",
     "name:en": "Taebaeksan-ro",
@@ -116198,6 +116200,8 @@
     4357396684
   ],
   "tags": {
+    "destination": "동해;정선;용연동굴",
+    "destination:ref": "35",
     "highway": "primary",
     "name": "태백산로",
     "name:en": "Taebaeksan-ro",
@@ -268193,14 +268197,14 @@
 {
   "type": "node",
   "id": 437034532,
-  "lat": 37.1516092,
-  "lon": 127.3134193
+  "lat": 37.1512484,
+  "lon": 127.3132629
 },
 {
   "type": "node",
   "id": 13587382194,
-  "lat": 37.1516703,
-  "lon": 127.3134396
+  "lat": 37.1515399,
+  "lon": 127.3133651
 },
 {
   "type": "node",
