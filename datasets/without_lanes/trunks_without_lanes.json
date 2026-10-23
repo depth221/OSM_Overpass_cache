@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-22T21:48:35Z",
-    "timestamp_areas_base": "2026-10-22T14:42:37Z",
+    "timestamp_osm_base": "2026-10-23T21:33:51Z",
+    "timestamp_areas_base": "2026-10-23T19:34:06Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -226427,7 +226427,6 @@
   "id": 709841548,
   "nodes": [
     5545121904,
-    6673039730,
     6673039765,
     5545121906
   ],
@@ -226435,6 +226434,7 @@
     "bridge": "yes",
     "bridge:name": "서천대교",
     "bridge:name:ko": "서천대교",
+    "bridgename:en": "Seocheon Bridge",
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
@@ -226469,6 +226469,7 @@
   "nodes": [
     5545121912,
     5545121911,
+    14312265522,
     11322983794,
     7257102753,
     11322983813,
@@ -226546,12 +226547,15 @@
     "highway": "trunk",
     "layer": "-1",
     "maxspeed": "80",
-    "name": "가흥터널",
-    "name:en": "Gaheung Tunnel",
-    "name:ko": "가흥터널",
+    "name": "삼봉로",
+    "name:en": "Sambong-ro",
+    "name:ko": "삼봉로",
     "oneway": "yes",
     "ref": "36",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "tunnel:name": "가흥터널",
+    "tunnel:name:en": "Gaheung Tunnel",
+    "tunnel:name:ko": "가흥터널"
   }
 },
 {
@@ -236398,6 +236402,9 @@
     "highway": "trunk",
     "layer": "1",
     "maxspeed": "80",
+    "name": "삼봉로",
+    "name:en": "Sambong-ro",
+    "name:ko": "삼봉로",
     "oneway": "yes",
     "ref": "36"
   }
@@ -236414,6 +236421,7 @@
     11322940864,
     12511786510,
     7257102737,
+    14312265523,
     7257102738,
     11322940865,
     11322940866,
@@ -236446,7 +236454,11 @@
     "highway": "trunk",
     "layer": "1",
     "maxspeed": "80",
-    "oneway": "yes"
+    "name": "삼봉로",
+    "name:en": "Sambong-ro",
+    "name:ko": "삼봉로",
+    "oneway": "yes",
+    "ref": "36"
   }
 },
 {
@@ -236461,12 +236473,15 @@
     "highway": "trunk",
     "layer": "-1",
     "maxspeed": "80",
-    "name": "가흥터널",
-    "name:en": "Gaheung Tunnel",
-    "name:ko": "가흥터널",
+    "name": "삼봉로",
+    "name:en": "Sambong-ro",
+    "name:ko": "삼봉로",
     "oneway": "yes",
     "ref": "36",
-    "tunnel": "yes"
+    "tunnel": "yes",
+    "tunnel:name": "가흥터널",
+    "tunnel:name:en": "Gaheung Tunnel",
+    "tunnel:name:ko": "가흥터널"
   }
 },
 {
@@ -236548,6 +236563,7 @@
     "bridge": "yes",
     "bridge:name": "서천대교",
     "bridge:name:ko": "서천대교",
+    "bridgename:en": "Seocheon Bridge",
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
@@ -777969,12 +777985,6 @@
 },
 {
   "type": "node",
-  "id": 6673039730,
-  "lat": 36.8396397,
-  "lon": 128.6073809
-},
-{
-  "type": "node",
   "id": 7257118090,
   "lat": 36.8383303,
   "lon": 128.6048301
@@ -778000,8 +778010,8 @@
 {
   "type": "node",
   "id": 5545121906,
-  "lat": 36.8403458,
-  "lon": 128.6089903
+  "lat": 36.8403570,
+  "lon": 128.6090113
 },
 {
   "type": "node",
@@ -778012,8 +778022,8 @@
 {
   "type": "node",
   "id": 6673039765,
-  "lat": 36.8402172,
-  "lon": 128.6086126
+  "lat": 36.8401218,
+  "lon": 128.6085020
 },
 {
   "type": "node",
@@ -778030,14 +778040,14 @@
 {
   "type": "node",
   "id": 7257118088,
-  "lat": 36.8402506,
-  "lon": 128.6090604
+  "lat": 36.8402936,
+  "lon": 128.6090371
 },
 {
   "type": "node",
   "id": 7257118089,
-  "lat": 36.8398762,
-  "lon": 128.6081127
+  "lat": 36.8398658,
+  "lon": 128.6081203
 },
 {
   "type": "node",
@@ -778299,6 +778309,12 @@
 },
 {
   "type": "node",
+  "id": 14312265522,
+  "lat": 36.8449586,
+  "lon": 128.6251875
+},
+{
+  "type": "node",
   "id": 5545121913,
   "lat": 36.8461967,
   "lon": 128.6334602
@@ -778384,8 +778400,8 @@
 {
   "type": "node",
   "id": 7257102737,
-  "lat": 36.8472288,
-  "lon": 128.6441147
+  "lat": 36.8472411,
+  "lon": 128.6441178
 },
 {
   "type": "node",
@@ -778421,7 +778437,7 @@
   "type": "node",
   "id": 11322940844,
   "lat": 36.8473310,
-  "lon": 128.6442024
+  "lon": 128.6443025
 },
 {
   "type": "node",
@@ -778516,8 +778532,14 @@
 {
   "type": "node",
   "id": 12511786512,
-  "lat": 36.8473302,
-  "lon": 128.6440468
+  "lat": 36.8473413,
+  "lon": 128.6440668
+},
+{
+  "type": "node",
+  "id": 14312265523,
+  "lat": 36.8472293,
+  "lon": 128.6445309
 },
 {
   "type": "node",
