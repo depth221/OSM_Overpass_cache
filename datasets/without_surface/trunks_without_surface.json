@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-23T21:32:51Z",
-    "timestamp_areas_base": "2026-10-23T19:34:06Z",
+    "timestamp_osm_base": "2026-10-24T21:01:21Z",
+    "timestamp_areas_base": "2026-10-24T18:07:40Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -179468,12 +179468,7 @@
     5197165665,
     5197165666,
     9626377579,
-    5197165659,
-    5197165662,
-    5197165654,
-    5197165660,
-    5197165651,
-    2261408802
+    5197165659
   ],
   "tags": {
     "bicycle": "no",
@@ -179506,9 +179501,9 @@
     "layer": "-1",
     "motorcycle": "no",
     "motorroad": "yes",
-    "name": "신천대로",
-    "name:en": "Sincheon-daero",
-    "name:ko": "신천대로",
+    "name": "파동교지하도로",
+    "name:en": "Padonggyo-jihadoro",
+    "name:ko": "파동교지하도로",
     "oneway": "yes",
     "ref": "11",
     "tunnel": "yes"
@@ -179519,14 +179514,7 @@
   "id": 549042000,
   "nodes": [
     5197165636,
-    5197165629,
-    5197165627,
-    2261408799,
-    2261408790,
-    5197165671,
-    5197165623,
-    5197165622,
-    5197165615
+    5197165629
   ],
   "tags": {
     "bicycle": "no",
@@ -179536,9 +179524,9 @@
     "lanes": "2",
     "motorcycle": "no",
     "motorroad": "yes",
-    "name": "신천대로",
-    "name:en": "Sincheon-daero",
-    "name:ko": "신천대로",
+    "name": "파동교지하도로",
+    "name:en": "Padonggyo-jihadoro",
+    "name:ko": "파동교지하도로",
     "oneway": "yes",
     "ref": "11"
   }
@@ -179559,9 +179547,9 @@
     "layer": "-1",
     "motorcycle": "no",
     "motorroad": "yes",
-    "name": "신천대로",
-    "name:en": "Sincheon-daero",
-    "name:ko": "신천대로",
+    "name": "파동교지하도로",
+    "name:en": "Padonggyo-jihadoro",
+    "name:ko": "파동교지하도로",
     "oneway": "yes",
     "ref": "11",
     "tunnel": "yes"
@@ -179577,11 +179565,7 @@
     5197165649,
     5197165648,
     5197165661,
-    5197165644,
-    5197165663,
-    5197165667,
-    5197165664,
-    2261408791
+    5197165644
   ],
   "tags": {
     "bicycle": "no",
@@ -179591,9 +179575,9 @@
     "lanes": "2",
     "motorcycle": "no",
     "motorroad": "yes",
-    "name": "신천대로",
-    "name:en": "Sincheon-daero",
-    "name:ko": "신천대로",
+    "name": "파동교지하도로",
+    "name:en": "Padonggyo-jihadoro",
+    "name:ko": "파동교지하도로",
     "oneway": "yes",
     "ref": "11"
   }
@@ -179640,14 +179624,7 @@
   "id": 549042008,
   "nodes": [
     5197165527,
-    5197165672,
-    5197165608,
-    2261408789,
-    2261408798,
-    5197165628,
-    13947300864,
-    5197165630,
-    5197165637
+    5197165672
   ],
   "tags": {
     "bicycle": "no",
@@ -179657,9 +179634,9 @@
     "lanes": "2",
     "motorcycle": "no",
     "motorroad": "yes",
-    "name": "신천대로",
-    "name:en": "Sincheon-daero",
-    "name:ko": "신천대로",
+    "name": "파동교지하도로",
+    "name:en": "Padonggyo-jihadoro",
+    "name:ko": "파동교지하도로",
     "oneway": "yes",
     "ref": "11"
   }
@@ -376372,6 +376349,198 @@
   }
 },
 {
+  "type": "way",
+  "id": 1571262245,
+  "nodes": [
+    5197165628,
+    5197165630
+  ],
+  "tags": {
+    "bicycle": "no",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "lanes": "2",
+    "motorcycle": "no",
+    "motorroad": "yes",
+    "name": "파동교지하도로",
+    "name:en": "Padonggyo-jihadoro",
+    "name:ko": "파동교지하도로",
+    "oneway": "yes",
+    "ref": "11",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1571262252,
+  "nodes": [
+    5197165630,
+    5197165637
+  ],
+  "tags": {
+    "bicycle": "no",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "lanes": "2",
+    "motorcycle": "no",
+    "motorroad": "yes",
+    "name": "파동교지하도로",
+    "name:en": "Padonggyo-jihadoro",
+    "name:ko": "파동교지하도로",
+    "oneway": "yes",
+    "ref": "11"
+  }
+},
+{
+  "type": "way",
+  "id": 1571262255,
+  "nodes": [
+    5197165622,
+    5197165615
+  ],
+  "tags": {
+    "bicycle": "no",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "lanes": "2",
+    "motorcycle": "no",
+    "motorroad": "yes",
+    "name": "신천대로",
+    "name:en": "Sincheon-daero",
+    "name:ko": "신천대로",
+    "oneway": "yes",
+    "ref": "11"
+  }
+},
+{
+  "type": "way",
+  "id": 1571262259,
+  "nodes": [
+    5197165644,
+    5197165663,
+    5197165667,
+    5197165664,
+    2261408791
+  ],
+  "tags": {
+    "bicycle": "no",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "lanes": "2",
+    "motorcycle": "no",
+    "motorroad": "yes",
+    "name": "신천대로",
+    "name:en": "Sincheon-daero",
+    "name:ko": "신천대로",
+    "oneway": "yes",
+    "ref": "11"
+  }
+},
+{
+  "type": "way",
+  "id": 1571262273,
+  "nodes": [
+    5197165659,
+    5197165662,
+    5197165654,
+    5197165660,
+    5197165651,
+    2261408802
+  ],
+  "tags": {
+    "bicycle": "no",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "lanes": "2",
+    "motorcycle": "no",
+    "motorroad": "yes",
+    "name": "파동교지하도로",
+    "name:en": "Padonggyo-jihadoro",
+    "name:ko": "파동교지하도로",
+    "oneway": "yes",
+    "ref": "11"
+  }
+},
+{
+  "type": "way",
+  "id": 1571262274,
+  "nodes": [
+    5197165672,
+    5197165608,
+    2261408789,
+    2261408798,
+    5197165628
+  ],
+  "tags": {
+    "bicycle": "no",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "lanes": "2",
+    "motorcycle": "no",
+    "motorroad": "yes",
+    "name": "파동교지하도로",
+    "name:en": "Padonggyo-jihadoro",
+    "name:ko": "파동교지하도로",
+    "oneway": "yes",
+    "ref": "11"
+  }
+},
+{
+  "type": "way",
+  "id": 1571262275,
+  "nodes": [
+    5197165627,
+    2261408799,
+    2261408790,
+    5197165671,
+    5197165623,
+    5197165622
+  ],
+  "tags": {
+    "bicycle": "no",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "lanes": "2",
+    "motorcycle": "no",
+    "motorroad": "yes",
+    "name": "파동교지하도로",
+    "name:en": "Padonggyo-jihadoro",
+    "name:ko": "파동교지하도로",
+    "oneway": "yes",
+    "ref": "11"
+  }
+},
+{
+  "type": "way",
+  "id": 1571262277,
+  "nodes": [
+    5197165629,
+    5197165627
+  ],
+  "tags": {
+    "bicycle": "no",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "lanes": "2",
+    "motorcycle": "no",
+    "motorroad": "yes",
+    "name": "파동교지하도로",
+    "name:en": "Padonggyo-jihadoro",
+    "name:ko": "파동교지하도로",
+    "oneway": "yes",
+    "ref": "11",
+    "tunnel": "yes"
+  }
+},
+{
   "type": "node",
   "id": 1269985759,
   "lat": 34.5913814,
@@ -546366,14 +546535,14 @@
 {
   "type": "node",
   "id": 5197165644,
-  "lat": 35.8041265,
-  "lon": 128.6205183
+  "lat": 35.8040764,
+  "lon": 128.6205627
 },
 {
   "type": "node",
   "id": 5197165659,
-  "lat": 35.8041531,
-  "lon": 128.6206297
+  "lat": 35.8042560,
+  "lon": 128.6205808
 },
 {
   "type": "node",
@@ -546414,26 +546583,26 @@
 {
   "type": "node",
   "id": 5197165627,
-  "lat": 35.8100852,
-  "lon": 128.6160904
+  "lat": 35.8100825,
+  "lon": 128.6161295
 },
 {
   "type": "node",
   "id": 5197165628,
-  "lat": 35.8100417,
-  "lon": 128.6159992
+  "lat": 35.8100386,
+  "lon": 128.6160721
 },
 {
   "type": "node",
   "id": 5197165629,
-  "lat": 35.8095740,
-  "lon": 128.6165464
+  "lat": 35.8095668,
+  "lon": 128.6165803
 },
 {
   "type": "node",
   "id": 5197165630,
-  "lat": 35.8095174,
-  "lon": 128.6164793
+  "lat": 35.8095295,
+  "lon": 128.6165105
 },
 {
   "type": "node",
@@ -546500,12 +546669,6 @@
   "id": 9552030654,
   "lat": 35.8070129,
   "lon": 128.6188104
-},
-{
-  "type": "node",
-  "id": 13947300864,
-  "lat": 35.8097889,
-  "lon": 128.6162307
 },
 {
   "type": "node",
@@ -546588,8 +546751,8 @@
 {
   "type": "node",
   "id": 5197165622,
-  "lat": 35.8134653,
-  "lon": 128.6137757
+  "lat": 35.8130970,
+  "lon": 128.6139320
 },
 {
   "type": "node",
