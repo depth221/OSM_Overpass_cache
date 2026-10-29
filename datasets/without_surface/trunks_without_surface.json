@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-28T22:43:11Z",
-    "timestamp_areas_base": "2026-10-28T18:18:36Z",
+    "timestamp_osm_base": "2026-10-29T22:52:51Z",
+    "timestamp_areas_base": "2026-10-29T17:23:41Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -109015,7 +109015,7 @@
     "highway": "trunk",
     "motorroad": "yes",
     "name": "무진대로",
-    "name:en": "Mujindaero",
+    "name:en": "Mujin-daero",
     "name:ko": "무진대로",
     "oneway": "yes"
   }
@@ -360872,6 +360872,7 @@
     "highway": "trunk",
     "motorroad": "yes",
     "name": "무진대로",
+    "name:en": "Mujin-daero",
     "name:ko": "무진대로",
     "oneway": "yes"
   }
@@ -360888,6 +360889,7 @@
     "highway": "trunk",
     "motorroad": "yes",
     "name": "무진대로",
+    "name:en": "Mujin-daero",
     "name:ko": "무진대로",
     "oneway": "yes"
   }
@@ -361072,6 +361074,7 @@
     "highway": "trunk",
     "motorroad": "yes",
     "name": "무진대로",
+    "name:en": "Mujin-daero",
     "name:ko": "무진대로",
     "oneway": "yes"
   }
@@ -363636,7 +363639,7 @@
     "highway": "trunk",
     "motorroad": "yes",
     "name": "무진대로",
-    "name:en": "Mujindaero",
+    "name:en": "Mujin-daero",
     "name:ko": "무진대로",
     "oneway": "yes"
   }
@@ -366907,7 +366910,7 @@
     "highway": "trunk",
     "motorroad": "yes",
     "name": "무진대로",
-    "name:en": "Mujindaero",
+    "name:en": "Mujin-daero",
     "name:ko": "무진대로",
     "oneway": "yes"
   }
@@ -366926,7 +366929,7 @@
     "layer": "1",
     "motorroad": "yes",
     "name": "무진대로",
-    "name:en": "Mujindaero",
+    "name:en": "Mujin-daero",
     "name:ko": "무진대로",
     "oneway": "yes"
   }
@@ -366945,6 +366948,7 @@
     "layer": "1",
     "motorroad": "yes",
     "name": "무진대로",
+    "name:en": "Mujin-daero",
     "name:ko": "무진대로",
     "oneway": "yes"
   }
@@ -367070,6 +367074,7 @@
     "layer": "1",
     "motorroad": "yes",
     "name": "무진대로",
+    "name:en": "Mujin-daero",
     "name:ko": "무진대로",
     "oneway": "yes"
   }
@@ -367088,7 +367093,7 @@
     "layer": "1",
     "motorroad": "yes",
     "name": "무진대로",
-    "name:en": "Mujindaero",
+    "name:en": "Mujin-daero",
     "name:ko": "무진대로",
     "oneway": "yes"
   }
@@ -367105,6 +367110,7 @@
     "highway": "trunk",
     "motorroad": "yes",
     "name": "무진대로",
+    "name:en": "Mujin-daero",
     "name:ko": "무진대로",
     "oneway": "yes"
   }
@@ -367123,6 +367129,7 @@
     "layer": "1",
     "motorroad": "yes",
     "name": "무진대로",
+    "name:en": "Mujin-daero",
     "name:ko": "무진대로",
     "oneway": "yes"
   }
@@ -367139,7 +367146,7 @@
     "highway": "trunk",
     "motorroad": "yes",
     "name": "무진대로",
-    "name:en": "Mujindaero",
+    "name:en": "Mujin-daero",
     "name:ko": "무진대로",
     "oneway": "yes"
   }
@@ -367158,7 +367165,7 @@
     "layer": "1",
     "motorroad": "yes",
     "name": "무진대로",
-    "name:en": "Mujindaero",
+    "name:en": "Mujin-daero",
     "name:ko": "무진대로",
     "oneway": "yes"
   }
@@ -394686,8 +394693,8 @@
 {
   "type": "node",
   "id": 2372931970,
-  "lat": 35.1614411,
-  "lon": 126.8102041
+  "lat": 35.1614503,
+  "lon": 126.8102022
 },
 {
   "type": "node",
