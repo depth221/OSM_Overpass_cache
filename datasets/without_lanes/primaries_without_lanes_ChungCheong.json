@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-31T21:49:35Z",
-    "timestamp_areas_base": "2026-10-31T19:51:51Z",
+    "timestamp_osm_base": "2026-11-03T01:12:20Z",
+    "timestamp_areas_base": "2026-11-02T18:09:35Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -7761,7 +7761,8 @@
     "name": "금산로",
     "name:en": "Geumsan-ro",
     "name:ko": "금산로",
-    "ref": "13"
+    "ref": "13",
+    "surface": "asphalt"
   }
 },
 {
@@ -17911,9 +17912,11 @@
     436443060,
     4637775220,
     436443061,
+    14341816429,
     436443062,
     436443063,
     436443064,
+    14341780192,
     436443066,
     6035813122,
     6035813121,
@@ -24362,7 +24365,8 @@
     "name": "금산로",
     "name:en": "Geumsan-ro",
     "name:ko": "금산로",
-    "ref": "13"
+    "ref": "13",
+    "surface": "asphalt"
   }
 },
 {
@@ -24380,7 +24384,8 @@
     "name": "금산로",
     "name:en": "Geumsan-ro",
     "name:ko": "금산로",
-    "ref": "13"
+    "ref": "13",
+    "surface": "asphalt"
   }
 },
 {
@@ -125323,6 +125328,18 @@
   "id": 6035813122,
   "lat": 36.1967892,
   "lon": 127.7967211
+},
+{
+  "type": "node",
+  "id": 14341780192,
+  "lat": 36.1967289,
+  "lon": 127.7966862
+},
+{
+  "type": "node",
+  "id": 14341816429,
+  "lat": 36.1952010,
+  "lon": 127.7956067
 },
 {
   "type": "node",
