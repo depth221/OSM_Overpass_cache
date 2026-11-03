@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-11-03T01:12:20Z",
-    "timestamp_areas_base": "2026-11-02T18:09:35Z",
+    "timestamp_osm_base": "2026-11-03T23:38:33Z",
+    "timestamp_areas_base": "2026-11-03T16:54:38Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -7179,6 +7179,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
@@ -7199,6 +7200,10 @@
     "bridge:name:ko": "입암교",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "70",
+    "name": "충절로",
+    "name:en": "Chungjeol-ro",
+    "name:ko": "충절로",
     "oneway": "yes",
     "ref": "29"
   }
@@ -22691,8 +22696,8 @@
     436534850,
     436534852,
     436534854,
-    12125659252,
     436534855,
+    14345836129,
     436534857,
     436534858,
     436534860,
@@ -22705,10 +22710,14 @@
     6429588521,
     5395729113,
     9378369715,
-    5395729114
+    5395729114,
+    5395729115,
+    9378369819,
+    5395729116
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "80",
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
@@ -22745,6 +22754,10 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "80",
+    "name": "충절로646번길",
+    "name:en": "Chungjeol-ro 646 beon-gil",
+    "name:ko": "충절로646번길",
     "oneway": "yes",
     "ref": "29"
   }
@@ -22759,6 +22772,10 @@
   "tags": {
     "highway": "primary",
     "layer": "-1",
+    "maxspeed": "80",
+    "name": "충절로646번길",
+    "name:en": "Chungjeol-ro 646 beon-gil",
+    "name:ko": "충절로646번길",
     "oneway": "yes",
     "ref": "29",
     "tunnel": "yes"
@@ -22776,6 +22793,10 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "80",
+    "name": "충절로646번길",
+    "name:en": "Chungjeol-ro 646 beon-gil",
+    "name:ko": "충절로646번길",
     "oneway": "yes",
     "ref": "29"
   }
@@ -22794,6 +22815,10 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "80",
+    "name": "충절로646번길",
+    "name:en": "Chungjeol-ro 646 beon-gil",
+    "name:ko": "충절로646번길",
     "oneway": "yes",
     "ref": "29"
   }
@@ -22809,13 +22834,14 @@
     5395729127,
     5395729126,
     9378369685,
-    5395729125,
-    9378369684,
-    436535163
+    5395729125
   ],
   "tags": {
     "highway": "primary",
-    "noname": "yes",
+    "maxspeed": "80",
+    "name": "충절로646번길",
+    "name:en": "Chungjeol-ro 646 beon-gil",
+    "name:ko": "충절로646번길",
     "oneway": "yes",
     "ref": "29"
   }
@@ -26580,6 +26606,8 @@
     6082745115,
     14091222815,
     6082745114,
+    14344709570,
+    14344709563,
     14091222820,
     6082745113,
     6082745112,
@@ -28913,6 +28941,8 @@
   "type": "way",
   "id": 686000440,
   "nodes": [
+    5395729125,
+    9378369684,
     436535163,
     9378369669,
     436535170,
@@ -28921,6 +28951,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
@@ -28932,9 +28963,6 @@
   "type": "way",
   "id": 686000441,
   "nodes": [
-    5395729114,
-    5395729115,
-    9378369819,
     5395729116,
     9378369818,
     6429588520,
@@ -28943,6 +28971,10 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "80",
+    "name": "충절로646번길",
+    "name:en": "Chungjeol-ro 646 beon-gil",
+    "name:ko": "충절로646번길",
     "oneway": "yes",
     "ref": "29"
   }
@@ -32095,7 +32127,10 @@
     14091222509,
     8411499250,
     8093805666,
+    14344709560,
+    14344709565,
     4681206198,
+    14344709546,
     14091222811,
     4681206206,
     14091222802,
@@ -41192,10 +41227,13 @@
   "nodes": [
     9378369667,
     9378369668,
-    9378369672
+    9378369672,
+    9378369671,
+    9378369673
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
@@ -41213,6 +41251,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
@@ -41229,8 +41268,11 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "입암교",
+    "bridge:name:ko": "입암교",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "70",
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
@@ -41247,6 +41289,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "70",
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
@@ -41257,8 +41300,6 @@
   "type": "way",
   "id": 1016791713,
   "nodes": [
-    9378369672,
-    9378369671,
     9378369673,
     9378369687,
     9378369688,
@@ -41272,7 +41313,10 @@
   ],
   "tags": {
     "highway": "primary",
-    "noname": "yes",
+    "maxspeed": "80",
+    "name": "충절로646번길",
+    "name:en": "Chungjeol-ro 646 beon-gil",
+    "name:ko": "충절로646번길",
     "oneway": "yes",
     "ref": "29"
   }
@@ -41289,7 +41333,10 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
-    "noname": "yes",
+    "maxspeed": "80",
+    "name": "충절로646번길",
+    "name:en": "Chungjeol-ro 646 beon-gil",
+    "name:ko": "충절로646번길",
     "oneway": "yes",
     "ref": "29"
   }
@@ -41300,12 +41347,14 @@
   "nodes": [
     9378369711,
     9378369709,
-    9378369713,
-    9378369714,
-    9378369823
+    9378369713
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "80",
+    "name": "충절로646번길",
+    "name:en": "Chungjeol-ro 646 beon-gil",
+    "name:ko": "충절로646번길",
     "oneway": "yes",
     "ref": "29"
   }
@@ -41320,6 +41369,10 @@
   "tags": {
     "highway": "primary",
     "layer": "-1",
+    "maxspeed": "80",
+    "name": "충절로646번길",
+    "name:en": "Chungjeol-ro 646 beon-gil",
+    "name:ko": "충절로646번길",
     "oneway": "yes",
     "ref": "29",
     "tunnel": "yes"
@@ -41329,6 +41382,8 @@
   "type": "way",
   "id": 1016791726,
   "nodes": [
+    9378369713,
+    9378369714,
     9378369823,
     9378369822,
     9378369835,
@@ -41357,6 +41412,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "80",
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
@@ -158098,8 +158154,8 @@
 {
   "type": "node",
   "id": 436534855,
-  "lat": 36.5787136,
-  "lon": 126.7069246
+  "lat": 36.5786747,
+  "lon": 126.7070127
 },
 {
   "type": "node",
@@ -158109,9 +158165,9 @@
 },
 {
   "type": "node",
-  "id": 12125659252,
-  "lat": 36.5786747,
-  "lon": 126.7070127
+  "id": 14345836129,
+  "lat": 36.5787136,
+  "lon": 126.7069246
 },
 {
   "type": "node",
@@ -173181,6 +173237,12 @@
 },
 {
   "type": "node",
+  "id": 14344709546,
+  "lat": 36.5867619,
+  "lon": 127.2970953
+},
+{
+  "type": "node",
   "id": 3966625911,
   "lat": 36.5948502,
   "lon": 127.2910548
@@ -174180,6 +174242,30 @@
   "id": 14091222846,
   "lat": 36.5886470,
   "lon": 127.2991153
+},
+{
+  "type": "node",
+  "id": 14344709560,
+  "lat": 36.5873490,
+  "lon": 127.2976947
+},
+{
+  "type": "node",
+  "id": 14344709563,
+  "lat": 36.5872917,
+  "lon": 127.2977826
+},
+{
+  "type": "node",
+  "id": 14344709565,
+  "lat": 36.5873062,
+  "lon": 127.2976528
+},
+{
+  "type": "node",
+  "id": 14344709570,
+  "lat": 36.5872499,
+  "lon": 127.2977407
 },
 {
   "type": "node",
