@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-11-01T22:08:21Z",
-    "timestamp_areas_base": "2026-11-01T18:30:20Z",
+    "timestamp_osm_base": "2026-11-03T01:02:10Z",
+    "timestamp_areas_base": "2026-11-02T22:46:21Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -151106,6 +151106,7 @@
   "tags": {
     "highway": "motorway",
     "lanes": "2",
+    "layer": "-1",
     "length": "1518",
     "maxspeed": "100",
     "name": "서울양양고속도로",
@@ -151284,6 +151285,7 @@
   "tags": {
     "highway": "motorway",
     "lanes": "2",
+    "layer": "-1",
     "length": "1515",
     "maxspeed": "100",
     "name": "서울양양고속도로",
