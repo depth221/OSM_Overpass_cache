@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-11-03T23:38:33Z",
-    "timestamp_areas_base": "2026-11-03T16:54:38Z",
+    "timestamp_osm_base": "2026-11-04T23:54:08Z",
+    "timestamp_areas_base": "2026-11-04T21:22:04Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -18499,6 +18499,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "80",
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
@@ -22354,10 +22355,15 @@
   "tags": {
     "bridge": "yes",
     "bridge:name": "하장교",
+    "bridge:name:en": "Hajang-gyo",
     "bridge:name:ko": "하장교",
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "80",
+    "name": "충절로",
+    "name:en": "Chungjeol-ro",
+    "name:ko": "충절로",
     "oneway": "yes",
     "ref": "29"
   }
@@ -22427,6 +22433,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "80",
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
@@ -22496,6 +22503,7 @@
   "tags": {
     "highway": "primary",
     "layer": "-1",
+    "maxspeed": "80",
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
@@ -22531,6 +22539,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "80",
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
@@ -22561,6 +22570,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "29"
   }
@@ -22580,6 +22590,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "29"
   }
@@ -22597,6 +22608,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "29"
   }
@@ -22614,6 +22626,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "29"
   }
@@ -22633,6 +22646,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "29"
   }
@@ -22651,6 +22665,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "29"
   }
@@ -22670,6 +22685,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "29"
   }
@@ -22739,6 +22755,7 @@
     "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "29"
   }
@@ -41433,6 +41450,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "29"
   }
@@ -41448,6 +41466,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "29"
   }
@@ -41467,6 +41486,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "29"
   }
@@ -41482,6 +41502,7 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "29"
   }
@@ -41500,6 +41521,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "29"
   }
@@ -41515,6 +41537,7 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "29"
   }
@@ -41530,6 +41553,7 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "29"
   }
@@ -41546,6 +41570,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "29"
   }
@@ -41563,6 +41588,7 @@
     "bridge": "yes",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "29"
   }
@@ -41588,6 +41614,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "80",
     "oneway": "yes",
     "ref": "29"
   }
@@ -41612,6 +41639,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "80",
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
@@ -41668,6 +41696,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "80",
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
@@ -41685,6 +41714,7 @@
   "tags": {
     "highway": "primary",
     "layer": "-1",
+    "maxspeed": "80",
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
@@ -41702,8 +41732,13 @@
   ],
   "tags": {
     "bridge": "yes",
+    "bridge:name": "하장교",
+    "bridge:name:en": "Hajang-gyo",
+    "bridge:name:ko": "하장교",
+    "bridge:structure": "beam",
     "highway": "primary",
     "layer": "1",
+    "maxspeed": "80",
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
@@ -41723,6 +41758,7 @@
   ],
   "tags": {
     "highway": "primary",
+    "maxspeed": "80",
     "name": "충절로",
     "name:en": "Chungjeol-ro",
     "name:ko": "충절로",
