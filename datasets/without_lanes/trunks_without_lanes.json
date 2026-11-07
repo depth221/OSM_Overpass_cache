@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-11-06T23:21:20Z",
-    "timestamp_areas_base": "2026-11-06T18:51:19Z",
+    "timestamp_osm_base": "2026-11-07T22:07:36Z",
+    "timestamp_areas_base": "2026-11-07T15:48:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -209804,8 +209804,11 @@
     "highway": "trunk",
     "layer": "1",
     "maxspeed": "80",
+    "name": "낙동대로",
+    "name:en": "Nakdong-daero",
+    "name:ko": "낙동대로",
     "oneway": "yes",
-    "ref": "25",
+    "ref": "25;67",
     "review": "no"
   }
 },
@@ -269839,6 +269842,9 @@
     "highway": "trunk",
     "layer": "1",
     "maxspeed": "80",
+    "name": "낙동대로",
+    "name:en": "Nakdong-daero",
+    "name:ko": "낙동대로",
     "oneway": "yes",
     "ref": "25;67",
     "review": "no"
@@ -694071,14 +694077,14 @@
 {
   "type": "node",
   "id": 4948041948,
-  "lat": 37.6659267,
-  "lon": 126.6716149
+  "lat": 37.6658469,
+  "lon": 126.6725547
 },
 {
   "type": "node",
   "id": 10796628375,
-  "lat": 37.6657517,
-  "lon": 126.6713198
+  "lat": 37.6657151,
+  "lon": 126.6721711
 },
 {
   "type": "node",
