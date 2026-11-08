@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-11-07T22:13:35Z",
-    "timestamp_areas_base": "2026-11-07T17:38:21Z",
+    "timestamp_osm_base": "2026-11-08T22:24:12Z",
+    "timestamp_areas_base": "2026-11-08T20:04:49Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -8816,7 +8816,7 @@
   "type": "way",
   "id": 55967473,
   "nodes": [
-    2113443613,
+    14359203175,
     5147754197,
     5147754200,
     5147754199,
@@ -16566,7 +16566,7 @@
   "nodes": [
     436657460,
     5147754193,
-    2113443613
+    14359203175
   ],
   "tags": {
     "highway": "primary",
@@ -23125,12 +23125,8 @@
   "type": "way",
   "id": 201378649,
   "nodes": [
-    2113443613,
-    2113443608,
-    5147754196,
-    2113443609,
-    2113443607,
-    2113443612
+    5147754188,
+    14359203168
   ],
   "tags": {
     "highway": "primary",
@@ -70219,8 +70215,7 @@
     5147754203,
     5147754201,
     10819900153,
-    5147754198,
-    2113443613
+    5147754188
   ],
   "tags": {
     "highway": "primary",
@@ -190987,6 +190982,58 @@
   }
 },
 {
+  "type": "way",
+  "id": 1576659365,
+  "nodes": [
+    14359203175,
+    5147754188
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "80",
+    "name": "서동대로",
+    "name:en": "Seodong-daero",
+    "name:ja": "西東大路",
+    "name:ko": "서동대로",
+    "name:ko-Hani": "西東大路",
+    "name:zh": "西東大路",
+    "name:zh-Hans": "西东大路",
+    "name:zh-Hant": "西東大路",
+    "oneway": "yes",
+    "wikidata": "Q21709812",
+    "wikipedia": "ko:서동대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1576659367,
+  "nodes": [
+    14359203168,
+    2113443608,
+    5147754196,
+    2113443609,
+    2113443607,
+    2113443612
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "80",
+    "name": "서동대로",
+    "name:en": "Seodong-daero",
+    "name:ja": "西東大路",
+    "name:ko": "서동대로",
+    "name:ko-Hani": "西東大路",
+    "name:zh": "西東大路",
+    "name:zh-Hans": "西东大路",
+    "name:zh-Hant": "西東大路",
+    "oneway": "yes",
+    "wikidata": "Q21709812",
+    "wikipedia": "ko:서동대로"
+  }
+},
+{
   "type": "node",
   "id": 1725036237,
   "lat": 36.9096883,
@@ -239102,9 +239149,9 @@
 },
 {
   "type": "node",
-  "id": 2113443613,
-  "lat": 37.0118981,
-  "lon": 127.2947977
+  "id": 5147754188,
+  "lat": 37.0118866,
+  "lon": 127.2947343
 },
 {
   "type": "node",
@@ -239123,12 +239170,6 @@
   "id": 5147754197,
   "lat": 37.0121043,
   "lon": 127.2947962
-},
-{
-  "type": "node",
-  "id": 5147754198,
-  "lat": 37.0120659,
-  "lon": 127.2947185
 },
 {
   "type": "node",
@@ -239177,6 +239218,18 @@
   "id": 10819900153,
   "lat": 37.0123298,
   "lon": 127.2946354
+},
+{
+  "type": "node",
+  "id": 14359203168,
+  "lat": 37.0118659,
+  "lon": 127.2948331
+},
+{
+  "type": "node",
+  "id": 14359203175,
+  "lat": 37.0119384,
+  "lon": 127.2948282
 },
 {
   "type": "node",
