@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-11-12T23:53:02Z",
-    "timestamp_areas_base": "2026-11-12T17:03:40Z",
+    "timestamp_osm_base": "2026-11-13T23:54:46Z",
+    "timestamp_areas_base": "2026-11-13T21:32:34Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -78781,7 +78781,7 @@
   "type": "way",
   "id": 794806133,
   "nodes": [
-    7434053124,
+    14372324495,
     7434053119,
     7434053120,
     7434053122
@@ -146390,6 +146390,40 @@
     "name:ko": "퇴계로",
     "oneway": "no",
     "ref": "35"
+  }
+},
+{
+  "type": "way",
+  "id": 1578459371,
+  "nodes": [
+    14372324494,
+    14372324495
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "layer": "1",
+    "name": "토함산로",
+    "name:en": "Tohamsan-ro",
+    "name:ko": "토함산로",
+    "oneway": "yes",
+    "ref": "4"
+  }
+},
+{
+  "type": "way",
+  "id": 1578459372,
+  "nodes": [
+    7434053124,
+    14372324494
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "토함산로",
+    "name:en": "Tohamsan-ro",
+    "name:ko": "토함산로",
+    "oneway": "yes",
+    "ref": "4"
   }
 },
 {
@@ -405978,12 +406012,6 @@
 },
 {
   "type": "node",
-  "id": 7434053122,
-  "lat": 35.7907987,
-  "lon": 129.3939160
-},
-{
-  "type": "node",
   "id": 312231842,
   "lat": 35.8304966,
   "lon": 129.3017304
@@ -408841,14 +408869,32 @@
 {
   "type": "node",
   "id": 7434053119,
-  "lat": 35.7912859,
-  "lon": 129.3959602
+  "lat": 35.7916166,
+  "lon": 129.3973201
 },
 {
   "type": "node",
   "id": 7434053120,
-  "lat": 35.7911640,
-  "lon": 129.3954062
+  "lat": 35.7914947,
+  "lon": 129.3967661
+},
+{
+  "type": "node",
+  "id": 7434053122,
+  "lat": 35.7911294,
+  "lon": 129.3952759
+},
+{
+  "type": "node",
+  "id": 14372324494,
+  "lat": 35.7923947,
+  "lon": 129.4004542
+},
+{
+  "type": "node",
+  "id": 14372324495,
+  "lat": 35.7922990,
+  "lon": 129.4000599
 },
 {
   "type": "node",
@@ -408859,8 +408905,8 @@
 {
   "type": "node",
   "id": 7434053124,
-  "lat": 35.7926871,
-  "lon": 129.4014229
+  "lat": 35.7926262,
+  "lon": 129.4013451
 },
 {
   "type": "node",
@@ -408967,14 +409013,14 @@
 {
   "type": "node",
   "id": 7434053137,
-  "lat": 35.7976803,
-  "lon": 129.4212594
+  "lat": 35.7976324,
+  "lon": 129.4212782
 },
 {
   "type": "node",
   "id": 7434053138,
-  "lat": 35.7981966,
-  "lon": 129.4238863
+  "lat": 35.7981640,
+  "lon": 129.4238943
 },
 {
   "type": "node",
@@ -409627,8 +409673,8 @@
 {
   "type": "node",
   "id": 3801659201,
-  "lat": 35.8063727,
-  "lon": 129.4138457
+  "lat": 35.8062759,
+  "lon": 129.4138926
 },
 {
   "type": "node",
