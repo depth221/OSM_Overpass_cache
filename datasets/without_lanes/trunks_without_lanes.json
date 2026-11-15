@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-11-14T22:38:06Z",
-    "timestamp_areas_base": "2026-11-14T20:17:49Z",
+    "timestamp_osm_base": "2026-11-15T23:01:02Z",
+    "timestamp_areas_base": "2026-11-15T19:04:21Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -98958,7 +98958,7 @@
     "tunnel": "yes",
     "tunnel:name": "사북2터널",
     "tunnel:name:en": "Sabuk 2 Tunnel",
-    "tunnelname:ko": "사북2터널"
+    "tunnel:name:ko": "사북2터널"
   }
 },
 {
@@ -98989,7 +98989,7 @@
     "tunnel": "yes",
     "tunnel:name": "사북2터널",
     "tunnel:name:en": "Sabuk 2 Tunnel",
-    "tunnelname:ko": "사북2터널"
+    "tunnel:name:ko": "사북2터널"
   }
 },
 {
@@ -124242,43 +124242,6 @@
     436463748,
     4648487262,
     4661273886
-  ],
-  "tags": {
-    "bridge": "yes",
-    "bridge:name": "우산교",
-    "bridge:name:ko": "우산교",
-    "expressway": "yes",
-    "highway": "trunk",
-    "layer": "1",
-    "oneway": "yes",
-    "ref": "2;5;14;77;79"
-  }
-},
-{
-  "type": "way",
-  "id": 471975414,
-  "nodes": [
-    2371445434,
-    436702875
-  ],
-  "tags": {
-    "expressway": "yes",
-    "highway": "trunk",
-    "name": "남해안대로",
-    "name:en": "Namhaean-daero",
-    "name:ko": "남해안대로",
-    "oneway": "yes",
-    "ref": "2;5;14;77;79"
-  }
-},
-{
-  "type": "way",
-  "id": 471975415,
-  "nodes": [
-    4661273888,
-    2371445412,
-    4648487263,
-    2371445434
   ],
   "tags": {
     "bridge": "yes",
@@ -273499,7 +273462,7 @@
   "id": 874171978,
   "nodes": [
     7869076582,
-    7869076583
+    8258216322
   ],
   "tags": {
     "bridge": "yes",
@@ -278253,30 +278216,6 @@
     4648487266,
     4648487267,
     8404862585
-  ],
-  "tags": {
-    "expressway": "yes",
-    "highway": "trunk",
-    "name": "남해안대로",
-    "name:en": "Namhaean-daero",
-    "name:ko": "남해안대로",
-    "oneway": "yes",
-    "ref": "2;5;14;77;79"
-  }
-},
-{
-  "type": "way",
-  "id": 905033743,
-  "nodes": [
-    2371445390,
-    2371445395,
-    2371445400,
-    4648487261,
-    4648487603,
-    2371445406,
-    2371445409,
-    2371445410,
-    4661273888
   ],
   "tags": {
     "expressway": "yes",
@@ -286956,13 +286895,13 @@
   "type": "way",
   "id": 978430280,
   "nodes": [
-    9053548061,
+    6143902186,
     9053547973
   ],
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "maxspeed": "50",
+    "maxspeed": "70",
     "name": "포은대로",
     "name:en": "Poeun-daero",
     "name:ko": "포은대로",
@@ -286984,6 +286923,10 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "70",
+    "name": "포은대로",
+    "name:en": "Poeun-daero",
+    "name:ko": "포은대로",
     "oneway": "yes",
     "ref": "43",
     "surface": "asphalt"
@@ -287006,7 +286949,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "maxspeed": "50",
+    "maxspeed": "70",
     "name": "포은대로",
     "name:en": "Poeun-daero",
     "name:ko": "포은대로",
@@ -287020,7 +286963,7 @@
   "id": 978430302,
   "nodes": [
     7803775767,
-    9053548061
+    6143902186
   ],
   "tags": {
     "bridge": "yes",
@@ -287028,6 +286971,10 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "70",
+    "name": "포은대로",
+    "name:en": "Poeun-daero",
+    "name:ko": "포은대로",
     "oneway": "yes",
     "ref": "43",
     "surface": "asphalt"
@@ -287049,7 +286996,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "maxspeed": "50",
+    "maxspeed": "70",
     "name": "포은대로",
     "name:en": "Poeun-daero",
     "name:ko": "포은대로",
@@ -296747,12 +296694,12 @@
   "nodes": [
     9736311613,
     9736311611,
-    9736311609
+    6143902185
   ],
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "maxspeed": "50",
+    "maxspeed": "70",
     "name": "포은대로",
     "name:en": "Poeun-daero",
     "name:ko": "포은대로",
@@ -296765,7 +296712,7 @@
   "type": "way",
   "id": 1059748368,
   "nodes": [
-    9736311609,
+    6143902185,
     9736311607
   ],
   "tags": {
@@ -296773,7 +296720,7 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
-    "maxspeed": "50",
+    "maxspeed": "70",
     "name": "포은대로",
     "name:en": "Poeun-daero",
     "name:ko": "포은대로",
@@ -296794,7 +296741,7 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
-    "maxspeed": "50",
+    "maxspeed": "70",
     "name": "포은대로",
     "name:en": "Poeun-daero",
     "name:ko": "포은대로",
@@ -325359,16 +325306,20 @@
 },
 {
   "type": "way",
-  "id": 1276769805,
+  "id": 1276769804,
   "nodes": [
-    9053547972,
-    9736311612,
-    9736311614
+    9053547969,
+    9053547971,
+    14379356050,
+    14379356063,
+    14379356070,
+    14379356065,
+    14379356071
   ],
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "maxspeed": "50",
+    "maxspeed": "70",
     "name": "포은대로",
     "name:en": "Poeun-daero",
     "name:ko": "포은대로",
@@ -355772,6 +355723,73 @@
     "name:ko-Latn": "Misajihadoro",
     "oneway": "yes",
     "ref": "176"
+  }
+},
+{
+  "type": "way",
+  "id": 1579584233,
+  "nodes": [
+    14379356047,
+    14379356037
+  ],
+  "tags": {
+    "bridge": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "포은대로",
+    "name:en": "Poeun-daero",
+    "name:ko": "포은대로",
+    "oneway": "yes",
+    "ref": "43",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 1579584242,
+  "nodes": [
+    14379356071,
+    14379356077
+  ],
+  "tags": {
+    "bridge": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "포은대로",
+    "name:en": "Poeun-daero",
+    "name:ko": "포은대로",
+    "oneway": "yes",
+    "ref": "43",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 1579584243,
+  "nodes": [
+    14379356037,
+    14211457583,
+    14211457586,
+    14379356080,
+    14379356083,
+    14379356021,
+    14379356031,
+    9053547970,
+    9736311612,
+    9736311614
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "maxspeed": "70",
+    "name": "포은대로",
+    "name:en": "Poeun-daero",
+    "name:ko": "포은대로",
+    "oneway": "yes",
+    "ref": "43",
+    "surface": "asphalt"
   }
 },
 {
@@ -487560,12 +487578,6 @@
 },
 {
   "type": "node",
-  "id": 2371445395,
-  "lat": 35.1481650,
-  "lon": 128.5473142
-},
-{
-  "type": "node",
   "id": 2371445396,
   "lat": 35.1483946,
   "lon": 128.5471285
@@ -487578,33 +487590,9 @@
 },
 {
   "type": "node",
-  "id": 2371445400,
-  "lat": 35.1489095,
-  "lon": 128.5477262
-},
-{
-  "type": "node",
   "id": 2371445403,
   "lat": 35.1493021,
   "lon": 128.5476036
-},
-{
-  "type": "node",
-  "id": 2371445406,
-  "lat": 35.1497627,
-  "lon": 128.5479837
-},
-{
-  "type": "node",
-  "id": 4648487261,
-  "lat": 35.1492036,
-  "lon": 128.5478245
-},
-{
-  "type": "node",
-  "id": 4648487603,
-  "lat": 35.1495259,
-  "lon": 128.5479415
 },
 {
   "type": "node",
@@ -487662,33 +487650,9 @@
 },
 {
   "type": "node",
-  "id": 2371445409,
-  "lat": 35.1506792,
-  "lon": 128.5481697
-},
-{
-  "type": "node",
-  "id": 2371445410,
-  "lat": 35.1513462,
-  "lon": 128.5482813
-},
-{
-  "type": "node",
-  "id": 2371445412,
-  "lat": 35.1524602,
-  "lon": 128.5484504
-},
-{
-  "type": "node",
   "id": 4648487262,
   "lat": 35.1534732,
   "lon": 128.5484856
-},
-{
-  "type": "node",
-  "id": 4648487263,
-  "lat": 35.1531370,
-  "lon": 128.5485568
 },
 {
   "type": "node",
@@ -487716,12 +487680,6 @@
 },
 {
   "type": "node",
-  "id": 4661273888,
-  "lat": 35.1522097,
-  "lon": 128.5484185
-},
-{
-  "type": "node",
   "id": 8404862585,
   "lat": 35.1503906,
   "lon": 128.5478676
@@ -487731,12 +487689,6 @@
   "id": 436463751,
   "lat": 35.1557988,
   "lon": 128.5488896
-},
-{
-  "type": "node",
-  "id": 2371445434,
-  "lat": 35.1554423,
-  "lon": 128.5489377
 },
 {
   "type": "node",
@@ -682764,15 +682716,15 @@
 },
 {
   "type": "node",
-  "id": 7869076583,
-  "lat": 37.3067792,
-  "lon": 127.2345711
-},
-{
-  "type": "node",
   "id": 7869087685,
   "lat": 37.3068602,
   "lon": 127.2346078
+},
+{
+  "type": "node",
+  "id": 8258216322,
+  "lat": 37.3067792,
+  "lon": 127.2345711
 },
 {
   "type": "node",
@@ -700968,15 +700920,21 @@
 },
 {
   "type": "node",
-  "id": 7803775767,
-  "lat": 37.3473212,
-  "lon": 127.2097779
+  "id": 6143902185,
+  "lat": 37.3479537,
+  "lon": 127.2108143
 },
 {
   "type": "node",
-  "id": 9053548061,
-  "lat": 37.3479027,
-  "lon": 127.2109342
+  "id": 6143902186,
+  "lat": 37.3478878,
+  "lon": 127.2108637
+},
+{
+  "type": "node",
+  "id": 7803775767,
+  "lat": 37.3473133,
+  "lon": 127.2096950
 },
 {
   "type": "node",
@@ -700999,14 +700957,8 @@
 {
   "type": "node",
   "id": 9736311607,
-  "lat": 37.3473796,
-  "lon": 127.2097265
-},
-{
-  "type": "node",
-  "id": 9736311609,
-  "lat": 37.3479426,
-  "lon": 127.2108821
+  "lat": 37.3473771,
+  "lon": 127.2096451
 },
 {
   "type": "node",
@@ -701022,9 +700974,15 @@
 },
 {
   "type": "node",
-  "id": 9053547972,
-  "lat": 37.3499282,
-  "lon": 127.2148983
+  "id": 9053547970,
+  "lat": 37.3496782,
+  "lon": 127.2143093
+},
+{
+  "type": "node",
+  "id": 9053547971,
+  "lat": 37.3496743,
+  "lon": 127.2144809
 },
 {
   "type": "node",
@@ -701049,6 +701007,90 @@
   "id": 9736311614,
   "lat": 37.3488651,
   "lon": 127.2127046
+},
+{
+  "type": "node",
+  "id": 14379356021,
+  "lat": 37.3512402,
+  "lon": 127.2173139
+},
+{
+  "type": "node",
+  "id": 14379356031,
+  "lat": 37.3507645,
+  "lon": 127.2164721
+},
+{
+  "type": "node",
+  "id": 14379356050,
+  "lat": 37.3506983,
+  "lon": 127.2165293
+},
+{
+  "type": "node",
+  "id": 14379356063,
+  "lat": 37.3511912,
+  "lon": 127.2173952
+},
+{
+  "type": "node",
+  "id": 14379356070,
+  "lat": 37.3517287,
+  "lon": 127.2182459
+},
+{
+  "type": "node",
+  "id": 14379356083,
+  "lat": 37.3517790,
+  "lon": 127.2181765
+},
+{
+  "type": "node",
+  "id": 14379356065,
+  "lat": 37.3519501,
+  "lon": 127.2185810
+},
+{
+  "type": "node",
+  "id": 14379356080,
+  "lat": 37.3520123,
+  "lon": 127.2185035
+},
+{
+  "type": "node",
+  "id": 14211457583,
+  "lat": 37.3526821,
+  "lon": 127.2193320
+},
+{
+  "type": "node",
+  "id": 14211457586,
+  "lat": 37.3524746,
+  "lon": 127.2190753
+},
+{
+  "type": "node",
+  "id": 14379356037,
+  "lat": 37.3536820,
+  "lon": 127.2205687
+},
+{
+  "type": "node",
+  "id": 14379356047,
+  "lat": 37.3541300,
+  "lon": 127.2211202
+},
+{
+  "type": "node",
+  "id": 14379356071,
+  "lat": 37.3535292,
+  "lon": 127.2205741
+},
+{
+  "type": "node",
+  "id": 14379356077,
+  "lat": 37.3539584,
+  "lon": 127.2211229
 },
 {
   "type": "node",
