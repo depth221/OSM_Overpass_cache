@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-11-15T23:01:02Z",
-    "timestamp_areas_base": "2026-11-15T19:04:21Z",
+    "timestamp_osm_base": "2026-11-17T01:54:48Z",
+    "timestamp_areas_base": "2026-11-16T20:33:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -755,6 +755,7 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "name": "충효로",
     "name:en": "Chunghyo-ro",
     "name:ko": "충효로",
@@ -771,6 +772,7 @@
     4738859140,
     312945219,
     4738859141,
+    14383719504,
     4738859143,
     4738859142,
     312945211,
@@ -779,6 +781,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "충효로",
     "name:en": "Chunghyo-ro",
     "name:ko": "충효로",
@@ -159368,6 +159371,7 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "name": "충효로",
     "name:en": "Chunghyo-ro",
     "name:ko": "충효로",
@@ -159397,6 +159401,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "충효로",
     "name:en": "Chunghyo-ro",
     "name:ko": "충효로",
@@ -159418,6 +159423,7 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "name": "충효로",
     "name:en": "Chunghyo-ro",
     "name:ko": "충효로",
@@ -159442,6 +159448,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "충효로",
     "name:en": "Chunghyo-ro",
     "name:ko": "충효로",
@@ -171617,6 +171624,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "충효로",
     "name:en": "Chunghyo-ro",
     "name:ko": "충효로",
@@ -238109,6 +238117,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "충효로",
     "name:en": "Chunghyo-ro",
     "name:ko": "충효로",
@@ -238129,6 +238138,7 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "name": "충효로",
     "name:en": "Chunghyo-ro",
     "name:ko": "충효로",
@@ -238153,6 +238163,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "충효로",
     "name:en": "Chunghyo-ro",
     "name:ko": "충효로",
@@ -238173,6 +238184,7 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "maxspeed": "80",
     "name": "충효로",
     "name:en": "Chunghyo-ro",
     "name:ko": "충효로",
@@ -238194,6 +238206,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "maxspeed": "80",
     "name": "충효로",
     "name:en": "Chunghyo-ro",
     "name:ko": "충효로",
@@ -588619,26 +588632,26 @@
 {
   "type": "node",
   "id": 312945219,
-  "lat": 36.5058598,
-  "lon": 128.8496898
+  "lat": 36.5059464,
+  "lon": 128.8496065
 },
 {
   "type": "node",
   "id": 4738859140,
-  "lat": 36.5060615,
-  "lon": 128.8495939
+  "lat": 36.5063376,
+  "lon": 128.8494089
 },
 {
   "type": "node",
   "id": 4738859141,
-  "lat": 36.5054821,
-  "lon": 128.8499089
+  "lat": 36.5057288,
+  "lon": 128.8497239
 },
 {
   "type": "node",
   "id": 4738859143,
-  "lat": 36.5051350,
-  "lon": 128.8501396
+  "lat": 36.5050843,
+  "lon": 128.8501457
 },
 {
   "type": "node",
@@ -588660,6 +588673,12 @@
 },
 {
   "type": "node",
+  "id": 14383719504,
+  "lat": 36.5053469,
+  "lon": 128.8499582
+},
+{
+  "type": "node",
   "id": 312945182,
   "lat": 36.5015364,
   "lon": 128.8556297
@@ -588673,8 +588692,8 @@
 {
   "type": "node",
   "id": 312945211,
-  "lat": 36.5045933,
-  "lon": 128.8506905
+  "lat": 36.5045623,
+  "lon": 128.8506661
 },
 {
   "type": "node",
@@ -588685,8 +588704,8 @@
 {
   "type": "node",
   "id": 4738859142,
-  "lat": 36.5048440,
-  "lon": 128.8504051
+  "lat": 36.5048179,
+  "lon": 128.8503787
 },
 {
   "type": "node",
@@ -685603,8 +685622,8 @@
 {
   "type": "node",
   "id": 7834080308,
-  "lat": 37.2194051,
-  "lon": 127.3160467
+  "lat": 37.2194179,
+  "lon": 127.3160420
 },
 {
   "type": "node",
