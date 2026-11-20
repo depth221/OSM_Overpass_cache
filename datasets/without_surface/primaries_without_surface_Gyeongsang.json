@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-11-19T00:44:25Z",
-    "timestamp_areas_base": "2026-11-18T17:49:10Z",
+    "timestamp_osm_base": "2026-11-20T00:55:02Z",
+    "timestamp_areas_base": "2026-11-19T22:06:04Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -41720,40 +41720,6 @@
   "tags": {
     "highway": "primary",
     "oneway": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 477699979,
-  "nodes": [
-    4696266197,
-    4710058643,
-    436878166,
-    11176827206,
-    1763261936
-  ],
-  "tags": {
-    "highway": "primary",
-    "name": "강변대로",
-    "name:en": "Gangbyeon-daero",
-    "name:ko": "강변대로",
-    "name:ko-Latn": "Gangbyeon-daero"
-  }
-},
-{
-  "type": "way",
-  "id": 477699984,
-  "nodes": [
-    436812530,
-    4696266197
-  ],
-  "tags": {
-    "bridge": "yes",
-    "bridge:name": "학장1교",
-    "highway": "primary",
-    "layer": "1",
-    "name:en": "Gangbyeondaero",
-    "name:ko-Latn": "Gangbyeondaero"
   }
 },
 {
@@ -100587,6 +100553,7 @@
     "name": "서대구로",
     "name:en": "Seodaegu-ro",
     "name:ko": "서대구로",
+    "oneway": "no",
     "ref": "5"
   }
 },
@@ -269259,42 +269226,6 @@
 },
 {
   "type": "node",
-  "id": 436812530,
-  "lat": 35.1293617,
-  "lon": 128.9637934
-},
-{
-  "type": "node",
-  "id": 4696266197,
-  "lat": 35.1298409,
-  "lon": 128.9639393
-},
-{
-  "type": "node",
-  "id": 436878166,
-  "lat": 35.1322026,
-  "lon": 128.9647584
-},
-{
-  "type": "node",
-  "id": 1763261936,
-  "lat": 35.1333061,
-  "lon": 128.9651471
-},
-{
-  "type": "node",
-  "id": 4710058643,
-  "lat": 35.1305911,
-  "lon": 128.9642109
-},
-{
-  "type": "node",
-  "id": 11176827206,
-  "lat": 35.1332677,
-  "lon": 128.9651336
-},
-{
-  "type": "node",
   "id": 436820588,
   "lat": 35.1822164,
   "lon": 128.7652203
@@ -285052,8 +284983,8 @@
 {
   "type": "node",
   "id": 13135461731,
-  "lat": 35.4619094,
-  "lon": 128.7543610
+  "lat": 35.4619267,
+  "lon": 128.7543787
 },
 {
   "type": "node",
