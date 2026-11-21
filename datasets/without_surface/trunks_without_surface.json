@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-11-20T00:44:44Z",
-    "timestamp_areas_base": "2026-11-19T22:06:04Z",
+    "timestamp_osm_base": "2026-11-21T00:04:33Z",
+    "timestamp_areas_base": "2026-11-20T18:43:21Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -14028,26 +14028,6 @@
     "oneway": "yes",
     "ref": "58",
     "tunnel": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 53430288,
-  "nodes": [
-    675434723,
-    2250925836,
-    1426942878
-  ],
-  "tags": {
-    "expressway": "yes",
-    "highway": "trunk",
-    "motorroad": "yes",
-    "name": "거가대로",
-    "name:en": "Geoga-daero",
-    "name:ko": "거가대로",
-    "name:ko-Latn": "Geoga-daero",
-    "oneway": "yes",
-    "ref": "58"
   }
 },
 {
@@ -91291,6 +91271,136 @@
 },
 {
   "type": "way",
+  "id": 235925717,
+  "nodes": [
+    2440094544,
+    2440094561
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "도림고가교",
+    "bridge:name:ko": "도림고가교",
+    "bridge:structure": "beam",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "ref": "12",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 235925718,
+  "nodes": [
+    2440094528,
+    2440094510
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "ref": "12",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 235925719,
+  "nodes": [
+    2440094532,
+    2440094544
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "ref": "12",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 235925721,
+  "nodes": [
+    2440094553,
+    2440094528
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "도림고가교",
+    "bridge:name:ko": "도림고가교",
+    "bridge:structure": "beam",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "ref": "12",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 235925725,
+  "nodes": [
+    2440094561,
+    4494695345
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "ref": "12",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 235925730,
+  "nodes": [
+    14398768968,
+    2440094405
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "ref": "12",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
   "id": 237476153,
   "nodes": [
     2429088730,
@@ -94827,6 +94937,35 @@
     "oneway": "yes",
     "ref": "14",
     "turn:lanes": "through|slight_right|slight_right"
+  }
+},
+{
+  "type": "way",
+  "id": 262793282,
+  "nodes": [
+    2684458598,
+    5348841509,
+    2684458554,
+    2684458571,
+    2684458575,
+    2684458591,
+    2684458550,
+    2684458564,
+    14353991935,
+    2684458569,
+    2684458572
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
   }
 },
 {
@@ -99403,6 +99542,93 @@
     "source": "GPS",
     "start_date": "2010-05-03",
     "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 313328481,
+  "nodes": [
+    3192423265,
+    3192423273,
+    3192423293,
+    2440094402
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 313328482,
+  "nodes": [
+    3192423266,
+    5348802753,
+    11233337421,
+    5348808249,
+    2440094379
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 313328483,
+  "nodes": [
+    2440094389,
+    3192423265
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "방산교",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 313328484,
+  "nodes": [
+    2440094385,
+    3192423266
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "방산교",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
   }
 },
 {
@@ -115358,6 +115584,30 @@
 },
 {
   "type": "way",
+  "id": 403112038,
+  "nodes": [
+    2684458589,
+    14353978252,
+    2684458600
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "안현육교",
+    "bridge:name:ko": "안현육교",
+    "bridge:structure": "beam",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "name": "안현고가도로",
+    "name:en": "Anhyeongogado-ro",
+    "name:ko": "안현고가도로",
+    "name:ko-Latn": "Anhyeongogadoro",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
   "id": 403116152,
   "nodes": [
     4054952810,
@@ -131074,6 +131324,99 @@
     "name:ko": "예지로",
     "oneway": "yes",
     "ref": "28"
+  }
+},
+{
+  "type": "way",
+  "id": 435027243,
+  "nodes": [
+    2440094492,
+    2440094502
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "도림1교",
+    "bridge:name:ko": "도림1교",
+    "bridge:structure": "beam",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "ref": "12",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 435027245,
+  "nodes": [
+    2440094496,
+    2440094484
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "도림1교",
+    "bridge:name:ko": "도림1교",
+    "bridge:structure": "beam",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "ref": "12",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 435027246,
+  "nodes": [
+    2440094510,
+    9528935882,
+    2440094506,
+    2440094496
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "ref": "12",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 435027247,
+  "nodes": [
+    2440094502,
+    2440094521,
+    2440094532
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "ref": "12",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
   }
 },
 {
@@ -199048,6 +199391,1020 @@
 },
 {
   "type": "way",
+  "id": 554113222,
+  "nodes": [
+    2684458567,
+    2684458579,
+    14353991914,
+    2684458562,
+    5346959834
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 554113223,
+  "nodes": [
+    2684458593,
+    14398577919,
+    14398577920,
+    2684458567
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "연성교",
+    "bridge:name:ko": "연성교",
+    "bridge:structure": "beam",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 554113226,
+  "nodes": [
+    5347917843,
+    14398561466,
+    14398561469,
+    5347917832
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "하중교",
+    "bridge:name:ko": "하중교",
+    "bridge:structure": "beam",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554113228,
+  "nodes": [
+    5347917844,
+    14398561468,
+    14398561467,
+    2440094321
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "하중교",
+    "bridge:name:ko": "하중교",
+    "bridge:structure": "beam",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554113229,
+  "nodes": [
+    2440094321,
+    14398561470,
+    5347917842,
+    2440094313
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554115725,
+  "nodes": [
+    2440094274,
+    14398561485,
+    2440094282
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "학미교",
+    "bridge:name:ko": "학미교",
+    "bridge:structure": "beam",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554115726,
+  "nodes": [
+    2440094295,
+    5347917836,
+    2440094316,
+    5347917843
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554115727,
+  "nodes": [
+    2440094301,
+    14398561486,
+    2440094292
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "학미교",
+    "bridge:name:ko": "학미교",
+    "bridge:structure": "beam",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554115728,
+  "nodes": [
+    2440094292,
+    2440094298,
+    2440094310,
+    14398768949,
+    14398768988,
+    2440094331,
+    2440094337
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554115729,
+  "nodes": [
+    2440094348,
+    6078029312,
+    2440094354
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554115731,
+  "nodes": [
+    2440094340,
+    2440094334
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "-1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "tunnel": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554115732,
+  "nodes": [
+    2440094334,
+    9528935889,
+    14398768987,
+    2440094328,
+    2440094304,
+    2440094289,
+    2440094279,
+    2440094274
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554117758,
+  "nodes": [
+    2440094368,
+    2440094362
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "-1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "tunnel": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554117760,
+  "nodes": [
+    2440094362,
+    2440094357
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554117761,
+  "nodes": [
+    2440094371,
+    14398768982,
+    2440094377
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554117762,
+  "nodes": [
+    2440094365,
+    2440094371
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "-1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "tunnel": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554118148,
+  "nodes": [
+    2440094379,
+    2440094374
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "새터교",
+    "bridge:name:ko": "새터교",
+    "bridge:structure": "beam",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554118150,
+  "nodes": [
+    2440094374,
+    14398768981,
+    2440094368
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554118151,
+  "nodes": [
+    2440094377,
+    2440094382
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "새터교",
+    "bridge:name:ko": "새터교",
+    "bridge:structure": "beam",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554118152,
+  "nodes": [
+    2440094382,
+    5348808273,
+    5348808250,
+    2440094389
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554219436,
+  "nodes": [
+    2440094405,
+    2440094399
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "신천교",
+    "bridge:name:ko": "신천교",
+    "bridge:structure": "beam",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "ref": "12",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554219437,
+  "nodes": [
+    2440094399,
+    3192423280,
+    2440094385
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554219438,
+  "nodes": [
+    2440094402,
+    2440094408
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "신천교",
+    "bridge:name:ko": "신천교",
+    "bridge:structure": "beam",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "ref": "12",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554219439,
+  "nodes": [
+    2440094408,
+    14398768967
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "ref": "12",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554220372,
+  "nodes": [
+    2440094354,
+    14398768950,
+    2440094360
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "포동교",
+    "bridge:name:ko": "포동교",
+    "bridge:structure": "beam",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554220373,
+  "nodes": [
+    2440094350,
+    8300006388,
+    2440094344,
+    2440094340
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554220374,
+  "nodes": [
+    2440094360,
+    2440094365
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554220375,
+  "nodes": [
+    2440094357,
+    2440094350
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "포동교",
+    "bridge:name:ko": "포동교",
+    "bridge:structure": "beam",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554220376,
+  "nodes": [
+    4494695342,
+    9528935885,
+    9528935881,
+    2440094553
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "ref": "12",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 554224443,
+  "nodes": [
+    5348841484,
+    2684458577,
+    2684458588,
+    2684458597,
+    2684458561,
+    2684458603,
+    2684458593
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 554224447,
+  "nodes": [
+    2684458590,
+    2684458558
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "매화육교",
+    "bridge:name:ko": "매화육교",
+    "bridge:structure": "beam",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 554224457,
+  "nodes": [
+    4637634426,
+    2684458594
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "매화교",
+    "bridge:name:ko": "매화교",
+    "bridge:structure": "beam",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 554224462,
+  "nodes": [
+    2684458594,
+    14398765191,
+    2684458590
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 554224473,
+  "nodes": [
+    2684458563,
+    2684458601,
+    14353991937,
+    14353991938,
+    5348841494,
+    14353991940,
+    4637634426
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 554224475,
+  "nodes": [
+    2684458547,
+    14398765171,
+    2684458563
+  ],
+  "tags": {
+    "bridge": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 554224478,
+  "nodes": [
+    2684458574,
+    2684458560,
+    14353991936,
+    2684458547
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 554224480,
+  "nodes": [
+    2684458572,
+    2684458574
+  ],
+  "tags": {
+    "bridge": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 554224501,
+  "nodes": [
+    2684458555,
+    2684458589
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "안현고가도로",
+    "name:en": "Anhyeongogado-ro",
+    "name:ko": "안현고가도로",
+    "name:ko-Latn": "Anhyeongogadoro",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 554224502,
+  "nodes": [
+    5348842022,
+    2684458555
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "안현3교",
+    "bridge:name:ko": "안현3교",
+    "bridge:structure": "beam",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "name": "안현고가도로",
+    "name:en": "Anhyeongogado-ro",
+    "name:ko": "안현고가도로",
+    "name:ko-Latn": "Anhyeongogadoro",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 554224507,
+  "nodes": [
+    14353991929,
+    2684458548,
+    14398768931,
+    2684458557,
+    5348841520,
+    5348842022
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 554224508,
+  "nodes": [
+    3948899029,
+    2684458573
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "계수2교",
+    "bridge:name:ko": "계수2교",
+    "bridge:structure": "beam",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 554224510,
+  "nodes": [
+    2684458546,
+    2684458604,
+    14398768938,
+    14353991927,
+    2684458605,
+    14398768937,
+    5348842054,
+    3948899029
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 554224511,
+  "nodes": [
+    2684458585,
+    5348842069,
+    4089097356
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "계수육교",
+    "bridge:name:ko": "계수육교",
+    "bridge:structure": "beam",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 554224524,
+  "nodes": [
+    5348842161,
+    14353978258,
+    5348842150,
+    5348842151,
+    2684458583,
+    14353991924,
+    2684458556,
+    2684458584,
+    4744516125,
+    5348842070,
+    2684458585
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
   "id": 554232234,
   "nodes": [
     5348913258,
@@ -227271,6 +228628,26 @@
 },
 {
   "type": "way",
+  "id": 647109680,
+  "nodes": [
+    2440094348,
+    2440094337
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "-1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "tunnel": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
   "id": 647660105,
   "nodes": [
     4767326595,
@@ -238553,6 +239930,92 @@
     "highway": "trunk",
     "name": "완도로",
     "ref": "13;77"
+  }
+},
+{
+  "type": "way",
+  "id": 719263620,
+  "nodes": [
+    2440094286,
+    2440094295
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "포리교",
+    "bridge:name:ko": "포리교",
+    "bridge:structure": "beam",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 719263621,
+  "nodes": [
+    2440094282,
+    2440094286
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 719263622,
+  "nodes": [
+    2440094313,
+    2440094307
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "포리교",
+    "bridge:name:ko": "포리교",
+    "bridge:structure": "beam",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 719263623,
+  "nodes": [
+    2440094307,
+    2440094301
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
   }
 },
 {
@@ -304184,6 +305647,37 @@
 },
 {
   "type": "way",
+  "id": 1005741630,
+  "nodes": [
+    2684458558,
+    2684458551,
+    14398765176,
+    14398765177,
+    2684458576,
+    14398765178,
+    2684458559,
+    14398765180,
+    14398765179,
+    2684458592,
+    14353991941,
+    2684458570,
+    5348841484
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
   "id": 1009245133,
   "nodes": [
     1339275854,
@@ -304876,25 +306370,6 @@
     "oneway": "yes",
     "ref": "25",
     "review": "no"
-  }
-},
-{
-  "type": "way",
-  "id": 1014605383,
-  "nodes": [
-    1426942878,
-    2268653178
-  ],
-  "tags": {
-    "expressway": "yes",
-    "highway": "trunk",
-    "motorroad": "yes",
-    "name": "거가대로",
-    "name:en": "Geoga-daero",
-    "name:ko": "거가대로",
-    "name:ko-Latn": "Geoga-daero",
-    "oneway": "no",
-    "ref": "58"
   }
 },
 {
@@ -360500,6 +361975,27 @@
 },
 {
   "type": "way",
+  "id": 1427160251,
+  "nodes": [
+    14353991921,
+    2684458578,
+    5348842161
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
   "id": 1430502409,
   "nodes": [
     13816580771,
@@ -380831,6 +382327,575 @@
 },
 {
   "type": "way",
+  "id": 1576016459,
+  "nodes": [
+    14353978256,
+    14353991894,
+    14353991893,
+    14353991892,
+    14353991891,
+    14353991890,
+    14353991889,
+    14353991888,
+    14353991887
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1576016460,
+  "nodes": [
+    14353978245,
+    14353978270
+  ],
+  "tags": {
+    "bridge": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1576016462,
+  "nodes": [
+    14353978297,
+    14353978295,
+    14353978293
+  ],
+  "tags": {
+    "bridge": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1576016463,
+  "nodes": [
+    14353991813,
+    14353991812,
+    14353991811,
+    14353991810,
+    14353991809,
+    14353991808,
+    14353991807,
+    14353978248
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1576016465,
+  "nodes": [
+    14353991815,
+    14353991813
+  ],
+  "tags": {
+    "bridge": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1576016466,
+  "nodes": [
+    5348841518,
+    14353991829,
+    14353991828,
+    14398768932,
+    14353991825,
+    14353991822
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1576016467,
+  "nodes": [
+    14353991831,
+    5348841518
+  ],
+  "tags": {
+    "bridge": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "name": "안현고가도로",
+    "name:en": "Anhyeongogado-ro",
+    "name:ko": "안현고가도로",
+    "name:ko-Latn": "Anhyeongogadoro",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1576016468,
+  "nodes": [
+    14353991835,
+    14353991834,
+    14353991833,
+    14353991832,
+    14353991831
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "안현고가도로",
+    "name:en": "Anhyeongogado-ro",
+    "name:ko": "안현고가도로",
+    "name:ko-Latn": "Anhyeongogadoro",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1576016469,
+  "nodes": [
+    14353991838,
+    14353991837,
+    14353991835
+  ],
+  "tags": {
+    "bridge": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "name": "안현고가도로",
+    "name:en": "Anhyeongogado-ro",
+    "name:ko": "안현고가도로",
+    "name:ko-Latn": "Anhyeongogadoro",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1576016470,
+  "nodes": [
+    14353991869,
+    14353991868,
+    14353991867,
+    14353991866,
+    14353991865,
+    14353991864,
+    14353991863,
+    14353991862,
+    14353991861,
+    14353991860,
+    14353991859,
+    14353991858,
+    14353991857,
+    14353991856,
+    14353991855,
+    14353991854,
+    14353991853,
+    14353991852,
+    14353991851,
+    14353991850,
+    14353991849,
+    14353991848,
+    14353991847,
+    14353991846
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1576016471,
+  "nodes": [
+    14353991870,
+    14353991869
+  ],
+  "tags": {
+    "bridge": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1576016472,
+  "nodes": [
+    14353991873,
+    14353991872,
+    14398765170,
+    14353991871,
+    14353991870
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1576016473,
+  "nodes": [
+    14353991874,
+    14353991873
+  ],
+  "tags": {
+    "bridge": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1576016474,
+  "nodes": [
+    14353991882,
+    14353991881,
+    14353991880,
+    14353991879,
+    14353991878,
+    14353991877,
+    14353991876,
+    14353991875,
+    14353991874
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1576016475,
+  "nodes": [
+    5348841492,
+    14353991882
+  ],
+  "tags": {
+    "bridge": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1576016476,
+  "nodes": [
+    14353991886,
+    14353991884,
+    5348841492
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1576016477,
+  "nodes": [
+    14353991887,
+    14353991886
+  ],
+  "tags": {
+    "bridge": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1576016478,
+  "nodes": [
+    14353991909,
+    14353991908,
+    14353991907,
+    14353978257,
+    14353991906,
+    14353991905,
+    14353991904,
+    14353991903,
+    14353991902,
+    14353991901,
+    14353991900,
+    14353991899,
+    14353991898,
+    14353991897,
+    14353991896,
+    14353978256
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1576016479,
+  "nodes": [
+    14353991911,
+    14398577921,
+    14398577918,
+    14353991909
+  ],
+  "tags": {
+    "bridge": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1576016480,
+  "nodes": [
+    5346959834,
+    14353991913,
+    14353991912,
+    14353991911
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1576016482,
+  "nodes": [
+    14353978293,
+    14353978289,
+    14353978288,
+    14353978287,
+    14353978286,
+    14353978247,
+    14353978285,
+    14353978284,
+    14353978283,
+    14353978282,
+    14353978281,
+    14353978280,
+    14353978279,
+    14353978278,
+    14353978276
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1576060853,
+  "nodes": [
+    14353978248,
+    14398768940,
+    14353991803,
+    14353991802,
+    14353991801,
+    14353978300,
+    14353978297
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1576060854,
+  "nodes": [
+    4089097356,
+    14398768946,
+    4089097355,
+    4744511356,
+    14398768941,
+    2684458546
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
   "id": 1576148463,
   "nodes": [
     5526224656,
@@ -380841,6 +382906,72 @@
     "bridge": "yes",
     "expressway": "yes",
     "highway": "trunk"
+  }
+},
+{
+  "type": "way",
+  "id": 1576192081,
+  "nodes": [
+    14353978276,
+    14353978275,
+    14353978274,
+    14353978273,
+    14353978245
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1576192082,
+  "nodes": [
+    2684458573,
+    2684458580,
+    5348842095
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1576192083,
+  "nodes": [
+    14353991928,
+    14353991818,
+    14353991817,
+    14353991815
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
   }
 },
 {
@@ -381078,6 +383209,292 @@
     "name:en": "Gangbyeon-daero",
     "name:ko": "강변대로",
     "name:ko-Latn": "Gangbyeon-daero",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1582272702,
+  "nodes": [
+    11233337430,
+    5347917848,
+    5347917844
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1582272703,
+  "nodes": [
+    5347917832,
+    5347917847,
+    14398577917
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1582307897,
+  "nodes": [
+    2684458600,
+    2684458602,
+    14398768922,
+    2684458545,
+    14398768923,
+    14353991932,
+    2684458582,
+    2684458598
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "안현고가도로",
+    "name:en": "Anhyeongogado-ro",
+    "name:ko": "안현고가도로",
+    "name:ko-Latn": "Anhyeongogadoro",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1582307898,
+  "nodes": [
+    14353991846,
+    14353991845,
+    14353991844,
+    14353991843,
+    14353991842,
+    14353991841,
+    14353991840,
+    14353991839,
+    14353991838
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "안현고가도로",
+    "name:en": "Anhyeongogado-ro",
+    "name:ko": "안현고가도로",
+    "name:ko-Latn": "Anhyeongogadoro",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1582307900,
+  "nodes": [
+    5348842095,
+    5348842055,
+    5348842096,
+    2684458549,
+    14398768930
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1582307901,
+  "nodes": [
+    14398768930,
+    14353991929
+  ],
+  "tags": {
+    "bridge": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1582307902,
+  "nodes": [
+    14353991821,
+    14353991819,
+    14353991928
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1582307903,
+  "nodes": [
+    14353991822,
+    14353991821
+  ],
+  "tags": {
+    "bridge": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "name": "마유로",
+    "name:en": "Mayu-ro",
+    "name:ko": "마유로",
+    "name:ko-Latn": "Mayuro",
+    "oneway": "yes",
+    "wikidata": "Q117431833",
+    "wikipedia": "ko:마유로 (시흥시)"
+  }
+},
+{
+  "type": "way",
+  "id": 1582307909,
+  "nodes": [
+    2440094484,
+    9528935883,
+    2440094468,
+    5340726969,
+    2440094457,
+    14398768965
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "ref": "12",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1582307910,
+  "nodes": [
+    14398768966,
+    2440094461,
+    14398768960,
+    2440094480,
+    2440094492
+  ],
+  "tags": {
+    "expressway": "yes",
+    "highway": "trunk",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "ref": "12",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1582307911,
+  "nodes": [
+    14398768967,
+    14398768966
+  ],
+  "tags": {
+    "bridge": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "ref": "12",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1582307912,
+  "nodes": [
+    14398768965,
+    14398768968
+  ],
+  "tags": {
+    "bridge": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "name": "비류대로",
+    "name:en": "Biryu-daero",
+    "name:ko": "비류대로",
+    "name:ko-Latn": "Biryudaero",
+    "oneway": "yes",
+    "ref": "12",
+    "wikidata": "Q12599402",
+    "wikipedia": "ko:비류대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1582312438,
+  "nodes": [
+    675434723,
+    14398807424,
+    14398807425,
+    14398807426,
+    14398807433,
+    14398807427,
+    14398807428,
+    2268653178
+  ],
+  "tags": {
+    "highway": "trunk",
     "oneway": "yes"
   }
 },
@@ -485171,21 +487588,9 @@
 },
 {
   "type": "node",
-  "id": 1426942878,
-  "lat": 34.9133000,
-  "lon": 128.6822156
-},
-{
-  "type": "node",
   "id": 2250925795,
   "lat": 34.9129360,
   "lon": 128.6811306
-},
-{
-  "type": "node",
-  "id": 2250925836,
-  "lat": 34.9134344,
-  "lon": 128.6827248
 },
 {
   "type": "node",
@@ -485216,6 +487621,42 @@
   "id": 11683089722,
   "lat": 34.9141185,
   "lon": 128.6860513
+},
+{
+  "type": "node",
+  "id": 14398807424,
+  "lat": 34.9140116,
+  "lon": 128.6845832
+},
+{
+  "type": "node",
+  "id": 14398807425,
+  "lat": 34.9138120,
+  "lon": 128.6839270
+},
+{
+  "type": "node",
+  "id": 14398807426,
+  "lat": 34.9135972,
+  "lon": 128.6831660
+},
+{
+  "type": "node",
+  "id": 14398807427,
+  "lat": 34.9133370,
+  "lon": 128.6822478
+},
+{
+  "type": "node",
+  "id": 14398807428,
+  "lat": 34.9131930,
+  "lon": 128.6818257
+},
+{
+  "type": "node",
+  "id": 14398807433,
+  "lat": 34.9134519,
+  "lon": 128.6826533
 },
 {
   "type": "node",
@@ -717929,6 +720370,348 @@
 },
 {
   "type": "node",
+  "id": 2440094553,
+  "lat": 37.4208164,
+  "lon": 126.7364696
+},
+{
+  "type": "node",
+  "id": 2440094561,
+  "lat": 37.4209401,
+  "lon": 126.7364741
+},
+{
+  "type": "node",
+  "id": 4494695342,
+  "lat": 37.4209812,
+  "lon": 126.7340819
+},
+{
+  "type": "node",
+  "id": 4494695345,
+  "lat": 37.4210923,
+  "lon": 126.7340953
+},
+{
+  "type": "node",
+  "id": 9528935881,
+  "lat": 37.4208483,
+  "lon": 126.7357694
+},
+{
+  "type": "node",
+  "id": 9528935885,
+  "lat": 37.4208625,
+  "lon": 126.7355083
+},
+{
+  "type": "node",
+  "id": 2440094468,
+  "lat": 37.4199353,
+  "lon": 126.7463120
+},
+{
+  "type": "node",
+  "id": 2440094480,
+  "lat": 37.4201117,
+  "lon": 126.7461629
+},
+{
+  "type": "node",
+  "id": 2440094484,
+  "lat": 37.4201306,
+  "lon": 126.7456171
+},
+{
+  "type": "node",
+  "id": 2440094492,
+  "lat": 37.4202413,
+  "lon": 126.7456697
+},
+{
+  "type": "node",
+  "id": 2440094496,
+  "lat": 37.4202090,
+  "lon": 126.7452889
+},
+{
+  "type": "node",
+  "id": 2440094502,
+  "lat": 37.4203217,
+  "lon": 126.7453349
+},
+{
+  "type": "node",
+  "id": 2440094506,
+  "lat": 37.4203769,
+  "lon": 126.7444157
+},
+{
+  "type": "node",
+  "id": 2440094510,
+  "lat": 37.4204655,
+  "lon": 126.7433227
+},
+{
+  "type": "node",
+  "id": 2440094521,
+  "lat": 37.4204834,
+  "lon": 126.7444587
+},
+{
+  "type": "node",
+  "id": 2440094528,
+  "lat": 37.4205438,
+  "lon": 126.7420490
+},
+{
+  "type": "node",
+  "id": 2440094532,
+  "lat": 37.4206002,
+  "lon": 126.7433076
+},
+{
+  "type": "node",
+  "id": 2440094544,
+  "lat": 37.4206672,
+  "lon": 126.7420563
+},
+{
+  "type": "node",
+  "id": 9528935882,
+  "lat": 37.4203858,
+  "lon": 126.7443451
+},
+{
+  "type": "node",
+  "id": 9528935883,
+  "lat": 37.4200204,
+  "lon": 126.7460392
+},
+{
+  "type": "node",
+  "id": 2440094374,
+  "lat": 37.4111715,
+  "lon": 126.7655123
+},
+{
+  "type": "node",
+  "id": 2440094357,
+  "lat": 37.4081593,
+  "lon": 126.7720704
+},
+{
+  "type": "node",
+  "id": 2440094360,
+  "lat": 37.4082328,
+  "lon": 126.7721139
+},
+{
+  "type": "node",
+  "id": 2440094362,
+  "lat": 37.4093249,
+  "lon": 126.7692403
+},
+{
+  "type": "node",
+  "id": 2440094365,
+  "lat": 37.4093968,
+  "lon": 126.7692961
+},
+{
+  "type": "node",
+  "id": 2440094368,
+  "lat": 37.4096139,
+  "lon": 126.7685824
+},
+{
+  "type": "node",
+  "id": 2440094371,
+  "lat": 37.4096982,
+  "lon": 126.7685963
+},
+{
+  "type": "node",
+  "id": 14398768950,
+  "lat": 37.4080325,
+  "lon": 126.7726033
+},
+{
+  "type": "node",
+  "id": 14398768981,
+  "lat": 37.4101340,
+  "lon": 126.7675564
+},
+{
+  "type": "node",
+  "id": 14398768982,
+  "lat": 37.4101975,
+  "lon": 126.7676220
+},
+{
+  "type": "node",
+  "id": 2440094405,
+  "lat": 37.4169944,
+  "lon": 126.7530331
+},
+{
+  "type": "node",
+  "id": 2440094408,
+  "lat": 37.4170978,
+  "lon": 126.7530980
+},
+{
+  "type": "node",
+  "id": 2440094399,
+  "lat": 37.4152496,
+  "lon": 126.7568585
+},
+{
+  "type": "node",
+  "id": 2440094402,
+  "lat": 37.4153460,
+  "lon": 126.7569374
+},
+{
+  "type": "node",
+  "id": 3192423273,
+  "lat": 37.4145110,
+  "lon": 126.7587133
+},
+{
+  "type": "node",
+  "id": 3192423280,
+  "lat": 37.4146985,
+  "lon": 126.7580797
+},
+{
+  "type": "node",
+  "id": 3192423293,
+  "lat": 37.4148202,
+  "lon": 126.7581009
+},
+{
+  "type": "node",
+  "id": 2440094457,
+  "lat": 37.4193849,
+  "lon": 126.7477673
+},
+{
+  "type": "node",
+  "id": 2440094461,
+  "lat": 37.4194444,
+  "lon": 126.7479665
+},
+{
+  "type": "node",
+  "id": 5340726969,
+  "lat": 37.4197220,
+  "lon": 126.7469086
+},
+{
+  "type": "node",
+  "id": 14398768960,
+  "lat": 37.4198991,
+  "lon": 126.7467972
+},
+{
+  "type": "node",
+  "id": 14398768965,
+  "lat": 37.4187085,
+  "lon": 126.7492530
+},
+{
+  "type": "node",
+  "id": 14398768966,
+  "lat": 37.4188162,
+  "lon": 126.7493344
+},
+{
+  "type": "node",
+  "id": 14398768967,
+  "lat": 37.4186804,
+  "lon": 126.7496309
+},
+{
+  "type": "node",
+  "id": 14398768968,
+  "lat": 37.4185721,
+  "lon": 126.7495495
+},
+{
+  "type": "node",
+  "id": 2440094377,
+  "lat": 37.4112405,
+  "lon": 126.7655638
+},
+{
+  "type": "node",
+  "id": 2440094379,
+  "lat": 37.4113122,
+  "lon": 126.7652167
+},
+{
+  "type": "node",
+  "id": 2440094382,
+  "lat": 37.4113837,
+  "lon": 126.7652683
+},
+{
+  "type": "node",
+  "id": 2440094385,
+  "lat": 37.4137254,
+  "lon": 126.7602245
+},
+{
+  "type": "node",
+  "id": 2440094389,
+  "lat": 37.4135844,
+  "lon": 126.7607346
+},
+{
+  "type": "node",
+  "id": 3192423265,
+  "lat": 37.4137958,
+  "lon": 126.7602967
+},
+{
+  "type": "node",
+  "id": 3192423266,
+  "lat": 37.4135203,
+  "lon": 126.7606629
+},
+{
+  "type": "node",
+  "id": 5348802753,
+  "lat": 37.4124425,
+  "lon": 126.7628872
+},
+{
+  "type": "node",
+  "id": 5348808249,
+  "lat": 37.4120312,
+  "lon": 126.7637422
+},
+{
+  "type": "node",
+  "id": 5348808250,
+  "lat": 37.4126322,
+  "lon": 126.7627592
+},
+{
+  "type": "node",
+  "id": 5348808273,
+  "lat": 37.4123445,
+  "lon": 126.7633305
+},
+{
+  "type": "node",
+  "id": 11233337421,
+  "lat": 37.4124061,
+  "lon": 126.7629570
+},
+{
+  "type": "node",
   "id": 1509649309,
   "lat": 37.3883609,
   "lon": 126.7805432
@@ -718062,26 +720845,26 @@
 {
   "type": "node",
   "id": 1509649334,
-  "lat": 37.3886832,
-  "lon": 126.8034717
+  "lat": 37.3886735,
+  "lon": 126.8037823
 },
 {
   "type": "node",
   "id": 5323895446,
-  "lat": 37.3885393,
-  "lon": 126.8034763
+  "lat": 37.3885436,
+  "lon": 126.8038202
 },
 {
   "type": "node",
   "id": 5323895447,
-  "lat": 37.3885411,
-  "lon": 126.8043743
+  "lat": 37.3885463,
+  "lon": 126.8043375
 },
 {
   "type": "node",
   "id": 5323895448,
-  "lat": 37.3886803,
-  "lon": 126.8043505
+  "lat": 37.3886745,
+  "lon": 126.8042976
 },
 {
   "type": "node",
@@ -718592,6 +721375,1494 @@
   "id": 13342443058,
   "lat": 37.3964544,
   "lon": 126.8656911
+},
+{
+  "type": "node",
+  "id": 2440094331,
+  "lat": 37.4057246,
+  "lon": 126.7787196
+},
+{
+  "type": "node",
+  "id": 2440094334,
+  "lat": 37.4058542,
+  "lon": 126.7778958
+},
+{
+  "type": "node",
+  "id": 2440094337,
+  "lat": 37.4059275,
+  "lon": 126.7779314
+},
+{
+  "type": "node",
+  "id": 2440094340,
+  "lat": 37.4060438,
+  "lon": 126.7773348
+},
+{
+  "type": "node",
+  "id": 2440094344,
+  "lat": 37.4065045,
+  "lon": 126.7761185
+},
+{
+  "type": "node",
+  "id": 2440094348,
+  "lat": 37.4061226,
+  "lon": 126.7773600
+},
+{
+  "type": "node",
+  "id": 2440094350,
+  "lat": 37.4070311,
+  "lon": 126.7747533
+},
+{
+  "type": "node",
+  "id": 2440094354,
+  "lat": 37.4071073,
+  "lon": 126.7748052
+},
+{
+  "type": "node",
+  "id": 6078029312,
+  "lat": 37.4064411,
+  "lon": 126.7765334
+},
+{
+  "type": "node",
+  "id": 8300006388,
+  "lat": 37.4067467,
+  "lon": 126.7755075
+},
+{
+  "type": "node",
+  "id": 9528935889,
+  "lat": 37.4056574,
+  "lon": 126.7786230
+},
+{
+  "type": "node",
+  "id": 14398768987,
+  "lat": 37.4055263,
+  "lon": 126.7791924
+},
+{
+  "type": "node",
+  "id": 14398768988,
+  "lat": 37.4055956,
+  "lon": 126.7792573
+},
+{
+  "type": "node",
+  "id": 2440094274,
+  "lat": 37.4050892,
+  "lon": 126.7835130
+},
+{
+  "type": "node",
+  "id": 2440094279,
+  "lat": 37.4051277,
+  "lon": 126.7822319
+},
+{
+  "type": "node",
+  "id": 2440094282,
+  "lat": 37.4051214,
+  "lon": 126.7849773
+},
+{
+  "type": "node",
+  "id": 2440094289,
+  "lat": 37.4052015,
+  "lon": 126.7812694
+},
+{
+  "type": "node",
+  "id": 2440094292,
+  "lat": 37.4051770,
+  "lon": 126.7836106
+},
+{
+  "type": "node",
+  "id": 2440094298,
+  "lat": 37.4052056,
+  "lon": 126.7822260
+},
+{
+  "type": "node",
+  "id": 2440094301,
+  "lat": 37.4052152,
+  "lon": 126.7850735
+},
+{
+  "type": "node",
+  "id": 2440094304,
+  "lat": 37.4053152,
+  "lon": 126.7805226
+},
+{
+  "type": "node",
+  "id": 2440094310,
+  "lat": 37.4052872,
+  "lon": 126.7812703
+},
+{
+  "type": "node",
+  "id": 2440094328,
+  "lat": 37.4054342,
+  "lon": 126.7797375
+},
+{
+  "type": "node",
+  "id": 14398561485,
+  "lat": 37.4050984,
+  "lon": 126.7842548
+},
+{
+  "type": "node",
+  "id": 14398561486,
+  "lat": 37.4051866,
+  "lon": 126.7842733
+},
+{
+  "type": "node",
+  "id": 14398768949,
+  "lat": 37.4053814,
+  "lon": 126.7805488
+},
+{
+  "type": "node",
+  "id": 2684458562,
+  "lat": 37.4035758,
+  "lon": 126.7959004
+},
+{
+  "type": "node",
+  "id": 2684458567,
+  "lat": 37.4043391,
+  "lon": 126.7964987
+},
+{
+  "type": "node",
+  "id": 2684458579,
+  "lat": 37.4039796,
+  "lon": 126.7962252
+},
+{
+  "type": "node",
+  "id": 5346959834,
+  "lat": 37.4034703,
+  "lon": 126.7958709
+},
+{
+  "type": "node",
+  "id": 14353991911,
+  "lat": 37.4043605,
+  "lon": 126.7966319
+},
+{
+  "type": "node",
+  "id": 14353991912,
+  "lat": 37.4036218,
+  "lon": 126.7960946
+},
+{
+  "type": "node",
+  "id": 14353991913,
+  "lat": 37.4035280,
+  "lon": 126.7960091
+},
+{
+  "type": "node",
+  "id": 14353991914,
+  "lat": 37.4037707,
+  "lon": 126.7960670
+},
+{
+  "type": "node",
+  "id": 14398577920,
+  "lat": 37.4045619,
+  "lon": 126.7966389
+},
+{
+  "type": "node",
+  "id": 14398577921,
+  "lat": 37.4045229,
+  "lon": 126.7967314
+},
+{
+  "type": "node",
+  "id": 2440094286,
+  "lat": 37.4051812,
+  "lon": 126.7865144
+},
+{
+  "type": "node",
+  "id": 2440094295,
+  "lat": 37.4052049,
+  "lon": 126.7872062
+},
+{
+  "type": "node",
+  "id": 2440094307,
+  "lat": 37.4052623,
+  "lon": 126.7865408
+},
+{
+  "type": "node",
+  "id": 2440094313,
+  "lat": 37.4052926,
+  "lon": 126.7872252
+},
+{
+  "type": "node",
+  "id": 2440094316,
+  "lat": 37.4052432,
+  "lon": 126.7881591
+},
+{
+  "type": "node",
+  "id": 2440094321,
+  "lat": 37.4053587,
+  "lon": 126.7897481
+},
+{
+  "type": "node",
+  "id": 5347917836,
+  "lat": 37.4052090,
+  "lon": 126.7874101
+},
+{
+  "type": "node",
+  "id": 5347917842,
+  "lat": 37.4052961,
+  "lon": 126.7873765
+},
+{
+  "type": "node",
+  "id": 5347917843,
+  "lat": 37.4052814,
+  "lon": 126.7897718
+},
+{
+  "type": "node",
+  "id": 14398561466,
+  "lat": 37.4053070,
+  "lon": 126.7910129
+},
+{
+  "type": "node",
+  "id": 14398561467,
+  "lat": 37.4053894,
+  "lon": 126.7910104
+},
+{
+  "type": "node",
+  "id": 14398561468,
+  "lat": 37.4054047,
+  "lon": 126.7922012
+},
+{
+  "type": "node",
+  "id": 14398561469,
+  "lat": 37.4053232,
+  "lon": 126.7922265
+},
+{
+  "type": "node",
+  "id": 14398561470,
+  "lat": 37.4053229,
+  "lon": 126.7882050
+},
+{
+  "type": "node",
+  "id": 2684458561,
+  "lat": 37.4075308,
+  "lon": 126.7983434
+},
+{
+  "type": "node",
+  "id": 2684458593,
+  "lat": 37.4059679,
+  "lon": 126.7973983
+},
+{
+  "type": "node",
+  "id": 2684458597,
+  "lat": 37.4079859,
+  "lon": 126.7986913
+},
+{
+  "type": "node",
+  "id": 2684458603,
+  "lat": 37.4065438,
+  "lon": 126.7977148
+},
+{
+  "type": "node",
+  "id": 5347917832,
+  "lat": 37.4053281,
+  "lon": 126.7928170
+},
+{
+  "type": "node",
+  "id": 5347917844,
+  "lat": 37.4054089,
+  "lon": 126.7927999
+},
+{
+  "type": "node",
+  "id": 5347917847,
+  "lat": 37.4053409,
+  "lon": 126.7943748
+},
+{
+  "type": "node",
+  "id": 5347917848,
+  "lat": 37.4054250,
+  "lon": 126.7943694
+},
+{
+  "type": "node",
+  "id": 11233337430,
+  "lat": 37.4054274,
+  "lon": 126.7947020
+},
+{
+  "type": "node",
+  "id": 14353978257,
+  "lat": 37.4073134,
+  "lon": 126.7982964
+},
+{
+  "type": "node",
+  "id": 14353991904,
+  "lat": 37.4080396,
+  "lon": 126.7988853
+},
+{
+  "type": "node",
+  "id": 14353991905,
+  "lat": 37.4077163,
+  "lon": 126.7985952
+},
+{
+  "type": "node",
+  "id": 14353991906,
+  "lat": 37.4074298,
+  "lon": 126.7983757
+},
+{
+  "type": "node",
+  "id": 14353991907,
+  "lat": 37.4071757,
+  "lon": 126.7982025
+},
+{
+  "type": "node",
+  "id": 14353991908,
+  "lat": 37.4067420,
+  "lon": 126.7979400
+},
+{
+  "type": "node",
+  "id": 14353991909,
+  "lat": 37.4059814,
+  "lon": 126.7975309
+},
+{
+  "type": "node",
+  "id": 14398577917,
+  "lat": 37.4053388,
+  "lon": 126.7946954
+},
+{
+  "type": "node",
+  "id": 14398577918,
+  "lat": 37.4047415,
+  "lon": 126.7968600
+},
+{
+  "type": "node",
+  "id": 14398577919,
+  "lat": 37.4047718,
+  "lon": 126.7967578
+},
+{
+  "type": "node",
+  "id": 2684458588,
+  "lat": 37.4083382,
+  "lon": 126.7990539
+},
+{
+  "type": "node",
+  "id": 14353991898,
+  "lat": 37.4105183,
+  "lon": 126.8016727
+},
+{
+  "type": "node",
+  "id": 14353991899,
+  "lat": 37.4099409,
+  "lon": 126.8010252
+},
+{
+  "type": "node",
+  "id": 14353991900,
+  "lat": 37.4094879,
+  "lon": 126.8004924
+},
+{
+  "type": "node",
+  "id": 14353991901,
+  "lat": 37.4089762,
+  "lon": 126.7999232
+},
+{
+  "type": "node",
+  "id": 14353991902,
+  "lat": 37.4086065,
+  "lon": 126.7995041
+},
+{
+  "type": "node",
+  "id": 14353991903,
+  "lat": 37.4083892,
+  "lon": 126.7992592
+},
+{
+  "type": "node",
+  "id": 2684458551,
+  "lat": 37.4143540,
+  "lon": 126.8047887
+},
+{
+  "type": "node",
+  "id": 2684458558,
+  "lat": 37.4145693,
+  "lon": 126.8048338
+},
+{
+  "type": "node",
+  "id": 2684458559,
+  "lat": 37.4134670,
+  "lon": 126.8044566
+},
+{
+  "type": "node",
+  "id": 2684458570,
+  "lat": 37.4125110,
+  "lon": 126.8037487
+},
+{
+  "type": "node",
+  "id": 2684458576,
+  "lat": 37.4138409,
+  "lon": 126.8046295
+},
+{
+  "type": "node",
+  "id": 2684458577,
+  "lat": 37.4121824,
+  "lon": 126.8034194
+},
+{
+  "type": "node",
+  "id": 2684458590,
+  "lat": 37.4148435,
+  "lon": 126.8048718
+},
+{
+  "type": "node",
+  "id": 2684458592,
+  "lat": 37.4128300,
+  "lon": 126.8040294
+},
+{
+  "type": "node",
+  "id": 2684458594,
+  "lat": 37.4163652,
+  "lon": 126.8050135
+},
+{
+  "type": "node",
+  "id": 4637634426,
+  "lat": 37.4166814,
+  "lon": 126.8050467
+},
+{
+  "type": "node",
+  "id": 5348841484,
+  "lat": 37.4123207,
+  "lon": 126.8035695
+},
+{
+  "type": "node",
+  "id": 5348841492,
+  "lat": 37.4162911,
+  "lon": 126.8051314
+},
+{
+  "type": "node",
+  "id": 5348841494,
+  "lat": 37.4170120,
+  "lon": 126.8050980
+},
+{
+  "type": "node",
+  "id": 14353978256,
+  "lat": 37.4124505,
+  "lon": 126.8038569
+},
+{
+  "type": "node",
+  "id": 14353991880,
+  "lat": 37.4174360,
+  "lon": 126.8052289
+},
+{
+  "type": "node",
+  "id": 14353991881,
+  "lat": 37.4168710,
+  "lon": 126.8051550
+},
+{
+  "type": "node",
+  "id": 14353991882,
+  "lat": 37.4166126,
+  "lon": 126.8051562
+},
+{
+  "type": "node",
+  "id": 14353991884,
+  "lat": 37.4158743,
+  "lon": 126.8050903
+},
+{
+  "type": "node",
+  "id": 14353991886,
+  "lat": 37.4147800,
+  "lon": 126.8049754
+},
+{
+  "type": "node",
+  "id": 14353991887,
+  "lat": 37.4145103,
+  "lon": 126.8049336
+},
+{
+  "type": "node",
+  "id": 14353991888,
+  "lat": 37.4143911,
+  "lon": 126.8049121
+},
+{
+  "type": "node",
+  "id": 14353991889,
+  "lat": 37.4141368,
+  "lon": 126.8048486
+},
+{
+  "type": "node",
+  "id": 14353991890,
+  "lat": 37.4138936,
+  "lon": 126.8047681
+},
+{
+  "type": "node",
+  "id": 14353991891,
+  "lat": 37.4136076,
+  "lon": 126.8046490
+},
+{
+  "type": "node",
+  "id": 14353991892,
+  "lat": 37.4133288,
+  "lon": 126.8045025
+},
+{
+  "type": "node",
+  "id": 14353991893,
+  "lat": 37.4130415,
+  "lon": 126.8043239
+},
+{
+  "type": "node",
+  "id": 14353991894,
+  "lat": 37.4127101,
+  "lon": 126.8040734
+},
+{
+  "type": "node",
+  "id": 14353991896,
+  "lat": 37.4121345,
+  "lon": 126.8035345
+},
+{
+  "type": "node",
+  "id": 14353991897,
+  "lat": 37.4114452,
+  "lon": 126.8027426
+},
+{
+  "type": "node",
+  "id": 14353991940,
+  "lat": 37.4168731,
+  "lon": 126.8050786
+},
+{
+  "type": "node",
+  "id": 14353991941,
+  "lat": 37.4126718,
+  "lon": 126.8038942
+},
+{
+  "type": "node",
+  "id": 14398765176,
+  "lat": 37.4141989,
+  "lon": 126.8047510
+},
+{
+  "type": "node",
+  "id": 14398765177,
+  "lat": 37.4140203,
+  "lon": 126.8046946
+},
+{
+  "type": "node",
+  "id": 14398765178,
+  "lat": 37.4136375,
+  "lon": 126.8045418
+},
+{
+  "type": "node",
+  "id": 14398765179,
+  "lat": 37.4130524,
+  "lon": 126.8041991
+},
+{
+  "type": "node",
+  "id": 14398765180,
+  "lat": 37.4132512,
+  "lon": 126.8043341
+},
+{
+  "type": "node",
+  "id": 14398765191,
+  "lat": 37.4158801,
+  "lon": 126.8049769
+},
+{
+  "type": "node",
+  "id": 2684458547,
+  "lat": 37.4215014,
+  "lon": 126.8055849
+},
+{
+  "type": "node",
+  "id": 2684458563,
+  "lat": 37.4211487,
+  "lon": 126.8055395
+},
+{
+  "type": "node",
+  "id": 2684458601,
+  "lat": 37.4202211,
+  "lon": 126.8054418
+},
+{
+  "type": "node",
+  "id": 14353991876,
+  "lat": 37.4201868,
+  "lon": 126.8055388
+},
+{
+  "type": "node",
+  "id": 14353991877,
+  "lat": 37.4194991,
+  "lon": 126.8054583
+},
+{
+  "type": "node",
+  "id": 14353991878,
+  "lat": 37.4186941,
+  "lon": 126.8053645
+},
+{
+  "type": "node",
+  "id": 14353991879,
+  "lat": 37.4179985,
+  "lon": 126.8052840
+},
+{
+  "type": "node",
+  "id": 14353991937,
+  "lat": 37.4194431,
+  "lon": 126.8053458
+},
+{
+  "type": "node",
+  "id": 14353991938,
+  "lat": 37.4186262,
+  "lon": 126.8052752
+},
+{
+  "type": "node",
+  "id": 14398765171,
+  "lat": 37.4213886,
+  "lon": 126.8055704
+},
+{
+  "type": "node",
+  "id": 2684458560,
+  "lat": 37.4224403,
+  "lon": 126.8056842
+},
+{
+  "type": "node",
+  "id": 2684458572,
+  "lat": 37.4238289,
+  "lon": 126.8058493
+},
+{
+  "type": "node",
+  "id": 2684458574,
+  "lat": 37.4235580,
+  "lon": 126.8058232
+},
+{
+  "type": "node",
+  "id": 14353991869,
+  "lat": 37.4238223,
+  "lon": 126.8059514
+},
+{
+  "type": "node",
+  "id": 14353991870,
+  "lat": 37.4235543,
+  "lon": 126.8059227
+},
+{
+  "type": "node",
+  "id": 14353991871,
+  "lat": 37.4232380,
+  "lon": 126.8058863
+},
+{
+  "type": "node",
+  "id": 14353991872,
+  "lat": 37.4225819,
+  "lon": 126.8058036
+},
+{
+  "type": "node",
+  "id": 14353991873,
+  "lat": 37.4214930,
+  "lon": 126.8056822
+},
+{
+  "type": "node",
+  "id": 14353991874,
+  "lat": 37.4211470,
+  "lon": 126.8056403
+},
+{
+  "type": "node",
+  "id": 14353991875,
+  "lat": 37.4208001,
+  "lon": 126.8056072
+},
+{
+  "type": "node",
+  "id": 14353991936,
+  "lat": 37.4219827,
+  "lon": 126.8056326
+},
+{
+  "type": "node",
+  "id": 14398765170,
+  "lat": 37.4231858,
+  "lon": 126.8058797
+},
+{
+  "type": "node",
+  "id": 2684458550,
+  "lat": 37.4265032,
+  "lon": 126.8064584
+},
+{
+  "type": "node",
+  "id": 2684458564,
+  "lat": 37.4256127,
+  "lon": 126.8061998
+},
+{
+  "type": "node",
+  "id": 2684458569,
+  "lat": 37.4247055,
+  "lon": 126.8059701
+},
+{
+  "type": "node",
+  "id": 2684458575,
+  "lat": 37.4305871,
+  "lon": 126.8076442
+},
+{
+  "type": "node",
+  "id": 2684458591,
+  "lat": 37.4301999,
+  "lon": 126.8075871
+},
+{
+  "type": "node",
+  "id": 14353991854,
+  "lat": 37.4308010,
+  "lon": 126.8077703
+},
+{
+  "type": "node",
+  "id": 14353991855,
+  "lat": 37.4305838,
+  "lon": 126.8077548
+},
+{
+  "type": "node",
+  "id": 14353991856,
+  "lat": 37.4304183,
+  "lon": 126.8077306
+},
+{
+  "type": "node",
+  "id": 14353991857,
+  "lat": 37.4303062,
+  "lon": 126.8077173
+},
+{
+  "type": "node",
+  "id": 14353991858,
+  "lat": 37.4300206,
+  "lon": 126.8076390
+},
+{
+  "type": "node",
+  "id": 14353991859,
+  "lat": 37.4294267,
+  "lon": 126.8074681
+},
+{
+  "type": "node",
+  "id": 14353991860,
+  "lat": 37.4288390,
+  "lon": 126.8072860
+},
+{
+  "type": "node",
+  "id": 14353991861,
+  "lat": 37.4283143,
+  "lon": 126.8071261
+},
+{
+  "type": "node",
+  "id": 14353991862,
+  "lat": 37.4280813,
+  "lon": 126.8070500
+},
+{
+  "type": "node",
+  "id": 14353991863,
+  "lat": 37.4276661,
+  "lon": 126.8069265
+},
+{
+  "type": "node",
+  "id": 14353991864,
+  "lat": 37.4269750,
+  "lon": 126.8067191
+},
+{
+  "type": "node",
+  "id": 14353991865,
+  "lat": 37.4262593,
+  "lon": 126.8064963
+},
+{
+  "type": "node",
+  "id": 14353991866,
+  "lat": 37.4257337,
+  "lon": 126.8063440
+},
+{
+  "type": "node",
+  "id": 14353991867,
+  "lat": 37.4250408,
+  "lon": 126.8061587
+},
+{
+  "type": "node",
+  "id": 14353991868,
+  "lat": 37.4244285,
+  "lon": 126.8060396
+},
+{
+  "type": "node",
+  "id": 14353991935,
+  "lat": 37.4251731,
+  "lon": 126.8060804
+},
+{
+  "type": "node",
+  "id": 2684458545,
+  "lat": 37.4341243,
+  "lon": 126.8070383
+},
+{
+  "type": "node",
+  "id": 2684458554,
+  "lat": 37.4313810,
+  "lon": 126.8076031
+},
+{
+  "type": "node",
+  "id": 2684458571,
+  "lat": 37.4310487,
+  "lon": 126.8076525
+},
+{
+  "type": "node",
+  "id": 2684458582,
+  "lat": 37.4334573,
+  "lon": 126.8070621
+},
+{
+  "type": "node",
+  "id": 2684458589,
+  "lat": 37.4360002,
+  "lon": 126.8077302
+},
+{
+  "type": "node",
+  "id": 2684458598,
+  "lat": 37.4329324,
+  "lon": 126.8071918
+},
+{
+  "type": "node",
+  "id": 2684458600,
+  "lat": 37.4347604,
+  "lon": 126.8071873
+},
+{
+  "type": "node",
+  "id": 2684458602,
+  "lat": 37.4345304,
+  "lon": 126.8071121
+},
+{
+  "type": "node",
+  "id": 5348841509,
+  "lat": 37.4324569,
+  "lon": 126.8073223
+},
+{
+  "type": "node",
+  "id": 14353978252,
+  "lat": 37.4349779,
+  "lon": 126.8072761
+},
+{
+  "type": "node",
+  "id": 14353991832,
+  "lat": 37.4373219,
+  "lon": 126.8084299
+},
+{
+  "type": "node",
+  "id": 14353991833,
+  "lat": 37.4367097,
+  "lon": 126.8081508
+},
+{
+  "type": "node",
+  "id": 14353991834,
+  "lat": 37.4364829,
+  "lon": 126.8080554
+},
+{
+  "type": "node",
+  "id": 14353991835,
+  "lat": 37.4359170,
+  "lon": 126.8078117
+},
+{
+  "type": "node",
+  "id": 14353991837,
+  "lat": 37.4349149,
+  "lon": 126.8073563
+},
+{
+  "type": "node",
+  "id": 14353991838,
+  "lat": 37.4346830,
+  "lon": 126.8072689
+},
+{
+  "type": "node",
+  "id": 14353991839,
+  "lat": 37.4344352,
+  "lon": 126.8071967
+},
+{
+  "type": "node",
+  "id": 14353991840,
+  "lat": 37.4342819,
+  "lon": 126.8071647
+},
+{
+  "type": "node",
+  "id": 14353991841,
+  "lat": 37.4340594,
+  "lon": 126.8071415
+},
+{
+  "type": "node",
+  "id": 14353991842,
+  "lat": 37.4338500,
+  "lon": 126.8071261
+},
+{
+  "type": "node",
+  "id": 14353991843,
+  "lat": 37.4336714,
+  "lon": 126.8071371
+},
+{
+  "type": "node",
+  "id": 14353991844,
+  "lat": 37.4334901,
+  "lon": 126.8071515
+},
+{
+  "type": "node",
+  "id": 14353991845,
+  "lat": 37.4333026,
+  "lon": 126.8071989
+},
+{
+  "type": "node",
+  "id": 14353991846,
+  "lat": 37.4329542,
+  "lon": 126.8072990
+},
+{
+  "type": "node",
+  "id": 14353991847,
+  "lat": 37.4324416,
+  "lon": 126.8074339
+},
+{
+  "type": "node",
+  "id": 14353991848,
+  "lat": 37.4321132,
+  "lon": 126.8075309
+},
+{
+  "type": "node",
+  "id": 14353991849,
+  "lat": 37.4318889,
+  "lon": 126.8075993
+},
+{
+  "type": "node",
+  "id": 14353991850,
+  "lat": 37.4316612,
+  "lon": 126.8076512
+},
+{
+  "type": "node",
+  "id": 14353991851,
+  "lat": 37.4314624,
+  "lon": 126.8077030
+},
+{
+  "type": "node",
+  "id": 14353991852,
+  "lat": 37.4311794,
+  "lon": 126.8077471
+},
+{
+  "type": "node",
+  "id": 14353991853,
+  "lat": 37.4309692,
+  "lon": 126.8077648
+},
+{
+  "type": "node",
+  "id": 14353991932,
+  "lat": 37.4336734,
+  "lon": 126.8070319
+},
+{
+  "type": "node",
+  "id": 14398768922,
+  "lat": 37.4343403,
+  "lon": 126.8070692
+},
+{
+  "type": "node",
+  "id": 14398768923,
+  "lat": 37.4339256,
+  "lon": 126.8070203
+},
+{
+  "type": "node",
+  "id": 2684458548,
+  "lat": 37.4418614,
+  "lon": 126.8098713
+},
+{
+  "type": "node",
+  "id": 2684458549,
+  "lat": 37.4432590,
+  "lon": 126.8104094
+},
+{
+  "type": "node",
+  "id": 2684458555,
+  "lat": 37.4378882,
+  "lon": 126.8085564
+},
+{
+  "type": "node",
+  "id": 2684458557,
+  "lat": 37.4393580,
+  "lon": 126.8091128
+},
+{
+  "type": "node",
+  "id": 5348841518,
+  "lat": 37.4382263,
+  "lon": 126.8088240
+},
+{
+  "type": "node",
+  "id": 5348841520,
+  "lat": 37.4391756,
+  "lon": 126.8090517
+},
+{
+  "type": "node",
+  "id": 5348842022,
+  "lat": 37.4381991,
+  "lon": 126.8086951
+},
+{
+  "type": "node",
+  "id": 5348842096,
+  "lat": 37.4436925,
+  "lon": 126.8105593
+},
+{
+  "type": "node",
+  "id": 14353991819,
+  "lat": 37.4436180,
+  "lon": 126.8106491
+},
+{
+  "type": "node",
+  "id": 14353991821,
+  "lat": 37.4429143,
+  "lon": 126.8104032
+},
+{
+  "type": "node",
+  "id": 14353991822,
+  "lat": 37.4427666,
+  "lon": 126.8103445
+},
+{
+  "type": "node",
+  "id": 14353991825,
+  "lat": 37.4418525,
+  "lon": 126.8099809
+},
+{
+  "type": "node",
+  "id": 14353991828,
+  "lat": 37.4391446,
+  "lon": 126.8091744
+},
+{
+  "type": "node",
+  "id": 14353991829,
+  "lat": 37.4387083,
+  "lon": 126.8090200
+},
+{
+  "type": "node",
+  "id": 14353991831,
+  "lat": 37.4379178,
+  "lon": 126.8086864
+},
+{
+  "type": "node",
+  "id": 14353991929,
+  "lat": 37.4428544,
+  "lon": 126.8102570
+},
+{
+  "type": "node",
+  "id": 14398768930,
+  "lat": 37.4430006,
+  "lon": 126.8103062
+},
+{
+  "type": "node",
+  "id": 14398768931,
+  "lat": 37.4412905,
+  "lon": 126.8096712
+},
+{
+  "type": "node",
+  "id": 14398768932,
+  "lat": 37.4412507,
+  "lon": 126.8097722
+},
+{
+  "type": "node",
+  "id": 2684458546,
+  "lat": 37.4483199,
+  "lon": 126.8120479
+},
+{
+  "type": "node",
+  "id": 2684458573,
+  "lat": 37.4459886,
+  "lon": 126.8116400
+},
+{
+  "type": "node",
+  "id": 2684458580,
+  "lat": 37.4449829,
+  "lon": 126.8111321
+},
+{
+  "type": "node",
+  "id": 2684458585,
+  "lat": 37.4503911,
+  "lon": 126.8103474
+},
+{
+  "type": "node",
+  "id": 2684458604,
+  "lat": 37.4480345,
+  "lon": 126.8121157
+},
+{
+  "type": "node",
+  "id": 2684458605,
+  "lat": 37.4474362,
+  "lon": 126.8121371
+},
+{
+  "type": "node",
+  "id": 3948899029,
+  "lat": 37.4466597,
+  "lon": 126.8119691
+},
+{
+  "type": "node",
+  "id": 4089097355,
+  "lat": 37.4492637,
+  "lon": 126.8115879
+},
+{
+  "type": "node",
+  "id": 4089097356,
+  "lat": 37.4496312,
+  "lon": 126.8112851
+},
+{
+  "type": "node",
+  "id": 4744511356,
+  "lat": 37.4490029,
+  "lon": 126.8117550
+},
+{
+  "type": "node",
+  "id": 5348842054,
+  "lat": 37.4468976,
+  "lon": 126.8120520
+},
+{
+  "type": "node",
+  "id": 5348842055,
+  "lat": 37.4441019,
+  "lon": 126.8107398
+},
+{
+  "type": "node",
+  "id": 5348842069,
+  "lat": 37.4498290,
+  "lon": 126.8110757
+},
+{
+  "type": "node",
+  "id": 5348842095,
+  "lat": 37.4442230,
+  "lon": 126.8107839
+},
+{
+  "type": "node",
+  "id": 14353978293,
+  "lat": 37.4504546,
+  "lon": 126.8104246
+},
+{
+  "type": "node",
+  "id": 14353978295,
+  "lat": 37.4498762,
+  "lon": 126.8111616
+},
+{
+  "type": "node",
+  "id": 14353978297,
+  "lat": 37.4496844,
+  "lon": 126.8113675
+},
+{
+  "type": "node",
+  "id": 14353978300,
+  "lat": 37.4494693,
+  "lon": 126.8115514
+},
+{
+  "type": "node",
+  "id": 14353991801,
+  "lat": 37.4492911,
+  "lon": 126.8116943
+},
+{
+  "type": "node",
+  "id": 14353991802,
+  "lat": 37.4491215,
+  "lon": 126.8118128
+},
+{
+  "type": "node",
+  "id": 14353991803,
+  "lat": 37.4489049,
+  "lon": 126.8119323
+},
+{
+  "type": "node",
+  "id": 14353991812,
+  "lat": 37.4468864,
+  "lon": 126.8121561
+},
+{
+  "type": "node",
+  "id": 14353991813,
+  "lat": 37.4466342,
+  "lon": 126.8120644
+},
+{
+  "type": "node",
+  "id": 14353991815,
+  "lat": 37.4459585,
+  "lon": 126.8117381
+},
+{
+  "type": "node",
+  "id": 14353991817,
+  "lat": 37.4451506,
+  "lon": 126.8113375
+},
+{
+  "type": "node",
+  "id": 14353991818,
+  "lat": 37.4445131,
+  "lon": 126.8110364
+},
+{
+  "type": "node",
+  "id": 14353991928,
+  "lat": 37.4441781,
+  "lon": 126.8108999
+},
+{
+  "type": "node",
+  "id": 14398768937,
+  "lat": 37.4471641,
+  "lon": 126.8121114
+},
+{
+  "type": "node",
+  "id": 14398768938,
+  "lat": 37.4478477,
+  "lon": 126.8121473
+},
+{
+  "type": "node",
+  "id": 14398768940,
+  "lat": 37.4486297,
+  "lon": 126.8120639
+},
+{
+  "type": "node",
+  "id": 14398768941,
+  "lat": 37.4487065,
+  "lon": 126.8119000
+},
+{
+  "type": "node",
+  "id": 14398768946,
+  "lat": 37.4494317,
+  "lon": 126.8114530
+},
+{
+  "type": "node",
+  "id": 14353978248,
+  "lat": 37.4482855,
+  "lon": 126.8121820
+},
+{
+  "type": "node",
+  "id": 14353991807,
+  "lat": 37.4480675,
+  "lon": 126.8122369
+},
+{
+  "type": "node",
+  "id": 14353991808,
+  "lat": 37.4478930,
+  "lon": 126.8122562
+},
+{
+  "type": "node",
+  "id": 14353991809,
+  "lat": 37.4476559,
+  "lon": 126.8122731
+},
+{
+  "type": "node",
+  "id": 14353991810,
+  "lat": 37.4474193,
+  "lon": 126.8122513
+},
+{
+  "type": "node",
+  "id": 14353991811,
+  "lat": 37.4471461,
+  "lon": 126.8122180
+},
+{
+  "type": "node",
+  "id": 14353991927,
+  "lat": 37.4476613,
+  "lon": 126.8121600
 },
 {
   "type": "node",
@@ -719216,6 +723487,192 @@
   "id": 13459560703,
   "lat": 37.5242883,
   "lon": 126.6850716
+},
+{
+  "type": "node",
+  "id": 2684458583,
+  "lat": 37.4541917,
+  "lon": 126.8054305
+},
+{
+  "type": "node",
+  "id": 5348842150,
+  "lat": 37.4547297,
+  "lon": 126.8049618
+},
+{
+  "type": "node",
+  "id": 5348842151,
+  "lat": 37.4544199,
+  "lon": 126.8052104
+},
+{
+  "type": "node",
+  "id": 5348842161,
+  "lat": 37.4565767,
+  "lon": 126.8039797
+},
+{
+  "type": "node",
+  "id": 14353978258,
+  "lat": 37.4553543,
+  "lon": 126.8045802
+},
+{
+  "type": "node",
+  "id": 14353978275,
+  "lat": 37.4570082,
+  "lon": 126.8039493
+},
+{
+  "type": "node",
+  "id": 14353978276,
+  "lat": 37.4565935,
+  "lon": 126.8040987
+},
+{
+  "type": "node",
+  "id": 14353978278,
+  "lat": 37.4559623,
+  "lon": 126.8044081
+},
+{
+  "type": "node",
+  "id": 14353978279,
+  "lat": 37.4557285,
+  "lon": 126.8045239
+},
+{
+  "type": "node",
+  "id": 14353978280,
+  "lat": 37.4553966,
+  "lon": 126.8046971
+},
+{
+  "type": "node",
+  "id": 14353978281,
+  "lat": 37.4551250,
+  "lon": 126.8048557
+},
+{
+  "type": "node",
+  "id": 14353978282,
+  "lat": 37.4548090,
+  "lon": 126.8050569
+},
+{
+  "type": "node",
+  "id": 14353978283,
+  "lat": 37.4545035,
+  "lon": 126.8052925
+},
+{
+  "type": "node",
+  "id": 14353978284,
+  "lat": 37.4542340,
+  "lon": 126.8055680
+},
+{
+  "type": "node",
+  "id": 2684458556,
+  "lat": 37.4528458,
+  "lon": 126.8071439
+},
+{
+  "type": "node",
+  "id": 2684458584,
+  "lat": 37.4523091,
+  "lon": 126.8078439
+},
+{
+  "type": "node",
+  "id": 4744516125,
+  "lat": 37.4519678,
+  "lon": 126.8082775
+},
+{
+  "type": "node",
+  "id": 5348842070,
+  "lat": 37.4509748,
+  "lon": 126.8095673
+},
+{
+  "type": "node",
+  "id": 14353978247,
+  "lat": 37.4533450,
+  "lon": 126.8066789
+},
+{
+  "type": "node",
+  "id": 14353978285,
+  "lat": 37.4539102,
+  "lon": 126.8059525
+},
+{
+  "type": "node",
+  "id": 14353978286,
+  "lat": 37.4532202,
+  "lon": 126.8068393
+},
+{
+  "type": "node",
+  "id": 14353978287,
+  "lat": 37.4527736,
+  "lon": 126.8074118
+},
+{
+  "type": "node",
+  "id": 14353978288,
+  "lat": 37.4522614,
+  "lon": 126.8080670
+},
+{
+  "type": "node",
+  "id": 14353978289,
+  "lat": 37.4510244,
+  "lon": 126.8096563
+},
+{
+  "type": "node",
+  "id": 14353991924,
+  "lat": 37.4533272,
+  "lon": 126.8065244
+},
+{
+  "type": "node",
+  "id": 2684458578,
+  "lat": 37.4576148,
+  "lon": 126.8035428
+},
+{
+  "type": "node",
+  "id": 14353978245,
+  "lat": 37.4586798,
+  "lon": 126.8030924
+},
+{
+  "type": "node",
+  "id": 14353978270,
+  "lat": 37.4594044,
+  "lon": 126.8027265
+},
+{
+  "type": "node",
+  "id": 14353978273,
+  "lat": 37.4582796,
+  "lon": 126.8033372
+},
+{
+  "type": "node",
+  "id": 14353978274,
+  "lat": 37.4577122,
+  "lon": 126.8036129
+},
+{
+  "type": "node",
+  "id": 14353991921,
+  "lat": 37.4586355,
+  "lon": 126.8030167
 },
 {
   "type": "node",
