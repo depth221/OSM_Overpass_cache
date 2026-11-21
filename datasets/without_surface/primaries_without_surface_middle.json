@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-11-21T00:06:34Z",
-    "timestamp_areas_base": "2026-11-20T18:43:21Z",
+    "timestamp_osm_base": "2026-11-21T23:32:13Z",
+    "timestamp_areas_base": "2026-11-21T19:23:04Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -34406,6 +34406,7 @@
     5137545513,
     3604405074,
     5137545499,
+    14401975342,
     5349313152
   ],
   "tags": {
@@ -46854,10 +46855,14 @@
     "bridge:name": "동삭교",
     "bridge:name:ko": "동삭교",
     "bridge:structure": "beam",
+    "cycleway:left": "no",
+    "cycleway:right": "yes",
     "highway": "primary",
     "layer": "1",
     "oneway": "yes",
-    "ref": "1"
+    "ref": "1",
+    "sidewalk:left": "no",
+    "sidewalk:right": "yes"
   }
 },
 {
@@ -47399,6 +47404,8 @@
     5143127678
   ],
   "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "yes",
     "highway": "primary",
     "name": "경기대로",
     "name:en": "Gyeonggi-daero",
@@ -47410,6 +47417,8 @@
     "name:zh-Hant": "京畿大路",
     "oneway": "yes",
     "ref": "1",
+    "sidewalk:left": "no",
+    "sidewalk:right": "yes",
     "wikidata": "Q12583536",
     "wikipedia": "ko:경기대로"
   }
@@ -56888,6 +56897,7 @@
     14373672839,
     14373672827,
     1723439503,
+    14402072744,
     4980015374,
     14373672813,
     4980015375,
@@ -62750,6 +62760,8 @@
     5349313151
   ],
   "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "yes",
     "highway": "primary",
     "name": "경기대로",
     "name:en": "Gyeongi-daero",
@@ -62761,6 +62773,8 @@
     "name:zh-Hant": "京畿大路",
     "oneway": "yes",
     "ref": "1",
+    "sidewalk:left": "no",
+    "sidewalk:right": "yes",
     "wikidata": "Q12583536",
     "wikipedia": "ko:경기대로"
   }
@@ -62994,10 +63008,14 @@
     "bridge:name": "동삭교",
     "bridge:name:ko": "동삭교",
     "bridge:structure": "beam",
+    "cycleway:left": "no",
+    "cycleway:right": "yes",
     "highway": "primary",
     "layer": "1",
     "oneway": "yes",
-    "ref": "1"
+    "ref": "1",
+    "sidewalk:left": "no",
+    "sidewalk:right": "yes"
   }
 },
 {
@@ -63010,6 +63028,8 @@
     5139097918
   ],
   "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "yes",
     "highway": "primary",
     "name": "경기대로",
     "name:en": "Gyeonggi-daero",
@@ -63021,6 +63041,8 @@
     "name:zh-Hant": "京畿大路",
     "oneway": "yes",
     "ref": "1",
+    "sidewalk:left": "no",
+    "sidewalk:right": "yes",
     "wikidata": "Q12583536",
     "wikipedia": "ko:경기대로"
   }
@@ -63036,6 +63058,8 @@
     13716092281
   ],
   "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "yes",
     "highway": "primary",
     "name": "경기대로",
     "name:en": "Gyeonggi-daero",
@@ -63047,6 +63071,8 @@
     "name:zh-Hant": "京畿大路",
     "oneway": "yes",
     "ref": "1",
+    "sidewalk:left": "no",
+    "sidewalk:right": "yes",
     "wikidata": "Q12583536",
     "wikipedia": "ko:경기대로"
   }
@@ -63330,6 +63356,8 @@
     4634080083
   ],
   "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "yes",
     "highway": "primary",
     "lanes": "4",
     "maxspeed": "70",
@@ -63343,6 +63371,8 @@
     "name:zh-Hant": "京畿大路",
     "oneway": "yes",
     "ref": "1",
+    "sidewalk:left": "no",
+    "sidewalk:right": "yes",
     "wikidata": "Q12583536",
     "wikipedia": "ko:경기대로"
   }
@@ -70234,6 +70264,8 @@
     5349313150
   ],
   "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "yes",
     "highway": "primary",
     "name": "경기대로",
     "name:en": "Gyeonggi-daero",
@@ -70245,6 +70277,8 @@
     "name:zh-Hant": "京畿大路",
     "oneway": "yes",
     "ref": "1",
+    "sidewalk:left": "no",
+    "sidewalk:right": "yes",
     "wikidata": "Q12583536",
     "wikipedia": "ko:경기대로"
   }
@@ -70287,6 +70321,8 @@
     5135623190
   ],
   "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "yes",
     "highway": "primary",
     "name": "경기대로",
     "name:en": "Gyeonggi-daero",
@@ -70298,6 +70334,8 @@
     "name:zh-Hant": "京畿大路",
     "oneway": "yes",
     "ref": "1",
+    "sidewalk:left": "no",
+    "sidewalk:right": "yes",
     "wikidata": "Q12583536",
     "wikipedia": "ko:경기대로"
   }
@@ -70311,6 +70349,8 @@
     5135623207
   ],
   "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "yes",
     "highway": "primary",
     "name": "경기대로",
     "name:en": "Gyeongi-daero",
@@ -70322,6 +70362,8 @@
     "name:zh-Hant": "京畿大路",
     "oneway": "yes",
     "ref": "1",
+    "sidewalk:left": "no",
+    "sidewalk:right": "yes",
     "wikidata": "Q12583536",
     "wikipedia": "ko:경기대로"
   }
@@ -70330,14 +70372,14 @@
   "type": "way",
   "id": 554286093,
   "nodes": [
-    5349313152,
-    7603103127,
     7603103126,
     4633948046,
     5137545501,
     13698976737
   ],
   "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "yes",
     "highway": "primary",
     "name": "경기대로",
     "name:en": "Gyeonggi-daero",
@@ -70345,6 +70387,8 @@
     "name:ko": "경기대로",
     "oneway": "yes",
     "ref": "1",
+    "sidewalk:left": "no",
+    "sidewalk:right": "yes",
     "wikidata": "Q12583536",
     "wikipedia": "ko:경기대로"
   }
@@ -70353,7 +70397,7 @@
   "type": "way",
   "id": 554286097,
   "nodes": [
-    5353825122,
+    14401975344,
     5137545510,
     5137545511,
     5137545512,
@@ -72411,7 +72455,8 @@
     5368246174,
     5137545726,
     13698803488,
-    5353825122
+    5353825122,
+    14401975344
   ],
   "tags": {
     "highway": "primary",
@@ -72438,6 +72483,8 @@
     5137545514
   ],
   "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "yes",
     "highway": "primary",
     "name": "경기대로",
     "name:en": "Gyeonggi-daero",
@@ -72449,6 +72496,8 @@
     "name:zh-Hant": "京畿大路",
     "oneway": "yes",
     "ref": "1",
+    "sidewalk:left": "no",
+    "sidewalk:right": "yes",
     "wikidata": "Q12583536",
     "wikipedia": "ko:경기대로"
   }
@@ -83800,6 +83849,8 @@
     4675788882
   ],
   "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "yes",
     "highway": "primary",
     "name": "경기대로",
     "name:en": "Gyeonggi-daero",
@@ -83811,6 +83862,8 @@
     "name:zh-Hant": "京畿大路",
     "oneway": "yes",
     "ref": "1",
+    "sidewalk:left": "no",
+    "sidewalk:right": "yes",
     "wikidata": "Q12583536",
     "wikipedia": "ko:경기대로"
   }
@@ -83827,6 +83880,8 @@
     5139102922
   ],
   "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "yes",
     "highway": "primary",
     "name": "경기대로",
     "name:en": "Gyeonggi-daero",
@@ -83838,6 +83893,8 @@
     "name:zh-Hant": "京畿大路",
     "oneway": "yes",
     "ref": "1",
+    "sidewalk:left": "no",
+    "sidewalk:right": "yes",
     "wikidata": "Q12583536",
     "wikipedia": "ko:경기대로"
   }
@@ -83850,6 +83907,8 @@
     13716158037
   ],
   "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "yes",
     "highway": "primary",
     "name": "경기대로",
     "name:en": "Gyeonggi-daero",
@@ -83861,6 +83920,8 @@
     "name:zh-Hant": "京畿大路",
     "oneway": "yes",
     "ref": "1",
+    "sidewalk:left": "no",
+    "sidewalk:right": "yes",
     "wikidata": "Q12583536",
     "wikipedia": "ko:경기대로"
   }
@@ -142299,6 +142360,8 @@
     4980024599,
     4980024600,
     4980024825,
+    14402072743,
+    14402072745,
     4980024601,
     4980024821,
     4979886934
@@ -181642,6 +181705,8 @@
     5349313147
   ],
   "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "yes",
     "highway": "primary",
     "name": "경기대로",
     "name:en": "Gyeonggi-daero",
@@ -181653,6 +181718,8 @@
     "name:zh-Hant": "京畿大路",
     "oneway": "yes",
     "ref": "1",
+    "sidewalk:left": "no",
+    "sidewalk:right": "yes",
     "wikidata": "Q12583536",
     "wikipedia": "ko:경기대로"
   }
@@ -192119,6 +192186,45 @@
     "name:ko": "시흥대로",
     "oneway": "yes",
     "ref": "39"
+  }
+},
+{
+  "type": "way",
+  "id": 1582702508,
+  "nodes": [
+    7603103127,
+    7603103126
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "경기대로",
+    "name:en": "Gyeonggi-daero",
+    "name:ja": "京畿大路",
+    "name:ko": "경기대로",
+    "oneway": "yes",
+    "ref": "1",
+    "wikidata": "Q12583536",
+    "wikipedia": "ko:경기대로"
+  }
+},
+{
+  "type": "way",
+  "id": 1582702509,
+  "nodes": [
+    5349313152,
+    14401975341,
+    7603103127
+  ],
+  "tags": {
+    "highway": "primary",
+    "name": "경기대로",
+    "name:en": "Gyeonggi-daero",
+    "name:ja": "京畿大路",
+    "name:ko": "경기대로",
+    "oneway": "yes",
+    "ref": "1",
+    "wikidata": "Q12583536",
+    "wikipedia": "ko:경기대로"
   }
 },
 {
@@ -236997,6 +237103,24 @@
 },
 {
   "type": "node",
+  "id": 14402072743,
+  "lat": 36.9861653,
+  "lon": 127.1125292
+},
+{
+  "type": "node",
+  "id": 14402072744,
+  "lat": 36.9860916,
+  "lon": 127.1125807
+},
+{
+  "type": "node",
+  "id": 14402072745,
+  "lat": 36.9861372,
+  "lon": 127.1124666
+},
+{
+  "type": "node",
   "id": 436400785,
   "lat": 37.0027969,
   "lon": 127.0908141
@@ -237712,14 +237836,14 @@
 {
   "type": "node",
   "id": 5349313152,
-  "lat": 36.9904848,
-  "lon": 127.1150679
+  "lat": 36.9904811,
+  "lon": 127.1150622
 },
 {
   "type": "node",
   "id": 5353825122,
   "lat": 36.9904476,
-  "lon": 127.1149351
+  "lon": 127.1149361
 },
 {
   "type": "node",
@@ -237756,6 +237880,24 @@
   "id": 14380512704,
   "lat": 36.9853523,
   "lon": 127.1162668
+},
+{
+  "type": "node",
+  "id": 14401975341,
+  "lat": 36.9904958,
+  "lon": 127.1150573
+},
+{
+  "type": "node",
+  "id": 14401975342,
+  "lat": 36.9904620,
+  "lon": 127.1150669
+},
+{
+  "type": "node",
+  "id": 14401975344,
+  "lat": 36.9904382,
+  "lon": 127.1149401
 },
 {
   "type": "node",
