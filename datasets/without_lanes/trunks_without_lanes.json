@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-11-21T23:30:06Z",
-    "timestamp_areas_base": "2026-11-21T19:23:04Z",
+    "timestamp_osm_base": "2026-11-22T23:42:05Z",
+    "timestamp_areas_base": "2026-11-22T17:57:51Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -74723,6 +74723,8 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "lane_markings": "yes",
+    "maxheight:signed": "no",
     "name": "남해안대로",
     "name:en": "Namhaean-daero",
     "name:ko": "남해안대로",
@@ -87037,6 +87039,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "lane_markings": "yes",
     "name": "남해안대로",
     "name:en": "Namhaean-daero",
     "name:ko": "남해안대로",
@@ -87127,6 +87130,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "lane_markings": "yes",
     "name": "남해안대로",
     "name:en": "Namhaean-daero",
     "name:ko": "남해안대로",
@@ -123793,33 +123797,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
-    "name": "남해안대로",
-    "name:en": "Namhaean-daero",
-    "name:ko": "남해안대로",
-    "oneway": "yes",
-    "ref": "2;14;77;79"
-  }
-},
-{
-  "type": "way",
-  "id": 470672457,
-  "nodes": [
-    4652418557,
-    4652418555,
-    436456637,
-    436456636,
-    436456635,
-    436456634,
-    436456633,
-    436456632,
-    436456631,
-    436456630,
-    436456628,
-    5322047951
-  ],
-  "tags": {
-    "expressway": "yes",
-    "highway": "trunk",
+    "lane_markings": "yes",
     "name": "남해안대로",
     "name:en": "Namhaean-daero",
     "name:ko": "남해안대로",
@@ -124145,27 +124123,6 @@
     "oneway": "yes",
     "ref": "43",
     "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 471077651,
-  "nodes": [
-    5322047951,
-    2371445398,
-    2371445401,
-    2371445404,
-    2371445405,
-    2371445407
-  ],
-  "tags": {
-    "expressway": "yes",
-    "highway": "trunk",
-    "name": "남해안대로",
-    "name:en": "Namhaean-daero",
-    "name:ko": "남해안대로",
-    "oneway": "yes",
-    "ref": "2"
   }
 },
 {
@@ -124544,6 +124501,7 @@
     "bridge:name:ko": "우산교",
     "expressway": "yes",
     "highway": "trunk",
+    "lane_markings": "yes",
     "layer": "1",
     "oneway": "yes",
     "ref": "2;5;14;77;79"
@@ -244283,6 +244241,7 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "lane_markings": "yes",
     "name": "남해안대로",
     "name:en": "Namhaean-daero",
     "name:ko": "남해안대로",
@@ -488540,60 +488499,6 @@
 },
 {
   "type": "node",
-  "id": 436456628,
-  "lat": 35.1482841,
-  "lon": 128.5371062
-},
-{
-  "type": "node",
-  "id": 436456630,
-  "lat": 35.1477873,
-  "lon": 128.5374127
-},
-{
-  "type": "node",
-  "id": 436456631,
-  "lat": 35.1474386,
-  "lon": 128.5376686
-},
-{
-  "type": "node",
-  "id": 436456632,
-  "lat": 35.1470545,
-  "lon": 128.5380060
-},
-{
-  "type": "node",
-  "id": 436456633,
-  "lat": 35.1467777,
-  "lon": 128.5383297
-},
-{
-  "type": "node",
-  "id": 436456634,
-  "lat": 35.1464459,
-  "lon": 128.5388321
-},
-{
-  "type": "node",
-  "id": 436456635,
-  "lat": 35.1462653,
-  "lon": 128.5392400
-},
-{
-  "type": "node",
-  "id": 436456636,
-  "lat": 35.1460474,
-  "lon": 128.5397597
-},
-{
-  "type": "node",
-  "id": 436456637,
-  "lat": 35.1458801,
-  "lon": 128.5404469
-},
-{
-  "type": "node",
   "id": 2371445347,
   "lat": 35.1454438,
   "lon": 128.5420637
@@ -488645,36 +488550,6 @@
   "id": 2371445383,
   "lat": 35.1473132,
   "lon": 128.5365101
-},
-{
-  "type": "node",
-  "id": 2371445398,
-  "lat": 35.1488255,
-  "lon": 128.5367169
-},
-{
-  "type": "node",
-  "id": 2371445401,
-  "lat": 35.1491903,
-  "lon": 128.5364068
-},
-{
-  "type": "node",
-  "id": 2371445404,
-  "lat": 35.1494534,
-  "lon": 128.5361618
-},
-{
-  "type": "node",
-  "id": 2371445405,
-  "lat": 35.1497317,
-  "lon": 128.5358610
-},
-{
-  "type": "node",
-  "id": 4652418555,
-  "lat": 35.1458113,
-  "lon": 128.5412400
 },
 {
   "type": "node",
