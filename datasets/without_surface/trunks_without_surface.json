@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-11-24T03:59:49Z",
-    "timestamp_areas_base": "2026-11-23T20:42:06Z",
+    "timestamp_osm_base": "2026-11-25T02:41:57Z",
+    "timestamp_areas_base": "2026-11-24T19:28:34Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -4136,6 +4136,7 @@
     392296425,
     392296426,
     392296427,
+    14412636194,
     392296428,
     392296429,
     12903886771,
@@ -23528,10 +23529,79 @@
 },
 {
   "type": "way",
-  "id": 59054359,
+  "id": 59054362,
   "nodes": [
-    732034052,
-    732034049
+    732034072,
+    732034067
+  ],
+  "tags": {
+    "alt_name": "과천의왕간고속화도로;의왕과천고속도로",
+    "alt_name:en": "Gwacheon-Uiwang Expressway",
+    "alt_name:ko": "과천의왕간고속화도로",
+    "bridge": "yes",
+    "bridge:name": "과천IC교",
+    "bridge:name:ko": "과천IC교",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "90",
+    "motorroad": "no",
+    "name": "봉담과천로",
+    "name:en": "Bongdamgwacheon-ro",
+    "name:ko": "봉담과천로",
+    "name:ko-Latn": "Bongdamgwacheon-ro",
+    "oneway": "yes",
+    "operator": "경기남부도로주식회사",
+    "operator:en": "Kyunggi South Road Co.,Ltd.",
+    "operator:ko": "경기남부도로주식회사",
+    "operator:type": "private",
+    "ref": "309",
+    "review": "no",
+    "source": "Bing",
+    "start_date": "1992-11-20"
+  }
+},
+{
+  "type": "way",
+  "id": 59054364,
+  "nodes": [
+    732034123,
+    732034124,
+    732034126
+  ],
+  "tags": {
+    "alt_name": "과천의왕간고속화도로;의왕과천고속도로",
+    "alt_name:en": "Gwacheon-Uiwang Expressway",
+    "alt_name:ko": "과천의왕간고속화도로",
+    "bridge": "yes",
+    "bridge:name": "과천고가교",
+    "bridge:name:ko": "과천고가교",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "90",
+    "motorroad": "yes",
+    "name": "봉담과천로",
+    "name:en": "Bongdamgwacheon-ro",
+    "name:ko": "봉담과천로",
+    "name:ko-Latn": "Bongdamgwacheon-ro",
+    "oneway": "yes",
+    "operator": "경기남부도로주식회사",
+    "operator:en": "Kyunggi South Road Co.,Ltd.",
+    "operator:ko": "경기남부도로주식회사",
+    "operator:type": "private",
+    "ref": "309",
+    "review": "no",
+    "source": "Bing",
+    "start_date": "1992-11-20"
+  }
+},
+{
+  "type": "way",
+  "id": 59054365,
+  "nodes": [
+    732034126,
+    13340943661
   ],
   "tags": {
     "alt_name": "과천의왕간고속화도로;의왕과천고속도로",
@@ -23558,24 +23628,19 @@
 },
 {
   "type": "way",
-  "id": 59054366,
+  "id": 59054370,
   "nodes": [
-    732034086,
-    732034128,
-    732034052
+    732034067,
+    732033971
   ],
   "tags": {
     "alt_name": "과천의왕간고속화도로;의왕과천고속도로",
     "alt_name:en": "Gwacheon-Uiwang Expressway",
     "alt_name:ko": "과천의왕간고속화도로",
-    "bridge": "yes",
-    "bridge:name": "과천고가교",
-    "bridge:name:ko": "과천고가교",
     "expressway": "yes",
     "highway": "trunk",
-    "layer": "1",
     "maxspeed": "90",
-    "motorroad": "yes",
+    "motorroad": "no",
     "name": "봉담과천로",
     "name:en": "Bongdamgwacheon-ro",
     "name:ko": "봉담과천로",
@@ -66558,10 +66623,9 @@
   "type": "way",
   "id": 154420330,
   "nodes": [
-    5297529743,
-    5297529751,
-    1669569696,
-    12968580485,
+    436796863,
+    14412466986,
+    5297529750,
     12968580484,
     1669569726,
     1669569771,
@@ -131859,48 +131923,6 @@
 },
 {
   "type": "way",
-  "id": 452870511,
-  "nodes": [
-    4721997776,
-    1671730172,
-    4664766741,
-    1671730317,
-    6225383276,
-    1671730374,
-    1671730386,
-    1671730324,
-    1671730030,
-    1671730432,
-    1671730387,
-    1671730400,
-    1671729938,
-    1671730107,
-    1671730305,
-    4782867747,
-    1671730213,
-    6223125110,
-    1671730410,
-    1671730649,
-    5297528702,
-    1671730182,
-    1671730438,
-    1671730392,
-    1671730406,
-    1671729892,
-    1671730605,
-    1671729941,
-    1671730026
-  ],
-  "tags": {
-    "expressway": "yes",
-    "highway": "trunk",
-    "name": "정관중앙로",
-    "name:en": "Jeonggwanjungang-ro",
-    "name:ko": "정관중앙로"
-  }
-},
-{
-  "type": "way",
   "id": 453049234,
   "nodes": [
     4498543989,
@@ -181048,7 +181070,8 @@
     5521071244,
     5297529632,
     5297529752,
-    5297529744
+    14412466985,
+    436796863
   ],
   "tags": {
     "expressway": "yes",
@@ -287040,6 +287063,11 @@
   "tags": {
     "highway": "trunk",
     "layer": "-1",
+    "name": "과천갈현대로",
+    "name:en": "Gwacheongalhyeon-daero",
+    "name:ko": "과천갈현대로",
+    "name:ko-Latn": "Gwacheongalhyeondaero",
+    "note": "과천시고시 제2026-165호",
     "oneway": "yes",
     "ref": "47",
     "tunnel": "yes"
@@ -287073,6 +287101,11 @@
     "expressway": "yes",
     "highway": "trunk",
     "motorroad": "yes",
+    "name": "과천갈현대로",
+    "name:en": "Gwacheongalhyeon-daero",
+    "name:ko": "과천갈현대로",
+    "name:ko-Latn": "Gwacheongalhyeondaero",
+    "note": "과천시고시 제2026-165호",
     "oneway": "yes",
     "ref": "47",
     "review": "no",
@@ -290054,6 +290087,11 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "-1",
+    "name": "과천갈현대로",
+    "name:en": "Gwacheongalhyeon-daero",
+    "name:ko": "과천갈현대로",
+    "name:ko-Latn": "Gwacheongalhyeondaero",
+    "note": "과천시고시 제2026-165호",
     "oneway": "yes",
     "ref": "47",
     "tunnel": "yes",
@@ -290078,6 +290116,11 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "name": "과천갈현대로",
+    "name:en": "Gwacheongalhyeon-daero",
+    "name:ko": "과천갈현대로",
+    "name:ko-Latn": "Gwacheongalhyeondaero",
+    "note": "과천시고시 제2026-165호",
     "oneway": "yes",
     "ref": "47"
   }
@@ -290096,6 +290139,11 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "-1",
+    "name": "과천갈현대로",
+    "name:en": "Gwacheongalhyeon-daero",
+    "name:ko": "과천갈현대로",
+    "name:ko-Latn": "Gwacheongalhyeondaero",
+    "note": "과천시고시 제2026-165호",
     "oneway": "yes",
     "ref": "47",
     "tunnel": "yes",
@@ -290113,6 +290161,11 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "name": "과천갈현대로",
+    "name:en": "Gwacheongalhyeon-daero",
+    "name:ko": "과천갈현대로",
+    "name:ko-Latn": "Gwacheongalhyeondaero",
+    "note": "과천시고시 제2026-165호",
     "oneway": "yes",
     "ref": "47"
   }
@@ -290128,6 +290181,11 @@
   ],
   "tags": {
     "highway": "trunk",
+    "name": "과천갈현대로",
+    "name:en": "Gwacheongalhyeon-daero",
+    "name:ko": "과천갈현대로",
+    "name:ko-Latn": "Gwacheongalhyeondaero",
+    "note": "과천시고시 제2026-165호",
     "oneway": "yes",
     "ref": "47"
   }
@@ -290148,6 +290206,11 @@
   "tags": {
     "highway": "trunk",
     "layer": "-1",
+    "name": "과천갈현대로",
+    "name:en": "Gwacheongalhyeon-daero",
+    "name:ko": "과천갈현대로",
+    "name:ko-Latn": "Gwacheongalhyeondaero",
+    "note": "과천시고시 제2026-165호",
     "oneway": "yes",
     "ref": "47",
     "tunnel": "yes",
@@ -290166,6 +290229,11 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "-1",
+    "name": "과천갈현대로",
+    "name:en": "Gwacheongalhyeon-daero",
+    "name:ko": "과천갈현대로",
+    "name:ko-Latn": "Gwacheongalhyeondaero",
+    "note": "과천시고시 제2026-165호",
     "oneway": "yes",
     "ref": "47",
     "tunnel": "yes"
@@ -290196,6 +290264,11 @@
   ],
   "tags": {
     "highway": "trunk",
+    "name": "과천갈현대로",
+    "name:en": "Gwacheongalhyeon-daero",
+    "name:ko": "과천갈현대로",
+    "name:ko-Latn": "Gwacheongalhyeondaero",
+    "note": "과천시고시 제2026-165호",
     "oneway": "yes",
     "ref": "47"
   }
@@ -359345,11 +359418,15 @@
     12589561831,
     12589561832,
     8048946938,
-    8048946937,
     8048946936
   ],
   "tags": {
     "highway": "trunk",
+    "name": "과천갈현대로",
+    "name:en": "Gwacheongalhyeon-daero",
+    "name:ko": "과천갈현대로",
+    "name:ko-Latn": "Gwacheongalhyeondaero",
+    "note": "과천시고시 제2026-165호",
     "oneway": "yes",
     "ref": "47"
   }
@@ -359371,6 +359448,11 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "name": "과천갈현대로",
+    "name:en": "Gwacheongalhyeon-daero",
+    "name:ko": "과천갈현대로",
+    "name:ko-Latn": "Gwacheongalhyeondaero",
+    "note": "과천시고시 제2026-165호",
     "oneway": "yes",
     "ref": "47"
   }
@@ -359407,6 +359489,11 @@
   "tags": {
     "expressway": "yes",
     "highway": "trunk",
+    "name": "과천갈현대로",
+    "name:en": "Gwacheongalhyeon-daero",
+    "name:ko": "과천갈현대로",
+    "name:ko-Latn": "Gwacheongalhyeondaero",
+    "note": "과천시고시 제2026-165호",
     "oneway": "yes",
     "ref": "47"
   }
@@ -359423,6 +359510,11 @@
     "expressway": "yes",
     "highway": "trunk",
     "layer": "1",
+    "name": "과천갈현대로",
+    "name:en": "Gwacheongalhyeon-daero",
+    "name:ko": "과천갈현대로",
+    "name:ko-Latn": "Gwacheongalhyeondaero",
+    "note": "과천시고시 제2026-165호",
     "oneway": "yes",
     "ref": "47"
   }
@@ -359436,6 +359528,11 @@
   ],
   "tags": {
     "highway": "trunk",
+    "name": "과천갈현대로",
+    "name:en": "Gwacheongalhyeon-daero",
+    "name:ko": "과천갈현대로",
+    "name:ko-Latn": "Gwacheongalhyeondaero",
+    "note": "과천시고시 제2026-165호",
     "oneway": "yes",
     "ref": "47"
   }
@@ -359708,40 +359805,6 @@
     "name:ko": "동서대로",
     "oneway": "yes",
     "ref": "15"
-  }
-},
-{
-  "type": "way",
-  "id": 1366000316,
-  "nodes": [
-    436796863,
-    5297529743
-  ],
-  "tags": {
-    "expressway": "yes",
-    "highway": "trunk",
-    "name": "정관로",
-    "name:en": "Jeonggwan-ro",
-    "name:ko": "정관로",
-    "oneway": "yes",
-    "ref": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 1366000323,
-  "nodes": [
-    5297529744,
-    436796863
-  ],
-  "tags": {
-    "expressway": "yes",
-    "highway": "trunk",
-    "name": "정관로",
-    "name:en": "Jeonggwan-ro",
-    "name:ko": "정관로",
-    "oneway": "yes",
-    "ref": "60"
   }
 },
 {
@@ -365681,39 +365744,6 @@
     "oneway": "yes",
     "wikidata": "Q117431833",
     "wikipedia": "ko:마유로 (시흥시)"
-  }
-},
-{
-  "type": "way",
-  "id": 1430502409,
-  "nodes": [
-    13816580771,
-    13816580750,
-    732034094,
-    732034088,
-    732034086
-  ],
-  "tags": {
-    "alt_name": "과천의왕간고속화도로;의왕과천고속도로",
-    "alt_name:en": "Gwacheon-Uiwang Expressway",
-    "alt_name:ko": "과천의왕간고속화도로",
-    "expressway": "yes",
-    "highway": "trunk",
-    "maxspeed": "90",
-    "motorroad": "yes",
-    "name": "봉담과천로",
-    "name:en": "Bongdamgwacheon-ro",
-    "name:ko": "봉담과천로",
-    "name:ko-Latn": "Bongdamgwacheon-ro",
-    "oneway": "yes",
-    "operator": "경기남부도로주식회사",
-    "operator:en": "Kyunggi South Road Co.,Ltd.",
-    "operator:ko": "경기남부도로주식회사",
-    "operator:type": "private",
-    "ref": "309",
-    "review": "no",
-    "source": "Bing",
-    "start_date": "1992-11-20"
   }
 },
 {
@@ -372841,6 +372871,36 @@
     "source": "Bing",
     "start_date": "1992-11-20",
     "toll": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1454721577,
+  "nodes": [
+    13340943661,
+    732034072
+  ],
+  "tags": {
+    "alt_name": "과천의왕간고속화도로;의왕과천고속도로",
+    "alt_name:en": "Gwacheon-Uiwang Expressway",
+    "alt_name:ko": "과천의왕간고속화도로",
+    "expressway": "yes",
+    "highway": "trunk",
+    "maxspeed": "90",
+    "motorroad": "no",
+    "name": "봉담과천로",
+    "name:en": "Bongdamgwacheon-ro",
+    "name:ko": "봉담과천로",
+    "name:ko-Latn": "Bongdamgwacheon-ro",
+    "oneway": "yes",
+    "operator": "경기남부도로주식회사",
+    "operator:en": "Kyunggi South Road Co.,Ltd.",
+    "operator:ko": "경기남부도로주식회사",
+    "operator:type": "private",
+    "ref": "309",
+    "review": "no",
+    "source": "Bing",
+    "start_date": "1992-11-20"
   }
 },
 {
@@ -381086,15 +381146,39 @@
 },
 {
   "type": "way",
-  "id": 1511812586,
+  "id": 1511812580,
   "nodes": [
     732034311,
-    13816580725,
-    13816580771
+    13816580770,
+    13816580768,
+    732033924,
+    732034312,
+    13816580720,
+    732034313,
+    13816580719,
+    732034123
   ],
   "tags": {
+    "alt_name": "과천의왕간고속화도로;의왕과천고속도로",
+    "alt_name:en": "Gwacheon-Uiwang Expressway",
+    "alt_name:ko": "과천의왕간고속화도로",
+    "expressway": "yes",
     "highway": "trunk",
-    "oneway": "yes"
+    "maxspeed": "90",
+    "motorroad": "yes",
+    "name": "봉담과천로",
+    "name:en": "Bongdamgwacheon-ro",
+    "name:ko": "봉담과천로",
+    "name:ko-Latn": "Bongdamgwacheon-ro",
+    "oneway": "yes",
+    "operator": "경기남부도로주식회사",
+    "operator:en": "Kyunggi South Road Co.,Ltd.",
+    "operator:ko": "경기남부도로주식회사",
+    "operator:type": "private",
+    "ref": "309",
+    "review": "no",
+    "source": "Bing",
+    "start_date": "1992-11-20"
   }
 },
 {
@@ -484467,26 +484551,26 @@
 {
   "type": "node",
   "id": 392296339,
-  "lat": 34.8828451,
-  "lon": 128.4516949
+  "lat": 34.8828770,
+  "lon": 128.4516719
 },
 {
   "type": "node",
   "id": 392296340,
-  "lat": 34.8831505,
-  "lon": 128.4516105
+  "lat": 34.8831549,
+  "lon": 128.4515893
 },
 {
   "type": "node",
   "id": 392296341,
-  "lat": 34.8836286,
-  "lon": 128.4514618
+  "lat": 34.8836242,
+  "lon": 128.4514406
 },
 {
   "type": "node",
   "id": 392296342,
-  "lat": 34.8838577,
-  "lon": 128.4514136
+  "lat": 34.8838504,
+  "lon": 128.4513977
 },
 {
   "type": "node",
@@ -484533,8 +484617,8 @@
 {
   "type": "node",
   "id": 392296350,
-  "lat": 34.8856780,
-  "lon": 128.4520203
+  "lat": 34.8856927,
+  "lon": 128.4520433
 },
 {
   "type": "node",
@@ -484557,14 +484641,14 @@
 {
   "type": "node",
   "id": 392296354,
-  "lat": 34.8878639,
-  "lon": 128.4543429
+  "lat": 34.8878692,
+  "lon": 128.4543365
 },
 {
   "type": "node",
   "id": 392296355,
-  "lat": 34.8879724,
-  "lon": 128.4545117
+  "lat": 34.8879745,
+  "lon": 128.4545079
 },
 {
   "type": "node",
@@ -484617,8 +484701,8 @@
 {
   "type": "node",
   "id": 392296425,
-  "lat": 34.8842923,
-  "lon": 128.4512905
+  "lat": 34.8842938,
+  "lon": 128.4512799
 },
 {
   "type": "node",
@@ -484629,32 +484713,32 @@
 {
   "type": "node",
   "id": 392296427,
-  "lat": 34.8838377,
-  "lon": 128.4513012
+  "lat": 34.8838304,
+  "lon": 128.4512835
 },
 {
   "type": "node",
   "id": 392296428,
-  "lat": 34.8835810,
-  "lon": 128.4513708
+  "lat": 34.8835491,
+  "lon": 128.4513425
 },
 {
   "type": "node",
   "id": 392296429,
-  "lat": 34.8831103,
-  "lon": 128.4514938
+  "lat": 34.8831509,
+  "lon": 128.4514619
 },
 {
   "type": "node",
   "id": 392296430,
-  "lat": 34.8828055,
-  "lon": 128.4515687
+  "lat": 34.8827968,
+  "lon": 128.4515634
 },
 {
   "type": "node",
   "id": 392296431,
-  "lat": 34.8825488,
-  "lon": 128.4516114
+  "lat": 34.8825430,
+  "lon": 128.4516096
 },
 {
   "type": "node",
@@ -484701,14 +484785,14 @@
 {
   "type": "node",
   "id": 5065193102,
-  "lat": 34.8826929,
-  "lon": 128.4517425
+  "lat": 34.8826885,
+  "lon": 128.4517195
 },
 {
   "type": "node",
   "id": 5498790051,
-  "lat": 34.8880378,
-  "lon": 128.4546293
+  "lat": 34.8880525,
+  "lon": 128.4546421
 },
 {
   "type": "node",
@@ -484719,8 +484803,14 @@
 {
   "type": "node",
   "id": 12903886771,
-  "lat": 34.8829905,
-  "lon": 128.4515232
+  "lat": 34.8829861,
+  "lon": 128.4515161
+},
+{
+  "type": "node",
+  "id": 14412636194,
+  "lat": 34.8837180,
+  "lon": 128.4513000
 },
 {
   "type": "node",
@@ -484737,14 +484827,14 @@
 {
   "type": "node",
   "id": 392296358,
-  "lat": 34.8884385,
-  "lon": 128.4554238
+  "lat": 34.8884258,
+  "lon": 128.4554257
 },
 {
   "type": "node",
   "id": 392296359,
-  "lat": 34.8885590,
-  "lon": 128.4557653
+  "lat": 34.8885415,
+  "lon": 128.4557769
 },
 {
   "type": "node",
@@ -484773,8 +484863,8 @@
 {
   "type": "node",
   "id": 392296404,
-  "lat": 34.8886244,
-  "lon": 128.4557457
+  "lat": 34.8886117,
+  "lon": 128.4557496
 },
 {
   "type": "node",
@@ -528098,30 +528188,6 @@
 },
 {
   "type": "node",
-  "id": 1671730172,
-  "lat": 35.3258831,
-  "lon": 129.1813668
-},
-{
-  "type": "node",
-  "id": 1671730317,
-  "lat": 35.3270087,
-  "lon": 129.1819507
-},
-{
-  "type": "node",
-  "id": 4664766741,
-  "lat": 35.3269529,
-  "lon": 129.1819246
-},
-{
-  "type": "node",
-  "id": 4721997776,
-  "lat": 35.3248233,
-  "lon": 129.1807816
-},
-{
-  "type": "node",
   "id": 1764305712,
   "lat": 35.3533297,
   "lon": 129.1321633
@@ -528404,39 +528470,9 @@
 },
 {
   "type": "node",
-  "id": 1671729892,
-  "lat": 35.3311708,
-  "lon": 129.1823208
-},
-{
-  "type": "node",
-  "id": 1671729938,
-  "lat": 35.3296776,
-  "lon": 129.1829224
-},
-{
-  "type": "node",
-  "id": 1671729941,
-  "lat": 35.3314334,
-  "lon": 129.1824120
-},
-{
-  "type": "node",
   "id": 1671729943,
-  "lat": 35.3318300,
-  "lon": 129.1823922
-},
-{
-  "type": "node",
-  "id": 1671730026,
-  "lat": 35.3322640,
-  "lon": 129.1828795
-},
-{
-  "type": "node",
-  "id": 1671730030,
-  "lat": 35.3289257,
-  "lon": 129.1828358
+  "lat": 35.3318086,
+  "lon": 129.1824406
 },
 {
   "type": "node",
@@ -528446,93 +528482,9 @@
 },
 {
   "type": "node",
-  "id": 1671730107,
-  "lat": 35.3299192,
-  "lon": 129.1828787
-},
-{
-  "type": "node",
-  "id": 1671730182,
-  "lat": 35.3307367,
-  "lon": 129.1825201
-},
-{
-  "type": "node",
-  "id": 1671730213,
-  "lat": 35.3304916,
-  "lon": 129.1827240
-},
-{
-  "type": "node",
-  "id": 1671730305,
-  "lat": 35.3301634,
-  "lon": 129.1828205
-},
-{
-  "type": "node",
-  "id": 1671730324,
-  "lat": 35.3287462,
-  "lon": 129.1827553
-},
-{
-  "type": "node",
-  "id": 1671730374,
-  "lat": 35.3274061,
-  "lon": 129.1821446
-},
-{
-  "type": "node",
-  "id": 1671730386,
-  "lat": 35.3280145,
-  "lon": 129.1824235
-},
-{
-  "type": "node",
-  "id": 1671730387,
-  "lat": 35.3293239,
-  "lon": 129.1829324
-},
-{
-  "type": "node",
-  "id": 1671730392,
-  "lat": 35.3309555,
-  "lon": 129.1823323
-},
-{
-  "type": "node",
-  "id": 1671730400,
-  "lat": 35.3294990,
-  "lon": 129.1829377
-},
-{
-  "type": "node",
-  "id": 1671730406,
-  "lat": 35.3310706,
-  "lon": 129.1823042
-},
-{
-  "type": "node",
-  "id": 1671730410,
-  "lat": 35.3305660,
-  "lon": 129.1826864
-},
-{
-  "type": "node",
   "id": 1671730429,
   "lat": 35.3327787,
   "lon": 129.1806847
-},
-{
-  "type": "node",
-  "id": 1671730432,
-  "lat": 35.3291524,
-  "lon": 129.1829010
-},
-{
-  "type": "node",
-  "id": 1671730438,
-  "lat": 35.3308592,
-  "lon": 129.1823914
 },
 {
   "type": "node",
@@ -528543,20 +528495,8 @@
 {
   "type": "node",
   "id": 1671730519,
-  "lat": 35.3316520,
-  "lon": 129.1827210
-},
-{
-  "type": "node",
-  "id": 1671730605,
-  "lat": 35.3313371,
-  "lon": 129.1823637
-},
-{
-  "type": "node",
-  "id": 1671730649,
-  "lat": 35.3306511,
-  "lon": 129.1826188
+  "lat": 35.3316515,
+  "lon": 129.1827126
 },
 {
   "type": "node",
@@ -528566,27 +528506,15 @@
 },
 {
   "type": "node",
-  "id": 4782867747,
-  "lat": 35.3304045,
-  "lon": 129.1827496
-},
-{
-  "type": "node",
   "id": 5297528690,
-  "lat": 35.3314060,
-  "lon": 129.1832132
+  "lat": 35.3313838,
+  "lon": 129.1832237
 },
 {
   "type": "node",
   "id": 5297528701,
   "lat": 35.3336703,
   "lon": 129.1790503
-},
-{
-  "type": "node",
-  "id": 5297528702,
-  "lat": 35.3306865,
-  "lon": 129.1825779
 },
 {
   "type": "node",
@@ -528609,32 +528537,20 @@
 {
   "type": "node",
   "id": 5297529582,
-  "lat": 35.3317624,
-  "lon": 129.1823505
+  "lat": 35.3317241,
+  "lon": 129.1823869
 },
 {
   "type": "node",
   "id": 5297529583,
-  "lat": 35.3315805,
-  "lon": 129.1827044
+  "lat": 35.3315688,
+  "lon": 129.1826654
 },
 {
   "type": "node",
   "id": 5297529584,
   "lat": 35.3309857,
   "lon": 129.1837945
-},
-{
-  "type": "node",
-  "id": 6223125110,
-  "lat": 35.3305526,
-  "lon": 129.1826932
-},
-{
-  "type": "node",
-  "id": 6225383276,
-  "lat": 35.3273338,
-  "lon": 129.1821093
 },
 {
   "type": "node",
@@ -594261,14 +594177,8 @@
 {
   "type": "node",
   "id": 436796863,
-  "lat": 35.3184013,
-  "lon": 129.2402769
-},
-{
-  "type": "node",
-  "id": 1669569696,
-  "lat": 35.3192925,
-  "lon": 129.2390229
+  "lat": 35.3184849,
+  "lon": 129.2401886
 },
 {
   "type": "node",
@@ -594284,27 +594194,15 @@
 },
 {
   "type": "node",
-  "id": 5297529743,
-  "lat": 35.3184962,
-  "lon": 129.2401997
-},
-{
-  "type": "node",
-  "id": 5297529744,
-  "lat": 35.3184075,
-  "lon": 129.2401592
-},
-{
-  "type": "node",
-  "id": 5297529751,
-  "lat": 35.3188438,
-  "lon": 129.2396712
+  "id": 5297529750,
+  "lat": 35.3188167,
+  "lon": 129.2398081
 },
 {
   "type": "node",
   "id": 5297529752,
-  "lat": 35.3188008,
-  "lon": 129.2395585
+  "lat": 35.3187329,
+  "lon": 129.2397106
 },
 {
   "type": "node",
@@ -594321,20 +594219,26 @@
 {
   "type": "node",
   "id": 12968580484,
-  "lat": 35.3198381,
-  "lon": 129.2382973
-},
-{
-  "type": "node",
-  "id": 12968580485,
-  "lat": 35.3197919,
-  "lon": 129.2383588
+  "lat": 35.3198602,
+  "lon": 129.2383573
 },
 {
   "type": "node",
   "id": 12968580487,
   "lat": 35.3196816,
   "lon": 129.2383076
+},
+{
+  "type": "node",
+  "id": 14412466985,
+  "lat": 35.3185607,
+  "lon": 129.2400157
+},
+{
+  "type": "node",
+  "id": 14412466986,
+  "lat": 35.3186458,
+  "lon": 129.2400531
 },
 {
   "type": "node",
@@ -729441,20 +729345,14 @@
 {
   "type": "node",
   "id": 8048946940,
-  "lat": 37.4052841,
-  "lon": 126.9822344
+  "lat": 37.4053257,
+  "lon": 126.9823034
 },
 {
   "type": "node",
   "id": 12589561837,
-  "lat": 37.4054348,
-  "lon": 126.9820715
-},
-{
-  "type": "node",
-  "id": 12591849956,
-  "lat": 37.4054841,
-  "lon": 126.9823815
+  "lat": 37.4054912,
+  "lon": 126.9822754
 },
 {
   "type": "node",
@@ -730358,21 +730256,15 @@
 },
 {
   "type": "node",
-  "id": 8048946937,
-  "lat": 37.4061943,
-  "lon": 126.9847296
-},
-{
-  "type": "node",
   "id": 8048946938,
-  "lat": 37.4058522,
-  "lon": 126.9841072
+  "lat": 37.4059360,
+  "lon": 126.9843568
 },
 {
   "type": "node",
   "id": 8048946939,
-  "lat": 37.4054406,
-  "lon": 126.9830079
+  "lat": 37.4054822,
+  "lon": 126.9830769
 },
 {
   "type": "node",
@@ -730383,8 +730275,8 @@
 {
   "type": "node",
   "id": 8234521169,
-  "lat": 37.4055379,
-  "lon": 126.9826145
+  "lat": 37.4055943,
+  "lon": 126.9828184
 },
 {
   "type": "node",
@@ -730407,20 +730299,20 @@
 {
   "type": "node",
   "id": 12589561830,
-  "lat": 37.4053633,
-  "lon": 126.9826171
+  "lat": 37.4054049,
+  "lon": 126.9826861
 },
 {
   "type": "node",
   "id": 12589561831,
-  "lat": 37.4055502,
-  "lon": 126.9833793
+  "lat": 37.4056340,
+  "lon": 126.9836289
 },
 {
   "type": "node",
   "id": 12589561832,
-  "lat": 37.4056863,
-  "lon": 126.9837421
+  "lat": 37.4057701,
+  "lon": 126.9839917
 },
 {
   "type": "node",
@@ -730443,8 +730335,14 @@
 {
   "type": "node",
   "id": 12589561836,
-  "lat": 37.4056103,
-  "lon": 126.9829369
+  "lat": 37.4056667,
+  "lon": 126.9831408
+},
+{
+  "type": "node",
+  "id": 12591849956,
+  "lat": 37.4055405,
+  "lon": 126.9825854
 },
 {
   "type": "node",
@@ -730820,21 +730718,9 @@
 },
 {
   "type": "node",
-  "id": 732034086,
-  "lat": 37.4176155,
-  "lon": 126.9929231
-},
-{
-  "type": "node",
-  "id": 732034088,
-  "lat": 37.4170667,
-  "lon": 126.9925676
-},
-{
-  "type": "node",
-  "id": 732034094,
-  "lat": 37.4163679,
-  "lon": 126.9922565
+  "id": 732033924,
+  "lat": 37.4152161,
+  "lon": 126.9922393
 },
 {
   "type": "node",
@@ -730853,6 +730739,12 @@
   "id": 732034111,
   "lat": 37.4131889,
   "lon": 126.9919644
+},
+{
+  "type": "node",
+  "id": 732034123,
+  "lat": 37.4176969,
+  "lon": 126.9931739
 },
 {
   "type": "node",
@@ -730883,6 +730775,18 @@
   "id": 732034311,
   "lat": 37.4133346,
   "lon": 126.9922653
+},
+{
+  "type": "node",
+  "id": 732034312,
+  "lat": 37.4156495,
+  "lon": 126.9923145
+},
+{
+  "type": "node",
+  "id": 732034313,
+  "lat": 37.4166175,
+  "lon": 126.9926106
 },
 {
   "type": "node",
@@ -731078,21 +730982,27 @@
 },
 {
   "type": "node",
-  "id": 13816580725,
-  "lat": 37.4142360,
-  "lon": 126.9919884
+  "id": 13816580719,
+  "lat": 37.4170247,
+  "lon": 126.9928046
 },
 {
   "type": "node",
-  "id": 13816580750,
-  "lat": 37.4155587,
-  "lon": 126.9920247
+  "id": 13816580720,
+  "lat": 37.4162076,
+  "lon": 126.9924656
 },
 {
   "type": "node",
-  "id": 13816580771,
-  "lat": 37.4149743,
-  "lon": 126.9919241
+  "id": 13816580768,
+  "lat": 37.4146621,
+  "lon": 126.9921619
+},
+{
+  "type": "node",
+  "id": 13816580770,
+  "lat": 37.4141215,
+  "lon": 126.9921648
 },
 {
   "type": "node",
@@ -731114,15 +731024,15 @@
 },
 {
   "type": "node",
-  "id": 732034052,
-  "lat": 37.4188182,
-  "lon": 126.9937892
+  "id": 732034124,
+  "lat": 37.4181056,
+  "lon": 126.9934398
 },
 {
   "type": "node",
-  "id": 732034128,
-  "lat": 37.4182038,
-  "lon": 126.9933383
+  "id": 732034126,
+  "lat": 37.4188759,
+  "lon": 126.9940132
 },
 {
   "type": "node",
@@ -731186,9 +731096,21 @@
 },
 {
   "type": "node",
-  "id": 732034049,
-  "lat": 37.4217773,
-  "lon": 126.9962445
+  "id": 732034067,
+  "lat": 37.4220130,
+  "lon": 126.9966310
+},
+{
+  "type": "node",
+  "id": 732034072,
+  "lat": 37.4217173,
+  "lon": 126.9963696
+},
+{
+  "type": "node",
+  "id": 13340943661,
+  "lat": 37.4210893,
+  "lon": 126.9958373
 },
 {
   "type": "node",
